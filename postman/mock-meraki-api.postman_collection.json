@@ -5,7 +5,7 @@
     "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
   },
   "variable": [
-    { "key": "baseUrl",   "value": "https://placeholder.us-east-1.awsapprunner.com" },
+    { "key": "baseUrl",   "value": "https://4ndm7ee4pz.us-east-1.awsapprunner.com" },
     { "key": "apiKey",    "value": "mock_meraki_key_luminary" },
     { "key": "orgId",     "value": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef" },
     { "key": "sfoNetId",  "value": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7" },
