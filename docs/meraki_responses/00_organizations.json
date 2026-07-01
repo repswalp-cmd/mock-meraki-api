@@ -1,0 +1,31 @@
+{
+  "_description": "GET /api/v1/organizations — returns list of orgs",
+  "request": {
+    "method": "GET",
+    "url": "https://<base-url>/api/v1/organizations",
+    "headers": {
+      "X-Cisco-Meraki-API-Key": "mock_meraki_key_luminary"
+    }
+  },
+  "response_status": 200,
+  "response_body": [
+    {
+      "id": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+      "name": "Luminary Systems",
+      "url": "https://mock.meraki.com/organizations/luminary-systems/manage",
+      "api": { "enabled": true },
+      "licensing": { "model": "co-term" },
+      "cloud": {
+        "region": {
+          "name": "North America",
+          "host": { "name": "United States" }
+        }
+      }
+    }
+  ],
+  "_notes": [
+    "Single org for all Luminary Systems Meraki sites.",
+    "Auth: X-Cisco-Meraki-API-Key header (permissive unless MERAKI_API_KEY env set).",
+    "org_id: 51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef (deterministic from md5)"
+  ]
+}

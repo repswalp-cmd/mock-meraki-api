@@ -1,0 +1,62 @@
+[
+  {
+    "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "name": "Luminary London",
+    "productTypes": [
+      "appliance",
+      "switch",
+      "wireless"
+    ],
+    "timeZone": "Europe/London",
+    "tags": [
+      "lon"
+    ],
+    "enrollmentString": null,
+    "url": "https://mock.meraki.com/luminary-lon/manage/clients",
+    "notes": null,
+    "details": null,
+    "isBoundToConfigTemplate": false,
+    "isVirtual": false
+  },
+  {
+    "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "name": "Luminary San Francisco",
+    "productTypes": [
+      "appliance",
+      "switch",
+      "wireless"
+    ],
+    "timeZone": "America/Los_Angeles",
+    "tags": [
+      "sfo"
+    ],
+    "enrollmentString": null,
+    "url": "https://mock.meraki.com/luminary-sfo/manage/clients",
+    "notes": null,
+    "details": null,
+    "isBoundToConfigTemplate": false,
+    "isVirtual": false
+  },
+  {
+    "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "name": "Luminary New York",
+    "productTypes": [
+      "appliance",
+      "switch",
+      "wireless"
+    ],
+    "timeZone": "America/New_York",
+    "tags": [
+      "nyc"
+    ],
+    "enrollmentString": null,
+    "url": "https://mock.meraki.com/luminary-nyc/manage/clients",
+    "notes": null,
+    "details": null,
+    "isBoundToConfigTemplate": false,
+    "isVirtual": false
+  }
+]

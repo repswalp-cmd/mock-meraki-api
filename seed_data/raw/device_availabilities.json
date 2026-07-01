@@ -1,0 +1,2017 @@
+[
+  {
+    "serial": "Q2KD-A376-CFD2",
+    "name": "lsys-lon-ap-floor1-1684",
+    "mac": "34:c2:ee:8c:67:ae",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2KD-1E93-5EAE",
+    "name": "lsys-lon-ap-floor2-1688",
+    "mac": "3c:35:01:20:69:41",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2KD-E55C-0D5C",
+    "name": "lsys-lon-ap-floor4-1690",
+    "mac": "eb:ec:1c:21:6a:2b",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2KD-0184-CE88",
+    "name": "lsys-lon-ap-floor4-1695",
+    "mac": "85:3b:50:4d:aa:36",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2KD-77C4-4B66",
+    "name": "lsys-lon-ap-floor5-1698",
+    "mac": "93:40:47:f7:61:22",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2KD-C62F-3F90",
+    "name": "lsys-lon-ap-floor2-1710",
+    "mac": "bb:6e:a4:6f:48:a6",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2KD-0116-F9E9",
+    "name": "lsys-lon-ap-floor2-1718",
+    "mac": "04:6d:f6:9f:3a:c3",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2KD-6019-5366",
+    "name": "lsys-lon-ap-floor1-1726",
+    "mac": "f0:b6:d1:3c:c9:a5",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2KD-3EA8-38D4",
+    "name": "lsys-lon-ap-floor4-1727",
+    "mac": "ba:f6:df:35:6b:b9",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2KD-E548-3E1D",
+    "name": "lsys-lon-ap-floor4-1732",
+    "mac": "56:ba:69:12:c1:fc",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2KD-ABDB-8CEA",
+    "name": "lsys-lon-ap-floor5-1734",
+    "mac": "c8:ec:1e:b7:29:c6",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2KD-2ABB-F0EC",
+    "name": "lsys-lon-ap-floor1-1735",
+    "mac": "43:31:b2:ff:1b:d5",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2KD-9565-7CAC",
+    "name": "lsys-lon-ap-floor3-1741",
+    "mac": "ea:f1:16:30:e6:28",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2KD-5D16-15A3",
+    "name": "lsys-lon-ap-floor2-1742",
+    "mac": "4d:71:2d:6d:8b:f0",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2KD-C4F1-E268",
+    "name": "lsys-lon-ap-floor4-1758",
+    "mac": "fc:7c:22:63:fc:c6",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2KD-9E52-9709",
+    "name": "lsys-lon-ap-floor2-1780",
+    "mac": "c6:c1:bf:32:b9:e9",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2KD-740D-261F",
+    "name": "lsys-lon-ap-floor4-1801",
+    "mac": "ac:0f:ad:85:89:16",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2KD-3E04-B933",
+    "name": "lsys-lon-ap-floor5-1804",
+    "mac": "d9:4d:66:b2:4c:20",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2KD-E6D2-67D8",
+    "name": "lsys-lon-ap-floor4-1809",
+    "mac": "9c:ad:4e:92:a8:ab",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2KD-52EC-52AC",
+    "name": "lsys-lon-ap-floor4-1814",
+    "mac": "10:63:f2:eb:33:a7",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2KD-ACC9-9968",
+    "name": "lsys-lon-ap-floor3-1816",
+    "mac": "4d:b8:77:e4:f7:60",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2KD-ECB4-4D78",
+    "name": "lsys-lon-ap-floor1-1818",
+    "mac": "ea:30:cf:7e:c1:48",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2KD-90DF-C155",
+    "name": "lsys-lon-ap-floor1-1822",
+    "mac": "40:34:33:b3:25:84",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2KD-DC8B-6323",
+    "name": "lsys-lon-ap-floor3-1832",
+    "mac": "cc:94:1b:0e:a6:36",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2KD-3449-2766",
+    "name": "lsys-lon-ap-floor5-1834",
+    "mac": "2c:10:28:b0:72:db",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2QN-41CE-C84F",
+    "name": "lsys-lon-sw-1842",
+    "mac": "99:fa:3f:53:17:64",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2QN-1C19-9D1D",
+    "name": "lsys-lon-sw-1848",
+    "mac": "26:cf:0e:a5:fc:7b",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2QN-0A3C-686A",
+    "name": "lsys-lon-sw-1856",
+    "mac": "59:62:68:df:24:76",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2QN-F384-511C",
+    "name": "lsys-lon-sw-1863",
+    "mac": "f3:3d:9e:70:55:47",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2QN-E366-40B1",
+    "name": "lsys-lon-sw-1864",
+    "mac": "69:b7:9f:0e:67:03",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2QN-CE9D-A1B9",
+    "name": "lsys-lon-sw-1865",
+    "mac": "74:e4:e6:c3:a0:34",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2QN-B508-891C",
+    "name": "lsys-lon-sw-1871",
+    "mac": "a6:5e:af:e7:d5:53",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2QN-A5FB-D299",
+    "name": "lsys-lon-sw-1872",
+    "mac": "7a:03:5f:f3:be:4e",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2QN-81AE-55C0",
+    "name": "lsys-lon-sw-1894",
+    "mac": "ac:3b:d2:a1:fd:9b",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2QN-676D-AD64",
+    "name": "lsys-lon-sw-1904",
+    "mac": "2b:43:2a:78:5b:5f",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2QN-F97D-AB72",
+    "name": "lsys-lon-sw-1912",
+    "mac": "f6:1a:b3:79:d1:4e",
+    "network": {
+      "id": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "lon"
+    ]
+  },
+  {
+    "serial": "Q2KD-28C4-F7AF",
+    "name": "lsys-sfo-ap-floor2-1682",
+    "mac": "4b:5a:07:f4:6c:89",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-A05B-9E14",
+    "name": "lsys-sfo-ap-floor4-1683",
+    "mac": "1a:f1:60:d1:cc:25",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-94BD-7F5C",
+    "name": "lsys-sfo-ap-floor3-1685",
+    "mac": "e3:a8:48:40:e7:af",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-6DEB-069F",
+    "name": "lsys-sfo-ap-floor1-1689",
+    "mac": "42:3e:fd:fc:89:fb",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-BB5A-EE7F",
+    "name": "lsys-sfo-ap-floor5-1691",
+    "mac": "f3:76:49:3a:f2:d9",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-8C66-CBF1",
+    "name": "lsys-sfo-ap-floor5-1694",
+    "mac": "3f:82:58:90:19:52",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-E3C1-A5B5",
+    "name": "lsys-sfo-ap-floor2-1700",
+    "mac": "e5:11:43:68:c3:0e",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-E6F2-6990",
+    "name": "lsys-sfo-ap-floor3-1704",
+    "mac": "8a:d6:e2:e9:fd:16",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-D5A8-6572",
+    "name": "lsys-sfo-ap-floor1-1705",
+    "mac": "c6:1c:b8:90:14:af",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-A860-E2C7",
+    "name": "lsys-sfo-ap-floor5-1712",
+    "mac": "59:8f:d9:8d:b2:b6",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-9886-94F2",
+    "name": "lsys-sfo-ap-floor5-1714",
+    "mac": "a2:4f:3f:0f:3e:74",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-F592-2A03",
+    "name": "lsys-sfo-ap-floor4-1720",
+    "mac": "96:37:b4:28:37:83",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-DC34-54F6",
+    "name": "lsys-sfo-ap-floor5-1731",
+    "mac": "a6:72:d5:c3:66:c4",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-42AC-2DE0",
+    "name": "lsys-sfo-ap-floor2-1737",
+    "mac": "cf:52:59:c3:2b:0c",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-55DF-0271",
+    "name": "lsys-sfo-ap-floor4-1739",
+    "mac": "48:59:85:d6:e9:50",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-F065-57CC",
+    "name": "lsys-sfo-ap-floor2-1740",
+    "mac": "7a:bf:14:43:ae:d4",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-342A-473C",
+    "name": "lsys-sfo-ap-floor3-1745",
+    "mac": "39:a4:68:63:42:66",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-1487-5DDE",
+    "name": "lsys-sfo-ap-floor3-1747",
+    "mac": "ad:0c:4a:62:41:bc",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-9E3B-F987",
+    "name": "lsys-sfo-ap-floor3-1752",
+    "mac": "8e:f8:fe:cd:3b:ac",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-6A1F-62CA",
+    "name": "lsys-sfo-ap-floor5-1760",
+    "mac": "46:2c:68:76:76:bf",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-4A73-33E0",
+    "name": "lsys-sfo-ap-floor5-1761",
+    "mac": "e5:e3:3f:4c:cd:d6",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-2896-4130",
+    "name": "lsys-sfo-ap-floor5-1765",
+    "mac": "ba:b6:41:dc:65:b5",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-0EFF-8EBD",
+    "name": "lsys-sfo-ap-floor3-1766",
+    "mac": "4e:8a:d0:e0:5b:d4",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-E7C9-433C",
+    "name": "lsys-sfo-ap-floor3-1768",
+    "mac": "48:f2:d4:46:46:58",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-E934-962E",
+    "name": "lsys-sfo-ap-floor4-1771",
+    "mac": "78:88:8d:24:02:81",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-9F61-EDAB",
+    "name": "lsys-sfo-ap-floor1-1772",
+    "mac": "c5:6a:78:92:a8:82",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-0350-56A4",
+    "name": "lsys-sfo-ap-floor2-1773",
+    "mac": "0b:82:06:24:4c:d8",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-D55F-963E",
+    "name": "lsys-sfo-ap-floor1-1774",
+    "mac": "e4:c8:74:47:f6:ec",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-2980-99A9",
+    "name": "lsys-sfo-ap-floor1-1775",
+    "mac": "cc:50:89:4f:39:68",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-B76F-5C18",
+    "name": "lsys-sfo-ap-floor3-1778",
+    "mac": "3f:0b:66:8f:8e:1f",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-22ED-E58F",
+    "name": "lsys-sfo-ap-floor4-1784",
+    "mac": "30:5f:38:c5:f4:f6",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-C4DB-36F4",
+    "name": "lsys-sfo-ap-floor4-1785",
+    "mac": "e9:1e:e2:94:ea:91",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-8F16-5FE3",
+    "name": "lsys-sfo-ap-floor2-1786",
+    "mac": "e7:c6:ca:01:d0:bf",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-9D91-3E9C",
+    "name": "lsys-sfo-ap-floor1-1787",
+    "mac": "6f:2d:35:d7:3f:da",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-FC4E-4B67",
+    "name": "lsys-sfo-ap-floor2-1790",
+    "mac": "0d:20:ca:0d:fc:09",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-CD0C-B902",
+    "name": "lsys-sfo-ap-floor3-1791",
+    "mac": "85:87:64:ae:16:d5",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-9BBF-C8A5",
+    "name": "lsys-sfo-ap-floor2-1792",
+    "mac": "9b:9d:68:b1:32:6c",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-A314-BCC4",
+    "name": "lsys-sfo-ap-floor2-1794",
+    "mac": "70:d1:36:64:c9:15",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-49CF-D49F",
+    "name": "lsys-sfo-ap-floor1-1799",
+    "mac": "b7:0c:bd:c4:ad:27",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-83E3-91F6",
+    "name": "lsys-sfo-ap-floor1-1803",
+    "mac": "11:9b:2d:0e:c0:64",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-E5F6-1C0D",
+    "name": "lsys-sfo-ap-floor5-1805",
+    "mac": "fa:71:08:f6:27:e4",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-87CD-4185",
+    "name": "lsys-sfo-ap-floor4-1806",
+    "mac": "63:85:e7:c1:ea:8f",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-1554-093D",
+    "name": "lsys-sfo-ap-floor3-1810",
+    "mac": "b9:80:82:2f:1d:0b",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-1DE4-91DF",
+    "name": "lsys-sfo-ap-floor2-1815",
+    "mac": "2a:66:e0:5c:71:30",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-BC00-1FF5",
+    "name": "lsys-sfo-ap-floor2-1817",
+    "mac": "aa:77:10:ac:f3:85",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-8224-F174",
+    "name": "lsys-sfo-ap-floor1-1824",
+    "mac": "e6:91:70:b0:8a:ba",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-69CA-9E95",
+    "name": "lsys-sfo-ap-floor4-1825",
+    "mac": "c4:e7:fc:9d:78:56",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-1836-2C48",
+    "name": "lsys-sfo-ap-floor1-1833",
+    "mac": "72:2c:73:a0:6a:c2",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-C189-AD0C",
+    "name": "lsys-sfo-ap-floor1-1835",
+    "mac": "5a:9d:0e:0b:20:e5",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-1E98-DA74",
+    "name": "lsys-sfo-ap-floor3-1840",
+    "mac": "af:d1:98:2a:c1:c0",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2QN-D5BC-6F84",
+    "name": "lsys-sfo-sw-1846",
+    "mac": "cb:a8:b7:31:d9:40",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2QN-FEB7-2A91",
+    "name": "lsys-sfo-sw-1849",
+    "mac": "94:66:b7:7b:b1:5a",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2QN-4C52-95E4",
+    "name": "lsys-sfo-sw-1851",
+    "mac": "9c:53:49:5c:75:0f",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2QN-A7AE-BD2A",
+    "name": "lsys-sfo-sw-1857",
+    "mac": "58:cf:06:d6:1e:50",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2QN-8F8E-4DFA",
+    "name": "lsys-sfo-sw-1859",
+    "mac": "4e:a9:c8:e0:6c:eb",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2QN-19E5-7E5F",
+    "name": "lsys-sfo-sw-1861",
+    "mac": "ae:55:3e:bf:9d:48",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2QN-0678-38BE",
+    "name": "lsys-sfo-sw-1874",
+    "mac": "b1:ab:e2:81:1b:b2",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2QN-312A-DBF0",
+    "name": "lsys-sfo-sw-1878",
+    "mac": "ca:8e:f4:c3:09:36",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2QN-416D-E265",
+    "name": "lsys-sfo-sw-1880",
+    "mac": "07:98:16:bf:7b:e6",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2QN-14B3-A67B",
+    "name": "lsys-sfo-sw-1882",
+    "mac": "39:16:34:16:23:36",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2QN-668C-FACD",
+    "name": "lsys-sfo-sw-1883",
+    "mac": "8e:31:65:d9:20:90",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2QN-63F3-364E",
+    "name": "lsys-sfo-sw-1889",
+    "mac": "ee:47:af:f4:70:21",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2QN-B4C3-A695",
+    "name": "lsys-sfo-sw-1893",
+    "mac": "57:1c:e5:ef:c6:e2",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2QN-89CD-4790",
+    "name": "lsys-sfo-sw-1896",
+    "mac": "d6:3a:9d:25:83:d8",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2QN-2747-C7C4",
+    "name": "lsys-sfo-sw-1897",
+    "mac": "c8:40:af:1f:53:f4",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2QN-5A6F-FE28",
+    "name": "lsys-sfo-sw-1898",
+    "mac": "1c:1e:ee:23:53:2b",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2QN-8E07-8253",
+    "name": "lsys-sfo-sw-1899",
+    "mac": "c7:14:86:a0:67:a0",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2QN-35CE-5D3F",
+    "name": "lsys-sfo-sw-1900",
+    "mac": "0c:71:4e:49:06:e6",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2QN-16C4-1A53",
+    "name": "lsys-sfo-sw-1903",
+    "mac": "e6:9f:31:f1:01:3b",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2QN-2E6F-0560",
+    "name": "lsys-sfo-sw-1906",
+    "mac": "2d:5d:b5:0d:81:85",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2QN-F6D7-48B9",
+    "name": "lsys-sfo-sw-1907",
+    "mac": "df:93:31:26:cf:ef",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2QN-C339-91EA",
+    "name": "lsys-sfo-sw-1911",
+    "mac": "ea:ae:76:08:eb:4c",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2QN-E81F-CFD9",
+    "name": "lsys-sfo-sw-1913",
+    "mac": "7e:79:59:81:1e:10",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2QN-DEEA-5004",
+    "name": "lsys-sfo-sw-1916",
+    "mac": "6d:d4:ef:e3:f9:1b",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2QN-F67C-3807",
+    "name": "lsys-sfo-sw-1917",
+    "mac": "0c:11:b8:0b:23:2f",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2QN-729B-3693",
+    "name": "lsys-sfo-sw-1919",
+    "mac": "83:6c:93:6a:a7:fb",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2QN-9670-3354",
+    "name": "lsys-sfo-rtr-1921",
+    "mac": "80:98:03:b4:a6:eb",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "appliance",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2QN-3E80-CA66",
+    "name": "lsys-sfo-rtr-1925",
+    "mac": "3e:a2:5a:01:78:97",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "appliance",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2QN-0B35-400C",
+    "name": "lsys-sfo-rtr-1932",
+    "mac": "22:33:e1:b8:fc:81",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "appliance",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2QN-4E81-1B7C",
+    "name": "lsys-sfo-rtr-1933",
+    "mac": "85:bd:2a:9b:ff:4b",
+    "network": {
+      "id": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7"
+    },
+    "productType": "appliance",
+    "status": "online",
+    "tags": [
+      "sfo"
+    ]
+  },
+  {
+    "serial": "Q2KD-9BD5-AAB8",
+    "name": "lsys-nyc-ap-floor5-1681",
+    "mac": "8e:b2:f9:88:0f:88",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2KD-906C-9819",
+    "name": "lsys-nyc-ap-floor5-1701",
+    "mac": "26:27:83:69:6f:48",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2KD-9D45-BFA7",
+    "name": "lsys-nyc-ap-floor2-1702",
+    "mac": "a6:4f:e8:73:f8:ea",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2KD-E95E-15BB",
+    "name": "lsys-nyc-ap-floor3-1709",
+    "mac": "bc:02:f1:40:d7:c3",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2KD-5A39-61F7",
+    "name": "lsys-nyc-ap-floor5-1715",
+    "mac": "99:bd:72:6a:f9:28",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2KD-481E-8E26",
+    "name": "lsys-nyc-ap-floor3-1724",
+    "mac": "48:83:04:40:2e:61",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2KD-79AF-A714",
+    "name": "lsys-nyc-ap-floor1-1744",
+    "mac": "b3:09:fd:a8:1a:ef",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2KD-8B0B-90F4",
+    "name": "lsys-nyc-ap-floor4-1748",
+    "mac": "47:99:e8:25:4b:a2",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2KD-95C6-092F",
+    "name": "lsys-nyc-ap-floor5-1751",
+    "mac": "d3:70:55:58:34:ec",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2KD-0A84-48C1",
+    "name": "lsys-nyc-ap-floor1-1759",
+    "mac": "bb:d2:71:06:f2:4a",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2KD-58F9-B195",
+    "name": "lsys-nyc-ap-floor5-1770",
+    "mac": "b1:93:21:c5:6e:54",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2KD-C60A-9B08",
+    "name": "lsys-nyc-ap-floor3-1788",
+    "mac": "74:e2:5d:a9:70:3d",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2KD-E790-B71D",
+    "name": "lsys-nyc-ap-floor3-1795",
+    "mac": "6e:ee:b5:3e:fa:92",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2KD-2E4D-6043",
+    "name": "lsys-nyc-ap-floor3-1796",
+    "mac": "10:58:77:8b:78:af",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2KD-8169-FFE1",
+    "name": "lsys-nyc-ap-floor4-1797",
+    "mac": "83:cf:a7:e6:d1:15",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2KD-4959-9852",
+    "name": "lsys-nyc-ap-floor4-1800",
+    "mac": "9c:30:f1:1d:e7:3e",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2KD-CA57-82B1",
+    "name": "lsys-nyc-ap-floor4-1812",
+    "mac": "c3:86:3e:fa:d6:50",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2KD-9D7F-D10B",
+    "name": "lsys-nyc-ap-floor2-1826",
+    "mac": "68:0f:ea:3e:e0:4a",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2KD-E70B-77BF",
+    "name": "lsys-nyc-ap-floor4-1827",
+    "mac": "3e:e5:10:1f:6d:ff",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2KD-9D2C-0290",
+    "name": "lsys-nyc-ap-floor2-1830",
+    "mac": "3e:74:7c:23:69:e7",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2KD-87AF-E817",
+    "name": "lsys-nyc-ap-floor3-1838",
+    "mac": "84:06:25:a3:73:46",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "wireless",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2QN-5F17-9D76",
+    "name": "lsys-nyc-sw-1841",
+    "mac": "39:92:29:98:b0:e5",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2QN-9E01-F0DF",
+    "name": "lsys-nyc-sw-1843",
+    "mac": "a5:ab:ba:f4:59:90",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2QN-2141-1BBD",
+    "name": "lsys-nyc-sw-1845",
+    "mac": "d6:4a:f8:bb:21:f3",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2QN-C71A-907C",
+    "name": "lsys-nyc-sw-1850",
+    "mac": "94:ad:f0:bd:10:83",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2QN-1024-49C5",
+    "name": "lsys-nyc-sw-1852",
+    "mac": "49:6c:9a:76:7b:96",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2QN-5697-952A",
+    "name": "lsys-nyc-sw-1853",
+    "mac": "75:f7:b5:c6:d0:46",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2QN-611F-E0A6",
+    "name": "lsys-nyc-sw-1873",
+    "mac": "ec:c6:fb:ed:48:fb",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2QN-2163-CF85",
+    "name": "lsys-nyc-sw-1875",
+    "mac": "10:20:77:34:f6:e2",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2QN-B760-B11E",
+    "name": "lsys-nyc-sw-1885",
+    "mac": "a1:79:66:7d:7d:09",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2QN-E466-9C3D",
+    "name": "lsys-nyc-sw-1887",
+    "mac": "4b:95:c6:36:df:e8",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2QN-18CC-B206",
+    "name": "lsys-nyc-sw-1891",
+    "mac": "38:d6:03:1b:ff:0a",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2QN-AD38-DCFB",
+    "name": "lsys-nyc-sw-1892",
+    "mac": "ae:dd:95:da:07:f0",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2QN-7444-01ED",
+    "name": "lsys-nyc-sw-1902",
+    "mac": "13:4e:f9:ad:93:db",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2QN-088D-C033",
+    "name": "lsys-nyc-sw-1905",
+    "mac": "56:9c:eb:d4:f0:9e",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2QN-8046-DFDC",
+    "name": "lsys-nyc-sw-1910",
+    "mac": "f4:76:f1:ed:61:b8",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2QN-7283-CA56",
+    "name": "lsys-nyc-sw-1918",
+    "mac": "60:1b:a4:19:b8:a8",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "switch",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2QN-D33F-2533",
+    "name": "lsys-nyc-rtr-1927",
+    "mac": "fe:87:7b:f9:68:06",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "appliance",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  },
+  {
+    "serial": "Q2QN-2978-E19A",
+    "name": "lsys-nyc-rtr-1929",
+    "mac": "64:2f:a3:1e:89:a5",
+    "network": {
+      "id": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a"
+    },
+    "productType": "appliance",
+    "status": "online",
+    "tags": [
+      "nyc"
+    ]
+  }
+]

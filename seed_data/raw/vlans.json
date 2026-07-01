@@ -1,0 +1,617 @@
+{
+  "4ec98c15-f3a3-c9b7-1393-d4dea0efe855": [
+    {
+      "id": "1",
+      "interfaceId": "3848644cd9953",
+      "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+      "name": "Corporate",
+      "applianceIp": "10.13.1.1",
+      "subnet": "10.13.1.0/24",
+      "fixedIpAssignments": {},
+      "reservedIpRanges": [],
+      "dnsNameservers": "upstream_dns",
+      "dhcpHandling": "Run a DHCP server",
+      "dhcpLeaseTime": "1 day",
+      "dhcpBootOptionsEnabled": false,
+      "dhcpOptions": [],
+      "vpnNatSubnet": "10.13.1.0/24",
+      "mandatoryDhcp": {
+        "enabled": false
+      },
+      "ipv6": {
+        "enabled": false
+      },
+      "dhcpBootFilename": null,
+      "dhcpBootNextServer": null,
+      "dhcpRelayServerIps": [],
+      "groupPolicyId": null,
+      "templateVlanType": "same",
+      "cidr": "10.13.1.0/24",
+      "mask": 24
+    },
+    {
+      "id": "4",
+      "interfaceId": "b701d1eba5c7f",
+      "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+      "name": "Mobile",
+      "applianceIp": "10.13.4.1",
+      "subnet": "10.13.4.0/24",
+      "fixedIpAssignments": {},
+      "reservedIpRanges": [],
+      "dnsNameservers": "upstream_dns",
+      "dhcpHandling": "Run a DHCP server",
+      "dhcpLeaseTime": "1 day",
+      "dhcpBootOptionsEnabled": false,
+      "dhcpOptions": [],
+      "vpnNatSubnet": "10.13.4.0/24",
+      "mandatoryDhcp": {
+        "enabled": false
+      },
+      "ipv6": {
+        "enabled": false
+      },
+      "dhcpBootFilename": null,
+      "dhcpBootNextServer": null,
+      "dhcpRelayServerIps": [],
+      "groupPolicyId": null,
+      "templateVlanType": "same",
+      "cidr": "10.13.4.0/24",
+      "mask": 24
+    },
+    {
+      "id": "5",
+      "interfaceId": "37f434f862cd1",
+      "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+      "name": "Printers",
+      "applianceIp": "10.13.5.1",
+      "subnet": "10.13.5.0/24",
+      "fixedIpAssignments": {},
+      "reservedIpRanges": [],
+      "dnsNameservers": "upstream_dns",
+      "dhcpHandling": "Run a DHCP server",
+      "dhcpLeaseTime": "1 day",
+      "dhcpBootOptionsEnabled": false,
+      "dhcpOptions": [],
+      "vpnNatSubnet": "10.13.5.0/24",
+      "mandatoryDhcp": {
+        "enabled": false
+      },
+      "ipv6": {
+        "enabled": false
+      },
+      "dhcpBootFilename": null,
+      "dhcpBootNextServer": null,
+      "dhcpRelayServerIps": [],
+      "groupPolicyId": null,
+      "templateVlanType": "same",
+      "cidr": "10.13.5.0/24",
+      "mask": 24
+    },
+    {
+      "id": "6",
+      "interfaceId": "01d3c82add4db",
+      "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+      "name": "Access Points",
+      "applianceIp": "10.13.6.1",
+      "subnet": "10.13.6.0/24",
+      "fixedIpAssignments": {},
+      "reservedIpRanges": [],
+      "dnsNameservers": "upstream_dns",
+      "dhcpHandling": "Run a DHCP server",
+      "dhcpLeaseTime": "1 day",
+      "dhcpBootOptionsEnabled": false,
+      "dhcpOptions": [],
+      "vpnNatSubnet": "10.13.6.0/24",
+      "mandatoryDhcp": {
+        "enabled": false
+      },
+      "ipv6": {
+        "enabled": false
+      },
+      "dhcpBootFilename": null,
+      "dhcpBootNextServer": null,
+      "dhcpRelayServerIps": [],
+      "groupPolicyId": null,
+      "templateVlanType": "same",
+      "cidr": "10.13.6.0/24",
+      "mask": 24
+    },
+    {
+      "id": "8",
+      "interfaceId": "560a05269ba05",
+      "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+      "name": "IoT",
+      "applianceIp": "10.13.8.1",
+      "subnet": "10.13.8.0/24",
+      "fixedIpAssignments": {},
+      "reservedIpRanges": [],
+      "dnsNameservers": "upstream_dns",
+      "dhcpHandling": "Run a DHCP server",
+      "dhcpLeaseTime": "1 day",
+      "dhcpBootOptionsEnabled": false,
+      "dhcpOptions": [],
+      "vpnNatSubnet": "10.13.8.0/24",
+      "mandatoryDhcp": {
+        "enabled": false
+      },
+      "ipv6": {
+        "enabled": false
+      },
+      "dhcpBootFilename": null,
+      "dhcpBootNextServer": null,
+      "dhcpRelayServerIps": [],
+      "groupPolicyId": null,
+      "templateVlanType": "same",
+      "cidr": "10.13.8.0/24",
+      "mask": 24
+    },
+    {
+      "id": "9",
+      "interfaceId": "bb415df351d7a",
+      "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+      "name": "Clinic",
+      "applianceIp": "10.13.9.1",
+      "subnet": "10.13.9.0/24",
+      "fixedIpAssignments": {},
+      "reservedIpRanges": [],
+      "dnsNameservers": "upstream_dns",
+      "dhcpHandling": "Run a DHCP server",
+      "dhcpLeaseTime": "1 day",
+      "dhcpBootOptionsEnabled": false,
+      "dhcpOptions": [],
+      "vpnNatSubnet": "10.13.9.0/24",
+      "mandatoryDhcp": {
+        "enabled": false
+      },
+      "ipv6": {
+        "enabled": false
+      },
+      "dhcpBootFilename": null,
+      "dhcpBootNextServer": null,
+      "dhcpRelayServerIps": [],
+      "groupPolicyId": null,
+      "templateVlanType": "same",
+      "cidr": "10.13.9.0/24",
+      "mask": 24
+    },
+    {
+      "id": "99",
+      "interfaceId": "d44e6e723f718",
+      "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+      "name": "Management",
+      "applianceIp": "10.13.0.1",
+      "subnet": "10.13.0.0/24",
+      "fixedIpAssignments": {},
+      "reservedIpRanges": [],
+      "dnsNameservers": "upstream_dns",
+      "dhcpHandling": "Run a DHCP server",
+      "dhcpLeaseTime": "1 day",
+      "dhcpBootOptionsEnabled": false,
+      "dhcpOptions": [],
+      "vpnNatSubnet": "10.13.0.0/24",
+      "mandatoryDhcp": {
+        "enabled": false
+      },
+      "ipv6": {
+        "enabled": false
+      },
+      "dhcpBootFilename": null,
+      "dhcpBootNextServer": null,
+      "dhcpRelayServerIps": [],
+      "groupPolicyId": null,
+      "templateVlanType": "same",
+      "cidr": "10.13.0.0/24",
+      "mask": 24
+    }
+  ],
+  "6fec2fb6-45dc-d2de-a94c-25498f93f8c7": [
+    {
+      "id": "1",
+      "interfaceId": "6013918504ef7",
+      "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+      "name": "Corporate",
+      "applianceIp": "10.11.1.1",
+      "subnet": "10.11.1.0/24",
+      "fixedIpAssignments": {},
+      "reservedIpRanges": [],
+      "dnsNameservers": "upstream_dns",
+      "dhcpHandling": "Run a DHCP server",
+      "dhcpLeaseTime": "1 day",
+      "dhcpBootOptionsEnabled": false,
+      "dhcpOptions": [],
+      "vpnNatSubnet": "10.11.1.0/24",
+      "mandatoryDhcp": {
+        "enabled": false
+      },
+      "ipv6": {
+        "enabled": false
+      },
+      "dhcpBootFilename": null,
+      "dhcpBootNextServer": null,
+      "dhcpRelayServerIps": [],
+      "groupPolicyId": null,
+      "templateVlanType": "same",
+      "cidr": "10.11.1.0/24",
+      "mask": 24
+    },
+    {
+      "id": "4",
+      "interfaceId": "ac58273724c83",
+      "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+      "name": "Mobile",
+      "applianceIp": "10.11.4.1",
+      "subnet": "10.11.4.0/24",
+      "fixedIpAssignments": {},
+      "reservedIpRanges": [],
+      "dnsNameservers": "upstream_dns",
+      "dhcpHandling": "Run a DHCP server",
+      "dhcpLeaseTime": "1 day",
+      "dhcpBootOptionsEnabled": false,
+      "dhcpOptions": [],
+      "vpnNatSubnet": "10.11.4.0/24",
+      "mandatoryDhcp": {
+        "enabled": false
+      },
+      "ipv6": {
+        "enabled": false
+      },
+      "dhcpBootFilename": null,
+      "dhcpBootNextServer": null,
+      "dhcpRelayServerIps": [],
+      "groupPolicyId": null,
+      "templateVlanType": "same",
+      "cidr": "10.11.4.0/24",
+      "mask": 24
+    },
+    {
+      "id": "5",
+      "interfaceId": "e00ef86b1e0ed",
+      "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+      "name": "Printers",
+      "applianceIp": "10.11.5.1",
+      "subnet": "10.11.5.0/24",
+      "fixedIpAssignments": {},
+      "reservedIpRanges": [],
+      "dnsNameservers": "upstream_dns",
+      "dhcpHandling": "Run a DHCP server",
+      "dhcpLeaseTime": "1 day",
+      "dhcpBootOptionsEnabled": false,
+      "dhcpOptions": [],
+      "vpnNatSubnet": "10.11.5.0/24",
+      "mandatoryDhcp": {
+        "enabled": false
+      },
+      "ipv6": {
+        "enabled": false
+      },
+      "dhcpBootFilename": null,
+      "dhcpBootNextServer": null,
+      "dhcpRelayServerIps": [],
+      "groupPolicyId": null,
+      "templateVlanType": "same",
+      "cidr": "10.11.5.0/24",
+      "mask": 24
+    },
+    {
+      "id": "6",
+      "interfaceId": "46a361f038d45",
+      "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+      "name": "Access Points",
+      "applianceIp": "10.11.6.1",
+      "subnet": "10.11.6.0/24",
+      "fixedIpAssignments": {},
+      "reservedIpRanges": [],
+      "dnsNameservers": "upstream_dns",
+      "dhcpHandling": "Run a DHCP server",
+      "dhcpLeaseTime": "1 day",
+      "dhcpBootOptionsEnabled": false,
+      "dhcpOptions": [],
+      "vpnNatSubnet": "10.11.6.0/24",
+      "mandatoryDhcp": {
+        "enabled": false
+      },
+      "ipv6": {
+        "enabled": false
+      },
+      "dhcpBootFilename": null,
+      "dhcpBootNextServer": null,
+      "dhcpRelayServerIps": [],
+      "groupPolicyId": null,
+      "templateVlanType": "same",
+      "cidr": "10.11.6.0/24",
+      "mask": 24
+    },
+    {
+      "id": "8",
+      "interfaceId": "0f0eaf1a18d9b",
+      "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+      "name": "IoT",
+      "applianceIp": "10.11.8.1",
+      "subnet": "10.11.8.0/24",
+      "fixedIpAssignments": {},
+      "reservedIpRanges": [],
+      "dnsNameservers": "upstream_dns",
+      "dhcpHandling": "Run a DHCP server",
+      "dhcpLeaseTime": "1 day",
+      "dhcpBootOptionsEnabled": false,
+      "dhcpOptions": [],
+      "vpnNatSubnet": "10.11.8.0/24",
+      "mandatoryDhcp": {
+        "enabled": false
+      },
+      "ipv6": {
+        "enabled": false
+      },
+      "dhcpBootFilename": null,
+      "dhcpBootNextServer": null,
+      "dhcpRelayServerIps": [],
+      "groupPolicyId": null,
+      "templateVlanType": "same",
+      "cidr": "10.11.8.0/24",
+      "mask": 24
+    },
+    {
+      "id": "9",
+      "interfaceId": "d6e897f487401",
+      "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+      "name": "Clinic",
+      "applianceIp": "10.11.9.1",
+      "subnet": "10.11.9.0/24",
+      "fixedIpAssignments": {},
+      "reservedIpRanges": [],
+      "dnsNameservers": "upstream_dns",
+      "dhcpHandling": "Run a DHCP server",
+      "dhcpLeaseTime": "1 day",
+      "dhcpBootOptionsEnabled": false,
+      "dhcpOptions": [],
+      "vpnNatSubnet": "10.11.9.0/24",
+      "mandatoryDhcp": {
+        "enabled": false
+      },
+      "ipv6": {
+        "enabled": false
+      },
+      "dhcpBootFilename": null,
+      "dhcpBootNextServer": null,
+      "dhcpRelayServerIps": [],
+      "groupPolicyId": null,
+      "templateVlanType": "same",
+      "cidr": "10.11.9.0/24",
+      "mask": 24
+    },
+    {
+      "id": "99",
+      "interfaceId": "ca559f867a77b",
+      "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+      "name": "Management",
+      "applianceIp": "10.11.0.1",
+      "subnet": "10.11.0.0/24",
+      "fixedIpAssignments": {},
+      "reservedIpRanges": [],
+      "dnsNameservers": "upstream_dns",
+      "dhcpHandling": "Run a DHCP server",
+      "dhcpLeaseTime": "1 day",
+      "dhcpBootOptionsEnabled": false,
+      "dhcpOptions": [],
+      "vpnNatSubnet": "10.11.0.0/24",
+      "mandatoryDhcp": {
+        "enabled": false
+      },
+      "ipv6": {
+        "enabled": false
+      },
+      "dhcpBootFilename": null,
+      "dhcpBootNextServer": null,
+      "dhcpRelayServerIps": [],
+      "groupPolicyId": null,
+      "templateVlanType": "same",
+      "cidr": "10.11.0.0/24",
+      "mask": 24
+    }
+  ],
+  "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a": [
+    {
+      "id": "1",
+      "interfaceId": "d5db6ac04f2ad",
+      "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+      "name": "Corporate",
+      "applianceIp": "10.12.1.1",
+      "subnet": "10.12.1.0/24",
+      "fixedIpAssignments": {},
+      "reservedIpRanges": [],
+      "dnsNameservers": "upstream_dns",
+      "dhcpHandling": "Run a DHCP server",
+      "dhcpLeaseTime": "1 day",
+      "dhcpBootOptionsEnabled": false,
+      "dhcpOptions": [],
+      "vpnNatSubnet": "10.12.1.0/24",
+      "mandatoryDhcp": {
+        "enabled": false
+      },
+      "ipv6": {
+        "enabled": false
+      },
+      "dhcpBootFilename": null,
+      "dhcpBootNextServer": null,
+      "dhcpRelayServerIps": [],
+      "groupPolicyId": null,
+      "templateVlanType": "same",
+      "cidr": "10.12.1.0/24",
+      "mask": 24
+    },
+    {
+      "id": "4",
+      "interfaceId": "c278d290bbc30",
+      "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+      "name": "Mobile",
+      "applianceIp": "10.12.4.1",
+      "subnet": "10.12.4.0/24",
+      "fixedIpAssignments": {},
+      "reservedIpRanges": [],
+      "dnsNameservers": "upstream_dns",
+      "dhcpHandling": "Run a DHCP server",
+      "dhcpLeaseTime": "1 day",
+      "dhcpBootOptionsEnabled": false,
+      "dhcpOptions": [],
+      "vpnNatSubnet": "10.12.4.0/24",
+      "mandatoryDhcp": {
+        "enabled": false
+      },
+      "ipv6": {
+        "enabled": false
+      },
+      "dhcpBootFilename": null,
+      "dhcpBootNextServer": null,
+      "dhcpRelayServerIps": [],
+      "groupPolicyId": null,
+      "templateVlanType": "same",
+      "cidr": "10.12.4.0/24",
+      "mask": 24
+    },
+    {
+      "id": "5",
+      "interfaceId": "dc80e895322fa",
+      "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+      "name": "Printers",
+      "applianceIp": "10.12.5.1",
+      "subnet": "10.12.5.0/24",
+      "fixedIpAssignments": {},
+      "reservedIpRanges": [],
+      "dnsNameservers": "upstream_dns",
+      "dhcpHandling": "Run a DHCP server",
+      "dhcpLeaseTime": "1 day",
+      "dhcpBootOptionsEnabled": false,
+      "dhcpOptions": [],
+      "vpnNatSubnet": "10.12.5.0/24",
+      "mandatoryDhcp": {
+        "enabled": false
+      },
+      "ipv6": {
+        "enabled": false
+      },
+      "dhcpBootFilename": null,
+      "dhcpBootNextServer": null,
+      "dhcpRelayServerIps": [],
+      "groupPolicyId": null,
+      "templateVlanType": "same",
+      "cidr": "10.12.5.0/24",
+      "mask": 24
+    },
+    {
+      "id": "6",
+      "interfaceId": "2861a8db222cd",
+      "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+      "name": "Access Points",
+      "applianceIp": "10.12.6.1",
+      "subnet": "10.12.6.0/24",
+      "fixedIpAssignments": {},
+      "reservedIpRanges": [],
+      "dnsNameservers": "upstream_dns",
+      "dhcpHandling": "Run a DHCP server",
+      "dhcpLeaseTime": "1 day",
+      "dhcpBootOptionsEnabled": false,
+      "dhcpOptions": [],
+      "vpnNatSubnet": "10.12.6.0/24",
+      "mandatoryDhcp": {
+        "enabled": false
+      },
+      "ipv6": {
+        "enabled": false
+      },
+      "dhcpBootFilename": null,
+      "dhcpBootNextServer": null,
+      "dhcpRelayServerIps": [],
+      "groupPolicyId": null,
+      "templateVlanType": "same",
+      "cidr": "10.12.6.0/24",
+      "mask": 24
+    },
+    {
+      "id": "8",
+      "interfaceId": "de9928c41fbef",
+      "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+      "name": "IoT",
+      "applianceIp": "10.12.8.1",
+      "subnet": "10.12.8.0/24",
+      "fixedIpAssignments": {},
+      "reservedIpRanges": [],
+      "dnsNameservers": "upstream_dns",
+      "dhcpHandling": "Run a DHCP server",
+      "dhcpLeaseTime": "1 day",
+      "dhcpBootOptionsEnabled": false,
+      "dhcpOptions": [],
+      "vpnNatSubnet": "10.12.8.0/24",
+      "mandatoryDhcp": {
+        "enabled": false
+      },
+      "ipv6": {
+        "enabled": false
+      },
+      "dhcpBootFilename": null,
+      "dhcpBootNextServer": null,
+      "dhcpRelayServerIps": [],
+      "groupPolicyId": null,
+      "templateVlanType": "same",
+      "cidr": "10.12.8.0/24",
+      "mask": 24
+    },
+    {
+      "id": "9",
+      "interfaceId": "55907406b76e5",
+      "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+      "name": "Clinic",
+      "applianceIp": "10.12.9.1",
+      "subnet": "10.12.9.0/24",
+      "fixedIpAssignments": {},
+      "reservedIpRanges": [],
+      "dnsNameservers": "upstream_dns",
+      "dhcpHandling": "Run a DHCP server",
+      "dhcpLeaseTime": "1 day",
+      "dhcpBootOptionsEnabled": false,
+      "dhcpOptions": [],
+      "vpnNatSubnet": "10.12.9.0/24",
+      "mandatoryDhcp": {
+        "enabled": false
+      },
+      "ipv6": {
+        "enabled": false
+      },
+      "dhcpBootFilename": null,
+      "dhcpBootNextServer": null,
+      "dhcpRelayServerIps": [],
+      "groupPolicyId": null,
+      "templateVlanType": "same",
+      "cidr": "10.12.9.0/24",
+      "mask": 24
+    },
+    {
+      "id": "99",
+      "interfaceId": "ed33e75bcd864",
+      "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+      "name": "Management",
+      "applianceIp": "10.12.0.1",
+      "subnet": "10.12.0.0/24",
+      "fixedIpAssignments": {},
+      "reservedIpRanges": [],
+      "dnsNameservers": "upstream_dns",
+      "dhcpHandling": "Run a DHCP server",
+      "dhcpLeaseTime": "1 day",
+      "dhcpBootOptionsEnabled": false,
+      "dhcpOptions": [],
+      "vpnNatSubnet": "10.12.0.0/24",
+      "mandatoryDhcp": {
+        "enabled": false
+      },
+      "ipv6": {
+        "enabled": false
+      },
+      "dhcpBootFilename": null,
+      "dhcpBootNextServer": null,
+      "dhcpRelayServerIps": [],
+      "groupPolicyId": null,
+      "templateVlanType": "same",
+      "cidr": "10.12.0.0/24",
+      "mask": 24
+    }
+  ]
+}

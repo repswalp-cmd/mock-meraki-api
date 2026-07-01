@@ -1,0 +1,44 @@
+{
+  "_description": "GET /api/v1/networks/{networkId}/appliance/vlans — VLAN config for a network",
+  "request": {
+    "method": "GET",
+    "url": "https://<base-url>/api/v1/networks/6fec2fb6-45dc-d2de-a94c-25498f93f8c7/appliance/vlans",
+    "headers": {
+      "X-Cisco-Meraki-API-Key": "mock_meraki_key_luminary"
+    }
+  },
+  "response_status": 200,
+  "response_body_sample": [
+    {
+      "id": "1",
+      "interfaceId": "6fec2fb645dc",
+      "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+      "name": "Corporate",
+      "applianceIp": "10.11.1.1",
+      "subnet": "10.11.1.0/24",
+      "fixedIpAssignments": {},
+      "reservedIpRanges": [],
+      "dnsNameservers": "upstream_dns",
+      "dhcpHandling": "Run a DHCP server",
+      "dhcpLeaseTime": "1 day",
+      "dhcpBootOptionsEnabled": false,
+      "dhcpOptions": [],
+      "vpnNatSubnet": "10.11.1.0/24",
+      "mandatoryDhcp": { "enabled": false },
+      "ipv6": { "enabled": false },
+      "dhcpBootFilename": null,
+      "dhcpBootNextServer": null,
+      "dhcpRelayServerIps": [],
+      "groupPolicyId": null,
+      "templateVlanType": "same",
+      "cidr": "10.11.1.0/24",
+      "mask": 24
+    }
+  ],
+  "_notes": [
+    "7 VLANs per network: Corporate(1), Mobile(4), Printers(5), APs(6), IoT(8), Clinic(9), Management(99).",
+    "IP scheme: 10.{site}.{segment}.0/24 — SFO=11, NYC=12, LON=13.",
+    "applianceIp: always .1 of the subnet (MX gateway address).",
+    "interfaceId: 13-char alphanumeric string (deterministic md5 slice)."
+  ]
+}

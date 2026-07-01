@@ -1,0 +1,60 @@
+{
+  "_description": "GET /api/v1/organizations/{orgId}/devices — 155 network devices (96 APs + 53 switches + 6 MX routers)",
+  "request": {
+    "method": "GET",
+    "url": "https://<base-url>/api/v1/organizations/51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef/devices",
+    "headers": {
+      "X-Cisco-Meraki-API-Key": "mock_meraki_key_luminary"
+    }
+  },
+  "response_status": 200,
+  "response_body_sample": [
+    {
+      "serial": "Q2KD-A376-CFD2",
+      "name": "lsys-sfo-ap-floor1-1799",
+      "mac": "18:cb:49:7a:df:74",
+      "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+      "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+      "model": "MR57",
+      "productType": "wireless",
+      "firmware": "wireless-29-6",
+      "lanIp": "10.11.6.2",
+      "tags": ["sfo"],
+      "lat": 37.7752,
+      "lng": -122.4187,
+      "address": "100 Market St, San Francisco, CA 94105",
+      "notes": null,
+      "url": "https://mock.meraki.com/devices/Q2KD-A376-CFD2/manage",
+      "configurationUpdatedAt": "2026-06-30T21:14:24Z",
+      "details": [{ "name": "Running software version", "value": "MR 29.6" }]
+    },
+    {
+      "serial": "Q2QN-41CE-C84F",
+      "name": "lsys-sfo-sw-core-01",
+      "mac": "a1:b2:c3:d4:e5:f6",
+      "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+      "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+      "model": "MS225-48",
+      "productType": "switch",
+      "firmware": "switch-15-21",
+      "lanIp": "10.11.0.10",
+      "tags": ["sfo"],
+      "lat": 37.7749,
+      "lng": -122.4194,
+      "address": "100 Market St, San Francisco, CA 94105",
+      "notes": null,
+      "url": "https://mock.meraki.com/devices/Q2QN-41CE-C84F/manage",
+      "configurationUpdatedAt": "2026-06-29T08:22:10Z",
+      "details": [{ "name": "Running software version", "value": "MS 15.21" }]
+    }
+  ],
+  "_notes": [
+    "Device fleet: 96 wireless APs (MR57) + 53 switches (MS225-48) + 6 appliances (MX450).",
+    "Serial format: Q2KD-XXXX-XXXX (AP), Q2QN-XXXX-XXXX (switch/appliance).",
+    "MAC format: aa:bb:cc:dd:ee:ff (colon-separated lowercase).",
+    "configurationUpdatedAt and lastReportedAt: ISO 8601 strings.",
+    "SFO: 50 APs + 26 switches + 4 routers = 80 devices.",
+    "NYC: 21 APs + 16 switches + 2 routers = 39 devices.",
+    "LON: 25 APs + 11 switches + 0 routers = 36 devices."
+  ]
+}

@@ -1,0 +1,4038 @@
+[
+  {
+    "serial": "Q2KD-A376-CFD2",
+    "name": "lsys-lon-ap-floor1-1684",
+    "mac": "34:c2:ee:8c:67:ae",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.13.6.2",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.5076,
+    "lng": -0.12029999999999999,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-A376-CFD2/manage",
+    "configurationUpdatedAt": "2026-06-30T12:22:34Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-1E93-5EAE",
+    "name": "lsys-lon-ap-floor2-1688",
+    "mac": "3c:35:01:20:69:41",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.13.6.3",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.511199999999995,
+    "lng": -0.1234,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-1E93-5EAE/manage",
+    "configurationUpdatedAt": "2026-06-30T21:49:33Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-E55C-0D5C",
+    "name": "lsys-lon-ap-floor4-1690",
+    "mac": "eb:ec:1c:21:6a:2b",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.13.6.4",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.5094,
+    "lng": -0.1181,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-E55C-0D5C/manage",
+    "configurationUpdatedAt": "2026-06-30T07:41:24Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-0184-CE88",
+    "name": "lsys-lon-ap-floor4-1695",
+    "mac": "85:3b:50:4d:aa:36",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.13.6.5",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.514599999999994,
+    "lng": -0.127,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-0184-CE88/manage",
+    "configurationUpdatedAt": "2026-06-30T23:53:32Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-77C4-4B66",
+    "name": "lsys-lon-ap-floor5-1698",
+    "mac": "93:40:47:f7:61:22",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.13.6.6",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.5076,
+    "lng": -0.1257,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-77C4-4B66/manage",
+    "configurationUpdatedAt": "2026-06-30T15:29:00Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-C62F-3F90",
+    "name": "lsys-lon-ap-floor2-1710",
+    "mac": "bb:6e:a4:6f:48:a6",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.13.6.7",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.514599999999994,
+    "lng": -0.11839999999999999,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-C62F-3F90/manage",
+    "configurationUpdatedAt": "2026-06-30T09:54:25Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-0116-F9E9",
+    "name": "lsys-lon-ap-floor2-1718",
+    "mac": "04:6d:f6:9f:3a:c3",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.13.6.8",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.5151,
+    "lng": -0.1239,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-0116-F9E9/manage",
+    "configurationUpdatedAt": "2026-06-30T23:55:22Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-6019-5366",
+    "name": "lsys-lon-ap-floor1-1726",
+    "mac": "f0:b6:d1:3c:c9:a5",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.13.6.9",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.5124,
+    "lng": -0.12639999999999998,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-6019-5366/manage",
+    "configurationUpdatedAt": "2026-06-30T17:09:59Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-3EA8-38D4",
+    "name": "lsys-lon-ap-floor4-1727",
+    "mac": "ba:f6:df:35:6b:b9",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.13.6.10",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.5122,
+    "lng": -0.1257,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-3EA8-38D4/manage",
+    "configurationUpdatedAt": "2026-06-30T19:32:40Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-E548-3E1D",
+    "name": "lsys-lon-ap-floor4-1732",
+    "mac": "56:ba:69:12:c1:fc",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.13.6.11",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.5075,
+    "lng": -0.126,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-E548-3E1D/manage",
+    "configurationUpdatedAt": "2026-06-30T07:41:44Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-ABDB-8CEA",
+    "name": "lsys-lon-ap-floor5-1734",
+    "mac": "c8:ec:1e:b7:29:c6",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.13.6.12",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.514799999999994,
+    "lng": -0.127,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-ABDB-8CEA/manage",
+    "configurationUpdatedAt": "2026-06-30T11:46:45Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-2ABB-F0EC",
+    "name": "lsys-lon-ap-floor1-1735",
+    "mac": "43:31:b2:ff:1b:d5",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.13.6.13",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.51499999999999,
+    "lng": -0.1267,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-2ABB-F0EC/manage",
+    "configurationUpdatedAt": "2026-06-30T20:57:41Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-9565-7CAC",
+    "name": "lsys-lon-ap-floor3-1741",
+    "mac": "ea:f1:16:30:e6:28",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.13.6.14",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.509,
+    "lng": -0.1273,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-9565-7CAC/manage",
+    "configurationUpdatedAt": "2026-06-30T13:22:35Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-5D16-15A3",
+    "name": "lsys-lon-ap-floor2-1742",
+    "mac": "4d:71:2d:6d:8b:f0",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.13.6.15",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.5113,
+    "lng": -0.122,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-5D16-15A3/manage",
+    "configurationUpdatedAt": "2026-06-30T17:22:50Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-C4F1-E268",
+    "name": "lsys-lon-ap-floor4-1758",
+    "mac": "fc:7c:22:63:fc:c6",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.13.6.16",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.5134,
+    "lng": -0.12229999999999999,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-C4F1-E268/manage",
+    "configurationUpdatedAt": "2026-06-30T09:59:43Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-9E52-9709",
+    "name": "lsys-lon-ap-floor2-1780",
+    "mac": "c6:c1:bf:32:b9:e9",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.13.6.17",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.5139,
+    "lng": -0.119,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-9E52-9709/manage",
+    "configurationUpdatedAt": "2026-06-30T12:44:30Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-740D-261F",
+    "name": "lsys-lon-ap-floor4-1801",
+    "mac": "ac:0f:ad:85:89:16",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.13.6.18",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.513299999999994,
+    "lng": -0.118,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-740D-261F/manage",
+    "configurationUpdatedAt": "2026-06-30T15:44:51Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-3E04-B933",
+    "name": "lsys-lon-ap-floor5-1804",
+    "mac": "d9:4d:66:b2:4c:20",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.13.6.19",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.5085,
+    "lng": -0.1192,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-3E04-B933/manage",
+    "configurationUpdatedAt": "2026-06-30T19:35:24Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-E6D2-67D8",
+    "name": "lsys-lon-ap-floor4-1809",
+    "mac": "9c:ad:4e:92:a8:ab",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.13.6.20",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.5158,
+    "lng": -0.1239,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-E6D2-67D8/manage",
+    "configurationUpdatedAt": "2026-06-30T07:35:10Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-52EC-52AC",
+    "name": "lsys-lon-ap-floor4-1814",
+    "mac": "10:63:f2:eb:33:a7",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.13.6.21",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.513799999999996,
+    "lng": -0.12369999999999999,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-52EC-52AC/manage",
+    "configurationUpdatedAt": "2026-06-30T18:06:12Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-ACC9-9968",
+    "name": "lsys-lon-ap-floor3-1816",
+    "mac": "4d:b8:77:e4:f7:60",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.13.6.22",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.514599999999994,
+    "lng": -0.1268,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-ACC9-9968/manage",
+    "configurationUpdatedAt": "2026-06-30T11:42:47Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-ECB4-4D78",
+    "name": "lsys-lon-ap-floor1-1818",
+    "mac": "ea:30:cf:7e:c1:48",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.13.6.23",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.5106,
+    "lng": -0.1278,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-ECB4-4D78/manage",
+    "configurationUpdatedAt": "2026-06-30T07:10:04Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-90DF-C155",
+    "name": "lsys-lon-ap-floor1-1822",
+    "mac": "40:34:33:b3:25:84",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.13.6.24",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.5167,
+    "lng": -0.1232,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-90DF-C155/manage",
+    "configurationUpdatedAt": "2026-06-30T13:41:53Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-DC8B-6323",
+    "name": "lsys-lon-ap-floor3-1832",
+    "mac": "cc:94:1b:0e:a6:36",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.13.6.25",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.515299999999996,
+    "lng": -0.12179999999999999,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-DC8B-6323/manage",
+    "configurationUpdatedAt": "2026-06-30T08:19:01Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-3449-2766",
+    "name": "lsys-lon-ap-floor5-1834",
+    "mac": "2c:10:28:b0:72:db",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.13.6.26",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.516,
+    "lng": -0.1239,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-3449-2766/manage",
+    "configurationUpdatedAt": "2026-06-30T20:16:55Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-41CE-C84F",
+    "name": "lsys-lon-sw-1842",
+    "mac": "99:fa:3f:53:17:64",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.13.0.2",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.515299999999996,
+    "lng": -0.121,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-41CE-C84F/manage",
+    "configurationUpdatedAt": "2026-06-30T19:19:14Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-1C19-9D1D",
+    "name": "lsys-lon-sw-1848",
+    "mac": "26:cf:0e:a5:fc:7b",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.13.0.3",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.509499999999996,
+    "lng": -0.12539999999999998,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-1C19-9D1D/manage",
+    "configurationUpdatedAt": "2026-06-30T22:00:07Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-0A3C-686A",
+    "name": "lsys-lon-sw-1856",
+    "mac": "59:62:68:df:24:76",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.13.0.4",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.5104,
+    "lng": -0.1272,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-0A3C-686A/manage",
+    "configurationUpdatedAt": "2026-06-30T23:16:20Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-F384-511C",
+    "name": "lsys-lon-sw-1863",
+    "mac": "f3:3d:9e:70:55:47",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.13.0.5",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.513799999999996,
+    "lng": -0.1262,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-F384-511C/manage",
+    "configurationUpdatedAt": "2026-06-30T06:41:00Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-E366-40B1",
+    "name": "lsys-lon-sw-1864",
+    "mac": "69:b7:9f:0e:67:03",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.13.0.6",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.5135,
+    "lng": -0.1245,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-E366-40B1/manage",
+    "configurationUpdatedAt": "2026-06-30T07:49:46Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-CE9D-A1B9",
+    "name": "lsys-lon-sw-1865",
+    "mac": "74:e4:e6:c3:a0:34",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.13.0.7",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.5075,
+    "lng": -0.1227,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-CE9D-A1B9/manage",
+    "configurationUpdatedAt": "2026-06-30T09:18:27Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-B508-891C",
+    "name": "lsys-lon-sw-1871",
+    "mac": "a6:5e:af:e7:d5:53",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.13.0.8",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.5074,
+    "lng": -0.1231,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-B508-891C/manage",
+    "configurationUpdatedAt": "2026-06-30T11:07:36Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-A5FB-D299",
+    "name": "lsys-lon-sw-1872",
+    "mac": "7a:03:5f:f3:be:4e",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.13.0.9",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.5087,
+    "lng": -0.12739999999999999,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-A5FB-D299/manage",
+    "configurationUpdatedAt": "2026-06-30T12:11:49Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-81AE-55C0",
+    "name": "lsys-lon-sw-1894",
+    "mac": "ac:3b:d2:a1:fd:9b",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.13.0.10",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.5126,
+    "lng": -0.1209,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-81AE-55C0/manage",
+    "configurationUpdatedAt": "2026-06-30T14:46:42Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-676D-AD64",
+    "name": "lsys-lon-sw-1904",
+    "mac": "2b:43:2a:78:5b:5f",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.13.0.11",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.5162,
+    "lng": -0.122,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-676D-AD64/manage",
+    "configurationUpdatedAt": "2026-06-30T16:38:43Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-F97D-AB72",
+    "name": "lsys-lon-sw-1912",
+    "mac": "f6:1a:b3:79:d1:4e",
+    "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.13.0.12",
+    "tags": [
+      "lon"
+    ],
+    "lat": 51.5164,
+    "lng": -0.122,
+    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-F97D-AB72/manage",
+    "configurationUpdatedAt": "2026-06-30T06:15:31Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-28C4-F7AF",
+    "name": "lsys-sfo-ap-floor2-1682",
+    "mac": "4b:5a:07:f4:6c:89",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.2",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.775600000000004,
+    "lng": -122.4101,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-28C4-F7AF/manage",
+    "configurationUpdatedAt": "2026-06-30T21:06:04Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-A05B-9E14",
+    "name": "lsys-sfo-ap-floor4-1683",
+    "mac": "1a:f1:60:d1:cc:25",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.3",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7817,
+    "lng": -122.41279999999999,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-A05B-9E14/manage",
+    "configurationUpdatedAt": "2026-06-30T12:35:49Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-94BD-7F5C",
+    "name": "lsys-sfo-ap-floor3-1685",
+    "mac": "e3:a8:48:40:e7:af",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.4",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7753,
+    "lng": -122.411,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-94BD-7F5C/manage",
+    "configurationUpdatedAt": "2026-06-30T13:25:23Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-6DEB-069F",
+    "name": "lsys-sfo-ap-floor1-1689",
+    "mac": "42:3e:fd:fc:89:fb",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.5",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.784400000000005,
+    "lng": -122.4119,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-6DEB-069F/manage",
+    "configurationUpdatedAt": "2026-06-30T16:11:01Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-BB5A-EE7F",
+    "name": "lsys-sfo-ap-floor5-1691",
+    "mac": "f3:76:49:3a:f2:d9",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.6",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7804,
+    "lng": -122.41619999999999,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-BB5A-EE7F/manage",
+    "configurationUpdatedAt": "2026-06-30T10:40:38Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-8C66-CBF1",
+    "name": "lsys-sfo-ap-floor5-1694",
+    "mac": "3f:82:58:90:19:52",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.7",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.775800000000004,
+    "lng": -122.4185,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-8C66-CBF1/manage",
+    "configurationUpdatedAt": "2026-06-30T14:00:58Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-E3C1-A5B5",
+    "name": "lsys-sfo-ap-floor2-1700",
+    "mac": "e5:11:43:68:c3:0e",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.8",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.777,
+    "lng": -122.4157,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-E3C1-A5B5/manage",
+    "configurationUpdatedAt": "2026-06-30T07:48:15Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-E6F2-6990",
+    "name": "lsys-sfo-ap-floor3-1704",
+    "mac": "8a:d6:e2:e9:fd:16",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.9",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.777300000000004,
+    "lng": -122.41799999999999,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-E6F2-6990/manage",
+    "configurationUpdatedAt": "2026-06-30T07:34:38Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-D5A8-6572",
+    "name": "lsys-sfo-ap-floor1-1705",
+    "mac": "c6:1c:b8:90:14:af",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.10",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7819,
+    "lng": -122.413,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-D5A8-6572/manage",
+    "configurationUpdatedAt": "2026-06-30T08:48:24Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-A860-E2C7",
+    "name": "lsys-sfo-ap-floor5-1712",
+    "mac": "59:8f:d9:8d:b2:b6",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.11",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7804,
+    "lng": -122.41839999999999,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-A860-E2C7/manage",
+    "configurationUpdatedAt": "2026-06-30T12:01:36Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-9886-94F2",
+    "name": "lsys-sfo-ap-floor5-1714",
+    "mac": "a2:4f:3f:0f:3e:74",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.12",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7779,
+    "lng": -122.4139,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-9886-94F2/manage",
+    "configurationUpdatedAt": "2026-06-30T13:09:14Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-F592-2A03",
+    "name": "lsys-sfo-ap-floor4-1720",
+    "mac": "96:37:b4:28:37:83",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.13",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7804,
+    "lng": -122.4164,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-F592-2A03/manage",
+    "configurationUpdatedAt": "2026-06-30T06:32:14Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-DC34-54F6",
+    "name": "lsys-sfo-ap-floor5-1731",
+    "mac": "a6:72:d5:c3:66:c4",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.14",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.779900000000005,
+    "lng": -122.4183,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-DC34-54F6/manage",
+    "configurationUpdatedAt": "2026-06-30T08:20:28Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-42AC-2DE0",
+    "name": "lsys-sfo-ap-floor2-1737",
+    "mac": "cf:52:59:c3:2b:0c",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.15",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7793,
+    "lng": -122.41279999999999,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-42AC-2DE0/manage",
+    "configurationUpdatedAt": "2026-06-30T19:15:32Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-55DF-0271",
+    "name": "lsys-sfo-ap-floor4-1739",
+    "mac": "48:59:85:d6:e9:50",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.16",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7774,
+    "lng": -122.4189,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-55DF-0271/manage",
+    "configurationUpdatedAt": "2026-06-30T17:53:37Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-F065-57CC",
+    "name": "lsys-sfo-ap-floor2-1740",
+    "mac": "7a:bf:14:43:ae:d4",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.17",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7825,
+    "lng": -122.4149,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-F065-57CC/manage",
+    "configurationUpdatedAt": "2026-06-30T06:54:19Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-342A-473C",
+    "name": "lsys-sfo-ap-floor3-1745",
+    "mac": "39:a4:68:63:42:66",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.18",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7785,
+    "lng": -122.4183,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-342A-473C/manage",
+    "configurationUpdatedAt": "2026-06-30T20:17:26Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-1487-5DDE",
+    "name": "lsys-sfo-ap-floor3-1747",
+    "mac": "ad:0c:4a:62:41:bc",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.19",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7779,
+    "lng": -122.4118,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-1487-5DDE/manage",
+    "configurationUpdatedAt": "2026-06-30T22:32:25Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-9E3B-F987",
+    "name": "lsys-sfo-ap-floor3-1752",
+    "mac": "8e:f8:fe:cd:3b:ac",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.20",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7828,
+    "lng": -122.41709999999999,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-9E3B-F987/manage",
+    "configurationUpdatedAt": "2026-06-30T12:44:53Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-6A1F-62CA",
+    "name": "lsys-sfo-ap-floor5-1760",
+    "mac": "46:2c:68:76:76:bf",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.21",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7839,
+    "lng": -122.4143,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-6A1F-62CA/manage",
+    "configurationUpdatedAt": "2026-06-30T16:27:13Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-4A73-33E0",
+    "name": "lsys-sfo-ap-floor5-1761",
+    "mac": "e5:e3:3f:4c:cd:d6",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.22",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.782900000000005,
+    "lng": -122.41069999999999,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-4A73-33E0/manage",
+    "configurationUpdatedAt": "2026-06-30T18:42:21Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-2896-4130",
+    "name": "lsys-sfo-ap-floor5-1765",
+    "mac": "ba:b6:41:dc:65:b5",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.23",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7837,
+    "lng": -122.4114,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-2896-4130/manage",
+    "configurationUpdatedAt": "2026-06-30T21:06:50Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-0EFF-8EBD",
+    "name": "lsys-sfo-ap-floor3-1766",
+    "mac": "4e:8a:d0:e0:5b:d4",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.24",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.779,
+    "lng": -122.41929999999999,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-0EFF-8EBD/manage",
+    "configurationUpdatedAt": "2026-06-30T22:56:01Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-E7C9-433C",
+    "name": "lsys-sfo-ap-floor3-1768",
+    "mac": "48:f2:d4:46:46:58",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.25",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7761,
+    "lng": -122.4153,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-E7C9-433C/manage",
+    "configurationUpdatedAt": "2026-06-30T07:31:03Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-E934-962E",
+    "name": "lsys-sfo-ap-floor4-1771",
+    "mac": "78:88:8d:24:02:81",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.26",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.779500000000006,
+    "lng": -122.4143,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-E934-962E/manage",
+    "configurationUpdatedAt": "2026-06-30T07:25:00Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-9F61-EDAB",
+    "name": "lsys-sfo-ap-floor1-1772",
+    "mac": "c5:6a:78:92:a8:82",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.27",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7792,
+    "lng": -122.4156,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-9F61-EDAB/manage",
+    "configurationUpdatedAt": "2026-06-30T12:39:59Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-0350-56A4",
+    "name": "lsys-sfo-ap-floor2-1773",
+    "mac": "0b:82:06:24:4c:d8",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.28",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.782900000000005,
+    "lng": -122.41319999999999,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-0350-56A4/manage",
+    "configurationUpdatedAt": "2026-06-30T23:45:52Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-D55F-963E",
+    "name": "lsys-sfo-ap-floor1-1774",
+    "mac": "e4:c8:74:47:f6:ec",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.29",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7811,
+    "lng": -122.4173,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-D55F-963E/manage",
+    "configurationUpdatedAt": "2026-06-30T08:49:37Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-2980-99A9",
+    "name": "lsys-sfo-ap-floor1-1775",
+    "mac": "cc:50:89:4f:39:68",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.30",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.778600000000004,
+    "lng": -122.41199999999999,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-2980-99A9/manage",
+    "configurationUpdatedAt": "2026-06-30T21:02:56Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-B76F-5C18",
+    "name": "lsys-sfo-ap-floor3-1778",
+    "mac": "3f:0b:66:8f:8e:1f",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.31",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7825,
+    "lng": -122.4129,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-B76F-5C18/manage",
+    "configurationUpdatedAt": "2026-06-30T10:57:21Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-22ED-E58F",
+    "name": "lsys-sfo-ap-floor4-1784",
+    "mac": "30:5f:38:c5:f4:f6",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.32",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.781600000000005,
+    "lng": -122.4144,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-22ED-E58F/manage",
+    "configurationUpdatedAt": "2026-06-30T21:30:59Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-C4DB-36F4",
+    "name": "lsys-sfo-ap-floor4-1785",
+    "mac": "e9:1e:e2:94:ea:91",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.33",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7817,
+    "lng": -122.4101,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-C4DB-36F4/manage",
+    "configurationUpdatedAt": "2026-06-30T10:00:05Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-8F16-5FE3",
+    "name": "lsys-sfo-ap-floor2-1786",
+    "mac": "e7:c6:ca:01:d0:bf",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.34",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7796,
+    "lng": -122.41629999999999,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-8F16-5FE3/manage",
+    "configurationUpdatedAt": "2026-06-30T13:49:30Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-9D91-3E9C",
+    "name": "lsys-sfo-ap-floor1-1787",
+    "mac": "6f:2d:35:d7:3f:da",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.35",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7777,
+    "lng": -122.4135,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-9D91-3E9C/manage",
+    "configurationUpdatedAt": "2026-06-30T12:47:43Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-FC4E-4B67",
+    "name": "lsys-sfo-ap-floor2-1790",
+    "mac": "0d:20:ca:0d:fc:09",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.36",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.775200000000005,
+    "lng": -122.4161,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-FC4E-4B67/manage",
+    "configurationUpdatedAt": "2026-06-30T06:03:30Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-CD0C-B902",
+    "name": "lsys-sfo-ap-floor3-1791",
+    "mac": "85:87:64:ae:16:d5",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.37",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7811,
+    "lng": -122.4177,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-CD0C-B902/manage",
+    "configurationUpdatedAt": "2026-06-30T09:25:08Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-9BBF-C8A5",
+    "name": "lsys-sfo-ap-floor2-1792",
+    "mac": "9b:9d:68:b1:32:6c",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.38",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.781400000000005,
+    "lng": -122.4129,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-9BBF-C8A5/manage",
+    "configurationUpdatedAt": "2026-06-30T12:55:29Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-A314-BCC4",
+    "name": "lsys-sfo-ap-floor2-1794",
+    "mac": "70:d1:36:64:c9:15",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.39",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.777300000000004,
+    "lng": -122.41879999999999,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-A314-BCC4/manage",
+    "configurationUpdatedAt": "2026-06-30T12:24:12Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-49CF-D49F",
+    "name": "lsys-sfo-ap-floor1-1799",
+    "mac": "b7:0c:bd:c4:ad:27",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.40",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.778000000000006,
+    "lng": -122.4114,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-49CF-D49F/manage",
+    "configurationUpdatedAt": "2026-06-30T18:45:05Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-83E3-91F6",
+    "name": "lsys-sfo-ap-floor1-1803",
+    "mac": "11:9b:2d:0e:c0:64",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.41",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7815,
+    "lng": -122.41329999999999,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-83E3-91F6/manage",
+    "configurationUpdatedAt": "2026-06-30T14:37:17Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-E5F6-1C0D",
+    "name": "lsys-sfo-ap-floor5-1805",
+    "mac": "fa:71:08:f6:27:e4",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.42",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.783,
+    "lng": -122.4139,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-E5F6-1C0D/manage",
+    "configurationUpdatedAt": "2026-06-30T07:38:50Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-87CD-4185",
+    "name": "lsys-sfo-ap-floor4-1806",
+    "mac": "63:85:e7:c1:ea:8f",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.43",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7822,
+    "lng": -122.411,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-87CD-4185/manage",
+    "configurationUpdatedAt": "2026-06-30T14:20:35Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-1554-093D",
+    "name": "lsys-sfo-ap-floor3-1810",
+    "mac": "b9:80:82:2f:1d:0b",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.44",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.781400000000005,
+    "lng": -122.4152,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-1554-093D/manage",
+    "configurationUpdatedAt": "2026-06-30T22:29:00Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-1DE4-91DF",
+    "name": "lsys-sfo-ap-floor2-1815",
+    "mac": "2a:66:e0:5c:71:30",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.45",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7792,
+    "lng": -122.4119,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-1DE4-91DF/manage",
+    "configurationUpdatedAt": "2026-06-30T21:52:28Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-BC00-1FF5",
+    "name": "lsys-sfo-ap-floor2-1817",
+    "mac": "aa:77:10:ac:f3:85",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.46",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.783,
+    "lng": -122.4156,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-BC00-1FF5/manage",
+    "configurationUpdatedAt": "2026-06-30T10:37:52Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-8224-F174",
+    "name": "lsys-sfo-ap-floor1-1824",
+    "mac": "e6:91:70:b0:8a:ba",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.47",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7761,
+    "lng": -122.4173,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-8224-F174/manage",
+    "configurationUpdatedAt": "2026-06-30T14:44:44Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-69CA-9E95",
+    "name": "lsys-sfo-ap-floor4-1825",
+    "mac": "c4:e7:fc:9d:78:56",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.48",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.784600000000005,
+    "lng": -122.4148,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-69CA-9E95/manage",
+    "configurationUpdatedAt": "2026-06-30T16:28:38Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-1836-2C48",
+    "name": "lsys-sfo-ap-floor1-1833",
+    "mac": "72:2c:73:a0:6a:c2",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.49",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7785,
+    "lng": -122.41019999999999,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-1836-2C48/manage",
+    "configurationUpdatedAt": "2026-06-30T22:16:42Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-C189-AD0C",
+    "name": "lsys-sfo-ap-floor1-1835",
+    "mac": "5a:9d:0e:0b:20:e5",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.50",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7749,
+    "lng": -122.41629999999999,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-C189-AD0C/manage",
+    "configurationUpdatedAt": "2026-06-30T10:14:15Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-1E98-DA74",
+    "name": "lsys-sfo-ap-floor3-1840",
+    "mac": "af:d1:98:2a:c1:c0",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.11.6.51",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.777300000000004,
+    "lng": -122.417,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-1E98-DA74/manage",
+    "configurationUpdatedAt": "2026-06-30T21:49:28Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-D5BC-6F84",
+    "name": "lsys-sfo-sw-1846",
+    "mac": "cb:a8:b7:31:d9:40",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.11.0.2",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.779700000000005,
+    "lng": -122.4097,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-D5BC-6F84/manage",
+    "configurationUpdatedAt": "2026-06-30T08:48:04Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-FEB7-2A91",
+    "name": "lsys-sfo-sw-1849",
+    "mac": "94:66:b7:7b:b1:5a",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.11.0.3",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.784600000000005,
+    "lng": -122.4166,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-FEB7-2A91/manage",
+    "configurationUpdatedAt": "2026-06-30T05:53:13Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-4C52-95E4",
+    "name": "lsys-sfo-sw-1851",
+    "mac": "9c:53:49:5c:75:0f",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.11.0.4",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7821,
+    "lng": -122.4165,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-4C52-95E4/manage",
+    "configurationUpdatedAt": "2026-06-30T18:34:22Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-A7AE-BD2A",
+    "name": "lsys-sfo-sw-1857",
+    "mac": "58:cf:06:d6:1e:50",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.11.0.5",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7775,
+    "lng": -122.4118,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-A7AE-BD2A/manage",
+    "configurationUpdatedAt": "2026-06-30T12:04:34Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-8F8E-4DFA",
+    "name": "lsys-sfo-sw-1859",
+    "mac": "4e:a9:c8:e0:6c:eb",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.11.0.6",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7811,
+    "lng": -122.4139,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-8F8E-4DFA/manage",
+    "configurationUpdatedAt": "2026-06-30T13:47:30Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-19E5-7E5F",
+    "name": "lsys-sfo-sw-1861",
+    "mac": "ae:55:3e:bf:9d:48",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.11.0.7",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.78,
+    "lng": -122.4194,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-19E5-7E5F/manage",
+    "configurationUpdatedAt": "2026-06-30T22:09:31Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-0678-38BE",
+    "name": "lsys-sfo-sw-1874",
+    "mac": "b1:ab:e2:81:1b:b2",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.11.0.8",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7775,
+    "lng": -122.4106,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-0678-38BE/manage",
+    "configurationUpdatedAt": "2026-06-30T23:32:24Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-312A-DBF0",
+    "name": "lsys-sfo-sw-1878",
+    "mac": "ca:8e:f4:c3:09:36",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.11.0.9",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7753,
+    "lng": -122.4146,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-312A-DBF0/manage",
+    "configurationUpdatedAt": "2026-06-30T20:30:14Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-416D-E265",
+    "name": "lsys-sfo-sw-1880",
+    "mac": "07:98:16:bf:7b:e6",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.11.0.10",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7806,
+    "lng": -122.41929999999999,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-416D-E265/manage",
+    "configurationUpdatedAt": "2026-06-30T19:20:51Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-14B3-A67B",
+    "name": "lsys-sfo-sw-1882",
+    "mac": "39:16:34:16:23:36",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.11.0.11",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7768,
+    "lng": -122.4125,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-14B3-A67B/manage",
+    "configurationUpdatedAt": "2026-06-30T22:31:41Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-668C-FACD",
+    "name": "lsys-sfo-sw-1883",
+    "mac": "8e:31:65:d9:20:90",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.11.0.12",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.775400000000005,
+    "lng": -122.4194,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-668C-FACD/manage",
+    "configurationUpdatedAt": "2026-06-30T16:42:28Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-63F3-364E",
+    "name": "lsys-sfo-sw-1889",
+    "mac": "ee:47:af:f4:70:21",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.11.0.13",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7751,
+    "lng": -122.4117,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-63F3-364E/manage",
+    "configurationUpdatedAt": "2026-06-30T16:53:33Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-B4C3-A695",
+    "name": "lsys-sfo-sw-1893",
+    "mac": "57:1c:e5:ef:c6:e2",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.11.0.14",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7794,
+    "lng": -122.4173,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-B4C3-A695/manage",
+    "configurationUpdatedAt": "2026-06-30T11:08:45Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-89CD-4790",
+    "name": "lsys-sfo-sw-1896",
+    "mac": "d6:3a:9d:25:83:d8",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.11.0.15",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.776900000000005,
+    "lng": -122.41919999999999,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-89CD-4790/manage",
+    "configurationUpdatedAt": "2026-06-30T14:12:03Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-2747-C7C4",
+    "name": "lsys-sfo-sw-1897",
+    "mac": "c8:40:af:1f:53:f4",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.11.0.16",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7789,
+    "lng": -122.4105,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-2747-C7C4/manage",
+    "configurationUpdatedAt": "2026-06-30T21:12:25Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-5A6F-FE28",
+    "name": "lsys-sfo-sw-1898",
+    "mac": "1c:1e:ee:23:53:2b",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.11.0.17",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7813,
+    "lng": -122.4096,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-5A6F-FE28/manage",
+    "configurationUpdatedAt": "2026-06-30T17:34:09Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-8E07-8253",
+    "name": "lsys-sfo-sw-1899",
+    "mac": "c7:14:86:a0:67:a0",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.11.0.18",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.781200000000005,
+    "lng": -122.41199999999999,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-8E07-8253/manage",
+    "configurationUpdatedAt": "2026-06-30T13:54:01Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-35CE-5D3F",
+    "name": "lsys-sfo-sw-1900",
+    "mac": "0c:71:4e:49:06:e6",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.11.0.19",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.782000000000004,
+    "lng": -122.4156,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-35CE-5D3F/manage",
+    "configurationUpdatedAt": "2026-06-30T20:10:26Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-16C4-1A53",
+    "name": "lsys-sfo-sw-1903",
+    "mac": "e6:9f:31:f1:01:3b",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.11.0.20",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.778800000000004,
+    "lng": -122.4101,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-16C4-1A53/manage",
+    "configurationUpdatedAt": "2026-06-30T22:22:52Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-2E6F-0560",
+    "name": "lsys-sfo-sw-1906",
+    "mac": "2d:5d:b5:0d:81:85",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.11.0.21",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7825,
+    "lng": -122.41669999999999,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-2E6F-0560/manage",
+    "configurationUpdatedAt": "2026-06-30T20:41:53Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-F6D7-48B9",
+    "name": "lsys-sfo-sw-1907",
+    "mac": "df:93:31:26:cf:ef",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.11.0.22",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7766,
+    "lng": -122.41409999999999,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-F6D7-48B9/manage",
+    "configurationUpdatedAt": "2026-06-30T06:26:49Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-C339-91EA",
+    "name": "lsys-sfo-sw-1911",
+    "mac": "ea:ae:76:08:eb:4c",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.11.0.23",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.780300000000004,
+    "lng": -122.41319999999999,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-C339-91EA/manage",
+    "configurationUpdatedAt": "2026-06-30T10:07:03Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-E81F-CFD9",
+    "name": "lsys-sfo-sw-1913",
+    "mac": "7e:79:59:81:1e:10",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.11.0.24",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.775800000000004,
+    "lng": -122.4166,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-E81F-CFD9/manage",
+    "configurationUpdatedAt": "2026-06-30T07:29:37Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-DEEA-5004",
+    "name": "lsys-sfo-sw-1916",
+    "mac": "6d:d4:ef:e3:f9:1b",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.11.0.25",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.783300000000004,
+    "lng": -122.4134,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-DEEA-5004/manage",
+    "configurationUpdatedAt": "2026-06-30T08:08:54Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-F67C-3807",
+    "name": "lsys-sfo-sw-1917",
+    "mac": "0c:11:b8:0b:23:2f",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.11.0.26",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7792,
+    "lng": -122.4159,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-F67C-3807/manage",
+    "configurationUpdatedAt": "2026-06-30T06:28:20Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-729B-3693",
+    "name": "lsys-sfo-sw-1919",
+    "mac": "83:6c:93:6a:a7:fb",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.11.0.27",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.782000000000004,
+    "lng": -122.41239999999999,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-729B-3693/manage",
+    "configurationUpdatedAt": "2026-06-30T15:51:01Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-9670-3354",
+    "name": "lsys-sfo-rtr-1921",
+    "mac": "80:98:03:b4:a6:eb",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MX450",
+    "productType": "appliance",
+    "firmware": "wired-18-211",
+    "lanIp": "10.11.0.28",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7789,
+    "lng": -122.41199999999999,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-9670-3354/manage",
+    "configurationUpdatedAt": "2026-06-30T13:18:08Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MX 18.211"
+      }
+    ],
+    "wan1Ip": "203.150.112.51"
+  },
+  {
+    "serial": "Q2QN-3E80-CA66",
+    "name": "lsys-sfo-rtr-1925",
+    "mac": "3e:a2:5a:01:78:97",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MX450",
+    "productType": "appliance",
+    "firmware": "wired-18-211",
+    "lanIp": "10.11.0.29",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7763,
+    "lng": -122.4097,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-3E80-CA66/manage",
+    "configurationUpdatedAt": "2026-06-30T19:33:20Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MX 18.211"
+      }
+    ],
+    "wan1Ip": "203.62.128.202"
+  },
+  {
+    "serial": "Q2QN-0B35-400C",
+    "name": "lsys-sfo-rtr-1932",
+    "mac": "22:33:e1:b8:fc:81",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MX450",
+    "productType": "appliance",
+    "firmware": "wired-18-211",
+    "lanIp": "10.11.0.30",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7845,
+    "lng": -122.4118,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-0B35-400C/manage",
+    "configurationUpdatedAt": "2026-06-30T23:12:11Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MX 18.211"
+      }
+    ],
+    "wan1Ip": "203.11.53.64"
+  },
+  {
+    "serial": "Q2QN-4E81-1B7C",
+    "name": "lsys-sfo-rtr-1933",
+    "mac": "85:bd:2a:9b:ff:4b",
+    "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MX450",
+    "productType": "appliance",
+    "firmware": "wired-18-211",
+    "lanIp": "10.11.0.31",
+    "tags": [
+      "sfo"
+    ],
+    "lat": 37.7785,
+    "lng": -122.4151,
+    "address": "100 Market St, San Francisco, CA 94105",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-4E81-1B7C/manage",
+    "configurationUpdatedAt": "2026-06-30T18:25:03Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MX 18.211"
+      }
+    ],
+    "wan1Ip": "203.78.129.27"
+  },
+  {
+    "serial": "Q2KD-9BD5-AAB8",
+    "name": "lsys-nyc-ap-floor5-1681",
+    "mac": "8e:b2:f9:88:0f:88",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.12.6.2",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.7132,
+    "lng": -73.9991,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-9BD5-AAB8/manage",
+    "configurationUpdatedAt": "2026-06-30T12:55:07Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-906C-9819",
+    "name": "lsys-nyc-ap-floor5-1701",
+    "mac": "26:27:83:69:6f:48",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.12.6.3",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.7165,
+    "lng": -74.0013,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-906C-9819/manage",
+    "configurationUpdatedAt": "2026-06-30T13:43:48Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-9D45-BFA7",
+    "name": "lsys-nyc-ap-floor2-1702",
+    "mac": "a6:4f:e8:73:f8:ea",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.12.6.4",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.719100000000005,
+    "lng": -74.0054,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-9D45-BFA7/manage",
+    "configurationUpdatedAt": "2026-06-30T12:48:59Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-E95E-15BB",
+    "name": "lsys-nyc-ap-floor3-1709",
+    "mac": "bc:02:f1:40:d7:c3",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.12.6.5",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.719100000000005,
+    "lng": -74.005,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-E95E-15BB/manage",
+    "configurationUpdatedAt": "2026-06-30T07:24:18Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-5A39-61F7",
+    "name": "lsys-nyc-ap-floor5-1715",
+    "mac": "99:bd:72:6a:f9:28",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.12.6.6",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.7207,
+    "lng": -74.0036,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-5A39-61F7/manage",
+    "configurationUpdatedAt": "2026-06-30T17:35:03Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-481E-8E26",
+    "name": "lsys-nyc-ap-floor3-1724",
+    "mac": "48:83:04:40:2e:61",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.12.6.7",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.7218,
+    "lng": -73.9987,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-481E-8E26/manage",
+    "configurationUpdatedAt": "2026-06-30T18:52:18Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-79AF-A714",
+    "name": "lsys-nyc-ap-floor1-1744",
+    "mac": "b3:09:fd:a8:1a:ef",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.12.6.8",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.72,
+    "lng": -74.0039,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-79AF-A714/manage",
+    "configurationUpdatedAt": "2026-06-30T15:20:49Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-8B0B-90F4",
+    "name": "lsys-nyc-ap-floor4-1748",
+    "mac": "47:99:e8:25:4b:a2",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.12.6.9",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.7136,
+    "lng": -74.005,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-8B0B-90F4/manage",
+    "configurationUpdatedAt": "2026-06-30T14:06:45Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-95C6-092F",
+    "name": "lsys-nyc-ap-floor5-1751",
+    "mac": "d3:70:55:58:34:ec",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.12.6.10",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.7179,
+    "lng": -74.0002,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-95C6-092F/manage",
+    "configurationUpdatedAt": "2026-06-30T13:20:58Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-0A84-48C1",
+    "name": "lsys-nyc-ap-floor1-1759",
+    "mac": "bb:d2:71:06:f2:4a",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.12.6.11",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.7153,
+    "lng": -74.0016,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-0A84-48C1/manage",
+    "configurationUpdatedAt": "2026-06-30T23:15:08Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-58F9-B195",
+    "name": "lsys-nyc-ap-floor5-1770",
+    "mac": "b1:93:21:c5:6e:54",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.12.6.12",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.718900000000005,
+    "lng": -74.0009,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-58F9-B195/manage",
+    "configurationUpdatedAt": "2026-06-30T17:40:23Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-C60A-9B08",
+    "name": "lsys-nyc-ap-floor3-1788",
+    "mac": "74:e2:5d:a9:70:3d",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.12.6.13",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.7216,
+    "lng": -74.0004,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-C60A-9B08/manage",
+    "configurationUpdatedAt": "2026-06-30T09:55:02Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-E790-B71D",
+    "name": "lsys-nyc-ap-floor3-1795",
+    "mac": "6e:ee:b5:3e:fa:92",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.12.6.14",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.7205,
+    "lng": -73.9993,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-E790-B71D/manage",
+    "configurationUpdatedAt": "2026-06-30T07:32:00Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-2E4D-6043",
+    "name": "lsys-nyc-ap-floor3-1796",
+    "mac": "10:58:77:8b:78:af",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.12.6.15",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.7171,
+    "lng": -74.0059,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-2E4D-6043/manage",
+    "configurationUpdatedAt": "2026-06-30T20:42:27Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-8169-FFE1",
+    "name": "lsys-nyc-ap-floor4-1797",
+    "mac": "83:cf:a7:e6:d1:15",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.12.6.16",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.713300000000004,
+    "lng": -73.998,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-8169-FFE1/manage",
+    "configurationUpdatedAt": "2026-06-30T14:47:51Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-4959-9852",
+    "name": "lsys-nyc-ap-floor4-1800",
+    "mac": "9c:30:f1:1d:e7:3e",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.12.6.17",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.7222,
+    "lng": -73.9985,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-4959-9852/manage",
+    "configurationUpdatedAt": "2026-06-30T18:47:03Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-CA57-82B1",
+    "name": "lsys-nyc-ap-floor4-1812",
+    "mac": "c3:86:3e:fa:d6:50",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.12.6.18",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.7185,
+    "lng": -74.0037,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-CA57-82B1/manage",
+    "configurationUpdatedAt": "2026-06-30T09:36:41Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-9D7F-D10B",
+    "name": "lsys-nyc-ap-floor2-1826",
+    "mac": "68:0f:ea:3e:e0:4a",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.12.6.19",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.7143,
+    "lng": -74.0022,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-9D7F-D10B/manage",
+    "configurationUpdatedAt": "2026-06-30T12:48:01Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-E70B-77BF",
+    "name": "lsys-nyc-ap-floor4-1827",
+    "mac": "3e:e5:10:1f:6d:ff",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.12.6.20",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.7183,
+    "lng": -73.9976,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-E70B-77BF/manage",
+    "configurationUpdatedAt": "2026-06-30T07:34:13Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-9D2C-0290",
+    "name": "lsys-nyc-ap-floor2-1830",
+    "mac": "3e:74:7c:23:69:e7",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.12.6.21",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.7184,
+    "lng": -74.0044,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-9D2C-0290/manage",
+    "configurationUpdatedAt": "2026-06-30T12:49:24Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2KD-87AF-E817",
+    "name": "lsys-nyc-ap-floor3-1838",
+    "mac": "84:06:25:a3:73:46",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MR57",
+    "productType": "wireless",
+    "firmware": "wireless-29-6",
+    "lanIp": "10.12.6.22",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.7143,
+    "lng": -74.0044,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2KD-87AF-E817/manage",
+    "configurationUpdatedAt": "2026-06-30T14:21:05Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MR 29.6"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-5F17-9D76",
+    "name": "lsys-nyc-sw-1841",
+    "mac": "39:92:29:98:b0:e5",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.12.0.2",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.7138,
+    "lng": -73.9968,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-5F17-9D76/manage",
+    "configurationUpdatedAt": "2026-06-30T17:14:17Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-9E01-F0DF",
+    "name": "lsys-nyc-sw-1843",
+    "mac": "a5:ab:ba:f4:59:90",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.12.0.3",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.719100000000005,
+    "lng": -73.9977,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-9E01-F0DF/manage",
+    "configurationUpdatedAt": "2026-06-30T12:45:51Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-2141-1BBD",
+    "name": "lsys-nyc-sw-1845",
+    "mac": "d6:4a:f8:bb:21:f3",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.12.0.4",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.712900000000005,
+    "lng": -74.0052,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-2141-1BBD/manage",
+    "configurationUpdatedAt": "2026-06-30T21:38:07Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-C71A-907C",
+    "name": "lsys-nyc-sw-1850",
+    "mac": "94:ad:f0:bd:10:83",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.12.0.5",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.7216,
+    "lng": -74.0031,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-C71A-907C/manage",
+    "configurationUpdatedAt": "2026-06-30T09:50:30Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-1024-49C5",
+    "name": "lsys-nyc-sw-1852",
+    "mac": "49:6c:9a:76:7b:96",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.12.0.6",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.7213,
+    "lng": -74.0037,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-1024-49C5/manage",
+    "configurationUpdatedAt": "2026-06-30T22:51:08Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-5697-952A",
+    "name": "lsys-nyc-sw-1853",
+    "mac": "75:f7:b5:c6:d0:46",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.12.0.7",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.7214,
+    "lng": -74.0032,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-5697-952A/manage",
+    "configurationUpdatedAt": "2026-06-30T17:50:33Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-611F-E0A6",
+    "name": "lsys-nyc-sw-1873",
+    "mac": "ec:c6:fb:ed:48:fb",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.12.0.8",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.7138,
+    "lng": -74.0017,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-611F-E0A6/manage",
+    "configurationUpdatedAt": "2026-06-30T17:05:37Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-2163-CF85",
+    "name": "lsys-nyc-sw-1875",
+    "mac": "10:20:77:34:f6:e2",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.12.0.9",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.7153,
+    "lng": -73.9973,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-2163-CF85/manage",
+    "configurationUpdatedAt": "2026-06-30T21:37:33Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-B760-B11E",
+    "name": "lsys-nyc-sw-1885",
+    "mac": "a1:79:66:7d:7d:09",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.12.0.10",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.717,
+    "lng": -74.0038,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-B760-B11E/manage",
+    "configurationUpdatedAt": "2026-06-30T10:57:36Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-E466-9C3D",
+    "name": "lsys-nyc-sw-1887",
+    "mac": "4b:95:c6:36:df:e8",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.12.0.11",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.722500000000004,
+    "lng": -74.004,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-E466-9C3D/manage",
+    "configurationUpdatedAt": "2026-06-30T07:45:30Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-18CC-B206",
+    "name": "lsys-nyc-sw-1891",
+    "mac": "38:d6:03:1b:ff:0a",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.12.0.12",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.7202,
+    "lng": -74.0014,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-18CC-B206/manage",
+    "configurationUpdatedAt": "2026-06-30T22:14:12Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-AD38-DCFB",
+    "name": "lsys-nyc-sw-1892",
+    "mac": "ae:dd:95:da:07:f0",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.12.0.13",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.7199,
+    "lng": -74.0037,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-AD38-DCFB/manage",
+    "configurationUpdatedAt": "2026-06-30T11:40:56Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-7444-01ED",
+    "name": "lsys-nyc-sw-1902",
+    "mac": "13:4e:f9:ad:93:db",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.12.0.14",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.722100000000005,
+    "lng": -74.0019,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-7444-01ED/manage",
+    "configurationUpdatedAt": "2026-06-30T15:43:56Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-088D-C033",
+    "name": "lsys-nyc-sw-1905",
+    "mac": "56:9c:eb:d4:f0:9e",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.12.0.15",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.713100000000004,
+    "lng": -74.0036,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-088D-C033/manage",
+    "configurationUpdatedAt": "2026-06-30T23:23:31Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-8046-DFDC",
+    "name": "lsys-nyc-sw-1910",
+    "mac": "f4:76:f1:ed:61:b8",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.12.0.16",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.7136,
+    "lng": -74.0052,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-8046-DFDC/manage",
+    "configurationUpdatedAt": "2026-06-30T14:52:42Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-7283-CA56",
+    "name": "lsys-nyc-sw-1918",
+    "mac": "60:1b:a4:19:b8:a8",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MS225-48",
+    "productType": "switch",
+    "firmware": "switch-15-21",
+    "lanIp": "10.12.0.17",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.7226,
+    "lng": -73.997,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-7283-CA56/manage",
+    "configurationUpdatedAt": "2026-06-30T15:51:25Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MS 15.21"
+      }
+    ]
+  },
+  {
+    "serial": "Q2QN-D33F-2533",
+    "name": "lsys-nyc-rtr-1927",
+    "mac": "fe:87:7b:f9:68:06",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MX450",
+    "productType": "appliance",
+    "firmware": "wired-18-211",
+    "lanIp": "10.12.0.18",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.7151,
+    "lng": -74.0039,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-D33F-2533/manage",
+    "configurationUpdatedAt": "2026-06-30T08:58:41Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MX 18.211"
+      }
+    ],
+    "wan1Ip": "203.211.63.37"
+  },
+  {
+    "serial": "Q2QN-2978-E19A",
+    "name": "lsys-nyc-rtr-1929",
+    "mac": "64:2f:a3:1e:89:a5",
+    "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+    "organizationId": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+    "model": "MX450",
+    "productType": "appliance",
+    "firmware": "wired-18-211",
+    "lanIp": "10.12.0.19",
+    "tags": [
+      "nyc"
+    ],
+    "lat": 40.7182,
+    "lng": -74.0031,
+    "address": "1 World Trade Center, New York, NY 10007",
+    "notes": null,
+    "url": "https://mock.meraki.com/devices/Q2QN-2978-E19A/manage",
+    "configurationUpdatedAt": "2026-06-30T21:03:04Z",
+    "details": [
+      {
+        "name": "Running software version",
+        "value": "MX 18.211"
+      }
+    ],
+    "wan1Ip": "203.41.120.225"
+  }
+]

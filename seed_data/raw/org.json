@@ -1,0 +1,19 @@
+{
+  "id": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+  "name": "Luminary Systems",
+  "url": "https://mock.meraki.com/organizations/luminary-systems/manage",
+  "api": {
+    "enabled": true
+  },
+  "licensing": {
+    "model": "co-term"
+  },
+  "cloud": {
+    "region": {
+      "name": "North America",
+      "host": {
+        "name": "United States"
+      }
+    }
+  }
+}

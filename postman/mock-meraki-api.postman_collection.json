@@ -1,0 +1,170 @@
+{
+  "info": {
+    "name": "Mock Cisco Meraki API — Luminary Systems",
+    "description": "Mock Meraki Dashboard API serving 1124 assets across SFO / NYC / LON.\n\nAuth: X-Cisco-Meraki-API-Key header.\nOrg: 51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef\nNetworks:\n  SFO: 6fec2fb6-45dc-d2de-a94c-25498f93f8c7 (495 clients + 80 devices)\n  NYC: d7495cf1-9fd6-e48a-fdd8-c63dedeb069a (220 clients + 39 devices)\n  LON: 4ec98c15-f3a3-c9b7-1393-d4dea0efe855 (254 clients + 36 devices)",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    { "key": "baseUrl",   "value": "https://placeholder.us-east-1.awsapprunner.com" },
+    { "key": "apiKey",    "value": "mock_meraki_key_luminary" },
+    { "key": "orgId",     "value": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef" },
+    { "key": "sfoNetId",  "value": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7" },
+    { "key": "nycNetId",  "value": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a" },
+    { "key": "lonNetId",  "value": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855" },
+    { "key": "sampleSerial", "value": "Q2KD-A376-CFD2" }
+  ],
+  "auth": {
+    "type": "apikey",
+    "apikey": [
+      { "key": "key",   "value": "X-Cisco-Meraki-API-Key" },
+      { "key": "value", "value": "{{apiKey}}" },
+      { "key": "in",    "value": "header" }
+    ]
+  },
+  "item": [
+    {
+      "name": "Health",
+      "item": [
+        {
+          "name": "Health Check",
+          "request": {
+            "auth": { "type": "noauth" },
+            "method": "GET",
+            "url": { "raw": "{{baseUrl}}/", "host": ["{{baseUrl}}"], "path": [""] }
+          }
+        },
+        {
+          "name": "Debug Requests",
+          "request": {
+            "auth": { "type": "noauth" },
+            "method": "GET",
+            "url": { "raw": "{{baseUrl}}/debug/requests", "host": ["{{baseUrl}}"], "path": ["debug","requests"] }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Organizations",
+      "item": [
+        {
+          "name": "Get Organizations",
+          "request": {
+            "method": "GET",
+            "url": { "raw": "{{baseUrl}}/api/v1/organizations", "host": ["{{baseUrl}}"], "path": ["api","v1","organizations"] }
+          }
+        },
+        {
+          "name": "Get Org Networks",
+          "request": {
+            "method": "GET",
+            "url": { "raw": "{{baseUrl}}/api/v1/organizations/{{orgId}}/networks", "host": ["{{baseUrl}}"], "path": ["api","v1","organizations","{{orgId}}","networks"] }
+          }
+        },
+        {
+          "name": "Get Org Devices",
+          "request": {
+            "method": "GET",
+            "url": { "raw": "{{baseUrl}}/api/v1/organizations/{{orgId}}/devices", "host": ["{{baseUrl}}"], "path": ["api","v1","organizations","{{orgId}}","devices"] }
+          }
+        },
+        {
+          "name": "Get Org Device Statuses",
+          "request": {
+            "method": "GET",
+            "url": { "raw": "{{baseUrl}}/api/v1/organizations/{{orgId}}/devices/statuses", "host": ["{{baseUrl}}"], "path": ["api","v1","organizations","{{orgId}}","devices","statuses"] }
+          }
+        },
+        {
+          "name": "Get Org Device Availabilities",
+          "request": {
+            "method": "GET",
+            "url": { "raw": "{{baseUrl}}/api/v1/organizations/{{orgId}}/devices/availabilities", "host": ["{{baseUrl}}"], "path": ["api","v1","organizations","{{orgId}}","devices","availabilities"] }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Networks — SFO",
+      "item": [
+        {
+          "name": "SFO — Clients",
+          "request": {
+            "method": "GET",
+            "url": { "raw": "{{baseUrl}}/api/v1/networks/{{sfoNetId}}/clients?perPage=1000", "host": ["{{baseUrl}}"], "path": ["api","v1","networks","{{sfoNetId}}","clients"], "query": [{"key":"perPage","value":"1000"}] }
+          }
+        },
+        {
+          "name": "SFO — Appliance VLANs",
+          "request": {
+            "method": "GET",
+            "url": { "raw": "{{baseUrl}}/api/v1/networks/{{sfoNetId}}/appliance/vlans", "host": ["{{baseUrl}}"], "path": ["api","v1","networks","{{sfoNetId}}","appliance","vlans"] }
+          }
+        },
+        {
+          "name": "SFO — VLAN Profiles",
+          "request": {
+            "method": "GET",
+            "url": { "raw": "{{baseUrl}}/api/v1/networks/{{sfoNetId}}/vlanProfiles", "host": ["{{baseUrl}}"], "path": ["api","v1","networks","{{sfoNetId}}","vlanProfiles"] }
+          }
+        },
+        {
+          "name": "SFO — VPN Config",
+          "request": {
+            "method": "GET",
+            "url": { "raw": "{{baseUrl}}/api/v1/networks/{{sfoNetId}}/appliance/vpn/siteToSiteVpn", "host": ["{{baseUrl}}"], "path": ["api","v1","networks","{{sfoNetId}}","appliance","vpn","siteToSiteVpn"] }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Networks — NYC",
+      "item": [
+        {
+          "name": "NYC — Clients",
+          "request": {
+            "method": "GET",
+            "url": { "raw": "{{baseUrl}}/api/v1/networks/{{nycNetId}}/clients?perPage=1000", "host": ["{{baseUrl}}"], "path": ["api","v1","networks","{{nycNetId}}","clients"], "query": [{"key":"perPage","value":"1000"}] }
+          }
+        },
+        {
+          "name": "NYC — Appliance VLANs",
+          "request": {
+            "method": "GET",
+            "url": { "raw": "{{baseUrl}}/api/v1/networks/{{nycNetId}}/appliance/vlans", "host": ["{{baseUrl}}"], "path": ["api","v1","networks","{{nycNetId}}","appliance","vlans"] }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Networks — LON",
+      "item": [
+        {
+          "name": "LON — Clients",
+          "request": {
+            "method": "GET",
+            "url": { "raw": "{{baseUrl}}/api/v1/networks/{{lonNetId}}/clients?perPage=1000", "host": ["{{baseUrl}}"], "path": ["api","v1","networks","{{lonNetId}}","clients"], "query": [{"key":"perPage","value":"1000"}] }
+          }
+        },
+        {
+          "name": "LON — Appliance VLANs",
+          "request": {
+            "method": "GET",
+            "url": { "raw": "{{baseUrl}}/api/v1/networks/{{lonNetId}}/appliance/vlans", "host": ["{{baseUrl}}"], "path": ["api","v1","networks","{{lonNetId}}","appliance","vlans"] }
+          }
+        }
+      ]
+    },
+    {
+      "name": "Devices",
+      "item": [
+        {
+          "name": "Device Clients (by serial)",
+          "request": {
+            "method": "GET",
+            "url": { "raw": "{{baseUrl}}/api/v1/devices/{{sampleSerial}}/clients", "host": ["{{baseUrl}}"], "path": ["api","v1","devices","{{sampleSerial}}","clients"] }
+          }
+        }
+      ]
+    }
+  ]
+}
