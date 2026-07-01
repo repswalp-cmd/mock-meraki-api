@@ -123,8 +123,8 @@ aws ecr get-login-password --profile okta-sso --region us-east-1 \
 
 # Build AMD64
 docker build --no-cache --platform linux/amd64 -t mock-meraki-build .
-docker tag mock-meraki-build 905418046272.dkr.ecr.us-east-1.amazonaws.com/mock-meraki-api-v2:latest
-docker push 905418046272.dkr.ecr.us-east-1.amazonaws.com/mock-meraki-api-v2:latest
+docker tag mock-meraki-build 905418046272.dkr.ecr.us-east-1.amazonaws.com/mock-meraki-api:latest
+docker push 905418046272.dkr.ecr.us-east-1.amazonaws.com/mock-meraki-api:latest
 ```
 
 App Runner picks up the new image automatically (`AutoDeploymentsEnabled=True`).

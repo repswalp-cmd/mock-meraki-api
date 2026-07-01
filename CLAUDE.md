@@ -95,13 +95,13 @@ xlsx files are gitignored.
 
 ## AWS / Docker deploy
 
-ECR repo: `mock-meraki-api-v2` (account `905418046272`, region `us-east-1`).
+ECR repo: `mock-meraki-api` (account `905418046272`, region `us-east-1`).
 Build with intermediate tag to avoid zsh `:l` modifier bug:
 
 ```bash
 docker build --no-cache --platform linux/amd64 -t mock-meraki-build .
-docker tag mock-meraki-build 905418046272.dkr.ecr.us-east-1.amazonaws.com/mock-meraki-api-v2:latest
-docker push 905418046272.dkr.ecr.us-east-1.amazonaws.com/mock-meraki-api-v2:latest
+docker tag mock-meraki-build 905418046272.dkr.ecr.us-east-1.amazonaws.com/mock-meraki-api:latest
+docker push 905418046272.dkr.ecr.us-east-1.amazonaws.com/mock-meraki-api:latest
 ```
 
 App Runner uses `AutoDeploymentsEnabled=True`.
