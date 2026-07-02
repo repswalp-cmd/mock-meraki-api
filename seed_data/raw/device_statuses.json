@@ -1,6 +1,6 @@
 [
   {
-    "name": "lsys-lon-ap-floor1-1684",
+    "name": "LON-AP-01",
     "serial": "Q2KD-A376-CFD2",
     "mac": "34:c2:ee:8c:67:ae",
     "publicIp": "203.121.106.200",
@@ -22,7 +22,7 @@
     }
   },
   {
-    "name": "lsys-lon-ap-floor2-1688",
+    "name": "LON-AP-02",
     "serial": "Q2KD-1E93-5EAE",
     "mac": "3c:35:01:20:69:41",
     "publicIp": "203.139.31.155",
@@ -44,7 +44,7 @@
     }
   },
   {
-    "name": "lsys-lon-ap-floor4-1690",
+    "name": "LON-AP-03",
     "serial": "Q2KD-E55C-0D5C",
     "mac": "eb:ec:1c:21:6a:2b",
     "publicIp": "203.37.124.148",
@@ -66,7 +66,7 @@
     }
   },
   {
-    "name": "lsys-lon-ap-floor4-1695",
+    "name": "LON-AP-04",
     "serial": "Q2KD-0184-CE88",
     "mac": "85:3b:50:4d:aa:36",
     "publicIp": "203.89.22.221",
@@ -88,7 +88,7 @@
     }
   },
   {
-    "name": "lsys-lon-ap-floor5-1698",
+    "name": "LON-AP-05",
     "serial": "Q2KD-77C4-4B66",
     "mac": "93:40:47:f7:61:22",
     "publicIp": "203.35.184.156",
@@ -110,7 +110,7 @@
     }
   },
   {
-    "name": "lsys-lon-ap-floor2-1710",
+    "name": "LON-AP-06",
     "serial": "Q2KD-C62F-3F90",
     "mac": "bb:6e:a4:6f:48:a6",
     "publicIp": "203.253.248.86",
@@ -132,7 +132,7 @@
     }
   },
   {
-    "name": "lsys-lon-ap-floor2-1718",
+    "name": "LON-AP-07",
     "serial": "Q2KD-0116-F9E9",
     "mac": "04:6d:f6:9f:3a:c3",
     "publicIp": "203.21.117.12",
@@ -154,7 +154,7 @@
     }
   },
   {
-    "name": "lsys-lon-ap-floor1-1726",
+    "name": "LON-AP-08",
     "serial": "Q2KD-6019-5366",
     "mac": "f0:b6:d1:3c:c9:a5",
     "publicIp": "203.229.54.48",
@@ -176,7 +176,7 @@
     }
   },
   {
-    "name": "lsys-lon-ap-floor4-1727",
+    "name": "LON-AP-09",
     "serial": "Q2KD-3EA8-38D4",
     "mac": "ba:f6:df:35:6b:b9",
     "publicIp": "203.34.108.57",
@@ -198,7 +198,7 @@
     }
   },
   {
-    "name": "lsys-lon-ap-floor4-1732",
+    "name": "LON-AP-10",
     "serial": "Q2KD-E548-3E1D",
     "mac": "56:ba:69:12:c1:fc",
     "publicIp": "203.142.209.98",
@@ -220,7 +220,7 @@
     }
   },
   {
-    "name": "lsys-lon-ap-floor5-1734",
+    "name": "LON-AP-11",
     "serial": "Q2KD-ABDB-8CEA",
     "mac": "c8:ec:1e:b7:29:c6",
     "publicIp": "203.7.65.190",
@@ -242,7 +242,7 @@
     }
   },
   {
-    "name": "lsys-lon-ap-floor1-1735",
+    "name": "LON-AP-12",
     "serial": "Q2KD-2ABB-F0EC",
     "mac": "43:31:b2:ff:1b:d5",
     "publicIp": "203.234.140.185",
@@ -264,7 +264,7 @@
     }
   },
   {
-    "name": "lsys-lon-ap-floor3-1741",
+    "name": "LON-AP-13",
     "serial": "Q2KD-9565-7CAC",
     "mac": "ea:f1:16:30:e6:28",
     "publicIp": "203.221.0.183",
@@ -286,7 +286,7 @@
     }
   },
   {
-    "name": "lsys-lon-ap-floor2-1742",
+    "name": "LON-AP-14",
     "serial": "Q2KD-5D16-15A3",
     "mac": "4d:71:2d:6d:8b:f0",
     "publicIp": "203.246.244.45",
@@ -308,7 +308,7 @@
     }
   },
   {
-    "name": "lsys-lon-ap-floor4-1758",
+    "name": "LON-AP-15",
     "serial": "Q2KD-C4F1-E268",
     "mac": "fc:7c:22:63:fc:c6",
     "publicIp": "203.73.201.40",
@@ -330,7 +330,7 @@
     }
   },
   {
-    "name": "lsys-lon-ap-floor2-1780",
+    "name": "LON-AP-16",
     "serial": "Q2KD-9E52-9709",
     "mac": "c6:c1:bf:32:b9:e9",
     "publicIp": "203.202.67.208",
@@ -352,7 +352,7 @@
     }
   },
   {
-    "name": "lsys-lon-ap-floor4-1801",
+    "name": "LON-AP-17",
     "serial": "Q2KD-740D-261F",
     "mac": "ac:0f:ad:85:89:16",
     "publicIp": "203.196.172.193",
@@ -374,7 +374,7 @@
     }
   },
   {
-    "name": "lsys-lon-ap-floor5-1804",
+    "name": "LON-AP-18",
     "serial": "Q2KD-3E04-B933",
     "mac": "d9:4d:66:b2:4c:20",
     "publicIp": "203.124.15.153",
@@ -396,7 +396,7 @@
     }
   },
   {
-    "name": "lsys-lon-ap-floor4-1809",
+    "name": "LON-AP-19",
     "serial": "Q2KD-E6D2-67D8",
     "mac": "9c:ad:4e:92:a8:ab",
     "publicIp": "203.123.107.14",
@@ -418,7 +418,7 @@
     }
   },
   {
-    "name": "lsys-lon-ap-floor4-1814",
+    "name": "LON-AP-20",
     "serial": "Q2KD-52EC-52AC",
     "mac": "10:63:f2:eb:33:a7",
     "publicIp": "203.119.249.204",
@@ -440,7 +440,7 @@
     }
   },
   {
-    "name": "lsys-lon-ap-floor3-1816",
+    "name": "LON-AP-21",
     "serial": "Q2KD-ACC9-9968",
     "mac": "4d:b8:77:e4:f7:60",
     "publicIp": "203.46.183.201",
@@ -462,7 +462,7 @@
     }
   },
   {
-    "name": "lsys-lon-ap-floor1-1818",
+    "name": "LON-AP-22",
     "serial": "Q2KD-ECB4-4D78",
     "mac": "ea:30:cf:7e:c1:48",
     "publicIp": "203.69.132.213",
@@ -484,7 +484,7 @@
     }
   },
   {
-    "name": "lsys-lon-ap-floor1-1822",
+    "name": "LON-AP-23",
     "serial": "Q2KD-90DF-C155",
     "mac": "40:34:33:b3:25:84",
     "publicIp": "203.7.41.183",
@@ -506,7 +506,7 @@
     }
   },
   {
-    "name": "lsys-lon-ap-floor3-1832",
+    "name": "LON-AP-24",
     "serial": "Q2KD-DC8B-6323",
     "mac": "cc:94:1b:0e:a6:36",
     "publicIp": "203.61.99.72",
@@ -528,7 +528,7 @@
     }
   },
   {
-    "name": "lsys-lon-ap-floor5-1834",
+    "name": "LON-AP-25",
     "serial": "Q2KD-3449-2766",
     "mac": "2c:10:28:b0:72:db",
     "publicIp": "203.45.35.72",
@@ -550,7 +550,7 @@
     }
   },
   {
-    "name": "lsys-lon-sw-1842",
+    "name": "LON-SW-01",
     "serial": "Q2QN-41CE-C84F",
     "mac": "99:fa:3f:53:17:64",
     "publicIp": "203.195.159.150",
@@ -572,7 +572,7 @@
     }
   },
   {
-    "name": "lsys-lon-sw-1848",
+    "name": "LON-SW-02",
     "serial": "Q2QN-1C19-9D1D",
     "mac": "26:cf:0e:a5:fc:7b",
     "publicIp": "203.71.168.164",
@@ -594,7 +594,7 @@
     }
   },
   {
-    "name": "lsys-lon-sw-1856",
+    "name": "LON-SW-03",
     "serial": "Q2QN-0A3C-686A",
     "mac": "59:62:68:df:24:76",
     "publicIp": "203.91.39.47",
@@ -616,7 +616,7 @@
     }
   },
   {
-    "name": "lsys-lon-sw-1863",
+    "name": "LON-SW-04",
     "serial": "Q2QN-F384-511C",
     "mac": "f3:3d:9e:70:55:47",
     "publicIp": "203.224.119.12",
@@ -638,7 +638,7 @@
     }
   },
   {
-    "name": "lsys-lon-sw-1864",
+    "name": "LON-SW-05",
     "serial": "Q2QN-E366-40B1",
     "mac": "69:b7:9f:0e:67:03",
     "publicIp": "203.68.10.189",
@@ -660,7 +660,7 @@
     }
   },
   {
-    "name": "lsys-lon-sw-1865",
+    "name": "LON-SW-06",
     "serial": "Q2QN-CE9D-A1B9",
     "mac": "74:e4:e6:c3:a0:34",
     "publicIp": "203.50.178.67",
@@ -682,7 +682,7 @@
     }
   },
   {
-    "name": "lsys-lon-sw-1871",
+    "name": "LON-SW-07",
     "serial": "Q2QN-B508-891C",
     "mac": "a6:5e:af:e7:d5:53",
     "publicIp": "203.202.8.9",
@@ -704,7 +704,7 @@
     }
   },
   {
-    "name": "lsys-lon-sw-1872",
+    "name": "LON-SW-08",
     "serial": "Q2QN-A5FB-D299",
     "mac": "7a:03:5f:f3:be:4e",
     "publicIp": "203.51.184.4",
@@ -726,7 +726,7 @@
     }
   },
   {
-    "name": "lsys-lon-sw-1894",
+    "name": "LON-SW-09",
     "serial": "Q2QN-81AE-55C0",
     "mac": "ac:3b:d2:a1:fd:9b",
     "publicIp": "203.132.60.161",
@@ -748,7 +748,7 @@
     }
   },
   {
-    "name": "lsys-lon-sw-1904",
+    "name": "LON-SW-10",
     "serial": "Q2QN-676D-AD64",
     "mac": "2b:43:2a:78:5b:5f",
     "publicIp": "203.64.189.181",
@@ -770,7 +770,7 @@
     }
   },
   {
-    "name": "lsys-lon-sw-1912",
+    "name": "LON-SW-11",
     "serial": "Q2QN-F97D-AB72",
     "mac": "f6:1a:b3:79:d1:4e",
     "publicIp": "203.63.13.18",
@@ -792,7 +792,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor2-1682",
+    "name": "SFO-AP-01",
     "serial": "Q2KD-28C4-F7AF",
     "mac": "4b:5a:07:f4:6c:89",
     "publicIp": "203.121.79.215",
@@ -814,7 +814,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor4-1683",
+    "name": "SFO-AP-02",
     "serial": "Q2KD-A05B-9E14",
     "mac": "1a:f1:60:d1:cc:25",
     "publicIp": "203.151.81.58",
@@ -836,7 +836,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor3-1685",
+    "name": "SFO-AP-03",
     "serial": "Q2KD-94BD-7F5C",
     "mac": "e3:a8:48:40:e7:af",
     "publicIp": "203.18.162.88",
@@ -858,7 +858,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor1-1689",
+    "name": "SFO-AP-04",
     "serial": "Q2KD-6DEB-069F",
     "mac": "42:3e:fd:fc:89:fb",
     "publicIp": "203.100.176.86",
@@ -880,7 +880,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor5-1691",
+    "name": "SFO-AP-05",
     "serial": "Q2KD-BB5A-EE7F",
     "mac": "f3:76:49:3a:f2:d9",
     "publicIp": "203.168.243.58",
@@ -902,7 +902,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor5-1694",
+    "name": "SFO-AP-06",
     "serial": "Q2KD-8C66-CBF1",
     "mac": "3f:82:58:90:19:52",
     "publicIp": "203.148.182.18",
@@ -924,7 +924,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor2-1700",
+    "name": "SFO-AP-07",
     "serial": "Q2KD-E3C1-A5B5",
     "mac": "e5:11:43:68:c3:0e",
     "publicIp": "203.178.108.99",
@@ -946,7 +946,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor3-1704",
+    "name": "SFO-AP-08",
     "serial": "Q2KD-E6F2-6990",
     "mac": "8a:d6:e2:e9:fd:16",
     "publicIp": "203.28.29.115",
@@ -968,7 +968,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor1-1705",
+    "name": "SFO-AP-09",
     "serial": "Q2KD-D5A8-6572",
     "mac": "c6:1c:b8:90:14:af",
     "publicIp": "203.170.131.239",
@@ -990,7 +990,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor5-1712",
+    "name": "SFO-AP-10",
     "serial": "Q2KD-A860-E2C7",
     "mac": "59:8f:d9:8d:b2:b6",
     "publicIp": "203.109.132.252",
@@ -1012,7 +1012,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor5-1714",
+    "name": "SFO-AP-11",
     "serial": "Q2KD-9886-94F2",
     "mac": "a2:4f:3f:0f:3e:74",
     "publicIp": "203.2.25.211",
@@ -1034,7 +1034,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor4-1720",
+    "name": "SFO-AP-12",
     "serial": "Q2KD-F592-2A03",
     "mac": "96:37:b4:28:37:83",
     "publicIp": "203.20.133.180",
@@ -1056,7 +1056,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor5-1731",
+    "name": "SFO-AP-13",
     "serial": "Q2KD-DC34-54F6",
     "mac": "a6:72:d5:c3:66:c4",
     "publicIp": "203.215.205.54",
@@ -1078,7 +1078,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor2-1737",
+    "name": "SFO-AP-14",
     "serial": "Q2KD-42AC-2DE0",
     "mac": "cf:52:59:c3:2b:0c",
     "publicIp": "203.87.111.186",
@@ -1100,7 +1100,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor4-1739",
+    "name": "SFO-AP-15",
     "serial": "Q2KD-55DF-0271",
     "mac": "48:59:85:d6:e9:50",
     "publicIp": "203.136.120.114",
@@ -1122,7 +1122,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor2-1740",
+    "name": "SFO-AP-16",
     "serial": "Q2KD-F065-57CC",
     "mac": "7a:bf:14:43:ae:d4",
     "publicIp": "203.73.163.206",
@@ -1144,7 +1144,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor3-1745",
+    "name": "SFO-AP-17",
     "serial": "Q2KD-342A-473C",
     "mac": "39:a4:68:63:42:66",
     "publicIp": "203.41.6.223",
@@ -1166,7 +1166,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor3-1747",
+    "name": "SFO-AP-18",
     "serial": "Q2KD-1487-5DDE",
     "mac": "ad:0c:4a:62:41:bc",
     "publicIp": "203.68.3.200",
@@ -1188,7 +1188,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor3-1752",
+    "name": "SFO-AP-19",
     "serial": "Q2KD-9E3B-F987",
     "mac": "8e:f8:fe:cd:3b:ac",
     "publicIp": "203.1.132.47",
@@ -1210,7 +1210,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor5-1760",
+    "name": "SFO-AP-20",
     "serial": "Q2KD-6A1F-62CA",
     "mac": "46:2c:68:76:76:bf",
     "publicIp": "203.119.60.187",
@@ -1232,7 +1232,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor5-1761",
+    "name": "SFO-AP-21",
     "serial": "Q2KD-4A73-33E0",
     "mac": "e5:e3:3f:4c:cd:d6",
     "publicIp": "203.249.161.237",
@@ -1254,7 +1254,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor5-1765",
+    "name": "SFO-AP-22",
     "serial": "Q2KD-2896-4130",
     "mac": "ba:b6:41:dc:65:b5",
     "publicIp": "203.80.44.16",
@@ -1276,7 +1276,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor3-1766",
+    "name": "SFO-AP-23",
     "serial": "Q2KD-0EFF-8EBD",
     "mac": "4e:8a:d0:e0:5b:d4",
     "publicIp": "203.45.80.235",
@@ -1298,7 +1298,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor3-1768",
+    "name": "SFO-AP-24",
     "serial": "Q2KD-E7C9-433C",
     "mac": "48:f2:d4:46:46:58",
     "publicIp": "203.195.187.82",
@@ -1320,7 +1320,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor4-1771",
+    "name": "SFO-AP-25",
     "serial": "Q2KD-E934-962E",
     "mac": "78:88:8d:24:02:81",
     "publicIp": "203.205.179.124",
@@ -1342,7 +1342,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor1-1772",
+    "name": "SFO-AP-26",
     "serial": "Q2KD-9F61-EDAB",
     "mac": "c5:6a:78:92:a8:82",
     "publicIp": "203.173.250.159",
@@ -1364,7 +1364,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor2-1773",
+    "name": "SFO-AP-27",
     "serial": "Q2KD-0350-56A4",
     "mac": "0b:82:06:24:4c:d8",
     "publicIp": "203.40.67.12",
@@ -1386,7 +1386,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor1-1774",
+    "name": "SFO-AP-28",
     "serial": "Q2KD-D55F-963E",
     "mac": "e4:c8:74:47:f6:ec",
     "publicIp": "203.66.188.212",
@@ -1408,7 +1408,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor1-1775",
+    "name": "SFO-AP-29",
     "serial": "Q2KD-2980-99A9",
     "mac": "cc:50:89:4f:39:68",
     "publicIp": "203.226.24.159",
@@ -1430,7 +1430,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor3-1778",
+    "name": "SFO-AP-30",
     "serial": "Q2KD-B76F-5C18",
     "mac": "3f:0b:66:8f:8e:1f",
     "publicIp": "203.160.71.145",
@@ -1452,7 +1452,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor4-1784",
+    "name": "SFO-AP-31",
     "serial": "Q2KD-22ED-E58F",
     "mac": "30:5f:38:c5:f4:f6",
     "publicIp": "203.205.235.67",
@@ -1474,7 +1474,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor4-1785",
+    "name": "SFO-AP-32",
     "serial": "Q2KD-C4DB-36F4",
     "mac": "e9:1e:e2:94:ea:91",
     "publicIp": "203.102.102.146",
@@ -1496,7 +1496,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor2-1786",
+    "name": "SFO-AP-33",
     "serial": "Q2KD-8F16-5FE3",
     "mac": "e7:c6:ca:01:d0:bf",
     "publicIp": "203.129.82.26",
@@ -1518,7 +1518,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor1-1787",
+    "name": "SFO-AP-34",
     "serial": "Q2KD-9D91-3E9C",
     "mac": "6f:2d:35:d7:3f:da",
     "publicIp": "203.164.64.71",
@@ -1540,7 +1540,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor2-1790",
+    "name": "SFO-AP-35",
     "serial": "Q2KD-FC4E-4B67",
     "mac": "0d:20:ca:0d:fc:09",
     "publicIp": "203.84.144.228",
@@ -1562,7 +1562,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor3-1791",
+    "name": "SFO-AP-36",
     "serial": "Q2KD-CD0C-B902",
     "mac": "85:87:64:ae:16:d5",
     "publicIp": "203.177.90.50",
@@ -1584,7 +1584,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor2-1792",
+    "name": "SFO-AP-37",
     "serial": "Q2KD-9BBF-C8A5",
     "mac": "9b:9d:68:b1:32:6c",
     "publicIp": "203.14.230.42",
@@ -1606,7 +1606,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor2-1794",
+    "name": "SFO-AP-38",
     "serial": "Q2KD-A314-BCC4",
     "mac": "70:d1:36:64:c9:15",
     "publicIp": "203.129.162.243",
@@ -1628,7 +1628,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor1-1799",
+    "name": "SFO-AP-39",
     "serial": "Q2KD-49CF-D49F",
     "mac": "b7:0c:bd:c4:ad:27",
     "publicIp": "203.213.64.168",
@@ -1650,7 +1650,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor1-1803",
+    "name": "SFO-AP-40",
     "serial": "Q2KD-83E3-91F6",
     "mac": "11:9b:2d:0e:c0:64",
     "publicIp": "203.90.251.38",
@@ -1672,7 +1672,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor5-1805",
+    "name": "SFO-AP-41",
     "serial": "Q2KD-E5F6-1C0D",
     "mac": "fa:71:08:f6:27:e4",
     "publicIp": "203.53.118.139",
@@ -1694,7 +1694,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor4-1806",
+    "name": "SFO-AP-42",
     "serial": "Q2KD-87CD-4185",
     "mac": "63:85:e7:c1:ea:8f",
     "publicIp": "203.222.208.34",
@@ -1716,7 +1716,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor3-1810",
+    "name": "SFO-AP-43",
     "serial": "Q2KD-1554-093D",
     "mac": "b9:80:82:2f:1d:0b",
     "publicIp": "203.180.39.176",
@@ -1738,7 +1738,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor2-1815",
+    "name": "SFO-AP-44",
     "serial": "Q2KD-1DE4-91DF",
     "mac": "2a:66:e0:5c:71:30",
     "publicIp": "203.108.87.201",
@@ -1760,7 +1760,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor2-1817",
+    "name": "SFO-AP-45",
     "serial": "Q2KD-BC00-1FF5",
     "mac": "aa:77:10:ac:f3:85",
     "publicIp": "203.122.104.168",
@@ -1782,7 +1782,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor1-1824",
+    "name": "SFO-AP-46",
     "serial": "Q2KD-8224-F174",
     "mac": "e6:91:70:b0:8a:ba",
     "publicIp": "203.142.186.7",
@@ -1804,7 +1804,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor4-1825",
+    "name": "SFO-AP-47",
     "serial": "Q2KD-69CA-9E95",
     "mac": "c4:e7:fc:9d:78:56",
     "publicIp": "203.85.113.20",
@@ -1826,7 +1826,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor1-1833",
+    "name": "SFO-AP-48",
     "serial": "Q2KD-1836-2C48",
     "mac": "72:2c:73:a0:6a:c2",
     "publicIp": "203.25.144.34",
@@ -1848,7 +1848,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor1-1835",
+    "name": "SFO-AP-49",
     "serial": "Q2KD-C189-AD0C",
     "mac": "5a:9d:0e:0b:20:e5",
     "publicIp": "203.221.0.220",
@@ -1870,7 +1870,7 @@
     }
   },
   {
-    "name": "lsys-sfo-ap-floor3-1840",
+    "name": "SFO-AP-50",
     "serial": "Q2KD-1E98-DA74",
     "mac": "af:d1:98:2a:c1:c0",
     "publicIp": "203.149.203.253",
@@ -1892,7 +1892,7 @@
     }
   },
   {
-    "name": "lsys-sfo-sw-1846",
+    "name": "SFO-SW-01",
     "serial": "Q2QN-D5BC-6F84",
     "mac": "cb:a8:b7:31:d9:40",
     "publicIp": "203.235.104.242",
@@ -1914,7 +1914,7 @@
     }
   },
   {
-    "name": "lsys-sfo-sw-1849",
+    "name": "SFO-SW-02",
     "serial": "Q2QN-FEB7-2A91",
     "mac": "94:66:b7:7b:b1:5a",
     "publicIp": "203.32.241.176",
@@ -1936,7 +1936,7 @@
     }
   },
   {
-    "name": "lsys-sfo-sw-1851",
+    "name": "SFO-SW-03",
     "serial": "Q2QN-4C52-95E4",
     "mac": "9c:53:49:5c:75:0f",
     "publicIp": "203.120.100.34",
@@ -1958,7 +1958,7 @@
     }
   },
   {
-    "name": "lsys-sfo-sw-1857",
+    "name": "SFO-SW-04",
     "serial": "Q2QN-A7AE-BD2A",
     "mac": "58:cf:06:d6:1e:50",
     "publicIp": "203.210.142.5",
@@ -1980,7 +1980,7 @@
     }
   },
   {
-    "name": "lsys-sfo-sw-1859",
+    "name": "SFO-SW-05",
     "serial": "Q2QN-8F8E-4DFA",
     "mac": "4e:a9:c8:e0:6c:eb",
     "publicIp": "203.220.127.112",
@@ -2002,7 +2002,7 @@
     }
   },
   {
-    "name": "lsys-sfo-sw-1861",
+    "name": "SFO-SW-06",
     "serial": "Q2QN-19E5-7E5F",
     "mac": "ae:55:3e:bf:9d:48",
     "publicIp": "203.222.92.29",
@@ -2024,7 +2024,7 @@
     }
   },
   {
-    "name": "lsys-sfo-sw-1874",
+    "name": "SFO-SW-07",
     "serial": "Q2QN-0678-38BE",
     "mac": "b1:ab:e2:81:1b:b2",
     "publicIp": "203.172.89.134",
@@ -2046,7 +2046,7 @@
     }
   },
   {
-    "name": "lsys-sfo-sw-1878",
+    "name": "SFO-SW-08",
     "serial": "Q2QN-312A-DBF0",
     "mac": "ca:8e:f4:c3:09:36",
     "publicIp": "203.101.224.123",
@@ -2068,7 +2068,7 @@
     }
   },
   {
-    "name": "lsys-sfo-sw-1880",
+    "name": "SFO-SW-09",
     "serial": "Q2QN-416D-E265",
     "mac": "07:98:16:bf:7b:e6",
     "publicIp": "203.119.147.84",
@@ -2090,7 +2090,7 @@
     }
   },
   {
-    "name": "lsys-sfo-sw-1882",
+    "name": "SFO-SW-10",
     "serial": "Q2QN-14B3-A67B",
     "mac": "39:16:34:16:23:36",
     "publicIp": "203.30.234.64",
@@ -2112,7 +2112,7 @@
     }
   },
   {
-    "name": "lsys-sfo-sw-1883",
+    "name": "SFO-SW-11",
     "serial": "Q2QN-668C-FACD",
     "mac": "8e:31:65:d9:20:90",
     "publicIp": "203.63.164.11",
@@ -2134,7 +2134,7 @@
     }
   },
   {
-    "name": "lsys-sfo-sw-1889",
+    "name": "SFO-SW-12",
     "serial": "Q2QN-63F3-364E",
     "mac": "ee:47:af:f4:70:21",
     "publicIp": "203.127.157.244",
@@ -2156,7 +2156,7 @@
     }
   },
   {
-    "name": "lsys-sfo-sw-1893",
+    "name": "SFO-SW-13",
     "serial": "Q2QN-B4C3-A695",
     "mac": "57:1c:e5:ef:c6:e2",
     "publicIp": "203.40.239.230",
@@ -2178,7 +2178,7 @@
     }
   },
   {
-    "name": "lsys-sfo-sw-1896",
+    "name": "SFO-SW-14",
     "serial": "Q2QN-89CD-4790",
     "mac": "d6:3a:9d:25:83:d8",
     "publicIp": "203.167.41.97",
@@ -2200,7 +2200,7 @@
     }
   },
   {
-    "name": "lsys-sfo-sw-1897",
+    "name": "SFO-SW-15",
     "serial": "Q2QN-2747-C7C4",
     "mac": "c8:40:af:1f:53:f4",
     "publicIp": "203.128.96.78",
@@ -2222,7 +2222,7 @@
     }
   },
   {
-    "name": "lsys-sfo-sw-1898",
+    "name": "SFO-SW-16",
     "serial": "Q2QN-5A6F-FE28",
     "mac": "1c:1e:ee:23:53:2b",
     "publicIp": "203.113.217.202",
@@ -2244,7 +2244,7 @@
     }
   },
   {
-    "name": "lsys-sfo-sw-1899",
+    "name": "SFO-SW-17",
     "serial": "Q2QN-8E07-8253",
     "mac": "c7:14:86:a0:67:a0",
     "publicIp": "203.152.192.243",
@@ -2266,7 +2266,7 @@
     }
   },
   {
-    "name": "lsys-sfo-sw-1900",
+    "name": "SFO-SW-18",
     "serial": "Q2QN-35CE-5D3F",
     "mac": "0c:71:4e:49:06:e6",
     "publicIp": "203.179.177.54",
@@ -2288,7 +2288,7 @@
     }
   },
   {
-    "name": "lsys-sfo-sw-1903",
+    "name": "SFO-SW-19",
     "serial": "Q2QN-16C4-1A53",
     "mac": "e6:9f:31:f1:01:3b",
     "publicIp": "203.226.168.214",
@@ -2310,7 +2310,7 @@
     }
   },
   {
-    "name": "lsys-sfo-sw-1906",
+    "name": "SFO-SW-20",
     "serial": "Q2QN-2E6F-0560",
     "mac": "2d:5d:b5:0d:81:85",
     "publicIp": "203.22.100.251",
@@ -2332,7 +2332,7 @@
     }
   },
   {
-    "name": "lsys-sfo-sw-1907",
+    "name": "SFO-SW-21",
     "serial": "Q2QN-F6D7-48B9",
     "mac": "df:93:31:26:cf:ef",
     "publicIp": "203.13.250.173",
@@ -2354,7 +2354,7 @@
     }
   },
   {
-    "name": "lsys-sfo-sw-1911",
+    "name": "SFO-SW-22",
     "serial": "Q2QN-C339-91EA",
     "mac": "ea:ae:76:08:eb:4c",
     "publicIp": "203.65.49.153",
@@ -2376,7 +2376,7 @@
     }
   },
   {
-    "name": "lsys-sfo-sw-1913",
+    "name": "SFO-SW-23",
     "serial": "Q2QN-E81F-CFD9",
     "mac": "7e:79:59:81:1e:10",
     "publicIp": "203.144.140.205",
@@ -2398,7 +2398,7 @@
     }
   },
   {
-    "name": "lsys-sfo-sw-1916",
+    "name": "SFO-SW-24",
     "serial": "Q2QN-DEEA-5004",
     "mac": "6d:d4:ef:e3:f9:1b",
     "publicIp": "203.172.81.139",
@@ -2420,7 +2420,7 @@
     }
   },
   {
-    "name": "lsys-sfo-sw-1917",
+    "name": "SFO-SW-25",
     "serial": "Q2QN-F67C-3807",
     "mac": "0c:11:b8:0b:23:2f",
     "publicIp": "203.171.8.99",
@@ -2442,7 +2442,7 @@
     }
   },
   {
-    "name": "lsys-sfo-sw-1919",
+    "name": "SFO-SW-26",
     "serial": "Q2QN-729B-3693",
     "mac": "83:6c:93:6a:a7:fb",
     "publicIp": "203.22.200.118",
@@ -2464,7 +2464,7 @@
     }
   },
   {
-    "name": "lsys-sfo-rtr-1921",
+    "name": "SFO-MX-01",
     "serial": "Q2QN-9670-3354",
     "mac": "80:98:03:b4:a6:eb",
     "publicIp": "203.150.112.51",
@@ -2486,7 +2486,7 @@
     }
   },
   {
-    "name": "lsys-sfo-rtr-1925",
+    "name": "SFO-MX-02",
     "serial": "Q2QN-3E80-CA66",
     "mac": "3e:a2:5a:01:78:97",
     "publicIp": "203.62.128.202",
@@ -2508,7 +2508,7 @@
     }
   },
   {
-    "name": "lsys-sfo-rtr-1932",
+    "name": "SFO-MX-03",
     "serial": "Q2QN-0B35-400C",
     "mac": "22:33:e1:b8:fc:81",
     "publicIp": "203.11.53.64",
@@ -2530,7 +2530,7 @@
     }
   },
   {
-    "name": "lsys-sfo-rtr-1933",
+    "name": "SFO-MX-04",
     "serial": "Q2QN-4E81-1B7C",
     "mac": "85:bd:2a:9b:ff:4b",
     "publicIp": "203.78.129.27",
@@ -2552,7 +2552,7 @@
     }
   },
   {
-    "name": "lsys-nyc-ap-floor5-1681",
+    "name": "NYC-AP-01",
     "serial": "Q2KD-9BD5-AAB8",
     "mac": "8e:b2:f9:88:0f:88",
     "publicIp": "203.251.224.149",
@@ -2574,7 +2574,7 @@
     }
   },
   {
-    "name": "lsys-nyc-ap-floor5-1701",
+    "name": "NYC-AP-02",
     "serial": "Q2KD-906C-9819",
     "mac": "26:27:83:69:6f:48",
     "publicIp": "203.204.154.90",
@@ -2596,7 +2596,7 @@
     }
   },
   {
-    "name": "lsys-nyc-ap-floor2-1702",
+    "name": "NYC-AP-03",
     "serial": "Q2KD-9D45-BFA7",
     "mac": "a6:4f:e8:73:f8:ea",
     "publicIp": "203.110.57.62",
@@ -2618,7 +2618,7 @@
     }
   },
   {
-    "name": "lsys-nyc-ap-floor3-1709",
+    "name": "NYC-AP-04",
     "serial": "Q2KD-E95E-15BB",
     "mac": "bc:02:f1:40:d7:c3",
     "publicIp": "203.186.219.206",
@@ -2640,7 +2640,7 @@
     }
   },
   {
-    "name": "lsys-nyc-ap-floor5-1715",
+    "name": "NYC-AP-05",
     "serial": "Q2KD-5A39-61F7",
     "mac": "99:bd:72:6a:f9:28",
     "publicIp": "203.158.209.203",
@@ -2662,7 +2662,7 @@
     }
   },
   {
-    "name": "lsys-nyc-ap-floor3-1724",
+    "name": "NYC-AP-06",
     "serial": "Q2KD-481E-8E26",
     "mac": "48:83:04:40:2e:61",
     "publicIp": "203.154.188.178",
@@ -2684,7 +2684,7 @@
     }
   },
   {
-    "name": "lsys-nyc-ap-floor1-1744",
+    "name": "NYC-AP-07",
     "serial": "Q2KD-79AF-A714",
     "mac": "b3:09:fd:a8:1a:ef",
     "publicIp": "203.43.164.203",
@@ -2706,7 +2706,7 @@
     }
   },
   {
-    "name": "lsys-nyc-ap-floor4-1748",
+    "name": "NYC-AP-08",
     "serial": "Q2KD-8B0B-90F4",
     "mac": "47:99:e8:25:4b:a2",
     "publicIp": "203.61.89.108",
@@ -2728,7 +2728,7 @@
     }
   },
   {
-    "name": "lsys-nyc-ap-floor5-1751",
+    "name": "NYC-AP-09",
     "serial": "Q2KD-95C6-092F",
     "mac": "d3:70:55:58:34:ec",
     "publicIp": "203.214.37.29",
@@ -2750,7 +2750,7 @@
     }
   },
   {
-    "name": "lsys-nyc-ap-floor1-1759",
+    "name": "NYC-AP-10",
     "serial": "Q2KD-0A84-48C1",
     "mac": "bb:d2:71:06:f2:4a",
     "publicIp": "203.234.49.55",
@@ -2772,7 +2772,7 @@
     }
   },
   {
-    "name": "lsys-nyc-ap-floor5-1770",
+    "name": "NYC-AP-11",
     "serial": "Q2KD-58F9-B195",
     "mac": "b1:93:21:c5:6e:54",
     "publicIp": "203.37.178.167",
@@ -2794,7 +2794,7 @@
     }
   },
   {
-    "name": "lsys-nyc-ap-floor3-1788",
+    "name": "NYC-AP-12",
     "serial": "Q2KD-C60A-9B08",
     "mac": "74:e2:5d:a9:70:3d",
     "publicIp": "203.86.87.236",
@@ -2816,7 +2816,7 @@
     }
   },
   {
-    "name": "lsys-nyc-ap-floor3-1795",
+    "name": "NYC-AP-13",
     "serial": "Q2KD-E790-B71D",
     "mac": "6e:ee:b5:3e:fa:92",
     "publicIp": "203.112.153.226",
@@ -2838,7 +2838,7 @@
     }
   },
   {
-    "name": "lsys-nyc-ap-floor3-1796",
+    "name": "NYC-AP-14",
     "serial": "Q2KD-2E4D-6043",
     "mac": "10:58:77:8b:78:af",
     "publicIp": "203.193.181.55",
@@ -2860,7 +2860,7 @@
     }
   },
   {
-    "name": "lsys-nyc-ap-floor4-1797",
+    "name": "NYC-AP-15",
     "serial": "Q2KD-8169-FFE1",
     "mac": "83:cf:a7:e6:d1:15",
     "publicIp": "203.216.224.164",
@@ -2882,7 +2882,7 @@
     }
   },
   {
-    "name": "lsys-nyc-ap-floor4-1800",
+    "name": "NYC-AP-16",
     "serial": "Q2KD-4959-9852",
     "mac": "9c:30:f1:1d:e7:3e",
     "publicIp": "203.162.4.137",
@@ -2904,7 +2904,7 @@
     }
   },
   {
-    "name": "lsys-nyc-ap-floor4-1812",
+    "name": "NYC-AP-17",
     "serial": "Q2KD-CA57-82B1",
     "mac": "c3:86:3e:fa:d6:50",
     "publicIp": "203.71.3.91",
@@ -2926,7 +2926,7 @@
     }
   },
   {
-    "name": "lsys-nyc-ap-floor2-1826",
+    "name": "NYC-AP-18",
     "serial": "Q2KD-9D7F-D10B",
     "mac": "68:0f:ea:3e:e0:4a",
     "publicIp": "203.117.50.250",
@@ -2948,7 +2948,7 @@
     }
   },
   {
-    "name": "lsys-nyc-ap-floor4-1827",
+    "name": "NYC-AP-19",
     "serial": "Q2KD-E70B-77BF",
     "mac": "3e:e5:10:1f:6d:ff",
     "publicIp": "203.163.58.127",
@@ -2970,7 +2970,7 @@
     }
   },
   {
-    "name": "lsys-nyc-ap-floor2-1830",
+    "name": "NYC-AP-20",
     "serial": "Q2KD-9D2C-0290",
     "mac": "3e:74:7c:23:69:e7",
     "publicIp": "203.144.190.138",
@@ -2992,7 +2992,7 @@
     }
   },
   {
-    "name": "lsys-nyc-ap-floor3-1838",
+    "name": "NYC-AP-21",
     "serial": "Q2KD-87AF-E817",
     "mac": "84:06:25:a3:73:46",
     "publicIp": "203.159.7.2",
@@ -3014,7 +3014,7 @@
     }
   },
   {
-    "name": "lsys-nyc-sw-1841",
+    "name": "NYC-SW-01",
     "serial": "Q2QN-5F17-9D76",
     "mac": "39:92:29:98:b0:e5",
     "publicIp": "203.159.162.215",
@@ -3036,7 +3036,7 @@
     }
   },
   {
-    "name": "lsys-nyc-sw-1843",
+    "name": "NYC-SW-02",
     "serial": "Q2QN-9E01-F0DF",
     "mac": "a5:ab:ba:f4:59:90",
     "publicIp": "203.144.144.39",
@@ -3058,7 +3058,7 @@
     }
   },
   {
-    "name": "lsys-nyc-sw-1845",
+    "name": "NYC-SW-03",
     "serial": "Q2QN-2141-1BBD",
     "mac": "d6:4a:f8:bb:21:f3",
     "publicIp": "203.10.82.127",
@@ -3080,7 +3080,7 @@
     }
   },
   {
-    "name": "lsys-nyc-sw-1850",
+    "name": "NYC-SW-04",
     "serial": "Q2QN-C71A-907C",
     "mac": "94:ad:f0:bd:10:83",
     "publicIp": "203.126.174.229",
@@ -3102,7 +3102,7 @@
     }
   },
   {
-    "name": "lsys-nyc-sw-1852",
+    "name": "NYC-SW-05",
     "serial": "Q2QN-1024-49C5",
     "mac": "49:6c:9a:76:7b:96",
     "publicIp": "203.200.240.205",
@@ -3124,7 +3124,7 @@
     }
   },
   {
-    "name": "lsys-nyc-sw-1853",
+    "name": "NYC-SW-06",
     "serial": "Q2QN-5697-952A",
     "mac": "75:f7:b5:c6:d0:46",
     "publicIp": "203.33.251.38",
@@ -3146,7 +3146,7 @@
     }
   },
   {
-    "name": "lsys-nyc-sw-1873",
+    "name": "NYC-SW-07",
     "serial": "Q2QN-611F-E0A6",
     "mac": "ec:c6:fb:ed:48:fb",
     "publicIp": "203.217.100.215",
@@ -3168,7 +3168,7 @@
     }
   },
   {
-    "name": "lsys-nyc-sw-1875",
+    "name": "NYC-SW-08",
     "serial": "Q2QN-2163-CF85",
     "mac": "10:20:77:34:f6:e2",
     "publicIp": "203.244.0.36",
@@ -3190,7 +3190,7 @@
     }
   },
   {
-    "name": "lsys-nyc-sw-1885",
+    "name": "NYC-SW-09",
     "serial": "Q2QN-B760-B11E",
     "mac": "a1:79:66:7d:7d:09",
     "publicIp": "203.177.81.110",
@@ -3212,7 +3212,7 @@
     }
   },
   {
-    "name": "lsys-nyc-sw-1887",
+    "name": "NYC-SW-10",
     "serial": "Q2QN-E466-9C3D",
     "mac": "4b:95:c6:36:df:e8",
     "publicIp": "203.84.197.245",
@@ -3234,7 +3234,7 @@
     }
   },
   {
-    "name": "lsys-nyc-sw-1891",
+    "name": "NYC-SW-11",
     "serial": "Q2QN-18CC-B206",
     "mac": "38:d6:03:1b:ff:0a",
     "publicIp": "203.226.130.18",
@@ -3256,7 +3256,7 @@
     }
   },
   {
-    "name": "lsys-nyc-sw-1892",
+    "name": "NYC-SW-12",
     "serial": "Q2QN-AD38-DCFB",
     "mac": "ae:dd:95:da:07:f0",
     "publicIp": "203.0.10.0",
@@ -3278,7 +3278,7 @@
     }
   },
   {
-    "name": "lsys-nyc-sw-1902",
+    "name": "NYC-SW-13",
     "serial": "Q2QN-7444-01ED",
     "mac": "13:4e:f9:ad:93:db",
     "publicIp": "203.83.198.118",
@@ -3300,7 +3300,7 @@
     }
   },
   {
-    "name": "lsys-nyc-sw-1905",
+    "name": "NYC-SW-14",
     "serial": "Q2QN-088D-C033",
     "mac": "56:9c:eb:d4:f0:9e",
     "publicIp": "203.126.238.50",
@@ -3322,7 +3322,7 @@
     }
   },
   {
-    "name": "lsys-nyc-sw-1910",
+    "name": "NYC-SW-15",
     "serial": "Q2QN-8046-DFDC",
     "mac": "f4:76:f1:ed:61:b8",
     "publicIp": "203.97.1.100",
@@ -3344,7 +3344,7 @@
     }
   },
   {
-    "name": "lsys-nyc-sw-1918",
+    "name": "NYC-SW-16",
     "serial": "Q2QN-7283-CA56",
     "mac": "60:1b:a4:19:b8:a8",
     "publicIp": "203.224.175.96",
@@ -3366,7 +3366,7 @@
     }
   },
   {
-    "name": "lsys-nyc-rtr-1927",
+    "name": "NYC-MX-01",
     "serial": "Q2QN-D33F-2533",
     "mac": "fe:87:7b:f9:68:06",
     "publicIp": "203.211.63.37",
@@ -3388,7 +3388,7 @@
     }
   },
   {
-    "name": "lsys-nyc-rtr-1929",
+    "name": "NYC-MX-02",
     "serial": "Q2QN-2978-E19A",
     "mac": "64:2f:a3:1e:89:a5",
     "publicIp": "203.41.120.225",

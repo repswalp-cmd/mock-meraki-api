@@ -271,11 +271,16 @@ for loc, rows in rows_by_site.items():
     # Track switch serials per site (for wired client recentDeviceSerial)
     switch_serials = []
 
+    _TYPE_LABEL = {"wap": "AP", "switch": "SW", "router": "MX"}
+    _dev_counters = {"wap": 0, "switch": 0, "router": 0}
+
     for r in site_dev_rows:
         cat     = r["category"]
         dm      = DEVICE_MODEL[cat]
         hostname = r["hostname"]
-        seed    = f"meraki:device:{hostname}"
+        seed    = f"meraki:device:{hostname}"  # keep seed for deterministic serial/MAC
+        _dev_counters[cat] += 1
+        meraki_name = f"{code.upper()}-{_TYPE_LABEL[cat]}-{_dev_counters[cat]:02d}"
         serial  = make_serial(dm["serial_prefix"], seed)
         mac     = make_mac_colon(f"mac:device:{hostname}")
         # Use IP from xlsx or derive
@@ -285,7 +290,7 @@ for loc, rows in rows_by_site.items():
         offset_cfg = int(_md5(seed)[0:4], 16) % 86400
         device = {
             "serial":           serial,
-            "name":             hostname,
+            "name":             meraki_name,
             "mac":              mac,
             "networkId":        net_id,
             "organizationId":   ORG_ID,
