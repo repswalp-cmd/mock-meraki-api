@@ -77,7 +77,7 @@ SITES = {
         "tz":     "America/Los_Angeles",
         "lat":    37.7749,
         "lng":    -122.4194,
-        "addr":   "100 Market St, San Francisco, CA 94105",
+        "addr":   "San Francisco",
     },
     "New York": {
         "code":   "nyc",
@@ -85,7 +85,7 @@ SITES = {
         "tz":     "America/New_York",
         "lat":    40.7128,
         "lng":    -74.0060,
-        "addr":   "1 World Trade Center, New York, NY 10007",
+        "addr":   "New York",
     },
     "London": {
         "code":   "lon",
@@ -93,7 +93,7 @@ SITES = {
         "tz":     "Europe/London",
         "lat":    51.5074,
         "lng":    -0.1278,
-        "addr":   "30 St Mary Axe, London EC3A 8BF, UK",
+        "addr":   "London",
     },
 }
 
@@ -216,7 +216,7 @@ for loc, rows in rows_by_site.items():
     networks.append({
         "id":            net_id,
         "organizationId": ORG_ID,
-        "name":          f"Luminary {loc}",
+        "name":          loc,
         "productTypes":  ["appliance", "switch", "wireless"],
         "timeZone":      cfg["tz"],
         "tags":          [code],
@@ -271,7 +271,7 @@ for loc, rows in rows_by_site.items():
     # Track switch serials per site (for wired client recentDeviceSerial)
     switch_serials = []
 
-    _TYPE_LABEL = {"wap": "AP", "switch": "SW", "router": "MX"}
+    _TYPE_LABEL = {"wap": "ap", "switch": "sw", "router": "mx"}
     _dev_counters = {"wap": 0, "switch": 0, "router": 0}
 
     for r in site_dev_rows:
@@ -280,7 +280,8 @@ for loc, rows in rows_by_site.items():
         hostname = r["hostname"]
         seed    = f"meraki:device:{hostname}"  # keep seed for deterministic serial/MAC
         _dev_counters[cat] += 1
-        meraki_name = f"{code.upper()}-{_TYPE_LABEL[cat]}-{_dev_counters[cat]:02d}"
+        floor = int(_md5(seed)[0:2], 16) % 5 + 1 if cat != "router" else 1
+        meraki_name = f"lsys-{code.lower()}-f{floor}-{_TYPE_LABEL[cat]}-{_dev_counters[cat]:02d}"
         serial  = make_serial(dm["serial_prefix"], seed)
         mac     = make_mac_colon(f"mac:device:{hostname}")
         # Use IP from xlsx or derive

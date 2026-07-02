@@ -1,7 +1,7 @@
 [
   {
     "serial": "Q2KD-A376-CFD2",
-    "name": "LON-AP-01",
+    "name": "lsys-lon-f4-ap-01",
     "mac": "34:c2:ee:8c:67:ae",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -14,10 +14,10 @@
     ],
     "lat": 51.5076,
     "lng": -0.12029999999999999,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-A376-CFD2/manage",
-    "configurationUpdatedAt": "2026-07-02T00:18:19Z",
+    "configurationUpdatedAt": "2026-07-02T07:06:26Z",
     "details": [
       {
         "name": "Running software version",
@@ -27,7 +27,7 @@
   },
   {
     "serial": "Q2KD-1E93-5EAE",
-    "name": "LON-AP-02",
+    "name": "lsys-lon-f1-ap-02",
     "mac": "3c:35:01:20:69:41",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -40,10 +40,10 @@
     ],
     "lat": 51.511199999999995,
     "lng": -0.1234,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-1E93-5EAE/manage",
-    "configurationUpdatedAt": "2026-07-02T09:45:18Z",
+    "configurationUpdatedAt": "2026-07-02T16:33:25Z",
     "details": [
       {
         "name": "Running software version",
@@ -53,7 +53,7 @@
   },
   {
     "serial": "Q2KD-E55C-0D5C",
-    "name": "LON-AP-03",
+    "name": "lsys-lon-f5-ap-03",
     "mac": "eb:ec:1c:21:6a:2b",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -66,10 +66,10 @@
     ],
     "lat": 51.5094,
     "lng": -0.1181,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-E55C-0D5C/manage",
-    "configurationUpdatedAt": "2026-07-01T19:37:09Z",
+    "configurationUpdatedAt": "2026-07-02T02:25:16Z",
     "details": [
       {
         "name": "Running software version",
@@ -79,7 +79,7 @@
   },
   {
     "serial": "Q2KD-0184-CE88",
-    "name": "LON-AP-04",
+    "name": "lsys-lon-f2-ap-04",
     "mac": "85:3b:50:4d:aa:36",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -92,10 +92,10 @@
     ],
     "lat": 51.514599999999994,
     "lng": -0.127,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-0184-CE88/manage",
-    "configurationUpdatedAt": "2026-07-02T11:49:17Z",
+    "configurationUpdatedAt": "2026-07-02T18:37:24Z",
     "details": [
       {
         "name": "Running software version",
@@ -105,7 +105,7 @@
   },
   {
     "serial": "Q2KD-77C4-4B66",
-    "name": "LON-AP-05",
+    "name": "lsys-lon-f5-ap-05",
     "mac": "93:40:47:f7:61:22",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -118,10 +118,10 @@
     ],
     "lat": 51.5076,
     "lng": -0.1257,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-77C4-4B66/manage",
-    "configurationUpdatedAt": "2026-07-02T03:24:45Z",
+    "configurationUpdatedAt": "2026-07-02T10:12:52Z",
     "details": [
       {
         "name": "Running software version",
@@ -131,7 +131,7 @@
   },
   {
     "serial": "Q2KD-C62F-3F90",
-    "name": "LON-AP-06",
+    "name": "lsys-lon-f4-ap-06",
     "mac": "bb:6e:a4:6f:48:a6",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -144,10 +144,10 @@
     ],
     "lat": 51.514599999999994,
     "lng": -0.11839999999999999,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-C62F-3F90/manage",
-    "configurationUpdatedAt": "2026-07-01T21:50:10Z",
+    "configurationUpdatedAt": "2026-07-02T04:38:17Z",
     "details": [
       {
         "name": "Running software version",
@@ -157,7 +157,7 @@
   },
   {
     "serial": "Q2KD-0116-F9E9",
-    "name": "LON-AP-07",
+    "name": "lsys-lon-f2-ap-07",
     "mac": "04:6d:f6:9f:3a:c3",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -170,10 +170,10 @@
     ],
     "lat": 51.5151,
     "lng": -0.1239,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-0116-F9E9/manage",
-    "configurationUpdatedAt": "2026-07-02T11:51:07Z",
+    "configurationUpdatedAt": "2026-07-02T18:39:14Z",
     "details": [
       {
         "name": "Running software version",
@@ -183,7 +183,7 @@
   },
   {
     "serial": "Q2KD-6019-5366",
-    "name": "LON-AP-08",
+    "name": "lsys-lon-f2-ap-08",
     "mac": "f0:b6:d1:3c:c9:a5",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -196,10 +196,10 @@
     ],
     "lat": 51.5124,
     "lng": -0.12639999999999998,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-6019-5366/manage",
-    "configurationUpdatedAt": "2026-07-02T05:05:44Z",
+    "configurationUpdatedAt": "2026-07-02T11:53:51Z",
     "details": [
       {
         "name": "Running software version",
@@ -209,7 +209,7 @@
   },
   {
     "serial": "Q2KD-3EA8-38D4",
-    "name": "LON-AP-09",
+    "name": "lsys-lon-f3-ap-09",
     "mac": "ba:f6:df:35:6b:b9",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -222,10 +222,10 @@
     ],
     "lat": 51.5122,
     "lng": -0.1257,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-3EA8-38D4/manage",
-    "configurationUpdatedAt": "2026-07-02T07:28:25Z",
+    "configurationUpdatedAt": "2026-07-02T14:16:32Z",
     "details": [
       {
         "name": "Running software version",
@@ -235,7 +235,7 @@
   },
   {
     "serial": "Q2KD-E548-3E1D",
-    "name": "LON-AP-10",
+    "name": "lsys-lon-f5-ap-10",
     "mac": "56:ba:69:12:c1:fc",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -248,10 +248,10 @@
     ],
     "lat": 51.5075,
     "lng": -0.126,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-E548-3E1D/manage",
-    "configurationUpdatedAt": "2026-07-01T19:37:29Z",
+    "configurationUpdatedAt": "2026-07-02T02:25:36Z",
     "details": [
       {
         "name": "Running software version",
@@ -261,7 +261,7 @@
   },
   {
     "serial": "Q2KD-ABDB-8CEA",
-    "name": "LON-AP-11",
+    "name": "lsys-lon-f2-ap-11",
     "mac": "c8:ec:1e:b7:29:c6",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -274,10 +274,10 @@
     ],
     "lat": 51.514799999999994,
     "lng": -0.127,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-ABDB-8CEA/manage",
-    "configurationUpdatedAt": "2026-07-01T23:42:30Z",
+    "configurationUpdatedAt": "2026-07-02T06:30:37Z",
     "details": [
       {
         "name": "Running software version",
@@ -287,7 +287,7 @@
   },
   {
     "serial": "Q2KD-2ABB-F0EC",
-    "name": "LON-AP-12",
+    "name": "lsys-lon-f3-ap-12",
     "mac": "43:31:b2:ff:1b:d5",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -300,10 +300,10 @@
     ],
     "lat": 51.51499999999999,
     "lng": -0.1267,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-2ABB-F0EC/manage",
-    "configurationUpdatedAt": "2026-07-02T08:53:26Z",
+    "configurationUpdatedAt": "2026-07-02T15:41:33Z",
     "details": [
       {
         "name": "Running software version",
@@ -313,7 +313,7 @@
   },
   {
     "serial": "Q2KD-9565-7CAC",
-    "name": "LON-AP-13",
+    "name": "lsys-lon-f5-ap-13",
     "mac": "ea:f1:16:30:e6:28",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -326,10 +326,10 @@
     ],
     "lat": 51.509,
     "lng": -0.1273,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-9565-7CAC/manage",
-    "configurationUpdatedAt": "2026-07-02T01:18:20Z",
+    "configurationUpdatedAt": "2026-07-02T08:06:27Z",
     "details": [
       {
         "name": "Running software version",
@@ -339,7 +339,7 @@
   },
   {
     "serial": "Q2KD-5D16-15A3",
-    "name": "LON-AP-14",
+    "name": "lsys-lon-f4-ap-14",
     "mac": "4d:71:2d:6d:8b:f0",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -352,10 +352,10 @@
     ],
     "lat": 51.5113,
     "lng": -0.122,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-5D16-15A3/manage",
-    "configurationUpdatedAt": "2026-07-02T05:18:35Z",
+    "configurationUpdatedAt": "2026-07-02T12:06:42Z",
     "details": [
       {
         "name": "Running software version",
@@ -365,7 +365,7 @@
   },
   {
     "serial": "Q2KD-C4F1-E268",
-    "name": "LON-AP-15",
+    "name": "lsys-lon-f2-ap-15",
     "mac": "fc:7c:22:63:fc:c6",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -378,10 +378,10 @@
     ],
     "lat": 51.5134,
     "lng": -0.12229999999999999,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-C4F1-E268/manage",
-    "configurationUpdatedAt": "2026-07-01T21:55:28Z",
+    "configurationUpdatedAt": "2026-07-02T04:43:35Z",
     "details": [
       {
         "name": "Running software version",
@@ -391,7 +391,7 @@
   },
   {
     "serial": "Q2KD-9E52-9709",
-    "name": "LON-AP-16",
+    "name": "lsys-lon-f4-ap-16",
     "mac": "c6:c1:bf:32:b9:e9",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -404,10 +404,10 @@
     ],
     "lat": 51.5139,
     "lng": -0.119,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-9E52-9709/manage",
-    "configurationUpdatedAt": "2026-07-02T00:40:15Z",
+    "configurationUpdatedAt": "2026-07-02T07:28:22Z",
     "details": [
       {
         "name": "Running software version",
@@ -417,7 +417,7 @@
   },
   {
     "serial": "Q2KD-740D-261F",
-    "name": "LON-AP-17",
+    "name": "lsys-lon-f2-ap-17",
     "mac": "ac:0f:ad:85:89:16",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -430,10 +430,10 @@
     ],
     "lat": 51.513299999999994,
     "lng": -0.118,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-740D-261F/manage",
-    "configurationUpdatedAt": "2026-07-02T03:40:36Z",
+    "configurationUpdatedAt": "2026-07-02T10:28:43Z",
     "details": [
       {
         "name": "Running software version",
@@ -443,7 +443,7 @@
   },
   {
     "serial": "Q2KD-3E04-B933",
-    "name": "LON-AP-18",
+    "name": "lsys-lon-f3-ap-18",
     "mac": "d9:4d:66:b2:4c:20",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -456,10 +456,10 @@
     ],
     "lat": 51.5085,
     "lng": -0.1192,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-3E04-B933/manage",
-    "configurationUpdatedAt": "2026-07-02T07:31:09Z",
+    "configurationUpdatedAt": "2026-07-02T14:19:16Z",
     "details": [
       {
         "name": "Running software version",
@@ -469,7 +469,7 @@
   },
   {
     "serial": "Q2KD-E6D2-67D8",
-    "name": "LON-AP-19",
+    "name": "lsys-lon-f1-ap-19",
     "mac": "9c:ad:4e:92:a8:ab",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -482,10 +482,10 @@
     ],
     "lat": 51.5158,
     "lng": -0.1239,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-E6D2-67D8/manage",
-    "configurationUpdatedAt": "2026-07-01T19:30:55Z",
+    "configurationUpdatedAt": "2026-07-02T02:19:02Z",
     "details": [
       {
         "name": "Running software version",
@@ -495,7 +495,7 @@
   },
   {
     "serial": "Q2KD-52EC-52AC",
-    "name": "LON-AP-20",
+    "name": "lsys-lon-f3-ap-20",
     "mac": "10:63:f2:eb:33:a7",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -508,10 +508,10 @@
     ],
     "lat": 51.513799999999996,
     "lng": -0.12369999999999999,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-52EC-52AC/manage",
-    "configurationUpdatedAt": "2026-07-02T06:01:57Z",
+    "configurationUpdatedAt": "2026-07-02T12:50:04Z",
     "details": [
       {
         "name": "Running software version",
@@ -521,7 +521,7 @@
   },
   {
     "serial": "Q2KD-ACC9-9968",
-    "name": "LON-AP-21",
+    "name": "lsys-lon-f3-ap-21",
     "mac": "4d:b8:77:e4:f7:60",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -534,10 +534,10 @@
     ],
     "lat": 51.514599999999994,
     "lng": -0.1268,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-ACC9-9968/manage",
-    "configurationUpdatedAt": "2026-07-01T23:38:32Z",
+    "configurationUpdatedAt": "2026-07-02T06:26:39Z",
     "details": [
       {
         "name": "Running software version",
@@ -547,7 +547,7 @@
   },
   {
     "serial": "Q2KD-ECB4-4D78",
-    "name": "LON-AP-22",
+    "name": "lsys-lon-f2-ap-22",
     "mac": "ea:30:cf:7e:c1:48",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -560,10 +560,10 @@
     ],
     "lat": 51.5106,
     "lng": -0.1278,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-ECB4-4D78/manage",
-    "configurationUpdatedAt": "2026-07-01T19:05:49Z",
+    "configurationUpdatedAt": "2026-07-02T01:53:56Z",
     "details": [
       {
         "name": "Running software version",
@@ -573,7 +573,7 @@
   },
   {
     "serial": "Q2KD-90DF-C155",
-    "name": "LON-AP-23",
+    "name": "lsys-lon-f5-ap-23",
     "mac": "40:34:33:b3:25:84",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -586,10 +586,10 @@
     ],
     "lat": 51.5167,
     "lng": -0.1232,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-90DF-C155/manage",
-    "configurationUpdatedAt": "2026-07-02T01:37:38Z",
+    "configurationUpdatedAt": "2026-07-02T08:25:45Z",
     "details": [
       {
         "name": "Running software version",
@@ -599,7 +599,7 @@
   },
   {
     "serial": "Q2KD-DC8B-6323",
-    "name": "LON-AP-24",
+    "name": "lsys-lon-f1-ap-24",
     "mac": "cc:94:1b:0e:a6:36",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -612,10 +612,10 @@
     ],
     "lat": 51.515299999999996,
     "lng": -0.12179999999999999,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-DC8B-6323/manage",
-    "configurationUpdatedAt": "2026-07-01T20:14:46Z",
+    "configurationUpdatedAt": "2026-07-02T03:02:53Z",
     "details": [
       {
         "name": "Running software version",
@@ -625,7 +625,7 @@
   },
   {
     "serial": "Q2KD-3449-2766",
-    "name": "LON-AP-25",
+    "name": "lsys-lon-f3-ap-25",
     "mac": "2c:10:28:b0:72:db",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -638,10 +638,10 @@
     ],
     "lat": 51.516,
     "lng": -0.1239,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-3449-2766/manage",
-    "configurationUpdatedAt": "2026-07-02T08:12:40Z",
+    "configurationUpdatedAt": "2026-07-02T15:00:47Z",
     "details": [
       {
         "name": "Running software version",
@@ -651,7 +651,7 @@
   },
   {
     "serial": "Q2QN-41CE-C84F",
-    "name": "LON-SW-01",
+    "name": "lsys-lon-f1-sw-01",
     "mac": "99:fa:3f:53:17:64",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -664,10 +664,10 @@
     ],
     "lat": 51.515299999999996,
     "lng": -0.121,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-41CE-C84F/manage",
-    "configurationUpdatedAt": "2026-07-02T07:14:59Z",
+    "configurationUpdatedAt": "2026-07-02T14:03:06Z",
     "details": [
       {
         "name": "Running software version",
@@ -677,7 +677,7 @@
   },
   {
     "serial": "Q2QN-1C19-9D1D",
-    "name": "LON-SW-02",
+    "name": "lsys-lon-f4-sw-02",
     "mac": "26:cf:0e:a5:fc:7b",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -690,10 +690,10 @@
     ],
     "lat": 51.509499999999996,
     "lng": -0.12539999999999998,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-1C19-9D1D/manage",
-    "configurationUpdatedAt": "2026-07-02T09:55:52Z",
+    "configurationUpdatedAt": "2026-07-02T16:43:59Z",
     "details": [
       {
         "name": "Running software version",
@@ -703,7 +703,7 @@
   },
   {
     "serial": "Q2QN-0A3C-686A",
-    "name": "LON-SW-03",
+    "name": "lsys-lon-f1-sw-03",
     "mac": "59:62:68:df:24:76",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -716,10 +716,10 @@
     ],
     "lat": 51.5104,
     "lng": -0.1272,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-0A3C-686A/manage",
-    "configurationUpdatedAt": "2026-07-02T11:12:05Z",
+    "configurationUpdatedAt": "2026-07-02T18:00:12Z",
     "details": [
       {
         "name": "Running software version",
@@ -729,7 +729,7 @@
   },
   {
     "serial": "Q2QN-F384-511C",
-    "name": "LON-SW-04",
+    "name": "lsys-lon-f4-sw-04",
     "mac": "f3:3d:9e:70:55:47",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -742,10 +742,10 @@
     ],
     "lat": 51.513799999999996,
     "lng": -0.1262,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-F384-511C/manage",
-    "configurationUpdatedAt": "2026-07-01T18:36:45Z",
+    "configurationUpdatedAt": "2026-07-02T01:24:52Z",
     "details": [
       {
         "name": "Running software version",
@@ -755,7 +755,7 @@
   },
   {
     "serial": "Q2QN-E366-40B1",
-    "name": "LON-SW-05",
+    "name": "lsys-lon-f3-sw-05",
     "mac": "69:b7:9f:0e:67:03",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -768,10 +768,10 @@
     ],
     "lat": 51.5135,
     "lng": -0.1245,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-E366-40B1/manage",
-    "configurationUpdatedAt": "2026-07-01T19:45:31Z",
+    "configurationUpdatedAt": "2026-07-02T02:33:38Z",
     "details": [
       {
         "name": "Running software version",
@@ -781,7 +781,7 @@
   },
   {
     "serial": "Q2QN-CE9D-A1B9",
-    "name": "LON-SW-06",
+    "name": "lsys-lon-f2-sw-06",
     "mac": "74:e4:e6:c3:a0:34",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -794,10 +794,10 @@
     ],
     "lat": 51.5075,
     "lng": -0.1227,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-CE9D-A1B9/manage",
-    "configurationUpdatedAt": "2026-07-01T21:14:12Z",
+    "configurationUpdatedAt": "2026-07-02T04:02:19Z",
     "details": [
       {
         "name": "Running software version",
@@ -807,7 +807,7 @@
   },
   {
     "serial": "Q2QN-B508-891C",
-    "name": "LON-SW-07",
+    "name": "lsys-lon-f2-sw-07",
     "mac": "a6:5e:af:e7:d5:53",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -820,10 +820,10 @@
     ],
     "lat": 51.5074,
     "lng": -0.1231,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-B508-891C/manage",
-    "configurationUpdatedAt": "2026-07-01T23:03:21Z",
+    "configurationUpdatedAt": "2026-07-02T05:51:28Z",
     "details": [
       {
         "name": "Running software version",
@@ -833,7 +833,7 @@
   },
   {
     "serial": "Q2QN-A5FB-D299",
-    "name": "LON-SW-08",
+    "name": "lsys-lon-f1-sw-08",
     "mac": "7a:03:5f:f3:be:4e",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -846,10 +846,10 @@
     ],
     "lat": 51.5087,
     "lng": -0.12739999999999999,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-A5FB-D299/manage",
-    "configurationUpdatedAt": "2026-07-02T00:07:34Z",
+    "configurationUpdatedAt": "2026-07-02T06:55:41Z",
     "details": [
       {
         "name": "Running software version",
@@ -859,7 +859,7 @@
   },
   {
     "serial": "Q2QN-81AE-55C0",
-    "name": "LON-SW-09",
+    "name": "lsys-lon-f5-sw-09",
     "mac": "ac:3b:d2:a1:fd:9b",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -872,10 +872,10 @@
     ],
     "lat": 51.5126,
     "lng": -0.1209,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-81AE-55C0/manage",
-    "configurationUpdatedAt": "2026-07-02T02:42:27Z",
+    "configurationUpdatedAt": "2026-07-02T09:30:34Z",
     "details": [
       {
         "name": "Running software version",
@@ -885,7 +885,7 @@
   },
   {
     "serial": "Q2QN-676D-AD64",
-    "name": "LON-SW-10",
+    "name": "lsys-lon-f4-sw-10",
     "mac": "2b:43:2a:78:5b:5f",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -898,10 +898,10 @@
     ],
     "lat": 51.5162,
     "lng": -0.122,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-676D-AD64/manage",
-    "configurationUpdatedAt": "2026-07-02T04:34:28Z",
+    "configurationUpdatedAt": "2026-07-02T11:22:35Z",
     "details": [
       {
         "name": "Running software version",
@@ -911,7 +911,7 @@
   },
   {
     "serial": "Q2QN-F97D-AB72",
-    "name": "LON-SW-11",
+    "name": "lsys-lon-f5-sw-11",
     "mac": "f6:1a:b3:79:d1:4e",
     "networkId": "N_322920021",
     "organizationId": "243503",
@@ -924,10 +924,10 @@
     ],
     "lat": 51.5164,
     "lng": -0.122,
-    "address": "30 St Mary Axe, London EC3A 8BF, UK",
+    "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-F97D-AB72/manage",
-    "configurationUpdatedAt": "2026-07-01T18:11:16Z",
+    "configurationUpdatedAt": "2026-07-02T00:59:23Z",
     "details": [
       {
         "name": "Running software version",
@@ -937,7 +937,7 @@
   },
   {
     "serial": "Q2KD-28C4-F7AF",
-    "name": "SFO-AP-01",
+    "name": "lsys-sfo-f1-ap-01",
     "mac": "4b:5a:07:f4:6c:89",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -950,10 +950,10 @@
     ],
     "lat": 37.775600000000004,
     "lng": -122.4101,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-28C4-F7AF/manage",
-    "configurationUpdatedAt": "2026-07-02T09:01:49Z",
+    "configurationUpdatedAt": "2026-07-02T15:49:56Z",
     "details": [
       {
         "name": "Running software version",
@@ -963,7 +963,7 @@
   },
   {
     "serial": "Q2KD-A05B-9E14",
-    "name": "SFO-AP-02",
+    "name": "lsys-sfo-f1-ap-02",
     "mac": "1a:f1:60:d1:cc:25",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -976,10 +976,10 @@
     ],
     "lat": 37.7817,
     "lng": -122.41279999999999,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-A05B-9E14/manage",
-    "configurationUpdatedAt": "2026-07-02T00:31:34Z",
+    "configurationUpdatedAt": "2026-07-02T07:19:41Z",
     "details": [
       {
         "name": "Running software version",
@@ -989,7 +989,7 @@
   },
   {
     "serial": "Q2KD-94BD-7F5C",
-    "name": "SFO-AP-03",
+    "name": "lsys-sfo-f4-ap-03",
     "mac": "e3:a8:48:40:e7:af",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1002,10 +1002,10 @@
     ],
     "lat": 37.7753,
     "lng": -122.411,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-94BD-7F5C/manage",
-    "configurationUpdatedAt": "2026-07-02T01:21:08Z",
+    "configurationUpdatedAt": "2026-07-02T08:09:15Z",
     "details": [
       {
         "name": "Running software version",
@@ -1015,7 +1015,7 @@
   },
   {
     "serial": "Q2KD-6DEB-069F",
-    "name": "SFO-AP-04",
+    "name": "lsys-sfo-f5-ap-04",
     "mac": "42:3e:fd:fc:89:fb",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1028,10 +1028,10 @@
     ],
     "lat": 37.784400000000005,
     "lng": -122.4119,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-6DEB-069F/manage",
-    "configurationUpdatedAt": "2026-07-02T04:06:46Z",
+    "configurationUpdatedAt": "2026-07-02T10:54:53Z",
     "details": [
       {
         "name": "Running software version",
@@ -1041,7 +1041,7 @@
   },
   {
     "serial": "Q2KD-BB5A-EE7F",
-    "name": "SFO-AP-05",
+    "name": "lsys-sfo-f3-ap-05",
     "mac": "f3:76:49:3a:f2:d9",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1054,10 +1054,10 @@
     ],
     "lat": 37.7804,
     "lng": -122.41619999999999,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-BB5A-EE7F/manage",
-    "configurationUpdatedAt": "2026-07-01T22:36:23Z",
+    "configurationUpdatedAt": "2026-07-02T05:24:30Z",
     "details": [
       {
         "name": "Running software version",
@@ -1067,7 +1067,7 @@
   },
   {
     "serial": "Q2KD-8C66-CBF1",
-    "name": "SFO-AP-06",
+    "name": "lsys-sfo-f1-ap-06",
     "mac": "3f:82:58:90:19:52",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1080,10 +1080,10 @@
     ],
     "lat": 37.775800000000004,
     "lng": -122.4185,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-8C66-CBF1/manage",
-    "configurationUpdatedAt": "2026-07-02T01:56:43Z",
+    "configurationUpdatedAt": "2026-07-02T08:44:50Z",
     "details": [
       {
         "name": "Running software version",
@@ -1093,7 +1093,7 @@
   },
   {
     "serial": "Q2KD-E3C1-A5B5",
-    "name": "SFO-AP-07",
+    "name": "lsys-sfo-f3-ap-07",
     "mac": "e5:11:43:68:c3:0e",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1106,10 +1106,10 @@
     ],
     "lat": 37.777,
     "lng": -122.4157,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-E3C1-A5B5/manage",
-    "configurationUpdatedAt": "2026-07-01T19:44:00Z",
+    "configurationUpdatedAt": "2026-07-02T02:32:07Z",
     "details": [
       {
         "name": "Running software version",
@@ -1119,7 +1119,7 @@
   },
   {
     "serial": "Q2KD-E6F2-6990",
-    "name": "SFO-AP-08",
+    "name": "lsys-sfo-f1-ap-08",
     "mac": "8a:d6:e2:e9:fd:16",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1132,10 +1132,10 @@
     ],
     "lat": 37.777300000000004,
     "lng": -122.41799999999999,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-E6F2-6990/manage",
-    "configurationUpdatedAt": "2026-07-01T19:30:23Z",
+    "configurationUpdatedAt": "2026-07-02T02:18:30Z",
     "details": [
       {
         "name": "Running software version",
@@ -1145,7 +1145,7 @@
   },
   {
     "serial": "Q2KD-D5A8-6572",
-    "name": "SFO-AP-09",
+    "name": "lsys-sfo-f4-ap-09",
     "mac": "c6:1c:b8:90:14:af",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1158,10 +1158,10 @@
     ],
     "lat": 37.7819,
     "lng": -122.413,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-D5A8-6572/manage",
-    "configurationUpdatedAt": "2026-07-01T20:44:09Z",
+    "configurationUpdatedAt": "2026-07-02T03:32:16Z",
     "details": [
       {
         "name": "Running software version",
@@ -1171,7 +1171,7 @@
   },
   {
     "serial": "Q2KD-A860-E2C7",
-    "name": "SFO-AP-10",
+    "name": "lsys-sfo-f4-ap-10",
     "mac": "59:8f:d9:8d:b2:b6",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1184,10 +1184,10 @@
     ],
     "lat": 37.7804,
     "lng": -122.41839999999999,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-A860-E2C7/manage",
-    "configurationUpdatedAt": "2026-07-01T23:57:21Z",
+    "configurationUpdatedAt": "2026-07-02T06:45:28Z",
     "details": [
       {
         "name": "Running software version",
@@ -1197,7 +1197,7 @@
   },
   {
     "serial": "Q2KD-9886-94F2",
-    "name": "SFO-AP-11",
+    "name": "lsys-sfo-f3-ap-11",
     "mac": "a2:4f:3f:0f:3e:74",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1210,10 +1210,10 @@
     ],
     "lat": 37.7779,
     "lng": -122.4139,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-9886-94F2/manage",
-    "configurationUpdatedAt": "2026-07-02T01:04:59Z",
+    "configurationUpdatedAt": "2026-07-02T07:53:06Z",
     "details": [
       {
         "name": "Running software version",
@@ -1223,7 +1223,7 @@
   },
   {
     "serial": "Q2KD-F592-2A03",
-    "name": "SFO-AP-12",
+    "name": "lsys-sfo-f1-ap-12",
     "mac": "96:37:b4:28:37:83",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1236,10 +1236,10 @@
     ],
     "lat": 37.7804,
     "lng": -122.4164,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-F592-2A03/manage",
-    "configurationUpdatedAt": "2026-07-01T18:27:59Z",
+    "configurationUpdatedAt": "2026-07-02T01:16:06Z",
     "details": [
       {
         "name": "Running software version",
@@ -1249,7 +1249,7 @@
   },
   {
     "serial": "Q2KD-DC34-54F6",
-    "name": "SFO-AP-13",
+    "name": "lsys-sfo-f1-ap-13",
     "mac": "a6:72:d5:c3:66:c4",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1262,10 +1262,10 @@
     ],
     "lat": 37.779900000000005,
     "lng": -122.4183,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-DC34-54F6/manage",
-    "configurationUpdatedAt": "2026-07-01T20:16:13Z",
+    "configurationUpdatedAt": "2026-07-02T03:04:20Z",
     "details": [
       {
         "name": "Running software version",
@@ -1275,7 +1275,7 @@
   },
   {
     "serial": "Q2KD-42AC-2DE0",
-    "name": "SFO-AP-14",
+    "name": "lsys-sfo-f2-ap-14",
     "mac": "cf:52:59:c3:2b:0c",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1288,10 +1288,10 @@
     ],
     "lat": 37.7793,
     "lng": -122.41279999999999,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-42AC-2DE0/manage",
-    "configurationUpdatedAt": "2026-07-02T07:11:17Z",
+    "configurationUpdatedAt": "2026-07-02T13:59:24Z",
     "details": [
       {
         "name": "Running software version",
@@ -1301,7 +1301,7 @@
   },
   {
     "serial": "Q2KD-55DF-0271",
-    "name": "SFO-AP-15",
+    "name": "lsys-sfo-f1-ap-15",
     "mac": "48:59:85:d6:e9:50",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1314,10 +1314,10 @@
     ],
     "lat": 37.7774,
     "lng": -122.4189,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-55DF-0271/manage",
-    "configurationUpdatedAt": "2026-07-02T05:49:22Z",
+    "configurationUpdatedAt": "2026-07-02T12:37:29Z",
     "details": [
       {
         "name": "Running software version",
@@ -1327,7 +1327,7 @@
   },
   {
     "serial": "Q2KD-F065-57CC",
-    "name": "SFO-AP-16",
+    "name": "lsys-sfo-f1-ap-16",
     "mac": "7a:bf:14:43:ae:d4",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1340,10 +1340,10 @@
     ],
     "lat": 37.7825,
     "lng": -122.4149,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-F065-57CC/manage",
-    "configurationUpdatedAt": "2026-07-01T18:50:04Z",
+    "configurationUpdatedAt": "2026-07-02T01:38:11Z",
     "details": [
       {
         "name": "Running software version",
@@ -1353,7 +1353,7 @@
   },
   {
     "serial": "Q2KD-342A-473C",
-    "name": "SFO-AP-17",
+    "name": "lsys-sfo-f3-ap-17",
     "mac": "39:a4:68:63:42:66",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1366,10 +1366,10 @@
     ],
     "lat": 37.7785,
     "lng": -122.4183,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-342A-473C/manage",
-    "configurationUpdatedAt": "2026-07-02T08:13:11Z",
+    "configurationUpdatedAt": "2026-07-02T15:01:18Z",
     "details": [
       {
         "name": "Running software version",
@@ -1379,7 +1379,7 @@
   },
   {
     "serial": "Q2KD-1487-5DDE",
-    "name": "SFO-AP-18",
+    "name": "lsys-sfo-f1-ap-18",
     "mac": "ad:0c:4a:62:41:bc",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1392,10 +1392,10 @@
     ],
     "lat": 37.7779,
     "lng": -122.4118,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-1487-5DDE/manage",
-    "configurationUpdatedAt": "2026-07-02T10:28:10Z",
+    "configurationUpdatedAt": "2026-07-02T17:16:17Z",
     "details": [
       {
         "name": "Running software version",
@@ -1405,7 +1405,7 @@
   },
   {
     "serial": "Q2KD-9E3B-F987",
-    "name": "SFO-AP-19",
+    "name": "lsys-sfo-f4-ap-19",
     "mac": "8e:f8:fe:cd:3b:ac",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1418,10 +1418,10 @@
     ],
     "lat": 37.7828,
     "lng": -122.41709999999999,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-9E3B-F987/manage",
-    "configurationUpdatedAt": "2026-07-02T00:40:38Z",
+    "configurationUpdatedAt": "2026-07-02T07:28:45Z",
     "details": [
       {
         "name": "Running software version",
@@ -1431,7 +1431,7 @@
   },
   {
     "serial": "Q2KD-6A1F-62CA",
-    "name": "SFO-AP-20",
+    "name": "lsys-sfo-f2-ap-20",
     "mac": "46:2c:68:76:76:bf",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1444,10 +1444,10 @@
     ],
     "lat": 37.7839,
     "lng": -122.4143,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-6A1F-62CA/manage",
-    "configurationUpdatedAt": "2026-07-02T04:22:58Z",
+    "configurationUpdatedAt": "2026-07-02T11:11:05Z",
     "details": [
       {
         "name": "Running software version",
@@ -1457,7 +1457,7 @@
   },
   {
     "serial": "Q2KD-4A73-33E0",
-    "name": "SFO-AP-21",
+    "name": "lsys-sfo-f5-ap-21",
     "mac": "e5:e3:3f:4c:cd:d6",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1470,10 +1470,10 @@
     ],
     "lat": 37.782900000000005,
     "lng": -122.41069999999999,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-4A73-33E0/manage",
-    "configurationUpdatedAt": "2026-07-02T06:38:06Z",
+    "configurationUpdatedAt": "2026-07-02T13:26:13Z",
     "details": [
       {
         "name": "Running software version",
@@ -1483,7 +1483,7 @@
   },
   {
     "serial": "Q2KD-2896-4130",
-    "name": "SFO-AP-22",
+    "name": "lsys-sfo-f1-ap-22",
     "mac": "ba:b6:41:dc:65:b5",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1496,10 +1496,10 @@
     ],
     "lat": 37.7837,
     "lng": -122.4114,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-2896-4130/manage",
-    "configurationUpdatedAt": "2026-07-02T09:02:35Z",
+    "configurationUpdatedAt": "2026-07-02T15:50:42Z",
     "details": [
       {
         "name": "Running software version",
@@ -1509,7 +1509,7 @@
   },
   {
     "serial": "Q2KD-0EFF-8EBD",
-    "name": "SFO-AP-23",
+    "name": "lsys-sfo-f5-ap-23",
     "mac": "4e:8a:d0:e0:5b:d4",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1522,10 +1522,10 @@
     ],
     "lat": 37.779,
     "lng": -122.41929999999999,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-0EFF-8EBD/manage",
-    "configurationUpdatedAt": "2026-07-02T10:51:46Z",
+    "configurationUpdatedAt": "2026-07-02T17:39:53Z",
     "details": [
       {
         "name": "Running software version",
@@ -1535,7 +1535,7 @@
   },
   {
     "serial": "Q2KD-E7C9-433C",
-    "name": "SFO-AP-24",
+    "name": "lsys-sfo-f2-ap-24",
     "mac": "48:f2:d4:46:46:58",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1548,10 +1548,10 @@
     ],
     "lat": 37.7761,
     "lng": -122.4153,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-E7C9-433C/manage",
-    "configurationUpdatedAt": "2026-07-01T19:26:48Z",
+    "configurationUpdatedAt": "2026-07-02T02:14:55Z",
     "details": [
       {
         "name": "Running software version",
@@ -1561,7 +1561,7 @@
   },
   {
     "serial": "Q2KD-E934-962E",
-    "name": "SFO-AP-25",
+    "name": "lsys-sfo-f4-ap-25",
     "mac": "78:88:8d:24:02:81",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1574,10 +1574,10 @@
     ],
     "lat": 37.779500000000006,
     "lng": -122.4143,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-E934-962E/manage",
-    "configurationUpdatedAt": "2026-07-01T19:20:45Z",
+    "configurationUpdatedAt": "2026-07-02T02:08:52Z",
     "details": [
       {
         "name": "Running software version",
@@ -1587,7 +1587,7 @@
   },
   {
     "serial": "Q2KD-9F61-EDAB",
-    "name": "SFO-AP-26",
+    "name": "lsys-sfo-f5-ap-26",
     "mac": "c5:6a:78:92:a8:82",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1600,10 +1600,10 @@
     ],
     "lat": 37.7792,
     "lng": -122.4156,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-9F61-EDAB/manage",
-    "configurationUpdatedAt": "2026-07-02T00:35:44Z",
+    "configurationUpdatedAt": "2026-07-02T07:23:51Z",
     "details": [
       {
         "name": "Running software version",
@@ -1613,7 +1613,7 @@
   },
   {
     "serial": "Q2KD-0350-56A4",
-    "name": "SFO-AP-27",
+    "name": "lsys-sfo-f4-ap-27",
     "mac": "0b:82:06:24:4c:d8",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1626,10 +1626,10 @@
     ],
     "lat": 37.782900000000005,
     "lng": -122.41319999999999,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-0350-56A4/manage",
-    "configurationUpdatedAt": "2026-07-02T11:41:37Z",
+    "configurationUpdatedAt": "2026-07-02T18:29:44Z",
     "details": [
       {
         "name": "Running software version",
@@ -1639,7 +1639,7 @@
   },
   {
     "serial": "Q2KD-D55F-963E",
-    "name": "SFO-AP-28",
+    "name": "lsys-sfo-f4-ap-28",
     "mac": "e4:c8:74:47:f6:ec",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1652,10 +1652,10 @@
     ],
     "lat": 37.7811,
     "lng": -122.4173,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-D55F-963E/manage",
-    "configurationUpdatedAt": "2026-07-01T20:45:22Z",
+    "configurationUpdatedAt": "2026-07-02T03:33:29Z",
     "details": [
       {
         "name": "Running software version",
@@ -1665,7 +1665,7 @@
   },
   {
     "serial": "Q2KD-2980-99A9",
-    "name": "SFO-AP-29",
+    "name": "lsys-sfo-f2-ap-29",
     "mac": "cc:50:89:4f:39:68",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1678,10 +1678,10 @@
     ],
     "lat": 37.778600000000004,
     "lng": -122.41199999999999,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-2980-99A9/manage",
-    "configurationUpdatedAt": "2026-07-02T08:58:41Z",
+    "configurationUpdatedAt": "2026-07-02T15:46:48Z",
     "details": [
       {
         "name": "Running software version",
@@ -1691,7 +1691,7 @@
   },
   {
     "serial": "Q2KD-B76F-5C18",
-    "name": "SFO-AP-30",
+    "name": "lsys-sfo-f4-ap-30",
     "mac": "3f:0b:66:8f:8e:1f",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1704,10 +1704,10 @@
     ],
     "lat": 37.7825,
     "lng": -122.4129,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-B76F-5C18/manage",
-    "configurationUpdatedAt": "2026-07-01T22:53:06Z",
+    "configurationUpdatedAt": "2026-07-02T05:41:13Z",
     "details": [
       {
         "name": "Running software version",
@@ -1717,7 +1717,7 @@
   },
   {
     "serial": "Q2KD-22ED-E58F",
-    "name": "SFO-AP-31",
+    "name": "lsys-sfo-f5-ap-31",
     "mac": "30:5f:38:c5:f4:f6",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1730,10 +1730,10 @@
     ],
     "lat": 37.781600000000005,
     "lng": -122.4144,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-22ED-E58F/manage",
-    "configurationUpdatedAt": "2026-07-02T09:26:44Z",
+    "configurationUpdatedAt": "2026-07-02T16:14:51Z",
     "details": [
       {
         "name": "Running software version",
@@ -1743,7 +1743,7 @@
   },
   {
     "serial": "Q2KD-C4DB-36F4",
-    "name": "SFO-AP-32",
+    "name": "lsys-sfo-f2-ap-32",
     "mac": "e9:1e:e2:94:ea:91",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1756,10 +1756,10 @@
     ],
     "lat": 37.7817,
     "lng": -122.4101,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-C4DB-36F4/manage",
-    "configurationUpdatedAt": "2026-07-01T21:55:50Z",
+    "configurationUpdatedAt": "2026-07-02T04:43:57Z",
     "details": [
       {
         "name": "Running software version",
@@ -1769,7 +1769,7 @@
   },
   {
     "serial": "Q2KD-8F16-5FE3",
-    "name": "SFO-AP-33",
+    "name": "lsys-sfo-f4-ap-33",
     "mac": "e7:c6:ca:01:d0:bf",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1782,10 +1782,10 @@
     ],
     "lat": 37.7796,
     "lng": -122.41629999999999,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-8F16-5FE3/manage",
-    "configurationUpdatedAt": "2026-07-02T01:45:15Z",
+    "configurationUpdatedAt": "2026-07-02T08:33:22Z",
     "details": [
       {
         "name": "Running software version",
@@ -1795,7 +1795,7 @@
   },
   {
     "serial": "Q2KD-9D91-3E9C",
-    "name": "SFO-AP-34",
+    "name": "lsys-sfo-f3-ap-34",
     "mac": "6f:2d:35:d7:3f:da",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1808,10 +1808,10 @@
     ],
     "lat": 37.7777,
     "lng": -122.4135,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-9D91-3E9C/manage",
-    "configurationUpdatedAt": "2026-07-02T00:43:28Z",
+    "configurationUpdatedAt": "2026-07-02T07:31:35Z",
     "details": [
       {
         "name": "Running software version",
@@ -1821,7 +1821,7 @@
   },
   {
     "serial": "Q2KD-FC4E-4B67",
-    "name": "SFO-AP-35",
+    "name": "lsys-sfo-f3-ap-35",
     "mac": "0d:20:ca:0d:fc:09",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1834,10 +1834,10 @@
     ],
     "lat": 37.775200000000005,
     "lng": -122.4161,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-FC4E-4B67/manage",
-    "configurationUpdatedAt": "2026-07-01T17:59:15Z",
+    "configurationUpdatedAt": "2026-07-02T00:47:22Z",
     "details": [
       {
         "name": "Running software version",
@@ -1847,7 +1847,7 @@
   },
   {
     "serial": "Q2KD-CD0C-B902",
-    "name": "SFO-AP-36",
+    "name": "lsys-sfo-f1-ap-36",
     "mac": "85:87:64:ae:16:d5",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1860,10 +1860,10 @@
     ],
     "lat": 37.7811,
     "lng": -122.4177,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-CD0C-B902/manage",
-    "configurationUpdatedAt": "2026-07-01T21:20:53Z",
+    "configurationUpdatedAt": "2026-07-02T04:09:00Z",
     "details": [
       {
         "name": "Running software version",
@@ -1873,7 +1873,7 @@
   },
   {
     "serial": "Q2KD-9BBF-C8A5",
-    "name": "SFO-AP-37",
+    "name": "lsys-sfo-f1-ap-37",
     "mac": "9b:9d:68:b1:32:6c",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1886,10 +1886,10 @@
     ],
     "lat": 37.781400000000005,
     "lng": -122.4129,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-9BBF-C8A5/manage",
-    "configurationUpdatedAt": "2026-07-02T00:51:14Z",
+    "configurationUpdatedAt": "2026-07-02T07:39:21Z",
     "details": [
       {
         "name": "Running software version",
@@ -1899,7 +1899,7 @@
   },
   {
     "serial": "Q2KD-A314-BCC4",
-    "name": "SFO-AP-38",
+    "name": "lsys-sfo-f4-ap-38",
     "mac": "70:d1:36:64:c9:15",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1912,10 +1912,10 @@
     ],
     "lat": 37.777300000000004,
     "lng": -122.41879999999999,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-A314-BCC4/manage",
-    "configurationUpdatedAt": "2026-07-02T00:19:57Z",
+    "configurationUpdatedAt": "2026-07-02T07:08:04Z",
     "details": [
       {
         "name": "Running software version",
@@ -1925,7 +1925,7 @@
   },
   {
     "serial": "Q2KD-49CF-D49F",
-    "name": "SFO-AP-39",
+    "name": "lsys-sfo-f4-ap-39",
     "mac": "b7:0c:bd:c4:ad:27",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1938,10 +1938,10 @@
     ],
     "lat": 37.778000000000006,
     "lng": -122.4114,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-49CF-D49F/manage",
-    "configurationUpdatedAt": "2026-07-02T06:40:50Z",
+    "configurationUpdatedAt": "2026-07-02T13:28:57Z",
     "details": [
       {
         "name": "Running software version",
@@ -1951,7 +1951,7 @@
   },
   {
     "serial": "Q2KD-83E3-91F6",
-    "name": "SFO-AP-40",
+    "name": "lsys-sfo-f2-ap-40",
     "mac": "11:9b:2d:0e:c0:64",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1964,10 +1964,10 @@
     ],
     "lat": 37.7815,
     "lng": -122.41329999999999,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-83E3-91F6/manage",
-    "configurationUpdatedAt": "2026-07-02T02:33:02Z",
+    "configurationUpdatedAt": "2026-07-02T09:21:09Z",
     "details": [
       {
         "name": "Running software version",
@@ -1977,7 +1977,7 @@
   },
   {
     "serial": "Q2KD-E5F6-1C0D",
-    "name": "SFO-AP-41",
+    "name": "lsys-sfo-f5-ap-41",
     "mac": "fa:71:08:f6:27:e4",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -1990,10 +1990,10 @@
     ],
     "lat": 37.783,
     "lng": -122.4139,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-E5F6-1C0D/manage",
-    "configurationUpdatedAt": "2026-07-01T19:34:35Z",
+    "configurationUpdatedAt": "2026-07-02T02:22:42Z",
     "details": [
       {
         "name": "Running software version",
@@ -2003,7 +2003,7 @@
   },
   {
     "serial": "Q2KD-87CD-4185",
-    "name": "SFO-AP-42",
+    "name": "lsys-sfo-f1-ap-42",
     "mac": "63:85:e7:c1:ea:8f",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2016,10 +2016,10 @@
     ],
     "lat": 37.7822,
     "lng": -122.411,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-87CD-4185/manage",
-    "configurationUpdatedAt": "2026-07-02T02:16:20Z",
+    "configurationUpdatedAt": "2026-07-02T09:04:27Z",
     "details": [
       {
         "name": "Running software version",
@@ -2029,7 +2029,7 @@
   },
   {
     "serial": "Q2KD-1554-093D",
-    "name": "SFO-AP-43",
+    "name": "lsys-sfo-f2-ap-43",
     "mac": "b9:80:82:2f:1d:0b",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2042,10 +2042,10 @@
     ],
     "lat": 37.781400000000005,
     "lng": -122.4152,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-1554-093D/manage",
-    "configurationUpdatedAt": "2026-07-02T10:24:45Z",
+    "configurationUpdatedAt": "2026-07-02T17:12:52Z",
     "details": [
       {
         "name": "Running software version",
@@ -2055,7 +2055,7 @@
   },
   {
     "serial": "Q2KD-1DE4-91DF",
-    "name": "SFO-AP-44",
+    "name": "lsys-sfo-f5-ap-44",
     "mac": "2a:66:e0:5c:71:30",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2068,10 +2068,10 @@
     ],
     "lat": 37.7792,
     "lng": -122.4119,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-1DE4-91DF/manage",
-    "configurationUpdatedAt": "2026-07-02T09:48:13Z",
+    "configurationUpdatedAt": "2026-07-02T16:36:20Z",
     "details": [
       {
         "name": "Running software version",
@@ -2081,7 +2081,7 @@
   },
   {
     "serial": "Q2KD-BC00-1FF5",
-    "name": "SFO-AP-45",
+    "name": "lsys-sfo-f4-ap-45",
     "mac": "aa:77:10:ac:f3:85",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2094,10 +2094,10 @@
     ],
     "lat": 37.783,
     "lng": -122.4156,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-BC00-1FF5/manage",
-    "configurationUpdatedAt": "2026-07-01T22:33:37Z",
+    "configurationUpdatedAt": "2026-07-02T05:21:44Z",
     "details": [
       {
         "name": "Running software version",
@@ -2107,7 +2107,7 @@
   },
   {
     "serial": "Q2KD-8224-F174",
-    "name": "SFO-AP-46",
+    "name": "lsys-sfo-f1-ap-46",
     "mac": "e6:91:70:b0:8a:ba",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2120,10 +2120,10 @@
     ],
     "lat": 37.7761,
     "lng": -122.4173,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-8224-F174/manage",
-    "configurationUpdatedAt": "2026-07-02T02:40:29Z",
+    "configurationUpdatedAt": "2026-07-02T09:28:36Z",
     "details": [
       {
         "name": "Running software version",
@@ -2133,7 +2133,7 @@
   },
   {
     "serial": "Q2KD-69CA-9E95",
-    "name": "SFO-AP-47",
+    "name": "lsys-sfo-f1-ap-47",
     "mac": "c4:e7:fc:9d:78:56",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2146,10 +2146,10 @@
     ],
     "lat": 37.784600000000005,
     "lng": -122.4148,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-69CA-9E95/manage",
-    "configurationUpdatedAt": "2026-07-02T04:24:23Z",
+    "configurationUpdatedAt": "2026-07-02T11:12:30Z",
     "details": [
       {
         "name": "Running software version",
@@ -2159,7 +2159,7 @@
   },
   {
     "serial": "Q2KD-1836-2C48",
-    "name": "SFO-AP-48",
+    "name": "lsys-sfo-f5-ap-48",
     "mac": "72:2c:73:a0:6a:c2",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2172,10 +2172,10 @@
     ],
     "lat": 37.7785,
     "lng": -122.41019999999999,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-1836-2C48/manage",
-    "configurationUpdatedAt": "2026-07-02T10:12:27Z",
+    "configurationUpdatedAt": "2026-07-02T17:00:34Z",
     "details": [
       {
         "name": "Running software version",
@@ -2185,7 +2185,7 @@
   },
   {
     "serial": "Q2KD-C189-AD0C",
-    "name": "SFO-AP-49",
+    "name": "lsys-sfo-f4-ap-49",
     "mac": "5a:9d:0e:0b:20:e5",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2198,10 +2198,10 @@
     ],
     "lat": 37.7749,
     "lng": -122.41629999999999,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-C189-AD0C/manage",
-    "configurationUpdatedAt": "2026-07-01T22:10:00Z",
+    "configurationUpdatedAt": "2026-07-02T04:58:07Z",
     "details": [
       {
         "name": "Running software version",
@@ -2211,7 +2211,7 @@
   },
   {
     "serial": "Q2KD-1E98-DA74",
-    "name": "SFO-AP-50",
+    "name": "lsys-sfo-f1-ap-50",
     "mac": "af:d1:98:2a:c1:c0",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2224,10 +2224,10 @@
     ],
     "lat": 37.777300000000004,
     "lng": -122.417,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-1E98-DA74/manage",
-    "configurationUpdatedAt": "2026-07-02T09:45:13Z",
+    "configurationUpdatedAt": "2026-07-02T16:33:20Z",
     "details": [
       {
         "name": "Running software version",
@@ -2237,7 +2237,7 @@
   },
   {
     "serial": "Q2QN-D5BC-6F84",
-    "name": "SFO-SW-01",
+    "name": "lsys-sfo-f4-sw-01",
     "mac": "cb:a8:b7:31:d9:40",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2250,10 +2250,10 @@
     ],
     "lat": 37.779700000000005,
     "lng": -122.4097,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-D5BC-6F84/manage",
-    "configurationUpdatedAt": "2026-07-01T20:43:49Z",
+    "configurationUpdatedAt": "2026-07-02T03:31:56Z",
     "details": [
       {
         "name": "Running software version",
@@ -2263,7 +2263,7 @@
   },
   {
     "serial": "Q2QN-FEB7-2A91",
-    "name": "SFO-SW-02",
+    "name": "lsys-sfo-f5-sw-02",
     "mac": "94:66:b7:7b:b1:5a",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2276,10 +2276,10 @@
     ],
     "lat": 37.784600000000005,
     "lng": -122.4166,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-FEB7-2A91/manage",
-    "configurationUpdatedAt": "2026-07-01T17:48:58Z",
+    "configurationUpdatedAt": "2026-07-02T00:37:05Z",
     "details": [
       {
         "name": "Running software version",
@@ -2289,7 +2289,7 @@
   },
   {
     "serial": "Q2QN-4C52-95E4",
-    "name": "SFO-SW-03",
+    "name": "lsys-sfo-f2-sw-03",
     "mac": "9c:53:49:5c:75:0f",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2302,10 +2302,10 @@
     ],
     "lat": 37.7821,
     "lng": -122.4165,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-4C52-95E4/manage",
-    "configurationUpdatedAt": "2026-07-02T06:30:07Z",
+    "configurationUpdatedAt": "2026-07-02T13:18:14Z",
     "details": [
       {
         "name": "Running software version",
@@ -2315,7 +2315,7 @@
   },
   {
     "serial": "Q2QN-A7AE-BD2A",
-    "name": "SFO-SW-04",
+    "name": "lsys-sfo-f3-sw-04",
     "mac": "58:cf:06:d6:1e:50",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2328,10 +2328,10 @@
     ],
     "lat": 37.7775,
     "lng": -122.4118,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-A7AE-BD2A/manage",
-    "configurationUpdatedAt": "2026-07-02T00:00:19Z",
+    "configurationUpdatedAt": "2026-07-02T06:48:26Z",
     "details": [
       {
         "name": "Running software version",
@@ -2341,7 +2341,7 @@
   },
   {
     "serial": "Q2QN-8F8E-4DFA",
-    "name": "SFO-SW-05",
+    "name": "lsys-sfo-f4-sw-05",
     "mac": "4e:a9:c8:e0:6c:eb",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2354,10 +2354,10 @@
     ],
     "lat": 37.7811,
     "lng": -122.4139,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-8F8E-4DFA/manage",
-    "configurationUpdatedAt": "2026-07-02T01:43:15Z",
+    "configurationUpdatedAt": "2026-07-02T08:31:22Z",
     "details": [
       {
         "name": "Running software version",
@@ -2367,7 +2367,7 @@
   },
   {
     "serial": "Q2QN-19E5-7E5F",
-    "name": "SFO-SW-06",
+    "name": "lsys-sfo-f1-sw-06",
     "mac": "ae:55:3e:bf:9d:48",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2380,10 +2380,10 @@
     ],
     "lat": 37.78,
     "lng": -122.4194,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-19E5-7E5F/manage",
-    "configurationUpdatedAt": "2026-07-02T10:05:16Z",
+    "configurationUpdatedAt": "2026-07-02T16:53:23Z",
     "details": [
       {
         "name": "Running software version",
@@ -2393,7 +2393,7 @@
   },
   {
     "serial": "Q2QN-0678-38BE",
-    "name": "SFO-SW-07",
+    "name": "lsys-sfo-f2-sw-07",
     "mac": "b1:ab:e2:81:1b:b2",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2406,10 +2406,10 @@
     ],
     "lat": 37.7775,
     "lng": -122.4106,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-0678-38BE/manage",
-    "configurationUpdatedAt": "2026-07-02T11:28:09Z",
+    "configurationUpdatedAt": "2026-07-02T18:16:16Z",
     "details": [
       {
         "name": "Running software version",
@@ -2419,7 +2419,7 @@
   },
   {
     "serial": "Q2QN-312A-DBF0",
-    "name": "SFO-SW-08",
+    "name": "lsys-sfo-f5-sw-08",
     "mac": "ca:8e:f4:c3:09:36",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2432,10 +2432,10 @@
     ],
     "lat": 37.7753,
     "lng": -122.4146,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-312A-DBF0/manage",
-    "configurationUpdatedAt": "2026-07-02T08:25:59Z",
+    "configurationUpdatedAt": "2026-07-02T15:14:06Z",
     "details": [
       {
         "name": "Running software version",
@@ -2445,7 +2445,7 @@
   },
   {
     "serial": "Q2QN-416D-E265",
-    "name": "SFO-SW-09",
+    "name": "lsys-sfo-f1-sw-09",
     "mac": "07:98:16:bf:7b:e6",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2458,10 +2458,10 @@
     ],
     "lat": 37.7806,
     "lng": -122.41929999999999,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-416D-E265/manage",
-    "configurationUpdatedAt": "2026-07-02T07:16:36Z",
+    "configurationUpdatedAt": "2026-07-02T14:04:43Z",
     "details": [
       {
         "name": "Running software version",
@@ -2471,7 +2471,7 @@
   },
   {
     "serial": "Q2QN-14B3-A67B",
-    "name": "SFO-SW-10",
+    "name": "lsys-sfo-f1-sw-10",
     "mac": "39:16:34:16:23:36",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2484,10 +2484,10 @@
     ],
     "lat": 37.7768,
     "lng": -122.4125,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-14B3-A67B/manage",
-    "configurationUpdatedAt": "2026-07-02T10:27:26Z",
+    "configurationUpdatedAt": "2026-07-02T17:15:33Z",
     "details": [
       {
         "name": "Running software version",
@@ -2497,7 +2497,7 @@
   },
   {
     "serial": "Q2QN-668C-FACD",
-    "name": "SFO-SW-11",
+    "name": "lsys-sfo-f3-sw-11",
     "mac": "8e:31:65:d9:20:90",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2510,10 +2510,10 @@
     ],
     "lat": 37.775400000000005,
     "lng": -122.4194,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-668C-FACD/manage",
-    "configurationUpdatedAt": "2026-07-02T04:38:13Z",
+    "configurationUpdatedAt": "2026-07-02T11:26:20Z",
     "details": [
       {
         "name": "Running software version",
@@ -2523,7 +2523,7 @@
   },
   {
     "serial": "Q2QN-63F3-364E",
-    "name": "SFO-SW-12",
+    "name": "lsys-sfo-f5-sw-12",
     "mac": "ee:47:af:f4:70:21",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2536,10 +2536,10 @@
     ],
     "lat": 37.7751,
     "lng": -122.4117,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-63F3-364E/manage",
-    "configurationUpdatedAt": "2026-07-02T04:49:18Z",
+    "configurationUpdatedAt": "2026-07-02T11:37:25Z",
     "details": [
       {
         "name": "Running software version",
@@ -2549,7 +2549,7 @@
   },
   {
     "serial": "Q2QN-B4C3-A695",
-    "name": "SFO-SW-13",
+    "name": "lsys-sfo-f1-sw-13",
     "mac": "57:1c:e5:ef:c6:e2",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2562,10 +2562,10 @@
     ],
     "lat": 37.7794,
     "lng": -122.4173,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-B4C3-A695/manage",
-    "configurationUpdatedAt": "2026-07-01T23:04:30Z",
+    "configurationUpdatedAt": "2026-07-02T05:52:37Z",
     "details": [
       {
         "name": "Running software version",
@@ -2575,7 +2575,7 @@
   },
   {
     "serial": "Q2QN-89CD-4790",
-    "name": "SFO-SW-14",
+    "name": "lsys-sfo-f3-sw-14",
     "mac": "d6:3a:9d:25:83:d8",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2588,10 +2588,10 @@
     ],
     "lat": 37.776900000000005,
     "lng": -122.41919999999999,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-89CD-4790/manage",
-    "configurationUpdatedAt": "2026-07-02T02:07:48Z",
+    "configurationUpdatedAt": "2026-07-02T08:55:55Z",
     "details": [
       {
         "name": "Running software version",
@@ -2601,7 +2601,7 @@
   },
   {
     "serial": "Q2QN-2747-C7C4",
-    "name": "SFO-SW-15",
+    "name": "lsys-sfo-f5-sw-15",
     "mac": "c8:40:af:1f:53:f4",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2614,10 +2614,10 @@
     ],
     "lat": 37.7789,
     "lng": -122.4105,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-2747-C7C4/manage",
-    "configurationUpdatedAt": "2026-07-02T09:08:10Z",
+    "configurationUpdatedAt": "2026-07-02T15:56:17Z",
     "details": [
       {
         "name": "Running software version",
@@ -2627,7 +2627,7 @@
   },
   {
     "serial": "Q2QN-5A6F-FE28",
-    "name": "SFO-SW-16",
+    "name": "lsys-sfo-f1-sw-16",
     "mac": "1c:1e:ee:23:53:2b",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2640,10 +2640,10 @@
     ],
     "lat": 37.7813,
     "lng": -122.4096,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-5A6F-FE28/manage",
-    "configurationUpdatedAt": "2026-07-02T05:29:54Z",
+    "configurationUpdatedAt": "2026-07-02T12:18:01Z",
     "details": [
       {
         "name": "Running software version",
@@ -2653,7 +2653,7 @@
   },
   {
     "serial": "Q2QN-8E07-8253",
-    "name": "SFO-SW-17",
+    "name": "lsys-sfo-f3-sw-17",
     "mac": "c7:14:86:a0:67:a0",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2666,10 +2666,10 @@
     ],
     "lat": 37.781200000000005,
     "lng": -122.41199999999999,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-8E07-8253/manage",
-    "configurationUpdatedAt": "2026-07-02T01:49:46Z",
+    "configurationUpdatedAt": "2026-07-02T08:37:53Z",
     "details": [
       {
         "name": "Running software version",
@@ -2679,7 +2679,7 @@
   },
   {
     "serial": "Q2QN-35CE-5D3F",
-    "name": "SFO-SW-18",
+    "name": "lsys-sfo-f4-sw-18",
     "mac": "0c:71:4e:49:06:e6",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2692,10 +2692,10 @@
     ],
     "lat": 37.782000000000004,
     "lng": -122.4156,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-35CE-5D3F/manage",
-    "configurationUpdatedAt": "2026-07-02T08:06:11Z",
+    "configurationUpdatedAt": "2026-07-02T14:54:18Z",
     "details": [
       {
         "name": "Running software version",
@@ -2705,7 +2705,7 @@
   },
   {
     "serial": "Q2QN-16C4-1A53",
-    "name": "SFO-SW-19",
+    "name": "lsys-sfo-f3-sw-19",
     "mac": "e6:9f:31:f1:01:3b",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2718,10 +2718,10 @@
     ],
     "lat": 37.778800000000004,
     "lng": -122.4101,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-16C4-1A53/manage",
-    "configurationUpdatedAt": "2026-07-02T10:18:37Z",
+    "configurationUpdatedAt": "2026-07-02T17:06:44Z",
     "details": [
       {
         "name": "Running software version",
@@ -2731,7 +2731,7 @@
   },
   {
     "serial": "Q2QN-2E6F-0560",
-    "name": "SFO-SW-20",
+    "name": "lsys-sfo-f2-sw-20",
     "mac": "2d:5d:b5:0d:81:85",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2744,10 +2744,10 @@
     ],
     "lat": 37.7825,
     "lng": -122.41669999999999,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-2E6F-0560/manage",
-    "configurationUpdatedAt": "2026-07-02T08:37:38Z",
+    "configurationUpdatedAt": "2026-07-02T15:25:45Z",
     "details": [
       {
         "name": "Running software version",
@@ -2757,7 +2757,7 @@
   },
   {
     "serial": "Q2QN-F6D7-48B9",
-    "name": "SFO-SW-21",
+    "name": "lsys-sfo-f2-sw-21",
     "mac": "df:93:31:26:cf:ef",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2770,10 +2770,10 @@
     ],
     "lat": 37.7766,
     "lng": -122.41409999999999,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-F6D7-48B9/manage",
-    "configurationUpdatedAt": "2026-07-01T18:22:34Z",
+    "configurationUpdatedAt": "2026-07-02T01:10:41Z",
     "details": [
       {
         "name": "Running software version",
@@ -2783,7 +2783,7 @@
   },
   {
     "serial": "Q2QN-C339-91EA",
-    "name": "SFO-SW-22",
+    "name": "lsys-sfo-f1-sw-22",
     "mac": "ea:ae:76:08:eb:4c",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2796,10 +2796,10 @@
     ],
     "lat": 37.780300000000004,
     "lng": -122.41319999999999,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-C339-91EA/manage",
-    "configurationUpdatedAt": "2026-07-01T22:02:48Z",
+    "configurationUpdatedAt": "2026-07-02T04:50:55Z",
     "details": [
       {
         "name": "Running software version",
@@ -2809,7 +2809,7 @@
   },
   {
     "serial": "Q2QN-E81F-CFD9",
-    "name": "SFO-SW-23",
+    "name": "lsys-sfo-f3-sw-23",
     "mac": "7e:79:59:81:1e:10",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2822,10 +2822,10 @@
     ],
     "lat": 37.775800000000004,
     "lng": -122.4166,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-E81F-CFD9/manage",
-    "configurationUpdatedAt": "2026-07-01T19:25:22Z",
+    "configurationUpdatedAt": "2026-07-02T02:13:29Z",
     "details": [
       {
         "name": "Running software version",
@@ -2835,7 +2835,7 @@
   },
   {
     "serial": "Q2QN-DEEA-5004",
-    "name": "SFO-SW-24",
+    "name": "lsys-sfo-f3-sw-24",
     "mac": "6d:d4:ef:e3:f9:1b",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2848,10 +2848,10 @@
     ],
     "lat": 37.783300000000004,
     "lng": -122.4134,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-DEEA-5004/manage",
-    "configurationUpdatedAt": "2026-07-01T20:04:39Z",
+    "configurationUpdatedAt": "2026-07-02T02:52:46Z",
     "details": [
       {
         "name": "Running software version",
@@ -2861,7 +2861,7 @@
   },
   {
     "serial": "Q2QN-F67C-3807",
-    "name": "SFO-SW-25",
+    "name": "lsys-sfo-f2-sw-25",
     "mac": "0c:11:b8:0b:23:2f",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2874,10 +2874,10 @@
     ],
     "lat": 37.7792,
     "lng": -122.4159,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-F67C-3807/manage",
-    "configurationUpdatedAt": "2026-07-01T18:24:05Z",
+    "configurationUpdatedAt": "2026-07-02T01:12:12Z",
     "details": [
       {
         "name": "Running software version",
@@ -2887,7 +2887,7 @@
   },
   {
     "serial": "Q2QN-729B-3693",
-    "name": "SFO-SW-26",
+    "name": "lsys-sfo-f5-sw-26",
     "mac": "83:6c:93:6a:a7:fb",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2900,10 +2900,10 @@
     ],
     "lat": 37.782000000000004,
     "lng": -122.41239999999999,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-729B-3693/manage",
-    "configurationUpdatedAt": "2026-07-02T03:46:46Z",
+    "configurationUpdatedAt": "2026-07-02T10:34:53Z",
     "details": [
       {
         "name": "Running software version",
@@ -2913,7 +2913,7 @@
   },
   {
     "serial": "Q2QN-9670-3354",
-    "name": "SFO-MX-01",
+    "name": "lsys-sfo-f1-mx-01",
     "mac": "80:98:03:b4:a6:eb",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2926,10 +2926,10 @@
     ],
     "lat": 37.7789,
     "lng": -122.41199999999999,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-9670-3354/manage",
-    "configurationUpdatedAt": "2026-07-02T01:13:53Z",
+    "configurationUpdatedAt": "2026-07-02T08:02:00Z",
     "details": [
       {
         "name": "Running software version",
@@ -2940,7 +2940,7 @@
   },
   {
     "serial": "Q2QN-3E80-CA66",
-    "name": "SFO-MX-02",
+    "name": "lsys-sfo-f1-mx-02",
     "mac": "3e:a2:5a:01:78:97",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2953,10 +2953,10 @@
     ],
     "lat": 37.7763,
     "lng": -122.4097,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-3E80-CA66/manage",
-    "configurationUpdatedAt": "2026-07-02T07:29:05Z",
+    "configurationUpdatedAt": "2026-07-02T14:17:12Z",
     "details": [
       {
         "name": "Running software version",
@@ -2967,7 +2967,7 @@
   },
   {
     "serial": "Q2QN-0B35-400C",
-    "name": "SFO-MX-03",
+    "name": "lsys-sfo-f1-mx-03",
     "mac": "22:33:e1:b8:fc:81",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -2980,10 +2980,10 @@
     ],
     "lat": 37.7845,
     "lng": -122.4118,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-0B35-400C/manage",
-    "configurationUpdatedAt": "2026-07-02T11:07:56Z",
+    "configurationUpdatedAt": "2026-07-02T17:56:03Z",
     "details": [
       {
         "name": "Running software version",
@@ -2994,7 +2994,7 @@
   },
   {
     "serial": "Q2QN-4E81-1B7C",
-    "name": "SFO-MX-04",
+    "name": "lsys-sfo-f1-mx-04",
     "mac": "85:bd:2a:9b:ff:4b",
     "networkId": "N_695691719",
     "organizationId": "243503",
@@ -3007,10 +3007,10 @@
     ],
     "lat": 37.7785,
     "lng": -122.4151,
-    "address": "100 Market St, San Francisco, CA 94105",
+    "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-4E81-1B7C/manage",
-    "configurationUpdatedAt": "2026-07-02T06:20:48Z",
+    "configurationUpdatedAt": "2026-07-02T13:08:55Z",
     "details": [
       {
         "name": "Running software version",
@@ -3021,7 +3021,7 @@
   },
   {
     "serial": "Q2KD-9BD5-AAB8",
-    "name": "NYC-AP-01",
+    "name": "lsys-nyc-f1-ap-01",
     "mac": "8e:b2:f9:88:0f:88",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3034,10 +3034,10 @@
     ],
     "lat": 40.7132,
     "lng": -73.9991,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-9BD5-AAB8/manage",
-    "configurationUpdatedAt": "2026-07-02T00:50:52Z",
+    "configurationUpdatedAt": "2026-07-02T07:38:59Z",
     "details": [
       {
         "name": "Running software version",
@@ -3047,7 +3047,7 @@
   },
   {
     "serial": "Q2KD-906C-9819",
-    "name": "NYC-AP-02",
+    "name": "lsys-nyc-f5-ap-02",
     "mac": "26:27:83:69:6f:48",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3060,10 +3060,10 @@
     ],
     "lat": 40.7165,
     "lng": -74.0013,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-906C-9819/manage",
-    "configurationUpdatedAt": "2026-07-02T01:39:33Z",
+    "configurationUpdatedAt": "2026-07-02T08:27:40Z",
     "details": [
       {
         "name": "Running software version",
@@ -3073,7 +3073,7 @@
   },
   {
     "serial": "Q2KD-9D45-BFA7",
-    "name": "NYC-AP-03",
+    "name": "lsys-nyc-f3-ap-03",
     "mac": "a6:4f:e8:73:f8:ea",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3086,10 +3086,10 @@
     ],
     "lat": 40.719100000000005,
     "lng": -74.0054,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-9D45-BFA7/manage",
-    "configurationUpdatedAt": "2026-07-02T00:44:44Z",
+    "configurationUpdatedAt": "2026-07-02T07:32:51Z",
     "details": [
       {
         "name": "Running software version",
@@ -3099,7 +3099,7 @@
   },
   {
     "serial": "Q2KD-E95E-15BB",
-    "name": "NYC-AP-04",
+    "name": "lsys-nyc-f4-ap-04",
     "mac": "bc:02:f1:40:d7:c3",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3112,10 +3112,10 @@
     ],
     "lat": 40.719100000000005,
     "lng": -74.005,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-E95E-15BB/manage",
-    "configurationUpdatedAt": "2026-07-01T19:20:03Z",
+    "configurationUpdatedAt": "2026-07-02T02:08:10Z",
     "details": [
       {
         "name": "Running software version",
@@ -3125,7 +3125,7 @@
   },
   {
     "serial": "Q2KD-5A39-61F7",
-    "name": "NYC-AP-05",
+    "name": "lsys-nyc-f1-ap-05",
     "mac": "99:bd:72:6a:f9:28",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3138,10 +3138,10 @@
     ],
     "lat": 40.7207,
     "lng": -74.0036,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-5A39-61F7/manage",
-    "configurationUpdatedAt": "2026-07-02T05:30:48Z",
+    "configurationUpdatedAt": "2026-07-02T12:18:55Z",
     "details": [
       {
         "name": "Running software version",
@@ -3151,7 +3151,7 @@
   },
   {
     "serial": "Q2KD-481E-8E26",
-    "name": "NYC-AP-06",
+    "name": "lsys-nyc-f3-ap-06",
     "mac": "48:83:04:40:2e:61",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3164,10 +3164,10 @@
     ],
     "lat": 40.7218,
     "lng": -73.9987,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-481E-8E26/manage",
-    "configurationUpdatedAt": "2026-07-02T06:48:03Z",
+    "configurationUpdatedAt": "2026-07-02T13:36:10Z",
     "details": [
       {
         "name": "Running software version",
@@ -3177,7 +3177,7 @@
   },
   {
     "serial": "Q2KD-79AF-A714",
-    "name": "NYC-AP-07",
+    "name": "lsys-nyc-f2-ap-07",
     "mac": "b3:09:fd:a8:1a:ef",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3190,10 +3190,10 @@
     ],
     "lat": 40.72,
     "lng": -74.0039,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-79AF-A714/manage",
-    "configurationUpdatedAt": "2026-07-02T03:16:34Z",
+    "configurationUpdatedAt": "2026-07-02T10:04:41Z",
     "details": [
       {
         "name": "Running software version",
@@ -3203,7 +3203,7 @@
   },
   {
     "serial": "Q2KD-8B0B-90F4",
-    "name": "NYC-AP-08",
+    "name": "lsys-nyc-f5-ap-08",
     "mac": "47:99:e8:25:4b:a2",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3216,10 +3216,10 @@
     ],
     "lat": 40.7136,
     "lng": -74.005,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-8B0B-90F4/manage",
-    "configurationUpdatedAt": "2026-07-02T02:02:30Z",
+    "configurationUpdatedAt": "2026-07-02T08:50:37Z",
     "details": [
       {
         "name": "Running software version",
@@ -3229,7 +3229,7 @@
   },
   {
     "serial": "Q2KD-95C6-092F",
-    "name": "NYC-AP-09",
+    "name": "lsys-nyc-f5-ap-09",
     "mac": "d3:70:55:58:34:ec",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3242,10 +3242,10 @@
     ],
     "lat": 40.7179,
     "lng": -74.0002,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-95C6-092F/manage",
-    "configurationUpdatedAt": "2026-07-02T01:16:43Z",
+    "configurationUpdatedAt": "2026-07-02T08:04:50Z",
     "details": [
       {
         "name": "Running software version",
@@ -3255,7 +3255,7 @@
   },
   {
     "serial": "Q2KD-0A84-48C1",
-    "name": "NYC-AP-10",
+    "name": "lsys-nyc-f1-ap-10",
     "mac": "bb:d2:71:06:f2:4a",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3268,10 +3268,10 @@
     ],
     "lat": 40.7153,
     "lng": -74.0016,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-0A84-48C1/manage",
-    "configurationUpdatedAt": "2026-07-02T11:10:53Z",
+    "configurationUpdatedAt": "2026-07-02T17:59:00Z",
     "details": [
       {
         "name": "Running software version",
@@ -3281,7 +3281,7 @@
   },
   {
     "serial": "Q2KD-58F9-B195",
-    "name": "NYC-AP-11",
+    "name": "lsys-nyc-f4-ap-11",
     "mac": "b1:93:21:c5:6e:54",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3294,10 +3294,10 @@
     ],
     "lat": 40.718900000000005,
     "lng": -74.0009,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-58F9-B195/manage",
-    "configurationUpdatedAt": "2026-07-02T05:36:08Z",
+    "configurationUpdatedAt": "2026-07-02T12:24:15Z",
     "details": [
       {
         "name": "Running software version",
@@ -3307,7 +3307,7 @@
   },
   {
     "serial": "Q2KD-C60A-9B08",
-    "name": "NYC-AP-12",
+    "name": "lsys-nyc-f4-ap-12",
     "mac": "74:e2:5d:a9:70:3d",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3320,10 +3320,10 @@
     ],
     "lat": 40.7216,
     "lng": -74.0004,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-C60A-9B08/manage",
-    "configurationUpdatedAt": "2026-07-01T21:50:47Z",
+    "configurationUpdatedAt": "2026-07-02T04:38:54Z",
     "details": [
       {
         "name": "Running software version",
@@ -3333,7 +3333,7 @@
   },
   {
     "serial": "Q2KD-E790-B71D",
-    "name": "NYC-AP-13",
+    "name": "lsys-nyc-f2-ap-13",
     "mac": "6e:ee:b5:3e:fa:92",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3346,10 +3346,10 @@
     ],
     "lat": 40.7205,
     "lng": -73.9993,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-E790-B71D/manage",
-    "configurationUpdatedAt": "2026-07-01T19:27:45Z",
+    "configurationUpdatedAt": "2026-07-02T02:15:52Z",
     "details": [
       {
         "name": "Running software version",
@@ -3359,7 +3359,7 @@
   },
   {
     "serial": "Q2KD-2E4D-6043",
-    "name": "NYC-AP-14",
+    "name": "lsys-nyc-f2-ap-14",
     "mac": "10:58:77:8b:78:af",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3372,10 +3372,10 @@
     ],
     "lat": 40.7171,
     "lng": -74.0059,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-2E4D-6043/manage",
-    "configurationUpdatedAt": "2026-07-02T08:38:12Z",
+    "configurationUpdatedAt": "2026-07-02T15:26:19Z",
     "details": [
       {
         "name": "Running software version",
@@ -3385,7 +3385,7 @@
   },
   {
     "serial": "Q2KD-8169-FFE1",
-    "name": "NYC-AP-15",
+    "name": "lsys-nyc-f5-ap-15",
     "mac": "83:cf:a7:e6:d1:15",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3398,10 +3398,10 @@
     ],
     "lat": 40.713300000000004,
     "lng": -73.998,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-8169-FFE1/manage",
-    "configurationUpdatedAt": "2026-07-02T02:43:36Z",
+    "configurationUpdatedAt": "2026-07-02T09:31:43Z",
     "details": [
       {
         "name": "Running software version",
@@ -3411,7 +3411,7 @@
   },
   {
     "serial": "Q2KD-4959-9852",
-    "name": "NYC-AP-16",
+    "name": "lsys-nyc-f4-ap-16",
     "mac": "9c:30:f1:1d:e7:3e",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3424,10 +3424,10 @@
     ],
     "lat": 40.7222,
     "lng": -73.9985,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-4959-9852/manage",
-    "configurationUpdatedAt": "2026-07-02T06:42:48Z",
+    "configurationUpdatedAt": "2026-07-02T13:30:55Z",
     "details": [
       {
         "name": "Running software version",
@@ -3437,7 +3437,7 @@
   },
   {
     "serial": "Q2KD-CA57-82B1",
-    "name": "NYC-AP-17",
+    "name": "lsys-nyc-f3-ap-17",
     "mac": "c3:86:3e:fa:d6:50",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3450,10 +3450,10 @@
     ],
     "lat": 40.7185,
     "lng": -74.0037,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-CA57-82B1/manage",
-    "configurationUpdatedAt": "2026-07-01T21:32:26Z",
+    "configurationUpdatedAt": "2026-07-02T04:20:33Z",
     "details": [
       {
         "name": "Running software version",
@@ -3463,7 +3463,7 @@
   },
   {
     "serial": "Q2KD-9D7F-D10B",
-    "name": "NYC-AP-18",
+    "name": "lsys-nyc-f3-ap-18",
     "mac": "68:0f:ea:3e:e0:4a",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3476,10 +3476,10 @@
     ],
     "lat": 40.7143,
     "lng": -74.0022,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-9D7F-D10B/manage",
-    "configurationUpdatedAt": "2026-07-02T00:43:46Z",
+    "configurationUpdatedAt": "2026-07-02T07:31:53Z",
     "details": [
       {
         "name": "Running software version",
@@ -3489,7 +3489,7 @@
   },
   {
     "serial": "Q2KD-E70B-77BF",
-    "name": "NYC-AP-19",
+    "name": "lsys-nyc-f2-ap-19",
     "mac": "3e:e5:10:1f:6d:ff",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3502,10 +3502,10 @@
     ],
     "lat": 40.7183,
     "lng": -73.9976,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-E70B-77BF/manage",
-    "configurationUpdatedAt": "2026-07-01T19:29:58Z",
+    "configurationUpdatedAt": "2026-07-02T02:18:05Z",
     "details": [
       {
         "name": "Running software version",
@@ -3515,7 +3515,7 @@
   },
   {
     "serial": "Q2KD-9D2C-0290",
-    "name": "NYC-AP-20",
+    "name": "lsys-nyc-f3-ap-20",
     "mac": "3e:74:7c:23:69:e7",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3528,10 +3528,10 @@
     ],
     "lat": 40.7184,
     "lng": -74.0044,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-9D2C-0290/manage",
-    "configurationUpdatedAt": "2026-07-02T00:45:09Z",
+    "configurationUpdatedAt": "2026-07-02T07:33:16Z",
     "details": [
       {
         "name": "Running software version",
@@ -3541,7 +3541,7 @@
   },
   {
     "serial": "Q2KD-87AF-E817",
-    "name": "NYC-AP-21",
+    "name": "lsys-nyc-f1-ap-21",
     "mac": "84:06:25:a3:73:46",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3554,10 +3554,10 @@
     ],
     "lat": 40.7143,
     "lng": -74.0044,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-87AF-E817/manage",
-    "configurationUpdatedAt": "2026-07-02T02:16:50Z",
+    "configurationUpdatedAt": "2026-07-02T09:04:57Z",
     "details": [
       {
         "name": "Running software version",
@@ -3567,7 +3567,7 @@
   },
   {
     "serial": "Q2QN-5F17-9D76",
-    "name": "NYC-SW-01",
+    "name": "lsys-nyc-f1-sw-01",
     "mac": "39:92:29:98:b0:e5",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3580,10 +3580,10 @@
     ],
     "lat": 40.7138,
     "lng": -73.9968,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-5F17-9D76/manage",
-    "configurationUpdatedAt": "2026-07-02T05:10:02Z",
+    "configurationUpdatedAt": "2026-07-02T11:58:09Z",
     "details": [
       {
         "name": "Running software version",
@@ -3593,7 +3593,7 @@
   },
   {
     "serial": "Q2QN-9E01-F0DF",
-    "name": "NYC-SW-02",
+    "name": "lsys-nyc-f4-sw-02",
     "mac": "a5:ab:ba:f4:59:90",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3606,10 +3606,10 @@
     ],
     "lat": 40.719100000000005,
     "lng": -73.9977,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-9E01-F0DF/manage",
-    "configurationUpdatedAt": "2026-07-02T00:41:36Z",
+    "configurationUpdatedAt": "2026-07-02T07:29:43Z",
     "details": [
       {
         "name": "Running software version",
@@ -3619,7 +3619,7 @@
   },
   {
     "serial": "Q2QN-2141-1BBD",
-    "name": "NYC-SW-03",
+    "name": "lsys-nyc-f4-sw-03",
     "mac": "d6:4a:f8:bb:21:f3",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3632,10 +3632,10 @@
     ],
     "lat": 40.712900000000005,
     "lng": -74.0052,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-2141-1BBD/manage",
-    "configurationUpdatedAt": "2026-07-02T09:33:52Z",
+    "configurationUpdatedAt": "2026-07-02T16:21:59Z",
     "details": [
       {
         "name": "Running software version",
@@ -3645,7 +3645,7 @@
   },
   {
     "serial": "Q2QN-C71A-907C",
-    "name": "NYC-SW-04",
+    "name": "lsys-nyc-f5-sw-04",
     "mac": "94:ad:f0:bd:10:83",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3658,10 +3658,10 @@
     ],
     "lat": 40.7216,
     "lng": -74.0031,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-C71A-907C/manage",
-    "configurationUpdatedAt": "2026-07-01T21:46:15Z",
+    "configurationUpdatedAt": "2026-07-02T04:34:22Z",
     "details": [
       {
         "name": "Running software version",
@@ -3671,7 +3671,7 @@
   },
   {
     "serial": "Q2QN-1024-49C5",
-    "name": "NYC-SW-05",
+    "name": "lsys-nyc-f2-sw-05",
     "mac": "49:6c:9a:76:7b:96",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3684,10 +3684,10 @@
     ],
     "lat": 40.7213,
     "lng": -74.0037,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-1024-49C5/manage",
-    "configurationUpdatedAt": "2026-07-02T10:46:53Z",
+    "configurationUpdatedAt": "2026-07-02T17:35:00Z",
     "details": [
       {
         "name": "Running software version",
@@ -3697,7 +3697,7 @@
   },
   {
     "serial": "Q2QN-5697-952A",
-    "name": "NYC-SW-06",
+    "name": "lsys-nyc-f2-sw-06",
     "mac": "75:f7:b5:c6:d0:46",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3710,10 +3710,10 @@
     ],
     "lat": 40.7214,
     "lng": -74.0032,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-5697-952A/manage",
-    "configurationUpdatedAt": "2026-07-02T05:46:18Z",
+    "configurationUpdatedAt": "2026-07-02T12:34:25Z",
     "details": [
       {
         "name": "Running software version",
@@ -3723,7 +3723,7 @@
   },
   {
     "serial": "Q2QN-611F-E0A6",
-    "name": "NYC-SW-07",
+    "name": "lsys-nyc-f3-sw-07",
     "mac": "ec:c6:fb:ed:48:fb",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3736,10 +3736,10 @@
     ],
     "lat": 40.7138,
     "lng": -74.0017,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-611F-E0A6/manage",
-    "configurationUpdatedAt": "2026-07-02T05:01:22Z",
+    "configurationUpdatedAt": "2026-07-02T11:49:29Z",
     "details": [
       {
         "name": "Running software version",
@@ -3749,7 +3749,7 @@
   },
   {
     "serial": "Q2QN-2163-CF85",
-    "name": "NYC-SW-08",
+    "name": "lsys-nyc-f4-sw-08",
     "mac": "10:20:77:34:f6:e2",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3762,10 +3762,10 @@
     ],
     "lat": 40.7153,
     "lng": -73.9973,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-2163-CF85/manage",
-    "configurationUpdatedAt": "2026-07-02T09:33:18Z",
+    "configurationUpdatedAt": "2026-07-02T16:21:25Z",
     "details": [
       {
         "name": "Running software version",
@@ -3775,7 +3775,7 @@
   },
   {
     "serial": "Q2QN-B760-B11E",
-    "name": "NYC-SW-09",
+    "name": "lsys-nyc-f4-sw-09",
     "mac": "a1:79:66:7d:7d:09",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3788,10 +3788,10 @@
     ],
     "lat": 40.717,
     "lng": -74.0038,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-B760-B11E/manage",
-    "configurationUpdatedAt": "2026-07-01T22:53:21Z",
+    "configurationUpdatedAt": "2026-07-02T05:41:28Z",
     "details": [
       {
         "name": "Running software version",
@@ -3801,7 +3801,7 @@
   },
   {
     "serial": "Q2QN-E466-9C3D",
-    "name": "NYC-SW-10",
+    "name": "lsys-nyc-f4-sw-10",
     "mac": "4b:95:c6:36:df:e8",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3814,10 +3814,10 @@
     ],
     "lat": 40.722500000000004,
     "lng": -74.004,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-E466-9C3D/manage",
-    "configurationUpdatedAt": "2026-07-01T19:41:15Z",
+    "configurationUpdatedAt": "2026-07-02T02:29:22Z",
     "details": [
       {
         "name": "Running software version",
@@ -3827,7 +3827,7 @@
   },
   {
     "serial": "Q2QN-18CC-B206",
-    "name": "NYC-SW-11",
+    "name": "lsys-nyc-f5-sw-11",
     "mac": "38:d6:03:1b:ff:0a",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3840,10 +3840,10 @@
     ],
     "lat": 40.7202,
     "lng": -74.0014,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-18CC-B206/manage",
-    "configurationUpdatedAt": "2026-07-02T10:09:57Z",
+    "configurationUpdatedAt": "2026-07-02T16:58:04Z",
     "details": [
       {
         "name": "Running software version",
@@ -3853,7 +3853,7 @@
   },
   {
     "serial": "Q2QN-AD38-DCFB",
-    "name": "NYC-SW-12",
+    "name": "lsys-nyc-f4-sw-12",
     "mac": "ae:dd:95:da:07:f0",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3866,10 +3866,10 @@
     ],
     "lat": 40.7199,
     "lng": -74.0037,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-AD38-DCFB/manage",
-    "configurationUpdatedAt": "2026-07-01T23:36:41Z",
+    "configurationUpdatedAt": "2026-07-02T06:24:48Z",
     "details": [
       {
         "name": "Running software version",
@@ -3879,7 +3879,7 @@
   },
   {
     "serial": "Q2QN-7444-01ED",
-    "name": "NYC-SW-13",
+    "name": "lsys-nyc-f2-sw-13",
     "mac": "13:4e:f9:ad:93:db",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3892,10 +3892,10 @@
     ],
     "lat": 40.722100000000005,
     "lng": -74.0019,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-7444-01ED/manage",
-    "configurationUpdatedAt": "2026-07-02T03:39:41Z",
+    "configurationUpdatedAt": "2026-07-02T10:27:48Z",
     "details": [
       {
         "name": "Running software version",
@@ -3905,7 +3905,7 @@
   },
   {
     "serial": "Q2QN-088D-C033",
-    "name": "NYC-SW-14",
+    "name": "lsys-nyc-f4-sw-14",
     "mac": "56:9c:eb:d4:f0:9e",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3918,10 +3918,10 @@
     ],
     "lat": 40.713100000000004,
     "lng": -74.0036,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-088D-C033/manage",
-    "configurationUpdatedAt": "2026-07-02T11:19:16Z",
+    "configurationUpdatedAt": "2026-07-02T18:07:23Z",
     "details": [
       {
         "name": "Running software version",
@@ -3931,7 +3931,7 @@
   },
   {
     "serial": "Q2QN-8046-DFDC",
-    "name": "NYC-SW-15",
+    "name": "lsys-nyc-f4-sw-15",
     "mac": "f4:76:f1:ed:61:b8",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3944,10 +3944,10 @@
     ],
     "lat": 40.7136,
     "lng": -74.0052,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-8046-DFDC/manage",
-    "configurationUpdatedAt": "2026-07-02T02:48:27Z",
+    "configurationUpdatedAt": "2026-07-02T09:36:34Z",
     "details": [
       {
         "name": "Running software version",
@@ -3957,7 +3957,7 @@
   },
   {
     "serial": "Q2QN-7283-CA56",
-    "name": "NYC-SW-16",
+    "name": "lsys-nyc-f5-sw-16",
     "mac": "60:1b:a4:19:b8:a8",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3970,10 +3970,10 @@
     ],
     "lat": 40.7226,
     "lng": -73.997,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-7283-CA56/manage",
-    "configurationUpdatedAt": "2026-07-02T03:47:10Z",
+    "configurationUpdatedAt": "2026-07-02T10:35:17Z",
     "details": [
       {
         "name": "Running software version",
@@ -3983,7 +3983,7 @@
   },
   {
     "serial": "Q2QN-D33F-2533",
-    "name": "NYC-MX-01",
+    "name": "lsys-nyc-f1-mx-01",
     "mac": "fe:87:7b:f9:68:06",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -3996,10 +3996,10 @@
     ],
     "lat": 40.7151,
     "lng": -74.0039,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-D33F-2533/manage",
-    "configurationUpdatedAt": "2026-07-01T20:54:26Z",
+    "configurationUpdatedAt": "2026-07-02T03:42:33Z",
     "details": [
       {
         "name": "Running software version",
@@ -4010,7 +4010,7 @@
   },
   {
     "serial": "Q2QN-2978-E19A",
-    "name": "NYC-MX-02",
+    "name": "lsys-nyc-f1-mx-02",
     "mac": "64:2f:a3:1e:89:a5",
     "networkId": "N_123827610",
     "organizationId": "243503",
@@ -4023,10 +4023,10 @@
     ],
     "lat": 40.7182,
     "lng": -74.0031,
-    "address": "1 World Trade Center, New York, NY 10007",
+    "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-2978-E19A/manage",
-    "configurationUpdatedAt": "2026-07-02T08:58:49Z",
+    "configurationUpdatedAt": "2026-07-02T15:46:56Z",
     "details": [
       {
         "name": "Running software version",
