@@ -1,9 +1,9 @@
 {
-  "4ec98c15-f3a3-c9b7-1393-d4dea0efe855": [
+  "N_322920021": [
     {
       "id": "1",
-      "interfaceId": "3848644cd9953",
-      "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+      "interfaceId": "9581bacd733a8",
+      "networkId": "N_322920021",
       "name": "Corporate",
       "applianceIp": "10.13.1.1",
       "subnet": "10.13.1.0/24",
@@ -31,8 +31,8 @@
     },
     {
       "id": "4",
-      "interfaceId": "b701d1eba5c7f",
-      "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+      "interfaceId": "7242094f344a9",
+      "networkId": "N_322920021",
       "name": "Mobile",
       "applianceIp": "10.13.4.1",
       "subnet": "10.13.4.0/24",
@@ -60,8 +60,8 @@
     },
     {
       "id": "5",
-      "interfaceId": "37f434f862cd1",
-      "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+      "interfaceId": "ef2331336134d",
+      "networkId": "N_322920021",
       "name": "Printers",
       "applianceIp": "10.13.5.1",
       "subnet": "10.13.5.0/24",
@@ -89,8 +89,8 @@
     },
     {
       "id": "6",
-      "interfaceId": "01d3c82add4db",
-      "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+      "interfaceId": "4333c4bbcef29",
+      "networkId": "N_322920021",
       "name": "Access Points",
       "applianceIp": "10.13.6.1",
       "subnet": "10.13.6.0/24",
@@ -118,8 +118,8 @@
     },
     {
       "id": "8",
-      "interfaceId": "560a05269ba05",
-      "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+      "interfaceId": "6d1e006cdab60",
+      "networkId": "N_322920021",
       "name": "IoT",
       "applianceIp": "10.13.8.1",
       "subnet": "10.13.8.0/24",
@@ -147,8 +147,8 @@
     },
     {
       "id": "9",
-      "interfaceId": "bb415df351d7a",
-      "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+      "interfaceId": "ac210e2c58249",
+      "networkId": "N_322920021",
       "name": "Clinic",
       "applianceIp": "10.13.9.1",
       "subnet": "10.13.9.0/24",
@@ -176,8 +176,8 @@
     },
     {
       "id": "99",
-      "interfaceId": "d44e6e723f718",
-      "networkId": "4ec98c15-f3a3-c9b7-1393-d4dea0efe855",
+      "interfaceId": "e5deea3ee1d62",
+      "networkId": "N_322920021",
       "name": "Management",
       "applianceIp": "10.13.0.1",
       "subnet": "10.13.0.0/24",
@@ -204,11 +204,11 @@
       "mask": 24
     }
   ],
-  "6fec2fb6-45dc-d2de-a94c-25498f93f8c7": [
+  "N_695691719": [
     {
       "id": "1",
-      "interfaceId": "6013918504ef7",
-      "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+      "interfaceId": "fb16ca10b4248",
+      "networkId": "N_695691719",
       "name": "Corporate",
       "applianceIp": "10.11.1.1",
       "subnet": "10.11.1.0/24",
@@ -236,8 +236,8 @@
     },
     {
       "id": "4",
-      "interfaceId": "ac58273724c83",
-      "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+      "interfaceId": "79fbef429a641",
+      "networkId": "N_695691719",
       "name": "Mobile",
       "applianceIp": "10.11.4.1",
       "subnet": "10.11.4.0/24",
@@ -265,8 +265,8 @@
     },
     {
       "id": "5",
-      "interfaceId": "e00ef86b1e0ed",
-      "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+      "interfaceId": "86b2e7f90757a",
+      "networkId": "N_695691719",
       "name": "Printers",
       "applianceIp": "10.11.5.1",
       "subnet": "10.11.5.0/24",
@@ -294,8 +294,8 @@
     },
     {
       "id": "6",
-      "interfaceId": "46a361f038d45",
-      "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+      "interfaceId": "5433b2dea637c",
+      "networkId": "N_695691719",
       "name": "Access Points",
       "applianceIp": "10.11.6.1",
       "subnet": "10.11.6.0/24",
@@ -323,8 +323,8 @@
     },
     {
       "id": "8",
-      "interfaceId": "0f0eaf1a18d9b",
-      "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+      "interfaceId": "0078cc0ad190c",
+      "networkId": "N_695691719",
       "name": "IoT",
       "applianceIp": "10.11.8.1",
       "subnet": "10.11.8.0/24",
@@ -352,8 +352,8 @@
     },
     {
       "id": "9",
-      "interfaceId": "d6e897f487401",
-      "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+      "interfaceId": "36d35d5800a1e",
+      "networkId": "N_695691719",
       "name": "Clinic",
       "applianceIp": "10.11.9.1",
       "subnet": "10.11.9.0/24",
@@ -381,8 +381,8 @@
     },
     {
       "id": "99",
-      "interfaceId": "ca559f867a77b",
-      "networkId": "6fec2fb6-45dc-d2de-a94c-25498f93f8c7",
+      "interfaceId": "173dc1b7616f1",
+      "networkId": "N_695691719",
       "name": "Management",
       "applianceIp": "10.11.0.1",
       "subnet": "10.11.0.0/24",
@@ -409,11 +409,11 @@
       "mask": 24
     }
   ],
-  "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a": [
+  "N_123827610": [
     {
       "id": "1",
-      "interfaceId": "d5db6ac04f2ad",
-      "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+      "interfaceId": "4101ffe802e0e",
+      "networkId": "N_123827610",
       "name": "Corporate",
       "applianceIp": "10.12.1.1",
       "subnet": "10.12.1.0/24",
@@ -441,8 +441,8 @@
     },
     {
       "id": "4",
-      "interfaceId": "c278d290bbc30",
-      "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+      "interfaceId": "7d16059e54203",
+      "networkId": "N_123827610",
       "name": "Mobile",
       "applianceIp": "10.12.4.1",
       "subnet": "10.12.4.0/24",
@@ -470,8 +470,8 @@
     },
     {
       "id": "5",
-      "interfaceId": "dc80e895322fa",
-      "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+      "interfaceId": "9e8723e50c935",
+      "networkId": "N_123827610",
       "name": "Printers",
       "applianceIp": "10.12.5.1",
       "subnet": "10.12.5.0/24",
@@ -499,8 +499,8 @@
     },
     {
       "id": "6",
-      "interfaceId": "2861a8db222cd",
-      "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+      "interfaceId": "1cb8b936b4a57",
+      "networkId": "N_123827610",
       "name": "Access Points",
       "applianceIp": "10.12.6.1",
       "subnet": "10.12.6.0/24",
@@ -528,8 +528,8 @@
     },
     {
       "id": "8",
-      "interfaceId": "de9928c41fbef",
-      "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+      "interfaceId": "eec09da3331d3",
+      "networkId": "N_123827610",
       "name": "IoT",
       "applianceIp": "10.12.8.1",
       "subnet": "10.12.8.0/24",
@@ -557,8 +557,8 @@
     },
     {
       "id": "9",
-      "interfaceId": "55907406b76e5",
-      "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+      "interfaceId": "cdd2b16d36175",
+      "networkId": "N_123827610",
       "name": "Clinic",
       "applianceIp": "10.12.9.1",
       "subnet": "10.12.9.0/24",
@@ -586,8 +586,8 @@
     },
     {
       "id": "99",
-      "interfaceId": "ed33e75bcd864",
-      "networkId": "d7495cf1-9fd6-e48a-fdd8-c63dedeb069a",
+      "interfaceId": "4eae108fcf80f",
+      "networkId": "N_123827610",
       "name": "Management",
       "applianceIp": "10.12.0.1",
       "subnet": "10.12.0.0/24",

@@ -1,5 +1,5 @@
 {
-  "id": "51336d5d-3abf-6a4a-c4a3-c1d8beeb44ef",
+  "id": "243503",
   "name": "Luminary Systems",
   "url": "https://mock.meraki.com/organizations/luminary-systems/manage",
   "api": {
@@ -15,5 +15,13 @@
         "name": "United States"
       }
     }
+  },
+  "management": {
+    "details": [
+      {
+        "name": "customer number",
+        "value": "33889275"
+      }
+    ]
   }
 }

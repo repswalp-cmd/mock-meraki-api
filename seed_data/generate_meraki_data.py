@@ -37,6 +37,14 @@ def make_uuid(seed: str) -> str:
     h = _md5(seed)
     return f"{h[0:8]}-{h[8:12]}-{h[12:16]}-{h[16:20]}-{h[20:32]}"
 
+def make_org_id(seed: str) -> str:
+    """Real Meraki org IDs are numeric strings (6 digits)."""
+    return str(int(_md5(seed), 16) % 900000 + 100000)
+
+def make_network_id(seed: str) -> str:
+    """Real Meraki network IDs use N_ prefix + numeric suffix."""
+    return "N_" + str(int(_md5(seed), 16) % 900000000 + 100000000)
+
 def make_mac_colon(seed: str) -> str:
     """Meraki MAC format: aa:bb:cc:dd:ee:ff (lowercase colon-separated)."""
     h = _md5(seed)
@@ -60,7 +68,7 @@ def make_iso(offset_secs: int) -> str:
 # ---------------------------------------------------------------------------
 # Site & org definitions  (Meraki sites: SFO / NYC / LON)
 # ---------------------------------------------------------------------------
-ORG_ID = make_uuid("org:luminary-systems-meraki")
+ORG_ID = make_org_id("org:luminary-systems-meraki")
 
 SITES = {
     "San Francisco": {
@@ -90,7 +98,7 @@ SITES = {
 }
 
 for loc, cfg in SITES.items():
-    cfg["network_id"] = make_uuid(f"network:meraki:{loc}")
+    cfg["network_id"] = make_network_id(f"network:meraki:{loc}")
 
 # ---------------------------------------------------------------------------
 # Category → Meraki product type / client type
@@ -184,7 +192,12 @@ org = {
             "name": "North America",
             "host": {"name": "United States"}
         }
-    }
+    },
+    "management": {
+        "details": [
+            {"name": "customer number", "value": str(int(_md5("org:luminary:customer"), 16) % 90000000 + 10000000)}
+        ]
+    },
 }
 
 networks    = []
@@ -388,12 +401,12 @@ for loc, rows in rows_by_site.items():
             "recentDeviceName":      dev_name,
             "recentDeviceMac":       dev_mac,
             "recentDeviceConnection":ccfg["recentDeviceConnection"],
-            "notes":                 "",
+            "notes":                 None,
             "groupPolicy8021x":      None,
             "adaptivePolicyGroup":   None,
             "pskGroup":              None,
             "status":                "Online",
-            "usage":                 {"sent": sent_bytes, "recv": recv_bytes},
+            "usage":                 {"sent": sent_bytes, "recv": recv_bytes, "total": sent_bytes + recv_bytes},
             "_network_id":           net_id,
         }
         net_clients.append(net_client)
@@ -453,6 +466,9 @@ for d in devices:
         "ipType":         "static",
         "primaryDns":     "8.8.8.8",
         "secondaryDns":   "8.8.4.4",
+        "productType":    d["productType"],
+        "model":          d["model"],
+        "tags":           d.get("tags", []),
         "components":     {"powerSupplies": []},
     })
 
