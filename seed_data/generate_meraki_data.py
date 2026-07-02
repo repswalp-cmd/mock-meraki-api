@@ -25,7 +25,7 @@ _CENTRAL = ROOT.parent / "luminary-demo-docs" / "master-sheet" / "assets_luminar
 _LOCAL   = ROOT / "seed_data" / "source" / "assets_luminary.xlsx"
 XLSX     = _CENTRAL if _CENTRAL.exists() else _LOCAL
 
-NOW_EPOCH = 1751328000  # 2026-07-01 00:00:00 UTC
+NOW_EPOCH = int(time.time())  # current UTC epoch at generation time
 
 # ---------------------------------------------------------------------------
 # Deterministic helpers
@@ -62,7 +62,7 @@ def make_ts_str(offset_secs: int) -> str:
 def make_iso(offset_secs: int) -> str:
     """ISO 8601 string for device configurationUpdatedAt / lastReportedAt."""
     import datetime
-    dt = datetime.datetime(2026, 7, 1, 0, 0, 0) - datetime.timedelta(seconds=offset_secs)
+    dt = datetime.datetime.utcfromtimestamp(NOW_EPOCH - offset_secs)
     return dt.strftime("%Y-%m-%dT%H:%M:%SZ")
 
 # ---------------------------------------------------------------------------
