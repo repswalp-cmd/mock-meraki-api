@@ -236,6 +236,45 @@ def get_device_clients(serial):
     return jsonify(_paginate(items))
 
 
+@app.route("/api/v1/devices/<serial>/appliance/dhcp/subnets")
+def get_device_dhcp_subnets(serial):
+    _log()
+    err = _check_auth()
+    if err:
+        return err
+    device = DEV_MAP.get(serial)
+    if not device:
+        return jsonify({"errors": [f"Device {serial} not found"]}), 404
+    if device.get("productType") != "appliance":
+        return jsonify({"errors": [f"Device {serial} is not an appliance"]}), 400
+    net_id = device.get("networkId")
+    vlans = VLANS.get(net_id, [])
+    clients_per_vlan = {}
+    for c in CLIENTS.get(net_id, []):
+        vid = c.get("vlan")
+        if vid:
+            clients_per_vlan[vid] = clients_per_vlan.get(vid, 0) + 1
+    result = []
+    for vlan in vlans:
+        subnet = vlan.get("subnet")
+        if not subnet or vlan.get("dhcpHandling") != "Run a DHCP server":
+            continue
+        vlan_id = int(vlan["id"])
+        try:
+            prefix = int(subnet.split("/")[1])
+            usable = max(0, (2 ** (32 - prefix)) - 3)
+        except (IndexError, ValueError):
+            usable = 253
+        used = clients_per_vlan.get(str(vlan_id), 0)
+        result.append({
+            "subnet": subnet,
+            "vlanId": vlan_id,
+            "usedCount": used,
+            "freeCount": max(0, usable - used),
+        })
+    return jsonify(result)
+
+
 # ---------------------------------------------------------------------------
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
