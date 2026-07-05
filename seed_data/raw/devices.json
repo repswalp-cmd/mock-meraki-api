@@ -17,7 +17,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-C5CC-2402/manage",
-    "configurationUpdatedAt": "2026-07-04T22:25:33Z",
+    "configurationUpdatedAt": "2026-07-04T23:17:13Z",
     "details": [
       {
         "name": "Running software version",
@@ -43,7 +43,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-0D84-85CA/manage",
-    "configurationUpdatedAt": "2026-07-05T11:31:49Z",
+    "configurationUpdatedAt": "2026-07-05T12:23:29Z",
     "details": [
       {
         "name": "Running software version",
@@ -69,7 +69,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-B3E5-46E3/manage",
-    "configurationUpdatedAt": "2026-07-04T23:41:56Z",
+    "configurationUpdatedAt": "2026-07-05T00:33:36Z",
     "details": [
       {
         "name": "Running software version",
@@ -95,7 +95,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-6205-8BF6/manage",
-    "configurationUpdatedAt": "2026-07-05T05:31:16Z",
+    "configurationUpdatedAt": "2026-07-05T06:22:56Z",
     "details": [
       {
         "name": "Running software version",
@@ -121,7 +121,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-EC57-833F/manage",
-    "configurationUpdatedAt": "2026-07-04T19:41:06Z",
+    "configurationUpdatedAt": "2026-07-04T20:32:46Z",
     "details": [
       {
         "name": "Running software version",
@@ -147,7 +147,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-3423-1217/manage",
-    "configurationUpdatedAt": "2026-07-05T08:47:02Z",
+    "configurationUpdatedAt": "2026-07-05T09:38:42Z",
     "details": [
       {
         "name": "Running software version",
@@ -173,7 +173,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-8C1A-1F87/manage",
-    "configurationUpdatedAt": "2026-07-05T02:31:43Z",
+    "configurationUpdatedAt": "2026-07-05T03:23:23Z",
     "details": [
       {
         "name": "Running software version",
@@ -199,7 +199,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-5705-BF91/manage",
-    "configurationUpdatedAt": "2026-07-05T06:18:12Z",
+    "configurationUpdatedAt": "2026-07-05T07:09:52Z",
     "details": [
       {
         "name": "Running software version",
@@ -225,7 +225,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-05CA-6F2E/manage",
-    "configurationUpdatedAt": "2026-07-05T12:04:47Z",
+    "configurationUpdatedAt": "2026-07-05T12:56:27Z",
     "details": [
       {
         "name": "Running software version",
@@ -251,7 +251,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-D976-09C2/manage",
-    "configurationUpdatedAt": "2026-07-04T21:01:39Z",
+    "configurationUpdatedAt": "2026-07-04T21:53:19Z",
     "details": [
       {
         "name": "Running software version",
@@ -277,7 +277,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-3AE6-D965/manage",
-    "configurationUpdatedAt": "2026-07-05T08:18:11Z",
+    "configurationUpdatedAt": "2026-07-05T09:09:51Z",
     "details": [
       {
         "name": "Running software version",
@@ -303,7 +303,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-F173-5A72/manage",
-    "configurationUpdatedAt": "2026-07-04T19:19:18Z",
+    "configurationUpdatedAt": "2026-07-04T20:10:58Z",
     "details": [
       {
         "name": "Running software version",
@@ -329,7 +329,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-66C1-5B94/manage",
-    "configurationUpdatedAt": "2026-07-05T05:11:04Z",
+    "configurationUpdatedAt": "2026-07-05T06:02:44Z",
     "details": [
       {
         "name": "Running software version",
@@ -355,7 +355,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-E88A-7784/manage",
-    "configurationUpdatedAt": "2026-07-04T19:57:19Z",
+    "configurationUpdatedAt": "2026-07-04T20:48:59Z",
     "details": [
       {
         "name": "Running software version",
@@ -381,7 +381,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-F6EC-C438/manage",
-    "configurationUpdatedAt": "2026-07-04T18:55:57Z",
+    "configurationUpdatedAt": "2026-07-04T19:47:37Z",
     "details": [
       {
         "name": "Running software version",
@@ -407,7 +407,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-A562-4F1A/manage",
-    "configurationUpdatedAt": "2026-07-05T00:43:51Z",
+    "configurationUpdatedAt": "2026-07-05T01:35:31Z",
     "details": [
       {
         "name": "Running software version",
@@ -433,7 +433,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-8133-073C/manage",
-    "configurationUpdatedAt": "2026-07-05T03:18:14Z",
+    "configurationUpdatedAt": "2026-07-05T04:09:54Z",
     "details": [
       {
         "name": "Running software version",
@@ -459,7 +459,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-CC36-7E3A/manage",
-    "configurationUpdatedAt": "2026-07-04T21:58:11Z",
+    "configurationUpdatedAt": "2026-07-04T22:49:51Z",
     "details": [
       {
         "name": "Running software version",
@@ -485,7 +485,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-D8BC-DE19/manage",
-    "configurationUpdatedAt": "2026-07-04T21:04:45Z",
+    "configurationUpdatedAt": "2026-07-04T21:56:25Z",
     "details": [
       {
         "name": "Running software version",
@@ -511,7 +511,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-D78D-6022/manage",
-    "configurationUpdatedAt": "2026-07-04T21:09:48Z",
+    "configurationUpdatedAt": "2026-07-04T22:01:28Z",
     "details": [
       {
         "name": "Running software version",
@@ -537,7 +537,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-7EBA-CC83/manage",
-    "configurationUpdatedAt": "2026-07-05T03:28:47Z",
+    "configurationUpdatedAt": "2026-07-05T04:20:27Z",
     "details": [
       {
         "name": "Running software version",
@@ -563,7 +563,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-C046-7A48/manage",
-    "configurationUpdatedAt": "2026-07-04T22:49:07Z",
+    "configurationUpdatedAt": "2026-07-04T23:40:47Z",
     "details": [
       {
         "name": "Running software version",
@@ -589,7 +589,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-DD25-07FC/manage",
-    "configurationUpdatedAt": "2026-07-04T20:45:56Z",
+    "configurationUpdatedAt": "2026-07-04T21:37:36Z",
     "details": [
       {
         "name": "Running software version",
@@ -615,7 +615,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-6457-661F/manage",
-    "configurationUpdatedAt": "2026-07-05T05:21:22Z",
+    "configurationUpdatedAt": "2026-07-05T06:13:02Z",
     "details": [
       {
         "name": "Running software version",
@@ -641,7 +641,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-B6BF-292C/manage",
-    "configurationUpdatedAt": "2026-07-04T23:29:46Z",
+    "configurationUpdatedAt": "2026-07-05T00:21:26Z",
     "details": [
       {
         "name": "Running software version",
@@ -667,7 +667,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-41FB-C6D4/manage",
-    "configurationUpdatedAt": "2026-07-05T07:47:58Z",
+    "configurationUpdatedAt": "2026-07-05T08:39:38Z",
     "details": [
       {
         "name": "Running software version",
@@ -693,7 +693,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-6E53-07A9/manage",
-    "configurationUpdatedAt": "2026-07-05T04:38:46Z",
+    "configurationUpdatedAt": "2026-07-05T05:30:26Z",
     "details": [
       {
         "name": "Running software version",
@@ -719,7 +719,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-CFEE-9242/manage",
-    "configurationUpdatedAt": "2026-07-04T21:42:19Z",
+    "configurationUpdatedAt": "2026-07-04T22:33:59Z",
     "details": [
       {
         "name": "Running software version",
@@ -745,7 +745,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-9AEA-116D/manage",
-    "configurationUpdatedAt": "2026-07-05T01:28:31Z",
+    "configurationUpdatedAt": "2026-07-05T02:20:11Z",
     "details": [
       {
         "name": "Running software version",
@@ -771,7 +771,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-77BB-A15A/manage",
-    "configurationUpdatedAt": "2026-07-05T03:58:38Z",
+    "configurationUpdatedAt": "2026-07-05T04:50:18Z",
     "details": [
       {
         "name": "Running software version",
@@ -797,7 +797,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-75FF-8086/manage",
-    "configurationUpdatedAt": "2026-07-05T04:06:02Z",
+    "configurationUpdatedAt": "2026-07-05T04:57:42Z",
     "details": [
       {
         "name": "Running software version",
@@ -823,7 +823,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-B2B2-32FF/manage",
-    "configurationUpdatedAt": "2026-07-04T23:47:03Z",
+    "configurationUpdatedAt": "2026-07-05T00:38:43Z",
     "details": [
       {
         "name": "Running software version",
@@ -849,7 +849,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-64DE-7814/manage",
-    "configurationUpdatedAt": "2026-07-05T05:19:07Z",
+    "configurationUpdatedAt": "2026-07-05T06:10:47Z",
     "details": [
       {
         "name": "Running software version",
@@ -875,7 +875,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-899C-B9C8/manage",
-    "configurationUpdatedAt": "2026-07-05T02:42:21Z",
+    "configurationUpdatedAt": "2026-07-05T03:34:01Z",
     "details": [
       {
         "name": "Running software version",
@@ -901,7 +901,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-A277-BF2B/manage",
-    "configurationUpdatedAt": "2026-07-05T00:56:18Z",
+    "configurationUpdatedAt": "2026-07-05T01:47:58Z",
     "details": [
       {
         "name": "Running software version",
@@ -927,7 +927,7 @@
     "address": "London",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-E5D5-3EE6/manage",
-    "configurationUpdatedAt": "2026-07-04T20:08:52Z",
+    "configurationUpdatedAt": "2026-07-04T21:00:32Z",
     "details": [
       {
         "name": "Running software version",
@@ -953,7 +953,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-EEFC-4A50/manage",
-    "configurationUpdatedAt": "2026-07-04T19:29:49Z",
+    "configurationUpdatedAt": "2026-07-04T20:21:29Z",
     "details": [
       {
         "name": "Running software version",
@@ -979,7 +979,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-63B1-BA3B/manage",
-    "configurationUpdatedAt": "2026-07-05T05:24:08Z",
+    "configurationUpdatedAt": "2026-07-05T06:15:48Z",
     "details": [
       {
         "name": "Running software version",
@@ -1005,7 +1005,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-39C6-CA35/manage",
-    "configurationUpdatedAt": "2026-07-05T08:22:59Z",
+    "configurationUpdatedAt": "2026-07-05T09:14:39Z",
     "details": [
       {
         "name": "Running software version",
@@ -1031,7 +1031,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-089B-CDBC/manage",
-    "configurationUpdatedAt": "2026-07-05T11:52:46Z",
+    "configurationUpdatedAt": "2026-07-05T12:44:26Z",
     "details": [
       {
         "name": "Running software version",
@@ -1057,7 +1057,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-EE54-8D9D/manage",
-    "configurationUpdatedAt": "2026-07-04T19:32:37Z",
+    "configurationUpdatedAt": "2026-07-04T20:24:17Z",
     "details": [
       {
         "name": "Running software version",
@@ -1083,7 +1083,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-2F3C-6BE3/manage",
-    "configurationUpdatedAt": "2026-07-05T09:07:57Z",
+    "configurationUpdatedAt": "2026-07-05T09:59:37Z",
     "details": [
       {
         "name": "Running software version",
@@ -1109,7 +1109,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-735D-4572/manage",
-    "configurationUpdatedAt": "2026-07-05T04:17:16Z",
+    "configurationUpdatedAt": "2026-07-05T05:08:56Z",
     "details": [
       {
         "name": "Running software version",
@@ -1135,7 +1135,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-7916-A3A0/manage",
-    "configurationUpdatedAt": "2026-07-05T03:52:51Z",
+    "configurationUpdatedAt": "2026-07-05T04:44:31Z",
     "details": [
       {
         "name": "Running software version",
@@ -1161,7 +1161,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-2A49-BB56/manage",
-    "configurationUpdatedAt": "2026-07-05T09:29:04Z",
+    "configurationUpdatedAt": "2026-07-05T10:20:44Z",
     "details": [
       {
         "name": "Running software version",
@@ -1187,7 +1187,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-1C02-26CE/manage",
-    "configurationUpdatedAt": "2026-07-05T10:29:59Z",
+    "configurationUpdatedAt": "2026-07-05T11:21:39Z",
     "details": [
       {
         "name": "Running software version",
@@ -1213,7 +1213,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-CAA1-7F92/manage",
-    "configurationUpdatedAt": "2026-07-04T22:04:56Z",
+    "configurationUpdatedAt": "2026-07-04T22:56:36Z",
     "details": [
       {
         "name": "Running software version",
@@ -1239,7 +1239,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-1645-E988/manage",
-    "configurationUpdatedAt": "2026-07-05T10:54:28Z",
+    "configurationUpdatedAt": "2026-07-05T11:46:08Z",
     "details": [
       {
         "name": "Running software version",
@@ -1265,7 +1265,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-173F-B08F/manage",
-    "configurationUpdatedAt": "2026-07-05T10:50:18Z",
+    "configurationUpdatedAt": "2026-07-05T11:41:58Z",
     "details": [
       {
         "name": "Running software version",
@@ -1291,7 +1291,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-BE56-EDF8/manage",
-    "configurationUpdatedAt": "2026-07-04T22:57:23Z",
+    "configurationUpdatedAt": "2026-07-04T23:49:03Z",
     "details": [
       {
         "name": "Running software version",
@@ -1317,7 +1317,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-11A1-36C4/manage",
-    "configurationUpdatedAt": "2026-07-05T11:14:16Z",
+    "configurationUpdatedAt": "2026-07-05T12:05:56Z",
     "details": [
       {
         "name": "Running software version",
@@ -1343,7 +1343,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-B171-851E/manage",
-    "configurationUpdatedAt": "2026-07-04T23:52:24Z",
+    "configurationUpdatedAt": "2026-07-05T00:44:04Z",
     "details": [
       {
         "name": "Running software version",
@@ -1369,7 +1369,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-767B-C47E/manage",
-    "configurationUpdatedAt": "2026-07-05T04:03:58Z",
+    "configurationUpdatedAt": "2026-07-05T04:55:38Z",
     "details": [
       {
         "name": "Running software version",
@@ -1395,7 +1395,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-AB8A-8DB0/manage",
-    "configurationUpdatedAt": "2026-07-05T00:17:35Z",
+    "configurationUpdatedAt": "2026-07-05T01:09:15Z",
     "details": [
       {
         "name": "Running software version",
@@ -1421,7 +1421,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-9843-A2B5/manage",
-    "configurationUpdatedAt": "2026-07-05T01:39:50Z",
+    "configurationUpdatedAt": "2026-07-05T02:31:30Z",
     "details": [
       {
         "name": "Running software version",
@@ -1447,7 +1447,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-63FB-04FD/manage",
-    "configurationUpdatedAt": "2026-07-05T05:22:54Z",
+    "configurationUpdatedAt": "2026-07-05T06:14:34Z",
     "details": [
       {
         "name": "Running software version",
@@ -1473,7 +1473,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-4BC9-A936/manage",
-    "configurationUpdatedAt": "2026-07-05T07:06:08Z",
+    "configurationUpdatedAt": "2026-07-05T07:57:48Z",
     "details": [
       {
         "name": "Running software version",
@@ -1499,7 +1499,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-8409-CB23/manage",
-    "configurationUpdatedAt": "2026-07-05T03:06:08Z",
+    "configurationUpdatedAt": "2026-07-05T03:57:48Z",
     "details": [
       {
         "name": "Running software version",
@@ -1525,7 +1525,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-BC7E-50ED/manage",
-    "configurationUpdatedAt": "2026-07-04T23:05:15Z",
+    "configurationUpdatedAt": "2026-07-04T23:56:55Z",
     "details": [
       {
         "name": "Running software version",
@@ -1551,7 +1551,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-8693-8742/manage",
-    "configurationUpdatedAt": "2026-07-05T02:55:18Z",
+    "configurationUpdatedAt": "2026-07-05T03:46:58Z",
     "details": [
       {
         "name": "Running software version",
@@ -1577,7 +1577,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-EB3E-D557/manage",
-    "configurationUpdatedAt": "2026-07-04T19:45:47Z",
+    "configurationUpdatedAt": "2026-07-04T20:37:27Z",
     "details": [
       {
         "name": "Running software version",
@@ -1603,7 +1603,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-FDF1-F2C9/manage",
-    "configurationUpdatedAt": "2026-07-04T18:26:00Z",
+    "configurationUpdatedAt": "2026-07-04T19:17:40Z",
     "details": [
       {
         "name": "Running software version",
@@ -1629,7 +1629,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-FFE2-BE87/manage",
-    "configurationUpdatedAt": "2026-07-04T18:17:43Z",
+    "configurationUpdatedAt": "2026-07-04T19:09:23Z",
     "details": [
       {
         "name": "Running software version",
@@ -1655,7 +1655,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-E4B3-83F1/manage",
-    "configurationUpdatedAt": "2026-07-04T20:13:42Z",
+    "configurationUpdatedAt": "2026-07-04T21:05:22Z",
     "details": [
       {
         "name": "Running software version",
@@ -1681,7 +1681,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-06F8-DE54/manage",
-    "configurationUpdatedAt": "2026-07-05T11:59:45Z",
+    "configurationUpdatedAt": "2026-07-05T12:51:25Z",
     "details": [
       {
         "name": "Running software version",
@@ -1707,7 +1707,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-E736-9C3A/manage",
-    "configurationUpdatedAt": "2026-07-04T20:02:59Z",
+    "configurationUpdatedAt": "2026-07-04T20:54:39Z",
     "details": [
       {
         "name": "Running software version",
@@ -1733,7 +1733,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-513A-FCA6/manage",
-    "configurationUpdatedAt": "2026-07-05T06:42:55Z",
+    "configurationUpdatedAt": "2026-07-05T07:34:35Z",
     "details": [
       {
         "name": "Running software version",
@@ -1759,7 +1759,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-AC59-8BF8/manage",
-    "configurationUpdatedAt": "2026-07-05T00:14:08Z",
+    "configurationUpdatedAt": "2026-07-05T01:05:48Z",
     "details": [
       {
         "name": "Running software version",
@@ -1785,7 +1785,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-6553-8AB9/manage",
-    "configurationUpdatedAt": "2026-07-05T05:17:10Z",
+    "configurationUpdatedAt": "2026-07-05T06:08:50Z",
     "details": [
       {
         "name": "Running software version",
@@ -1811,7 +1811,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-9737-0C7D/manage",
-    "configurationUpdatedAt": "2026-07-05T01:44:18Z",
+    "configurationUpdatedAt": "2026-07-05T02:35:58Z",
     "details": [
       {
         "name": "Running software version",
@@ -1837,7 +1837,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-B6A4-D0FB/manage",
-    "configurationUpdatedAt": "2026-07-04T23:30:13Z",
+    "configurationUpdatedAt": "2026-07-05T00:21:53Z",
     "details": [
       {
         "name": "Running software version",
@@ -1863,7 +1863,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-D833-F15A/manage",
-    "configurationUpdatedAt": "2026-07-04T21:07:02Z",
+    "configurationUpdatedAt": "2026-07-04T21:58:42Z",
     "details": [
       {
         "name": "Running software version",
@@ -1889,7 +1889,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-D1F9-1D35/manage",
-    "configurationUpdatedAt": "2026-07-04T21:33:36Z",
+    "configurationUpdatedAt": "2026-07-04T22:25:16Z",
     "details": [
       {
         "name": "Running software version",
@@ -1915,7 +1915,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-EE68-D424/manage",
-    "configurationUpdatedAt": "2026-07-04T19:32:17Z",
+    "configurationUpdatedAt": "2026-07-04T20:23:57Z",
     "details": [
       {
         "name": "Running software version",
@@ -1941,7 +1941,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-3BA4-0F24/manage",
-    "configurationUpdatedAt": "2026-07-05T08:15:01Z",
+    "configurationUpdatedAt": "2026-07-05T09:06:41Z",
     "details": [
       {
         "name": "Running software version",
@@ -1967,7 +1967,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-2DCB-3B10/manage",
-    "configurationUpdatedAt": "2026-07-05T09:14:06Z",
+    "configurationUpdatedAt": "2026-07-05T10:05:46Z",
     "details": [
       {
         "name": "Running software version",
@@ -1993,7 +1993,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-A218-E779/manage",
-    "configurationUpdatedAt": "2026-07-05T00:57:53Z",
+    "configurationUpdatedAt": "2026-07-05T01:49:33Z",
     "details": [
       {
         "name": "Running software version",
@@ -2019,7 +2019,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-AC0F-1133/manage",
-    "configurationUpdatedAt": "2026-07-05T00:15:22Z",
+    "configurationUpdatedAt": "2026-07-05T01:07:02Z",
     "details": [
       {
         "name": "Running software version",
@@ -2045,7 +2045,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-8673-9D41/manage",
-    "configurationUpdatedAt": "2026-07-05T02:55:50Z",
+    "configurationUpdatedAt": "2026-07-05T03:47:30Z",
     "details": [
       {
         "name": "Running software version",
@@ -2071,7 +2071,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-52B5-E692/manage",
-    "configurationUpdatedAt": "2026-07-05T06:36:36Z",
+    "configurationUpdatedAt": "2026-07-05T07:28:16Z",
     "details": [
       {
         "name": "Running software version",
@@ -2097,7 +2097,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-64B6-20B5/manage",
-    "configurationUpdatedAt": "2026-07-05T05:19:47Z",
+    "configurationUpdatedAt": "2026-07-05T06:11:27Z",
     "details": [
       {
         "name": "Running software version",
@@ -2123,7 +2123,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-0838-3532/manage",
-    "configurationUpdatedAt": "2026-07-05T11:54:25Z",
+    "configurationUpdatedAt": "2026-07-05T12:46:05Z",
     "details": [
       {
         "name": "Running software version",
@@ -2149,7 +2149,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-D0AE-4481/manage",
-    "configurationUpdatedAt": "2026-07-04T21:39:07Z",
+    "configurationUpdatedAt": "2026-07-04T22:30:47Z",
     "details": [
       {
         "name": "Running software version",
@@ -2175,7 +2175,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-4CFD-F3F1/manage",
-    "configurationUpdatedAt": "2026-07-05T07:01:00Z",
+    "configurationUpdatedAt": "2026-07-05T07:52:40Z",
     "details": [
       {
         "name": "Running software version",
@@ -2201,7 +2201,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-B009-0B79/manage",
-    "configurationUpdatedAt": "2026-07-04T23:58:24Z",
+    "configurationUpdatedAt": "2026-07-05T00:50:04Z",
     "details": [
       {
         "name": "Running software version",
@@ -2227,7 +2227,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-E2DD-8F18/manage",
-    "configurationUpdatedAt": "2026-07-04T20:21:32Z",
+    "configurationUpdatedAt": "2026-07-04T21:13:12Z",
     "details": [
       {
         "name": "Running software version",
@@ -2253,7 +2253,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-D2A7-9005/manage",
-    "configurationUpdatedAt": "2026-07-04T21:30:42Z",
+    "configurationUpdatedAt": "2026-07-04T22:22:22Z",
     "details": [
       {
         "name": "Running software version",
@@ -2279,7 +2279,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-530F-9E58/manage",
-    "configurationUpdatedAt": "2026-07-05T06:35:06Z",
+    "configurationUpdatedAt": "2026-07-05T07:26:46Z",
     "details": [
       {
         "name": "Running software version",
@@ -2305,7 +2305,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-E1B7-C496/manage",
-    "configurationUpdatedAt": "2026-07-04T20:26:26Z",
+    "configurationUpdatedAt": "2026-07-04T21:18:06Z",
     "details": [
       {
         "name": "Running software version",
@@ -2331,7 +2331,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-14AF-9855/manage",
-    "configurationUpdatedAt": "2026-07-05T11:01:14Z",
+    "configurationUpdatedAt": "2026-07-05T11:52:54Z",
     "details": [
       {
         "name": "Running software version",
@@ -2357,7 +2357,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-9966-D99F/manage",
-    "configurationUpdatedAt": "2026-07-05T01:34:59Z",
+    "configurationUpdatedAt": "2026-07-05T02:26:39Z",
     "details": [
       {
         "name": "Running software version",
@@ -2383,7 +2383,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-E81E-12A2/manage",
-    "configurationUpdatedAt": "2026-07-04T19:59:07Z",
+    "configurationUpdatedAt": "2026-07-04T20:50:47Z",
     "details": [
       {
         "name": "Running software version",
@@ -2409,7 +2409,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-9179-4758/manage",
-    "configurationUpdatedAt": "2026-07-05T02:08:48Z",
+    "configurationUpdatedAt": "2026-07-05T03:00:28Z",
     "details": [
       {
         "name": "Running software version",
@@ -2435,7 +2435,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-F647-85B2/manage",
-    "configurationUpdatedAt": "2026-07-04T18:58:42Z",
+    "configurationUpdatedAt": "2026-07-04T19:50:22Z",
     "details": [
       {
         "name": "Running software version",
@@ -2461,7 +2461,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-DE3E-E8EF/manage",
-    "configurationUpdatedAt": "2026-07-04T20:41:15Z",
+    "configurationUpdatedAt": "2026-07-04T21:32:55Z",
     "details": [
       {
         "name": "Running software version",
@@ -2487,7 +2487,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-8D55-A0EA/manage",
-    "configurationUpdatedAt": "2026-07-05T02:26:28Z",
+    "configurationUpdatedAt": "2026-07-05T03:18:08Z",
     "details": [
       {
         "name": "Running software version",
@@ -2513,7 +2513,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-2C43-77DE/manage",
-    "configurationUpdatedAt": "2026-07-05T09:20:38Z",
+    "configurationUpdatedAt": "2026-07-05T10:12:18Z",
     "details": [
       {
         "name": "Running software version",
@@ -2539,7 +2539,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-25F1-8121/manage",
-    "configurationUpdatedAt": "2026-07-05T09:47:36Z",
+    "configurationUpdatedAt": "2026-07-05T10:39:16Z",
     "details": [
       {
         "name": "Running software version",
@@ -2565,7 +2565,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-8D7B-91F1/manage",
-    "configurationUpdatedAt": "2026-07-05T02:25:50Z",
+    "configurationUpdatedAt": "2026-07-05T03:17:30Z",
     "details": [
       {
         "name": "Running software version",
@@ -2591,7 +2591,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-E738-3C07/manage",
-    "configurationUpdatedAt": "2026-07-04T20:02:57Z",
+    "configurationUpdatedAt": "2026-07-04T20:54:37Z",
     "details": [
       {
         "name": "Running software version",
@@ -2617,7 +2617,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-4AD1-4865/manage",
-    "configurationUpdatedAt": "2026-07-05T07:10:16Z",
+    "configurationUpdatedAt": "2026-07-05T08:01:56Z",
     "details": [
       {
         "name": "Running software version",
@@ -2643,7 +2643,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-01B3-0F44/manage",
-    "configurationUpdatedAt": "2026-07-05T12:22:14Z",
+    "configurationUpdatedAt": "2026-07-05T13:13:54Z",
     "details": [
       {
         "name": "Running software version",
@@ -2669,7 +2669,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-1811-B75E/manage",
-    "configurationUpdatedAt": "2026-07-05T10:46:48Z",
+    "configurationUpdatedAt": "2026-07-05T11:38:28Z",
     "details": [
       {
         "name": "Running software version",
@@ -2695,7 +2695,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-2503-AEF1/manage",
-    "configurationUpdatedAt": "2026-07-05T09:51:34Z",
+    "configurationUpdatedAt": "2026-07-05T10:43:14Z",
     "details": [
       {
         "name": "Running software version",
@@ -2721,7 +2721,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-6958-2552/manage",
-    "configurationUpdatedAt": "2026-07-05T05:00:01Z",
+    "configurationUpdatedAt": "2026-07-05T05:51:41Z",
     "details": [
       {
         "name": "Running software version",
@@ -2747,7 +2747,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-C98B-73DD/manage",
-    "configurationUpdatedAt": "2026-07-04T22:09:34Z",
+    "configurationUpdatedAt": "2026-07-04T23:01:14Z",
     "details": [
       {
         "name": "Running software version",
@@ -2773,7 +2773,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-0DD6-2B63/manage",
-    "configurationUpdatedAt": "2026-07-05T11:30:27Z",
+    "configurationUpdatedAt": "2026-07-05T12:22:07Z",
     "details": [
       {
         "name": "Running software version",
@@ -2799,7 +2799,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-00B1-7241/manage",
-    "configurationUpdatedAt": "2026-07-05T12:26:32Z",
+    "configurationUpdatedAt": "2026-07-05T13:18:12Z",
     "details": [
       {
         "name": "Running software version",
@@ -2825,7 +2825,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-1A07-003C/manage",
-    "configurationUpdatedAt": "2026-07-05T10:38:26Z",
+    "configurationUpdatedAt": "2026-07-05T11:30:06Z",
     "details": [
       {
         "name": "Running software version",
@@ -2851,7 +2851,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-453D-411B/manage",
-    "configurationUpdatedAt": "2026-07-05T07:34:04Z",
+    "configurationUpdatedAt": "2026-07-05T08:25:44Z",
     "details": [
       {
         "name": "Running software version",
@@ -2877,7 +2877,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-B69D-9068/manage",
-    "configurationUpdatedAt": "2026-07-04T23:30:20Z",
+    "configurationUpdatedAt": "2026-07-05T00:22:00Z",
     "details": [
       {
         "name": "Running software version",
@@ -2903,7 +2903,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-49E8-FDCC/manage",
-    "configurationUpdatedAt": "2026-07-05T07:14:09Z",
+    "configurationUpdatedAt": "2026-07-05T08:05:49Z",
     "details": [
       {
         "name": "Running software version",
@@ -2929,7 +2929,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-B791-C155/manage",
-    "configurationUpdatedAt": "2026-07-04T23:26:16Z",
+    "configurationUpdatedAt": "2026-07-05T00:17:56Z",
     "details": [
       {
         "name": "Running software version",
@@ -2956,7 +2956,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-7E98-3D14/manage",
-    "configurationUpdatedAt": "2026-07-05T03:29:21Z",
+    "configurationUpdatedAt": "2026-07-05T04:21:01Z",
     "details": [
       {
         "name": "Running software version",
@@ -2983,7 +2983,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-8DB6-EBBE/manage",
-    "configurationUpdatedAt": "2026-07-05T02:24:51Z",
+    "configurationUpdatedAt": "2026-07-05T03:16:31Z",
     "details": [
       {
         "name": "Running software version",
@@ -3010,7 +3010,7 @@
     "address": "San Francisco",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-EF04-AC22/manage",
-    "configurationUpdatedAt": "2026-07-04T19:29:41Z",
+    "configurationUpdatedAt": "2026-07-04T20:21:21Z",
     "details": [
       {
         "name": "Running software version",
@@ -3037,7 +3037,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-CC9B-08F0/manage",
-    "configurationUpdatedAt": "2026-07-04T21:56:30Z",
+    "configurationUpdatedAt": "2026-07-04T22:48:10Z",
     "details": [
       {
         "name": "Running software version",
@@ -3063,7 +3063,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-72B3-3D45/manage",
-    "configurationUpdatedAt": "2026-07-05T04:20:06Z",
+    "configurationUpdatedAt": "2026-07-05T05:11:46Z",
     "details": [
       {
         "name": "Running software version",
@@ -3089,7 +3089,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-CB79-BBAA/manage",
-    "configurationUpdatedAt": "2026-07-04T22:01:20Z",
+    "configurationUpdatedAt": "2026-07-04T22:53:00Z",
     "details": [
       {
         "name": "Running software version",
@@ -3115,7 +3115,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-CF55-6A50/manage",
-    "configurationUpdatedAt": "2026-07-04T21:44:52Z",
+    "configurationUpdatedAt": "2026-07-04T22:36:32Z",
     "details": [
       {
         "name": "Running software version",
@@ -3141,7 +3141,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-2573-26B7/manage",
-    "configurationUpdatedAt": "2026-07-05T09:49:42Z",
+    "configurationUpdatedAt": "2026-07-05T10:41:22Z",
     "details": [
       {
         "name": "Running software version",
@@ -3167,7 +3167,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-8F7E-B0C3/manage",
-    "configurationUpdatedAt": "2026-07-05T02:17:15Z",
+    "configurationUpdatedAt": "2026-07-05T03:08:55Z",
     "details": [
       {
         "name": "Running software version",
@@ -3193,7 +3193,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-6597-A7A9/manage",
-    "configurationUpdatedAt": "2026-07-05T05:16:02Z",
+    "configurationUpdatedAt": "2026-07-05T06:07:42Z",
     "details": [
       {
         "name": "Running software version",
@@ -3219,7 +3219,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-CA4D-CB5A/manage",
-    "configurationUpdatedAt": "2026-07-04T22:06:20Z",
+    "configurationUpdatedAt": "2026-07-04T22:58:00Z",
     "details": [
       {
         "name": "Running software version",
@@ -3245,7 +3245,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-31EB-E909/manage",
-    "configurationUpdatedAt": "2026-07-05T08:56:30Z",
+    "configurationUpdatedAt": "2026-07-05T09:48:10Z",
     "details": [
       {
         "name": "Running software version",
@@ -3271,7 +3271,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-5015-A1A9/manage",
-    "configurationUpdatedAt": "2026-07-05T06:47:48Z",
+    "configurationUpdatedAt": "2026-07-05T07:39:28Z",
     "details": [
       {
         "name": "Running software version",
@@ -3297,7 +3297,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-F149-36BC/manage",
-    "configurationUpdatedAt": "2026-07-04T19:20:00Z",
+    "configurationUpdatedAt": "2026-07-04T20:11:40Z",
     "details": [
       {
         "name": "Running software version",
@@ -3323,7 +3323,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-289A-8F82/manage",
-    "configurationUpdatedAt": "2026-07-05T09:36:15Z",
+    "configurationUpdatedAt": "2026-07-05T10:27:55Z",
     "details": [
       {
         "name": "Running software version",
@@ -3349,7 +3349,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-B849-B4D1/manage",
-    "configurationUpdatedAt": "2026-07-04T23:23:12Z",
+    "configurationUpdatedAt": "2026-07-05T00:14:52Z",
     "details": [
       {
         "name": "Running software version",
@@ -3375,7 +3375,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-FBBC-EC1A/manage",
-    "configurationUpdatedAt": "2026-07-04T18:35:25Z",
+    "configurationUpdatedAt": "2026-07-04T19:27:05Z",
     "details": [
       {
         "name": "Running software version",
@@ -3401,7 +3401,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-923B-B637/manage",
-    "configurationUpdatedAt": "2026-07-05T02:05:34Z",
+    "configurationUpdatedAt": "2026-07-05T02:57:14Z",
     "details": [
       {
         "name": "Running software version",
@@ -3427,7 +3427,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-4549-BAB1/manage",
-    "configurationUpdatedAt": "2026-07-05T07:33:52Z",
+    "configurationUpdatedAt": "2026-07-05T08:25:32Z",
     "details": [
       {
         "name": "Running software version",
@@ -3453,7 +3453,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-F36F-8A1B/manage",
-    "configurationUpdatedAt": "2026-07-04T19:10:50Z",
+    "configurationUpdatedAt": "2026-07-04T20:02:30Z",
     "details": [
       {
         "name": "Running software version",
@@ -3479,7 +3479,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-85C2-760A/manage",
-    "configurationUpdatedAt": "2026-07-05T02:58:47Z",
+    "configurationUpdatedAt": "2026-07-05T03:50:27Z",
     "details": [
       {
         "name": "Running software version",
@@ -3505,7 +3505,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-DEE0-2412/manage",
-    "configurationUpdatedAt": "2026-07-04T20:38:33Z",
+    "configurationUpdatedAt": "2026-07-04T21:30:13Z",
     "details": [
       {
         "name": "Running software version",
@@ -3531,7 +3531,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-1A17-6802/manage",
-    "configurationUpdatedAt": "2026-07-05T10:38:10Z",
+    "configurationUpdatedAt": "2026-07-05T11:29:50Z",
     "details": [
       {
         "name": "Running software version",
@@ -3557,7 +3557,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2KD-1B4B-59E0/manage",
-    "configurationUpdatedAt": "2026-07-05T10:33:02Z",
+    "configurationUpdatedAt": "2026-07-05T11:24:42Z",
     "details": [
       {
         "name": "Running software version",
@@ -3583,7 +3583,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-8827-5B07/manage",
-    "configurationUpdatedAt": "2026-07-05T02:48:34Z",
+    "configurationUpdatedAt": "2026-07-05T03:40:14Z",
     "details": [
       {
         "name": "Running software version",
@@ -3609,7 +3609,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-745E-4C88/manage",
-    "configurationUpdatedAt": "2026-07-05T04:12:59Z",
+    "configurationUpdatedAt": "2026-07-05T05:04:39Z",
     "details": [
       {
         "name": "Running software version",
@@ -3635,7 +3635,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-98C2-AB94/manage",
-    "configurationUpdatedAt": "2026-07-05T01:37:43Z",
+    "configurationUpdatedAt": "2026-07-05T02:29:23Z",
     "details": [
       {
         "name": "Running software version",
@@ -3661,7 +3661,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-71E6-81D0/manage",
-    "configurationUpdatedAt": "2026-07-05T04:23:31Z",
+    "configurationUpdatedAt": "2026-07-05T05:15:11Z",
     "details": [
       {
         "name": "Running software version",
@@ -3687,7 +3687,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-C32D-1997/manage",
-    "configurationUpdatedAt": "2026-07-04T22:36:44Z",
+    "configurationUpdatedAt": "2026-07-04T23:28:24Z",
     "details": [
       {
         "name": "Running software version",
@@ -3713,7 +3713,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-4A97-BDBE/manage",
-    "configurationUpdatedAt": "2026-07-05T07:11:14Z",
+    "configurationUpdatedAt": "2026-07-05T08:02:54Z",
     "details": [
       {
         "name": "Running software version",
@@ -3739,7 +3739,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-7D53-4138/manage",
-    "configurationUpdatedAt": "2026-07-05T03:34:46Z",
+    "configurationUpdatedAt": "2026-07-05T04:26:26Z",
     "details": [
       {
         "name": "Running software version",
@@ -3765,7 +3765,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-2527-0CA9/manage",
-    "configurationUpdatedAt": "2026-07-05T09:50:58Z",
+    "configurationUpdatedAt": "2026-07-05T10:42:38Z",
     "details": [
       {
         "name": "Running software version",
@@ -3791,7 +3791,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-9827-D3F3/manage",
-    "configurationUpdatedAt": "2026-07-05T01:40:18Z",
+    "configurationUpdatedAt": "2026-07-05T02:31:58Z",
     "details": [
       {
         "name": "Running software version",
@@ -3817,7 +3817,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-DB5E-714A/manage",
-    "configurationUpdatedAt": "2026-07-04T20:53:31Z",
+    "configurationUpdatedAt": "2026-07-04T21:45:11Z",
     "details": [
       {
         "name": "Running software version",
@@ -3843,7 +3843,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-7C44-2F48/manage",
-    "configurationUpdatedAt": "2026-07-05T03:39:17Z",
+    "configurationUpdatedAt": "2026-07-05T04:30:57Z",
     "details": [
       {
         "name": "Running software version",
@@ -3869,7 +3869,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-BDB1-5C52/manage",
-    "configurationUpdatedAt": "2026-07-04T23:00:08Z",
+    "configurationUpdatedAt": "2026-07-04T23:51:48Z",
     "details": [
       {
         "name": "Running software version",
@@ -3895,7 +3895,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-9FD8-AE73/manage",
-    "configurationUpdatedAt": "2026-07-05T01:07:29Z",
+    "configurationUpdatedAt": "2026-07-05T01:59:09Z",
     "details": [
       {
         "name": "Running software version",
@@ -3921,7 +3921,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-D786-6BE2/manage",
-    "configurationUpdatedAt": "2026-07-04T21:09:55Z",
+    "configurationUpdatedAt": "2026-07-04T22:01:35Z",
     "details": [
       {
         "name": "Running software version",
@@ -3947,7 +3947,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-622C-55A8/manage",
-    "configurationUpdatedAt": "2026-07-05T05:30:37Z",
+    "configurationUpdatedAt": "2026-07-05T06:22:17Z",
     "details": [
       {
         "name": "Running software version",
@@ -3973,7 +3973,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-3E82-DF96/manage",
-    "configurationUpdatedAt": "2026-07-05T08:02:47Z",
+    "configurationUpdatedAt": "2026-07-05T08:54:27Z",
     "details": [
       {
         "name": "Running software version",
@@ -3999,7 +3999,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-0DB9-1A85/manage",
-    "configurationUpdatedAt": "2026-07-05T11:30:56Z",
+    "configurationUpdatedAt": "2026-07-05T12:22:36Z",
     "details": [
       {
         "name": "Running software version",
@@ -4026,7 +4026,7 @@
     "address": "New York",
     "notes": null,
     "url": "https://mock.meraki.com/devices/Q2QN-12D8-A001/manage",
-    "configurationUpdatedAt": "2026-07-05T11:09:05Z",
+    "configurationUpdatedAt": "2026-07-05T12:00:45Z",
     "details": [
       {
         "name": "Running software version",

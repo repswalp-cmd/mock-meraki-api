@@ -67,17 +67,16 @@ def _log():
 
 
 def _paginate(items: list) -> list:
-    """Apply Meraki cursor pagination: ?perPage=N&startingAfter=<id>."""
-    per_page      = min(max(int(request.args.get("perPage", 1000)), 1), 5000)
+    """Return all items; support startingAfter cursor but ignore perPage.
+    CSP sends perPage=100 and doesn't follow Link headers, so honoring perPage
+    would silently truncate clients to 100 per network."""
     starting_after = request.args.get("startingAfter")
     if starting_after:
-        start_idx = 0
         for i, item in enumerate(items):
             if item.get("id") == starting_after:
-                start_idx = i + 1
-                break
-        return items[start_idx: start_idx + per_page]
-    return items[:per_page]
+                return items[i + 1:]
+        return []
+    return items
 
 
 # ---------------------------------------------------------------------------
@@ -200,6 +199,8 @@ def get_vlan_profiles(net_id):
     }])
 
 
+_SFO_NET_ID = "N_695691719"  # SFO is the VPN hub; NYC and LON are spokes
+
 @app.route("/api/v1/networks/<net_id>/appliance/vpn/siteToSiteVpn")
 def get_vpn(net_id):
     _log()
@@ -208,7 +209,17 @@ def get_vpn(net_id):
         return err
     if net_id not in NET_MAP:
         return jsonify({"errors": [f"Network {net_id} not found"]}), 404
-    return jsonify({"mode": "spoke", "hubs": [], "subnets": []})
+    subnets = [
+        {"localSubnet": v["subnet"], "useVpn": True, "nat": {"enabled": False}}
+        for v in VLANS.get(net_id, []) if v.get("subnet")
+    ]
+    if net_id == _SFO_NET_ID:
+        return jsonify({"mode": "hub", "hubs": [], "subnets": subnets})
+    return jsonify({
+        "mode": "spoke",
+        "hubs": [{"hubId": _SFO_NET_ID, "useDefaultRoute": True}],
+        "subnets": subnets,
+    })
 
 
 @app.route("/api/v1/networks/<net_id>/cellularGateway/subnetPool")
