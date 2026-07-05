@@ -1,8 +1,8 @@
 [
   {
-    "serial": "Q2KD-A376-CFD2",
+    "serial": "Q2KD-C5CC-2402",
     "name": "lsys-lon-f4-ap-01",
-    "mac": "34:c2:ee:8c:67:ae",
+    "mac": "21:1e:63:63:95:a1",
     "network": {
       "id": "N_322920021"
     },
@@ -13,9 +13,9 @@
     ]
   },
   {
-    "serial": "Q2KD-1E93-5EAE",
+    "serial": "Q2KD-0D84-85CA",
     "name": "lsys-lon-f1-ap-02",
-    "mac": "3c:35:01:20:69:41",
+    "mac": "3a:42:c4:86:ba:ce",
     "network": {
       "id": "N_322920021"
     },
@@ -26,9 +26,9 @@
     ]
   },
   {
-    "serial": "Q2KD-E55C-0D5C",
+    "serial": "Q2KD-B3E5-46E3",
     "name": "lsys-lon-f5-ap-03",
-    "mac": "eb:ec:1c:21:6a:2b",
+    "mac": "ba:25:09:80:f1:69",
     "network": {
       "id": "N_322920021"
     },
@@ -39,9 +39,9 @@
     ]
   },
   {
-    "serial": "Q2KD-0184-CE88",
+    "serial": "Q2KD-6205-8BF6",
     "name": "lsys-lon-f2-ap-04",
-    "mac": "85:3b:50:4d:aa:36",
+    "mac": "b3:0a:52:38:3d:7d",
     "network": {
       "id": "N_322920021"
     },
@@ -52,9 +52,9 @@
     ]
   },
   {
-    "serial": "Q2KD-77C4-4B66",
+    "serial": "Q2KD-EC57-833F",
     "name": "lsys-lon-f5-ap-05",
-    "mac": "93:40:47:f7:61:22",
+    "mac": "90:63:8b:e8:78:67",
     "network": {
       "id": "N_322920021"
     },
@@ -65,9 +65,9 @@
     ]
   },
   {
-    "serial": "Q2KD-C62F-3F90",
+    "serial": "Q2KD-3423-1217",
     "name": "lsys-lon-f4-ap-06",
-    "mac": "bb:6e:a4:6f:48:a6",
+    "mac": "57:62:1f:e7:d2:57",
     "network": {
       "id": "N_322920021"
     },
@@ -78,9 +78,9 @@
     ]
   },
   {
-    "serial": "Q2KD-0116-F9E9",
+    "serial": "Q2KD-8C1A-1F87",
     "name": "lsys-lon-f2-ap-07",
-    "mac": "04:6d:f6:9f:3a:c3",
+    "mac": "ce:3c:80:0b:c5:96",
     "network": {
       "id": "N_322920021"
     },
@@ -91,9 +91,9 @@
     ]
   },
   {
-    "serial": "Q2KD-6019-5366",
+    "serial": "Q2KD-5705-BF91",
     "name": "lsys-lon-f2-ap-08",
-    "mac": "f0:b6:d1:3c:c9:a5",
+    "mac": "c4:c2:ed:21:54:9b",
     "network": {
       "id": "N_322920021"
     },
@@ -104,9 +104,9 @@
     ]
   },
   {
-    "serial": "Q2KD-3EA8-38D4",
+    "serial": "Q2KD-05CA-6F2E",
     "name": "lsys-lon-f3-ap-09",
-    "mac": "ba:f6:df:35:6b:b9",
+    "mac": "e7:90:c2:51:45:d8",
     "network": {
       "id": "N_322920021"
     },
@@ -117,9 +117,9 @@
     ]
   },
   {
-    "serial": "Q2KD-E548-3E1D",
+    "serial": "Q2KD-D976-09C2",
     "name": "lsys-lon-f5-ap-10",
-    "mac": "56:ba:69:12:c1:fc",
+    "mac": "94:4d:eb:ec:a9:5d",
     "network": {
       "id": "N_322920021"
     },
@@ -130,9 +130,9 @@
     ]
   },
   {
-    "serial": "Q2KD-ABDB-8CEA",
+    "serial": "Q2KD-3AE6-D965",
     "name": "lsys-lon-f2-ap-11",
-    "mac": "c8:ec:1e:b7:29:c6",
+    "mac": "68:5e:45:1d:f3:5b",
     "network": {
       "id": "N_322920021"
     },
@@ -143,9 +143,9 @@
     ]
   },
   {
-    "serial": "Q2KD-2ABB-F0EC",
+    "serial": "Q2KD-F173-5A72",
     "name": "lsys-lon-f3-ap-12",
-    "mac": "43:31:b2:ff:1b:d5",
+    "mac": "e3:a1:0e:9a:96:41",
     "network": {
       "id": "N_322920021"
     },
@@ -156,9 +156,9 @@
     ]
   },
   {
-    "serial": "Q2KD-9565-7CAC",
+    "serial": "Q2KD-66C1-5B94",
     "name": "lsys-lon-f5-ap-13",
-    "mac": "ea:f1:16:30:e6:28",
+    "mac": "6a:fc:98:c2:c8:de",
     "network": {
       "id": "N_322920021"
     },
@@ -169,9 +169,9 @@
     ]
   },
   {
-    "serial": "Q2KD-5D16-15A3",
+    "serial": "Q2KD-E88A-7784",
     "name": "lsys-lon-f4-ap-14",
-    "mac": "4d:71:2d:6d:8b:f0",
+    "mac": "c2:3d:f3:23:2a:89",
     "network": {
       "id": "N_322920021"
     },
@@ -182,9 +182,9 @@
     ]
   },
   {
-    "serial": "Q2KD-C4F1-E268",
+    "serial": "Q2KD-F6EC-C438",
     "name": "lsys-lon-f2-ap-15",
-    "mac": "fc:7c:22:63:fc:c6",
+    "mac": "57:e3:8d:76:94:1f",
     "network": {
       "id": "N_322920021"
     },
@@ -195,9 +195,9 @@
     ]
   },
   {
-    "serial": "Q2KD-9E52-9709",
+    "serial": "Q2KD-A562-4F1A",
     "name": "lsys-lon-f4-ap-16",
-    "mac": "c6:c1:bf:32:b9:e9",
+    "mac": "84:c6:98:9f:e3:5c",
     "network": {
       "id": "N_322920021"
     },
@@ -208,9 +208,9 @@
     ]
   },
   {
-    "serial": "Q2KD-740D-261F",
+    "serial": "Q2KD-8133-073C",
     "name": "lsys-lon-f2-ap-17",
-    "mac": "ac:0f:ad:85:89:16",
+    "mac": "7c:92:33:eb:59:93",
     "network": {
       "id": "N_322920021"
     },
@@ -221,9 +221,9 @@
     ]
   },
   {
-    "serial": "Q2KD-3E04-B933",
+    "serial": "Q2KD-CC36-7E3A",
     "name": "lsys-lon-f3-ap-18",
-    "mac": "d9:4d:66:b2:4c:20",
+    "mac": "21:c8:70:3e:e4:c2",
     "network": {
       "id": "N_322920021"
     },
@@ -234,9 +234,9 @@
     ]
   },
   {
-    "serial": "Q2KD-E6D2-67D8",
+    "serial": "Q2KD-D8BC-DE19",
     "name": "lsys-lon-f1-ap-19",
-    "mac": "9c:ad:4e:92:a8:ab",
+    "mac": "97:bc:2d:45:af:34",
     "network": {
       "id": "N_322920021"
     },
@@ -247,9 +247,9 @@
     ]
   },
   {
-    "serial": "Q2KD-52EC-52AC",
+    "serial": "Q2KD-D78D-6022",
     "name": "lsys-lon-f3-ap-20",
-    "mac": "10:63:f2:eb:33:a7",
+    "mac": "d0:b2:f7:a2:9e:b5",
     "network": {
       "id": "N_322920021"
     },
@@ -260,9 +260,9 @@
     ]
   },
   {
-    "serial": "Q2KD-ACC9-9968",
+    "serial": "Q2KD-7EBA-CC83",
     "name": "lsys-lon-f3-ap-21",
-    "mac": "4d:b8:77:e4:f7:60",
+    "mac": "3a:2f:30:ee:45:2a",
     "network": {
       "id": "N_322920021"
     },
@@ -273,9 +273,9 @@
     ]
   },
   {
-    "serial": "Q2KD-ECB4-4D78",
+    "serial": "Q2KD-C046-7A48",
     "name": "lsys-lon-f2-ap-22",
-    "mac": "ea:30:cf:7e:c1:48",
+    "mac": "06:b9:b2:3b:67:2c",
     "network": {
       "id": "N_322920021"
     },
@@ -286,9 +286,9 @@
     ]
   },
   {
-    "serial": "Q2KD-90DF-C155",
+    "serial": "Q2KD-DD25-07FC",
     "name": "lsys-lon-f5-ap-23",
-    "mac": "40:34:33:b3:25:84",
+    "mac": "7f:07:d4:90:78:18",
     "network": {
       "id": "N_322920021"
     },
@@ -299,9 +299,9 @@
     ]
   },
   {
-    "serial": "Q2KD-DC8B-6323",
+    "serial": "Q2KD-6457-661F",
     "name": "lsys-lon-f1-ap-24",
-    "mac": "cc:94:1b:0e:a6:36",
+    "mac": "fa:d4:bf:51:31:c9",
     "network": {
       "id": "N_322920021"
     },
@@ -312,9 +312,9 @@
     ]
   },
   {
-    "serial": "Q2KD-3449-2766",
+    "serial": "Q2KD-B6BF-292C",
     "name": "lsys-lon-f3-ap-25",
-    "mac": "2c:10:28:b0:72:db",
+    "mac": "9d:a9:e2:55:57:21",
     "network": {
       "id": "N_322920021"
     },
@@ -325,9 +325,9 @@
     ]
   },
   {
-    "serial": "Q2QN-41CE-C84F",
+    "serial": "Q2QN-41FB-C6D4",
     "name": "lsys-lon-f1-sw-01",
-    "mac": "99:fa:3f:53:17:64",
+    "mac": "0e:c0:5b:8b:21:45",
     "network": {
       "id": "N_322920021"
     },
@@ -338,9 +338,9 @@
     ]
   },
   {
-    "serial": "Q2QN-1C19-9D1D",
+    "serial": "Q2QN-6E53-07A9",
     "name": "lsys-lon-f4-sw-02",
-    "mac": "26:cf:0e:a5:fc:7b",
+    "mac": "cf:5b:0b:03:e3:2c",
     "network": {
       "id": "N_322920021"
     },
@@ -351,9 +351,9 @@
     ]
   },
   {
-    "serial": "Q2QN-0A3C-686A",
+    "serial": "Q2QN-CFEE-9242",
     "name": "lsys-lon-f1-sw-03",
-    "mac": "59:62:68:df:24:76",
+    "mac": "cf:43:f7:7e:91:3a",
     "network": {
       "id": "N_322920021"
     },
@@ -364,9 +364,9 @@
     ]
   },
   {
-    "serial": "Q2QN-F384-511C",
+    "serial": "Q2QN-9AEA-116D",
     "name": "lsys-lon-f4-sw-04",
-    "mac": "f3:3d:9e:70:55:47",
+    "mac": "0e:54:0b:36:88:21",
     "network": {
       "id": "N_322920021"
     },
@@ -377,9 +377,9 @@
     ]
   },
   {
-    "serial": "Q2QN-E366-40B1",
+    "serial": "Q2QN-77BB-A15A",
     "name": "lsys-lon-f3-sw-05",
-    "mac": "69:b7:9f:0e:67:03",
+    "mac": "78:1b:cd:1d:c5:58",
     "network": {
       "id": "N_322920021"
     },
@@ -390,9 +390,9 @@
     ]
   },
   {
-    "serial": "Q2QN-CE9D-A1B9",
+    "serial": "Q2QN-75FF-8086",
     "name": "lsys-lon-f2-sw-06",
-    "mac": "74:e4:e6:c3:a0:34",
+    "mac": "21:56:e5:bc:22:61",
     "network": {
       "id": "N_322920021"
     },
@@ -403,9 +403,9 @@
     ]
   },
   {
-    "serial": "Q2QN-B508-891C",
+    "serial": "Q2QN-B2B2-32FF",
     "name": "lsys-lon-f2-sw-07",
-    "mac": "a6:5e:af:e7:d5:53",
+    "mac": "84:8f:71:07:1c:bc",
     "network": {
       "id": "N_322920021"
     },
@@ -416,9 +416,9 @@
     ]
   },
   {
-    "serial": "Q2QN-A5FB-D299",
+    "serial": "Q2QN-64DE-7814",
     "name": "lsys-lon-f1-sw-08",
-    "mac": "7a:03:5f:f3:be:4e",
+    "mac": "fb:63:32:e8:dc:72",
     "network": {
       "id": "N_322920021"
     },
@@ -429,9 +429,9 @@
     ]
   },
   {
-    "serial": "Q2QN-81AE-55C0",
+    "serial": "Q2QN-899C-B9C8",
     "name": "lsys-lon-f5-sw-09",
-    "mac": "ac:3b:d2:a1:fd:9b",
+    "mac": "5f:c3:43:26:83:9d",
     "network": {
       "id": "N_322920021"
     },
@@ -442,9 +442,9 @@
     ]
   },
   {
-    "serial": "Q2QN-676D-AD64",
+    "serial": "Q2QN-A277-BF2B",
     "name": "lsys-lon-f4-sw-10",
-    "mac": "2b:43:2a:78:5b:5f",
+    "mac": "25:7a:b8:70:b7:be",
     "network": {
       "id": "N_322920021"
     },
@@ -455,9 +455,9 @@
     ]
   },
   {
-    "serial": "Q2QN-F97D-AB72",
+    "serial": "Q2QN-E5D5-3EE6",
     "name": "lsys-lon-f5-sw-11",
-    "mac": "f6:1a:b3:79:d1:4e",
+    "mac": "12:9e:75:9d:8a:c3",
     "network": {
       "id": "N_322920021"
     },
@@ -468,9 +468,9 @@
     ]
   },
   {
-    "serial": "Q2KD-28C4-F7AF",
+    "serial": "Q2KD-EEFC-4A50",
     "name": "lsys-sfo-f1-ap-01",
-    "mac": "4b:5a:07:f4:6c:89",
+    "mac": "98:b8:5c:5c:12:85",
     "network": {
       "id": "N_695691719"
     },
@@ -481,9 +481,9 @@
     ]
   },
   {
-    "serial": "Q2KD-A05B-9E14",
+    "serial": "Q2KD-63B1-BA3B",
     "name": "lsys-sfo-f1-ap-02",
-    "mac": "1a:f1:60:d1:cc:25",
+    "mac": "b8:15:c4:e0:95:b0",
     "network": {
       "id": "N_695691719"
     },
@@ -494,9 +494,9 @@
     ]
   },
   {
-    "serial": "Q2KD-94BD-7F5C",
+    "serial": "Q2KD-39C6-CA35",
     "name": "lsys-sfo-f4-ap-03",
-    "mac": "e3:a8:48:40:e7:af",
+    "mac": "b0:18:63:a3:f6:43",
     "network": {
       "id": "N_695691719"
     },
@@ -507,9 +507,9 @@
     ]
   },
   {
-    "serial": "Q2KD-6DEB-069F",
+    "serial": "Q2KD-089B-CDBC",
     "name": "lsys-sfo-f5-ap-04",
-    "mac": "42:3e:fd:fc:89:fb",
+    "mac": "5e:cb:b7:05:8c:26",
     "network": {
       "id": "N_695691719"
     },
@@ -520,9 +520,9 @@
     ]
   },
   {
-    "serial": "Q2KD-BB5A-EE7F",
+    "serial": "Q2KD-EE54-8D9D",
     "name": "lsys-sfo-f3-ap-05",
-    "mac": "f3:76:49:3a:f2:d9",
+    "mac": "b7:67:de:a0:b5:c9",
     "network": {
       "id": "N_695691719"
     },
@@ -533,9 +533,9 @@
     ]
   },
   {
-    "serial": "Q2KD-8C66-CBF1",
+    "serial": "Q2KD-2F3C-6BE3",
     "name": "lsys-sfo-f1-ap-06",
-    "mac": "3f:82:58:90:19:52",
+    "mac": "a7:0a:b4:71:64:bd",
     "network": {
       "id": "N_695691719"
     },
@@ -546,9 +546,9 @@
     ]
   },
   {
-    "serial": "Q2KD-E3C1-A5B5",
+    "serial": "Q2KD-735D-4572",
     "name": "lsys-sfo-f3-ap-07",
-    "mac": "e5:11:43:68:c3:0e",
+    "mac": "91:78:c8:db:57:1d",
     "network": {
       "id": "N_695691719"
     },
@@ -559,9 +559,9 @@
     ]
   },
   {
-    "serial": "Q2KD-E6F2-6990",
+    "serial": "Q2KD-7916-A3A0",
     "name": "lsys-sfo-f1-ap-08",
-    "mac": "8a:d6:e2:e9:fd:16",
+    "mac": "51:84:d9:95:4b:42",
     "network": {
       "id": "N_695691719"
     },
@@ -572,9 +572,9 @@
     ]
   },
   {
-    "serial": "Q2KD-D5A8-6572",
+    "serial": "Q2KD-2A49-BB56",
     "name": "lsys-sfo-f4-ap-09",
-    "mac": "c6:1c:b8:90:14:af",
+    "mac": "d2:ca:e1:f0:17:05",
     "network": {
       "id": "N_695691719"
     },
@@ -585,9 +585,9 @@
     ]
   },
   {
-    "serial": "Q2KD-A860-E2C7",
+    "serial": "Q2KD-1C02-26CE",
     "name": "lsys-sfo-f4-ap-10",
-    "mac": "59:8f:d9:8d:b2:b6",
+    "mac": "ad:27:6b:e4:47:6c",
     "network": {
       "id": "N_695691719"
     },
@@ -598,9 +598,9 @@
     ]
   },
   {
-    "serial": "Q2KD-9886-94F2",
+    "serial": "Q2KD-CAA1-7F92",
     "name": "lsys-sfo-f3-ap-11",
-    "mac": "a2:4f:3f:0f:3e:74",
+    "mac": "3e:25:48:95:93:87",
     "network": {
       "id": "N_695691719"
     },
@@ -611,9 +611,9 @@
     ]
   },
   {
-    "serial": "Q2KD-F592-2A03",
+    "serial": "Q2KD-1645-E988",
     "name": "lsys-sfo-f1-ap-12",
-    "mac": "96:37:b4:28:37:83",
+    "mac": "31:df:21:d1:a3:9a",
     "network": {
       "id": "N_695691719"
     },
@@ -624,9 +624,9 @@
     ]
   },
   {
-    "serial": "Q2KD-DC34-54F6",
+    "serial": "Q2KD-173F-B08F",
     "name": "lsys-sfo-f1-ap-13",
-    "mac": "a6:72:d5:c3:66:c4",
+    "mac": "a7:70:13:18:96:40",
     "network": {
       "id": "N_695691719"
     },
@@ -637,9 +637,9 @@
     ]
   },
   {
-    "serial": "Q2KD-42AC-2DE0",
+    "serial": "Q2KD-BE56-EDF8",
     "name": "lsys-sfo-f2-ap-14",
-    "mac": "cf:52:59:c3:2b:0c",
+    "mac": "1e:d2:de:e5:8f:4a",
     "network": {
       "id": "N_695691719"
     },
@@ -650,9 +650,9 @@
     ]
   },
   {
-    "serial": "Q2KD-55DF-0271",
+    "serial": "Q2KD-11A1-36C4",
     "name": "lsys-sfo-f1-ap-15",
-    "mac": "48:59:85:d6:e9:50",
+    "mac": "6a:d7:55:97:51:58",
     "network": {
       "id": "N_695691719"
     },
@@ -663,9 +663,9 @@
     ]
   },
   {
-    "serial": "Q2KD-F065-57CC",
+    "serial": "Q2KD-B171-851E",
     "name": "lsys-sfo-f1-ap-16",
-    "mac": "7a:bf:14:43:ae:d4",
+    "mac": "58:07:55:dc:22:72",
     "network": {
       "id": "N_695691719"
     },
@@ -676,9 +676,9 @@
     ]
   },
   {
-    "serial": "Q2KD-342A-473C",
+    "serial": "Q2KD-767B-C47E",
     "name": "lsys-sfo-f3-ap-17",
-    "mac": "39:a4:68:63:42:66",
+    "mac": "a3:aa:f0:87:61:54",
     "network": {
       "id": "N_695691719"
     },
@@ -689,9 +689,9 @@
     ]
   },
   {
-    "serial": "Q2KD-1487-5DDE",
+    "serial": "Q2KD-AB8A-8DB0",
     "name": "lsys-sfo-f1-ap-18",
-    "mac": "ad:0c:4a:62:41:bc",
+    "mac": "d7:fd:fe:98:3f:8f",
     "network": {
       "id": "N_695691719"
     },
@@ -702,9 +702,9 @@
     ]
   },
   {
-    "serial": "Q2KD-9E3B-F987",
+    "serial": "Q2KD-9843-A2B5",
     "name": "lsys-sfo-f4-ap-19",
-    "mac": "8e:f8:fe:cd:3b:ac",
+    "mac": "87:7c:66:2d:c6:e0",
     "network": {
       "id": "N_695691719"
     },
@@ -715,9 +715,9 @@
     ]
   },
   {
-    "serial": "Q2KD-6A1F-62CA",
+    "serial": "Q2KD-63FB-04FD",
     "name": "lsys-sfo-f2-ap-20",
-    "mac": "46:2c:68:76:76:bf",
+    "mac": "99:cf:1a:6d:c2:94",
     "network": {
       "id": "N_695691719"
     },
@@ -728,9 +728,9 @@
     ]
   },
   {
-    "serial": "Q2KD-4A73-33E0",
+    "serial": "Q2KD-4BC9-A936",
     "name": "lsys-sfo-f5-ap-21",
-    "mac": "e5:e3:3f:4c:cd:d6",
+    "mac": "27:cb:85:c9:f6:6b",
     "network": {
       "id": "N_695691719"
     },
@@ -741,9 +741,9 @@
     ]
   },
   {
-    "serial": "Q2KD-2896-4130",
+    "serial": "Q2KD-8409-CB23",
     "name": "lsys-sfo-f1-ap-22",
-    "mac": "ba:b6:41:dc:65:b5",
+    "mac": "7d:5d:85:24:b6:6c",
     "network": {
       "id": "N_695691719"
     },
@@ -754,9 +754,9 @@
     ]
   },
   {
-    "serial": "Q2KD-0EFF-8EBD",
+    "serial": "Q2KD-BC7E-50ED",
     "name": "lsys-sfo-f5-ap-23",
-    "mac": "4e:8a:d0:e0:5b:d4",
+    "mac": "47:8d:8f:ca:c7:81",
     "network": {
       "id": "N_695691719"
     },
@@ -767,9 +767,9 @@
     ]
   },
   {
-    "serial": "Q2KD-E7C9-433C",
+    "serial": "Q2KD-8693-8742",
     "name": "lsys-sfo-f2-ap-24",
-    "mac": "48:f2:d4:46:46:58",
+    "mac": "bb:b8:1d:b3:31:32",
     "network": {
       "id": "N_695691719"
     },
@@ -780,9 +780,9 @@
     ]
   },
   {
-    "serial": "Q2KD-E934-962E",
+    "serial": "Q2KD-EB3E-D557",
     "name": "lsys-sfo-f4-ap-25",
-    "mac": "78:88:8d:24:02:81",
+    "mac": "b9:28:6f:c2:85:e0",
     "network": {
       "id": "N_695691719"
     },
@@ -793,9 +793,9 @@
     ]
   },
   {
-    "serial": "Q2KD-9F61-EDAB",
+    "serial": "Q2KD-FDF1-F2C9",
     "name": "lsys-sfo-f5-ap-26",
-    "mac": "c5:6a:78:92:a8:82",
+    "mac": "3d:2f:24:42:81:c3",
     "network": {
       "id": "N_695691719"
     },
@@ -806,9 +806,9 @@
     ]
   },
   {
-    "serial": "Q2KD-0350-56A4",
+    "serial": "Q2KD-FFE2-BE87",
     "name": "lsys-sfo-f4-ap-27",
-    "mac": "0b:82:06:24:4c:d8",
+    "mac": "6d:52:0b:19:10:5e",
     "network": {
       "id": "N_695691719"
     },
@@ -819,9 +819,9 @@
     ]
   },
   {
-    "serial": "Q2KD-D55F-963E",
+    "serial": "Q2KD-E4B3-83F1",
     "name": "lsys-sfo-f4-ap-28",
-    "mac": "e4:c8:74:47:f6:ec",
+    "mac": "0a:7d:ca:26:89:bf",
     "network": {
       "id": "N_695691719"
     },
@@ -832,9 +832,9 @@
     ]
   },
   {
-    "serial": "Q2KD-2980-99A9",
+    "serial": "Q2KD-06F8-DE54",
     "name": "lsys-sfo-f2-ap-29",
-    "mac": "cc:50:89:4f:39:68",
+    "mac": "9d:59:62:80:94:15",
     "network": {
       "id": "N_695691719"
     },
@@ -845,9 +845,9 @@
     ]
   },
   {
-    "serial": "Q2KD-B76F-5C18",
+    "serial": "Q2KD-E736-9C3A",
     "name": "lsys-sfo-f4-ap-30",
-    "mac": "3f:0b:66:8f:8e:1f",
+    "mac": "7f:53:f2:9e:b9:d7",
     "network": {
       "id": "N_695691719"
     },
@@ -858,9 +858,9 @@
     ]
   },
   {
-    "serial": "Q2KD-22ED-E58F",
+    "serial": "Q2KD-513A-FCA6",
     "name": "lsys-sfo-f5-ap-31",
-    "mac": "30:5f:38:c5:f4:f6",
+    "mac": "87:b4:6e:d8:ea:d4",
     "network": {
       "id": "N_695691719"
     },
@@ -871,9 +871,9 @@
     ]
   },
   {
-    "serial": "Q2KD-C4DB-36F4",
+    "serial": "Q2KD-AC59-8BF8",
     "name": "lsys-sfo-f2-ap-32",
-    "mac": "e9:1e:e2:94:ea:91",
+    "mac": "2d:4e:73:ab:67:2f",
     "network": {
       "id": "N_695691719"
     },
@@ -884,9 +884,9 @@
     ]
   },
   {
-    "serial": "Q2KD-8F16-5FE3",
+    "serial": "Q2KD-6553-8AB9",
     "name": "lsys-sfo-f4-ap-33",
-    "mac": "e7:c6:ca:01:d0:bf",
+    "mac": "cd:ba:83:a7:f1:33",
     "network": {
       "id": "N_695691719"
     },
@@ -897,9 +897,9 @@
     ]
   },
   {
-    "serial": "Q2KD-9D91-3E9C",
+    "serial": "Q2KD-9737-0C7D",
     "name": "lsys-sfo-f3-ap-34",
-    "mac": "6f:2d:35:d7:3f:da",
+    "mac": "d1:9d:63:8b:ea:c4",
     "network": {
       "id": "N_695691719"
     },
@@ -910,9 +910,9 @@
     ]
   },
   {
-    "serial": "Q2KD-FC4E-4B67",
+    "serial": "Q2KD-B6A4-D0FB",
     "name": "lsys-sfo-f3-ap-35",
-    "mac": "0d:20:ca:0d:fc:09",
+    "mac": "ea:0c:07:35:78:a9",
     "network": {
       "id": "N_695691719"
     },
@@ -923,9 +923,9 @@
     ]
   },
   {
-    "serial": "Q2KD-CD0C-B902",
+    "serial": "Q2KD-D833-F15A",
     "name": "lsys-sfo-f1-ap-36",
-    "mac": "85:87:64:ae:16:d5",
+    "mac": "98:43:56:38:9b:fd",
     "network": {
       "id": "N_695691719"
     },
@@ -936,9 +936,9 @@
     ]
   },
   {
-    "serial": "Q2KD-9BBF-C8A5",
+    "serial": "Q2KD-D1F9-1D35",
     "name": "lsys-sfo-f1-ap-37",
-    "mac": "9b:9d:68:b1:32:6c",
+    "mac": "3a:37:91:1d:6b:5b",
     "network": {
       "id": "N_695691719"
     },
@@ -949,9 +949,9 @@
     ]
   },
   {
-    "serial": "Q2KD-A314-BCC4",
+    "serial": "Q2KD-EE68-D424",
     "name": "lsys-sfo-f4-ap-38",
-    "mac": "70:d1:36:64:c9:15",
+    "mac": "77:82:84:82:2d:2c",
     "network": {
       "id": "N_695691719"
     },
@@ -962,9 +962,9 @@
     ]
   },
   {
-    "serial": "Q2KD-49CF-D49F",
+    "serial": "Q2KD-3BA4-0F24",
     "name": "lsys-sfo-f4-ap-39",
-    "mac": "b7:0c:bd:c4:ad:27",
+    "mac": "c5:60:14:41:06:3f",
     "network": {
       "id": "N_695691719"
     },
@@ -975,9 +975,9 @@
     ]
   },
   {
-    "serial": "Q2KD-83E3-91F6",
+    "serial": "Q2KD-2DCB-3B10",
     "name": "lsys-sfo-f2-ap-40",
-    "mac": "11:9b:2d:0e:c0:64",
+    "mac": "9c:65:14:2e:b8:e8",
     "network": {
       "id": "N_695691719"
     },
@@ -988,9 +988,9 @@
     ]
   },
   {
-    "serial": "Q2KD-E5F6-1C0D",
+    "serial": "Q2KD-A218-E779",
     "name": "lsys-sfo-f5-ap-41",
-    "mac": "fa:71:08:f6:27:e4",
+    "mac": "66:30:a1:6d:c6:45",
     "network": {
       "id": "N_695691719"
     },
@@ -1001,9 +1001,9 @@
     ]
   },
   {
-    "serial": "Q2KD-87CD-4185",
+    "serial": "Q2KD-AC0F-1133",
     "name": "lsys-sfo-f1-ap-42",
-    "mac": "63:85:e7:c1:ea:8f",
+    "mac": "cf:d2:05:18:73:8a",
     "network": {
       "id": "N_695691719"
     },
@@ -1014,9 +1014,9 @@
     ]
   },
   {
-    "serial": "Q2KD-1554-093D",
+    "serial": "Q2KD-8673-9D41",
     "name": "lsys-sfo-f2-ap-43",
-    "mac": "b9:80:82:2f:1d:0b",
+    "mac": "89:60:de:12:e2:5c",
     "network": {
       "id": "N_695691719"
     },
@@ -1027,9 +1027,9 @@
     ]
   },
   {
-    "serial": "Q2KD-1DE4-91DF",
+    "serial": "Q2KD-52B5-E692",
     "name": "lsys-sfo-f5-ap-44",
-    "mac": "2a:66:e0:5c:71:30",
+    "mac": "f1:6d:a2:63:b3:02",
     "network": {
       "id": "N_695691719"
     },
@@ -1040,9 +1040,9 @@
     ]
   },
   {
-    "serial": "Q2KD-BC00-1FF5",
+    "serial": "Q2KD-64B6-20B5",
     "name": "lsys-sfo-f4-ap-45",
-    "mac": "aa:77:10:ac:f3:85",
+    "mac": "fb:61:17:ef:78:b9",
     "network": {
       "id": "N_695691719"
     },
@@ -1053,9 +1053,9 @@
     ]
   },
   {
-    "serial": "Q2KD-8224-F174",
+    "serial": "Q2KD-0838-3532",
     "name": "lsys-sfo-f1-ap-46",
-    "mac": "e6:91:70:b0:8a:ba",
+    "mac": "57:9a:8e:d9:2c:d2",
     "network": {
       "id": "N_695691719"
     },
@@ -1066,9 +1066,9 @@
     ]
   },
   {
-    "serial": "Q2KD-69CA-9E95",
+    "serial": "Q2KD-D0AE-4481",
     "name": "lsys-sfo-f1-ap-47",
-    "mac": "c4:e7:fc:9d:78:56",
+    "mac": "cb:6b:c1:c5:35:f2",
     "network": {
       "id": "N_695691719"
     },
@@ -1079,9 +1079,9 @@
     ]
   },
   {
-    "serial": "Q2KD-1836-2C48",
+    "serial": "Q2KD-4CFD-F3F1",
     "name": "lsys-sfo-f5-ap-48",
-    "mac": "72:2c:73:a0:6a:c2",
+    "mac": "a7:1c:90:87:fd:b3",
     "network": {
       "id": "N_695691719"
     },
@@ -1092,9 +1092,9 @@
     ]
   },
   {
-    "serial": "Q2KD-C189-AD0C",
+    "serial": "Q2KD-B009-0B79",
     "name": "lsys-sfo-f4-ap-49",
-    "mac": "5a:9d:0e:0b:20:e5",
+    "mac": "c5:34:71:4f:94:89",
     "network": {
       "id": "N_695691719"
     },
@@ -1105,9 +1105,9 @@
     ]
   },
   {
-    "serial": "Q2KD-1E98-DA74",
+    "serial": "Q2KD-E2DD-8F18",
     "name": "lsys-sfo-f1-ap-50",
-    "mac": "af:d1:98:2a:c1:c0",
+    "mac": "d7:bd:03:9d:e1:8b",
     "network": {
       "id": "N_695691719"
     },
@@ -1118,9 +1118,9 @@
     ]
   },
   {
-    "serial": "Q2QN-D5BC-6F84",
+    "serial": "Q2QN-D2A7-9005",
     "name": "lsys-sfo-f4-sw-01",
-    "mac": "cb:a8:b7:31:d9:40",
+    "mac": "91:82:52:71:28:8f",
     "network": {
       "id": "N_695691719"
     },
@@ -1131,9 +1131,9 @@
     ]
   },
   {
-    "serial": "Q2QN-FEB7-2A91",
+    "serial": "Q2QN-530F-9E58",
     "name": "lsys-sfo-f5-sw-02",
-    "mac": "94:66:b7:7b:b1:5a",
+    "mac": "f8:41:fb:e8:08:14",
     "network": {
       "id": "N_695691719"
     },
@@ -1144,9 +1144,9 @@
     ]
   },
   {
-    "serial": "Q2QN-4C52-95E4",
+    "serial": "Q2QN-E1B7-C496",
     "name": "lsys-sfo-f2-sw-03",
-    "mac": "9c:53:49:5c:75:0f",
+    "mac": "57:7c:61:e2:64:42",
     "network": {
       "id": "N_695691719"
     },
@@ -1157,9 +1157,9 @@
     ]
   },
   {
-    "serial": "Q2QN-A7AE-BD2A",
+    "serial": "Q2QN-14AF-9855",
     "name": "lsys-sfo-f3-sw-04",
-    "mac": "58:cf:06:d6:1e:50",
+    "mac": "90:e6:73:06:8f:47",
     "network": {
       "id": "N_695691719"
     },
@@ -1170,9 +1170,9 @@
     ]
   },
   {
-    "serial": "Q2QN-8F8E-4DFA",
+    "serial": "Q2QN-9966-D99F",
     "name": "lsys-sfo-f4-sw-05",
-    "mac": "4e:a9:c8:e0:6c:eb",
+    "mac": "cc:73:b6:d5:ca:d0",
     "network": {
       "id": "N_695691719"
     },
@@ -1183,9 +1183,9 @@
     ]
   },
   {
-    "serial": "Q2QN-19E5-7E5F",
+    "serial": "Q2QN-E81E-12A2",
     "name": "lsys-sfo-f1-sw-06",
-    "mac": "ae:55:3e:bf:9d:48",
+    "mac": "59:a1:0b:a3:6c:f2",
     "network": {
       "id": "N_695691719"
     },
@@ -1196,9 +1196,9 @@
     ]
   },
   {
-    "serial": "Q2QN-0678-38BE",
+    "serial": "Q2QN-9179-4758",
     "name": "lsys-sfo-f2-sw-07",
-    "mac": "b1:ab:e2:81:1b:b2",
+    "mac": "24:60:f3:e0:de:3f",
     "network": {
       "id": "N_695691719"
     },
@@ -1209,9 +1209,9 @@
     ]
   },
   {
-    "serial": "Q2QN-312A-DBF0",
+    "serial": "Q2QN-F647-85B2",
     "name": "lsys-sfo-f5-sw-08",
-    "mac": "ca:8e:f4:c3:09:36",
+    "mac": "9b:05:14:61:76:b8",
     "network": {
       "id": "N_695691719"
     },
@@ -1222,9 +1222,9 @@
     ]
   },
   {
-    "serial": "Q2QN-416D-E265",
+    "serial": "Q2QN-DE3E-E8EF",
     "name": "lsys-sfo-f1-sw-09",
-    "mac": "07:98:16:bf:7b:e6",
+    "mac": "34:50:7c:05:62:24",
     "network": {
       "id": "N_695691719"
     },
@@ -1235,9 +1235,9 @@
     ]
   },
   {
-    "serial": "Q2QN-14B3-A67B",
+    "serial": "Q2QN-8D55-A0EA",
     "name": "lsys-sfo-f1-sw-10",
-    "mac": "39:16:34:16:23:36",
+    "mac": "32:d7:51:a4:6f:95",
     "network": {
       "id": "N_695691719"
     },
@@ -1248,9 +1248,9 @@
     ]
   },
   {
-    "serial": "Q2QN-668C-FACD",
+    "serial": "Q2QN-2C43-77DE",
     "name": "lsys-sfo-f3-sw-11",
-    "mac": "8e:31:65:d9:20:90",
+    "mac": "4e:99:55:0d:f9:84",
     "network": {
       "id": "N_695691719"
     },
@@ -1261,9 +1261,9 @@
     ]
   },
   {
-    "serial": "Q2QN-63F3-364E",
+    "serial": "Q2QN-25F1-8121",
     "name": "lsys-sfo-f5-sw-12",
-    "mac": "ee:47:af:f4:70:21",
+    "mac": "74:6b:23:e3:04:29",
     "network": {
       "id": "N_695691719"
     },
@@ -1274,9 +1274,9 @@
     ]
   },
   {
-    "serial": "Q2QN-B4C3-A695",
+    "serial": "Q2QN-8D7B-91F1",
     "name": "lsys-sfo-f1-sw-13",
-    "mac": "57:1c:e5:ef:c6:e2",
+    "mac": "8b:f3:b1:44:92:9e",
     "network": {
       "id": "N_695691719"
     },
@@ -1287,9 +1287,9 @@
     ]
   },
   {
-    "serial": "Q2QN-89CD-4790",
+    "serial": "Q2QN-E738-3C07",
     "name": "lsys-sfo-f3-sw-14",
-    "mac": "d6:3a:9d:25:83:d8",
+    "mac": "37:19:11:bc:bc:d3",
     "network": {
       "id": "N_695691719"
     },
@@ -1300,9 +1300,9 @@
     ]
   },
   {
-    "serial": "Q2QN-2747-C7C4",
+    "serial": "Q2QN-4AD1-4865",
     "name": "lsys-sfo-f5-sw-15",
-    "mac": "c8:40:af:1f:53:f4",
+    "mac": "d2:7f:13:3c:5e:2f",
     "network": {
       "id": "N_695691719"
     },
@@ -1313,9 +1313,9 @@
     ]
   },
   {
-    "serial": "Q2QN-5A6F-FE28",
+    "serial": "Q2QN-01B3-0F44",
     "name": "lsys-sfo-f1-sw-16",
-    "mac": "1c:1e:ee:23:53:2b",
+    "mac": "48:4f:d0:67:43:f8",
     "network": {
       "id": "N_695691719"
     },
@@ -1326,9 +1326,9 @@
     ]
   },
   {
-    "serial": "Q2QN-8E07-8253",
+    "serial": "Q2QN-1811-B75E",
     "name": "lsys-sfo-f3-sw-17",
-    "mac": "c7:14:86:a0:67:a0",
+    "mac": "18:35:01:d2:c7:ff",
     "network": {
       "id": "N_695691719"
     },
@@ -1339,9 +1339,9 @@
     ]
   },
   {
-    "serial": "Q2QN-35CE-5D3F",
+    "serial": "Q2QN-2503-AEF1",
     "name": "lsys-sfo-f4-sw-18",
-    "mac": "0c:71:4e:49:06:e6",
+    "mac": "5f:98:75:17:01:89",
     "network": {
       "id": "N_695691719"
     },
@@ -1352,9 +1352,9 @@
     ]
   },
   {
-    "serial": "Q2QN-16C4-1A53",
+    "serial": "Q2QN-6958-2552",
     "name": "lsys-sfo-f3-sw-19",
-    "mac": "e6:9f:31:f1:01:3b",
+    "mac": "2f:3d:32:34:e5:57",
     "network": {
       "id": "N_695691719"
     },
@@ -1365,9 +1365,9 @@
     ]
   },
   {
-    "serial": "Q2QN-2E6F-0560",
+    "serial": "Q2QN-C98B-73DD",
     "name": "lsys-sfo-f2-sw-20",
-    "mac": "2d:5d:b5:0d:81:85",
+    "mac": "b5:2a:cb:fc:a6:ae",
     "network": {
       "id": "N_695691719"
     },
@@ -1378,9 +1378,9 @@
     ]
   },
   {
-    "serial": "Q2QN-F6D7-48B9",
+    "serial": "Q2QN-0DD6-2B63",
     "name": "lsys-sfo-f2-sw-21",
-    "mac": "df:93:31:26:cf:ef",
+    "mac": "80:15:30:35:9c:de",
     "network": {
       "id": "N_695691719"
     },
@@ -1391,9 +1391,9 @@
     ]
   },
   {
-    "serial": "Q2QN-C339-91EA",
+    "serial": "Q2QN-00B1-7241",
     "name": "lsys-sfo-f1-sw-22",
-    "mac": "ea:ae:76:08:eb:4c",
+    "mac": "0e:b4:73:da:60:bb",
     "network": {
       "id": "N_695691719"
     },
@@ -1404,9 +1404,9 @@
     ]
   },
   {
-    "serial": "Q2QN-E81F-CFD9",
+    "serial": "Q2QN-1A07-003C",
     "name": "lsys-sfo-f3-sw-23",
-    "mac": "7e:79:59:81:1e:10",
+    "mac": "75:5a:23:d8:37:67",
     "network": {
       "id": "N_695691719"
     },
@@ -1417,9 +1417,9 @@
     ]
   },
   {
-    "serial": "Q2QN-DEEA-5004",
+    "serial": "Q2QN-453D-411B",
     "name": "lsys-sfo-f3-sw-24",
-    "mac": "6d:d4:ef:e3:f9:1b",
+    "mac": "87:2c:81:70:be:bc",
     "network": {
       "id": "N_695691719"
     },
@@ -1430,9 +1430,9 @@
     ]
   },
   {
-    "serial": "Q2QN-F67C-3807",
+    "serial": "Q2QN-B69D-9068",
     "name": "lsys-sfo-f2-sw-25",
-    "mac": "0c:11:b8:0b:23:2f",
+    "mac": "16:ed:84:1e:e1:67",
     "network": {
       "id": "N_695691719"
     },
@@ -1443,9 +1443,9 @@
     ]
   },
   {
-    "serial": "Q2QN-729B-3693",
+    "serial": "Q2QN-49E8-FDCC",
     "name": "lsys-sfo-f5-sw-26",
-    "mac": "83:6c:93:6a:a7:fb",
+    "mac": "e7:ef:a0:f7:60:4c",
     "network": {
       "id": "N_695691719"
     },
@@ -1456,9 +1456,9 @@
     ]
   },
   {
-    "serial": "Q2QN-9670-3354",
+    "serial": "Q2QN-B791-C155",
     "name": "lsys-sfo-f1-mx-01",
-    "mac": "80:98:03:b4:a6:eb",
+    "mac": "49:da:49:de:b8:28",
     "network": {
       "id": "N_695691719"
     },
@@ -1469,9 +1469,9 @@
     ]
   },
   {
-    "serial": "Q2QN-3E80-CA66",
+    "serial": "Q2QN-7E98-3D14",
     "name": "lsys-sfo-f1-mx-02",
-    "mac": "3e:a2:5a:01:78:97",
+    "mac": "dd:f1:87:84:26:9f",
     "network": {
       "id": "N_695691719"
     },
@@ -1482,9 +1482,9 @@
     ]
   },
   {
-    "serial": "Q2QN-0B35-400C",
+    "serial": "Q2QN-8DB6-EBBE",
     "name": "lsys-sfo-f1-mx-03",
-    "mac": "22:33:e1:b8:fc:81",
+    "mac": "c1:02:80:14:14:11",
     "network": {
       "id": "N_695691719"
     },
@@ -1495,9 +1495,9 @@
     ]
   },
   {
-    "serial": "Q2QN-4E81-1B7C",
+    "serial": "Q2QN-EF04-AC22",
     "name": "lsys-sfo-f1-mx-04",
-    "mac": "85:bd:2a:9b:ff:4b",
+    "mac": "d4:99:3b:4b:38:12",
     "network": {
       "id": "N_695691719"
     },
@@ -1508,9 +1508,9 @@
     ]
   },
   {
-    "serial": "Q2KD-9BD5-AAB8",
+    "serial": "Q2KD-CC9B-08F0",
     "name": "lsys-nyc-f1-ap-01",
-    "mac": "8e:b2:f9:88:0f:88",
+    "mac": "cb:e5:99:4b:9c:77",
     "network": {
       "id": "N_123827610"
     },
@@ -1521,9 +1521,9 @@
     ]
   },
   {
-    "serial": "Q2KD-906C-9819",
+    "serial": "Q2KD-72B3-3D45",
     "name": "lsys-nyc-f5-ap-02",
-    "mac": "26:27:83:69:6f:48",
+    "mac": "99:ce:18:75:55:ee",
     "network": {
       "id": "N_123827610"
     },
@@ -1534,9 +1534,9 @@
     ]
   },
   {
-    "serial": "Q2KD-9D45-BFA7",
+    "serial": "Q2KD-CB79-BBAA",
     "name": "lsys-nyc-f3-ap-03",
-    "mac": "a6:4f:e8:73:f8:ea",
+    "mac": "c3:b4:95:ae:a0:f6",
     "network": {
       "id": "N_123827610"
     },
@@ -1547,9 +1547,9 @@
     ]
   },
   {
-    "serial": "Q2KD-E95E-15BB",
+    "serial": "Q2KD-CF55-6A50",
     "name": "lsys-nyc-f4-ap-04",
-    "mac": "bc:02:f1:40:d7:c3",
+    "mac": "f9:db:76:de:cc:d1",
     "network": {
       "id": "N_123827610"
     },
@@ -1560,9 +1560,9 @@
     ]
   },
   {
-    "serial": "Q2KD-5A39-61F7",
+    "serial": "Q2KD-2573-26B7",
     "name": "lsys-nyc-f1-ap-05",
-    "mac": "99:bd:72:6a:f9:28",
+    "mac": "cd:aa:d0:9d:b3:77",
     "network": {
       "id": "N_123827610"
     },
@@ -1573,9 +1573,9 @@
     ]
   },
   {
-    "serial": "Q2KD-481E-8E26",
+    "serial": "Q2KD-8F7E-B0C3",
     "name": "lsys-nyc-f3-ap-06",
-    "mac": "48:83:04:40:2e:61",
+    "mac": "82:63:38:48:f2:e5",
     "network": {
       "id": "N_123827610"
     },
@@ -1586,9 +1586,9 @@
     ]
   },
   {
-    "serial": "Q2KD-79AF-A714",
+    "serial": "Q2KD-6597-A7A9",
     "name": "lsys-nyc-f2-ap-07",
-    "mac": "b3:09:fd:a8:1a:ef",
+    "mac": "3f:5e:4b:72:e3:19",
     "network": {
       "id": "N_123827610"
     },
@@ -1599,9 +1599,9 @@
     ]
   },
   {
-    "serial": "Q2KD-8B0B-90F4",
+    "serial": "Q2KD-CA4D-CB5A",
     "name": "lsys-nyc-f5-ap-08",
-    "mac": "47:99:e8:25:4b:a2",
+    "mac": "b0:41:0f:10:83:d6",
     "network": {
       "id": "N_123827610"
     },
@@ -1612,9 +1612,9 @@
     ]
   },
   {
-    "serial": "Q2KD-95C6-092F",
+    "serial": "Q2KD-31EB-E909",
     "name": "lsys-nyc-f5-ap-09",
-    "mac": "d3:70:55:58:34:ec",
+    "mac": "cd:10:70:6b:bb:5b",
     "network": {
       "id": "N_123827610"
     },
@@ -1625,9 +1625,9 @@
     ]
   },
   {
-    "serial": "Q2KD-0A84-48C1",
+    "serial": "Q2KD-5015-A1A9",
     "name": "lsys-nyc-f1-ap-10",
-    "mac": "bb:d2:71:06:f2:4a",
+    "mac": "ff:64:e4:bd:0a:05",
     "network": {
       "id": "N_123827610"
     },
@@ -1638,9 +1638,9 @@
     ]
   },
   {
-    "serial": "Q2KD-58F9-B195",
+    "serial": "Q2KD-F149-36BC",
     "name": "lsys-nyc-f4-ap-11",
-    "mac": "b1:93:21:c5:6e:54",
+    "mac": "44:cc:6a:78:9d:f5",
     "network": {
       "id": "N_123827610"
     },
@@ -1651,9 +1651,9 @@
     ]
   },
   {
-    "serial": "Q2KD-C60A-9B08",
+    "serial": "Q2KD-289A-8F82",
     "name": "lsys-nyc-f4-ap-12",
-    "mac": "74:e2:5d:a9:70:3d",
+    "mac": "49:5c:5c:58:42:1e",
     "network": {
       "id": "N_123827610"
     },
@@ -1664,9 +1664,9 @@
     ]
   },
   {
-    "serial": "Q2KD-E790-B71D",
+    "serial": "Q2KD-B849-B4D1",
     "name": "lsys-nyc-f2-ap-13",
-    "mac": "6e:ee:b5:3e:fa:92",
+    "mac": "68:6e:80:a3:20:e9",
     "network": {
       "id": "N_123827610"
     },
@@ -1677,9 +1677,9 @@
     ]
   },
   {
-    "serial": "Q2KD-2E4D-6043",
+    "serial": "Q2KD-FBBC-EC1A",
     "name": "lsys-nyc-f2-ap-14",
-    "mac": "10:58:77:8b:78:af",
+    "mac": "99:94:ef:73:01:3c",
     "network": {
       "id": "N_123827610"
     },
@@ -1690,9 +1690,9 @@
     ]
   },
   {
-    "serial": "Q2KD-8169-FFE1",
+    "serial": "Q2KD-923B-B637",
     "name": "lsys-nyc-f5-ap-15",
-    "mac": "83:cf:a7:e6:d1:15",
+    "mac": "5e:6a:15:e6:f3:52",
     "network": {
       "id": "N_123827610"
     },
@@ -1703,9 +1703,9 @@
     ]
   },
   {
-    "serial": "Q2KD-4959-9852",
+    "serial": "Q2KD-4549-BAB1",
     "name": "lsys-nyc-f4-ap-16",
-    "mac": "9c:30:f1:1d:e7:3e",
+    "mac": "9a:4e:f7:b3:d9:d0",
     "network": {
       "id": "N_123827610"
     },
@@ -1716,9 +1716,9 @@
     ]
   },
   {
-    "serial": "Q2KD-CA57-82B1",
+    "serial": "Q2KD-F36F-8A1B",
     "name": "lsys-nyc-f3-ap-17",
-    "mac": "c3:86:3e:fa:d6:50",
+    "mac": "60:29:68:9f:ea:38",
     "network": {
       "id": "N_123827610"
     },
@@ -1729,9 +1729,9 @@
     ]
   },
   {
-    "serial": "Q2KD-9D7F-D10B",
+    "serial": "Q2KD-85C2-760A",
     "name": "lsys-nyc-f3-ap-18",
-    "mac": "68:0f:ea:3e:e0:4a",
+    "mac": "19:51:6a:2f:76:29",
     "network": {
       "id": "N_123827610"
     },
@@ -1742,9 +1742,9 @@
     ]
   },
   {
-    "serial": "Q2KD-E70B-77BF",
+    "serial": "Q2KD-DEE0-2412",
     "name": "lsys-nyc-f2-ap-19",
-    "mac": "3e:e5:10:1f:6d:ff",
+    "mac": "78:53:ab:ec:84:5f",
     "network": {
       "id": "N_123827610"
     },
@@ -1755,9 +1755,9 @@
     ]
   },
   {
-    "serial": "Q2KD-9D2C-0290",
+    "serial": "Q2KD-1A17-6802",
     "name": "lsys-nyc-f3-ap-20",
-    "mac": "3e:74:7c:23:69:e7",
+    "mac": "14:30:69:21:c1:f9",
     "network": {
       "id": "N_123827610"
     },
@@ -1768,9 +1768,9 @@
     ]
   },
   {
-    "serial": "Q2KD-87AF-E817",
+    "serial": "Q2KD-1B4B-59E0",
     "name": "lsys-nyc-f1-ap-21",
-    "mac": "84:06:25:a3:73:46",
+    "mac": "7e:45:1e:06:9d:db",
     "network": {
       "id": "N_123827610"
     },
@@ -1781,9 +1781,9 @@
     ]
   },
   {
-    "serial": "Q2QN-5F17-9D76",
+    "serial": "Q2QN-8827-5B07",
     "name": "lsys-nyc-f1-sw-01",
-    "mac": "39:92:29:98:b0:e5",
+    "mac": "a9:1d:b6:41:2a:28",
     "network": {
       "id": "N_123827610"
     },
@@ -1794,9 +1794,9 @@
     ]
   },
   {
-    "serial": "Q2QN-9E01-F0DF",
+    "serial": "Q2QN-745E-4C88",
     "name": "lsys-nyc-f4-sw-02",
-    "mac": "a5:ab:ba:f4:59:90",
+    "mac": "f0:75:bd:f7:98:60",
     "network": {
       "id": "N_123827610"
     },
@@ -1807,9 +1807,9 @@
     ]
   },
   {
-    "serial": "Q2QN-2141-1BBD",
+    "serial": "Q2QN-98C2-AB94",
     "name": "lsys-nyc-f4-sw-03",
-    "mac": "d6:4a:f8:bb:21:f3",
+    "mac": "3f:65:bf:0d:58:fe",
     "network": {
       "id": "N_123827610"
     },
@@ -1820,9 +1820,9 @@
     ]
   },
   {
-    "serial": "Q2QN-C71A-907C",
+    "serial": "Q2QN-71E6-81D0",
     "name": "lsys-nyc-f5-sw-04",
-    "mac": "94:ad:f0:bd:10:83",
+    "mac": "f0:a6:61:4d:fd:01",
     "network": {
       "id": "N_123827610"
     },
@@ -1833,9 +1833,9 @@
     ]
   },
   {
-    "serial": "Q2QN-1024-49C5",
+    "serial": "Q2QN-C32D-1997",
     "name": "lsys-nyc-f2-sw-05",
-    "mac": "49:6c:9a:76:7b:96",
+    "mac": "dc:17:5f:40:4c:1b",
     "network": {
       "id": "N_123827610"
     },
@@ -1846,9 +1846,9 @@
     ]
   },
   {
-    "serial": "Q2QN-5697-952A",
+    "serial": "Q2QN-4A97-BDBE",
     "name": "lsys-nyc-f2-sw-06",
-    "mac": "75:f7:b5:c6:d0:46",
+    "mac": "c2:67:1e:1f:dc:38",
     "network": {
       "id": "N_123827610"
     },
@@ -1859,9 +1859,9 @@
     ]
   },
   {
-    "serial": "Q2QN-611F-E0A6",
+    "serial": "Q2QN-7D53-4138",
     "name": "lsys-nyc-f3-sw-07",
-    "mac": "ec:c6:fb:ed:48:fb",
+    "mac": "4d:46:00:bd:bb:31",
     "network": {
       "id": "N_123827610"
     },
@@ -1872,9 +1872,9 @@
     ]
   },
   {
-    "serial": "Q2QN-2163-CF85",
+    "serial": "Q2QN-2527-0CA9",
     "name": "lsys-nyc-f4-sw-08",
-    "mac": "10:20:77:34:f6:e2",
+    "mac": "ab:17:11:de:78:c1",
     "network": {
       "id": "N_123827610"
     },
@@ -1885,9 +1885,9 @@
     ]
   },
   {
-    "serial": "Q2QN-B760-B11E",
+    "serial": "Q2QN-9827-D3F3",
     "name": "lsys-nyc-f4-sw-09",
-    "mac": "a1:79:66:7d:7d:09",
+    "mac": "38:44:fc:d0:40:a6",
     "network": {
       "id": "N_123827610"
     },
@@ -1898,9 +1898,9 @@
     ]
   },
   {
-    "serial": "Q2QN-E466-9C3D",
+    "serial": "Q2QN-DB5E-714A",
     "name": "lsys-nyc-f4-sw-10",
-    "mac": "4b:95:c6:36:df:e8",
+    "mac": "7d:33:3a:b6:66:08",
     "network": {
       "id": "N_123827610"
     },
@@ -1911,9 +1911,9 @@
     ]
   },
   {
-    "serial": "Q2QN-18CC-B206",
+    "serial": "Q2QN-7C44-2F48",
     "name": "lsys-nyc-f5-sw-11",
-    "mac": "38:d6:03:1b:ff:0a",
+    "mac": "b0:2b:2b:6a:df:95",
     "network": {
       "id": "N_123827610"
     },
@@ -1924,9 +1924,9 @@
     ]
   },
   {
-    "serial": "Q2QN-AD38-DCFB",
+    "serial": "Q2QN-BDB1-5C52",
     "name": "lsys-nyc-f4-sw-12",
-    "mac": "ae:dd:95:da:07:f0",
+    "mac": "7c:dc:98:e2:c7:dd",
     "network": {
       "id": "N_123827610"
     },
@@ -1937,9 +1937,9 @@
     ]
   },
   {
-    "serial": "Q2QN-7444-01ED",
+    "serial": "Q2QN-9FD8-AE73",
     "name": "lsys-nyc-f2-sw-13",
-    "mac": "13:4e:f9:ad:93:db",
+    "mac": "2a:9f:4b:ef:da:e4",
     "network": {
       "id": "N_123827610"
     },
@@ -1950,9 +1950,9 @@
     ]
   },
   {
-    "serial": "Q2QN-088D-C033",
+    "serial": "Q2QN-D786-6BE2",
     "name": "lsys-nyc-f4-sw-14",
-    "mac": "56:9c:eb:d4:f0:9e",
+    "mac": "b0:e6:bf:9e:bd:c3",
     "network": {
       "id": "N_123827610"
     },
@@ -1963,9 +1963,9 @@
     ]
   },
   {
-    "serial": "Q2QN-8046-DFDC",
+    "serial": "Q2QN-622C-55A8",
     "name": "lsys-nyc-f4-sw-15",
-    "mac": "f4:76:f1:ed:61:b8",
+    "mac": "90:f5:e0:8f:66:1b",
     "network": {
       "id": "N_123827610"
     },
@@ -1976,9 +1976,9 @@
     ]
   },
   {
-    "serial": "Q2QN-7283-CA56",
+    "serial": "Q2QN-3E82-DF96",
     "name": "lsys-nyc-f5-sw-16",
-    "mac": "60:1b:a4:19:b8:a8",
+    "mac": "01:4b:b4:05:cd:50",
     "network": {
       "id": "N_123827610"
     },
@@ -1989,9 +1989,9 @@
     ]
   },
   {
-    "serial": "Q2QN-D33F-2533",
+    "serial": "Q2QN-0DB9-1A85",
     "name": "lsys-nyc-f1-mx-01",
-    "mac": "fe:87:7b:f9:68:06",
+    "mac": "77:a6:25:ec:72:2a",
     "network": {
       "id": "N_123827610"
     },
@@ -2002,9 +2002,9 @@
     ]
   },
   {
-    "serial": "Q2QN-2978-E19A",
+    "serial": "Q2QN-12D8-A001",
     "name": "lsys-nyc-f1-mx-02",
-    "mac": "64:2f:a3:1e:89:a5",
+    "mac": "1d:8a:b6:d4:8a:6f",
     "network": {
       "id": "N_123827610"
     },

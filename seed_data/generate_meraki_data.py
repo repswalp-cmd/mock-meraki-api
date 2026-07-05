@@ -280,8 +280,7 @@ for loc, rows in rows_by_site.items():
         hostname = r["hostname"]
         seed    = f"meraki:device:{hostname}"  # keep seed for deterministic serial/MAC
         _dev_counters[cat] += 1
-        floor = int(_md5(seed)[0:2], 16) % 5 + 1 if cat != "router" else 1
-        meraki_name = f"lsys-{code.lower()}-f{floor}-{_TYPE_LABEL[cat]}-{_dev_counters[cat]:02d}"
+        meraki_name = hostname  # name comes from xlsx (already in lsys-{site}-f{N}-{type}-{##} format)
         serial  = make_serial(dm["serial_prefix"], seed)
         mac     = make_mac_colon(f"mac:device:{hostname}")
         # Use IP from xlsx or derive

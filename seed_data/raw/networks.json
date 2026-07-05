@@ -2,7 +2,7 @@
   {
     "id": "N_322920021",
     "organizationId": "243503",
-    "name": "Luminary London",
+    "name": "London",
     "productTypes": [
       "appliance",
       "switch",
@@ -22,7 +22,7 @@
   {
     "id": "N_695691719",
     "organizationId": "243503",
-    "name": "Luminary San Francisco",
+    "name": "San Francisco",
     "productTypes": [
       "appliance",
       "switch",
@@ -42,7 +42,7 @@
   {
     "id": "N_123827610",
     "organizationId": "243503",
-    "name": "Luminary New York",
+    "name": "New York",
     "productTypes": [
       "appliance",
       "switch",

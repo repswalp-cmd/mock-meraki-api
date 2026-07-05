@@ -1,5 +1,5 @@
 {
-  "Q2KD-A376-CFD2": [
+  "Q2KD-C5CC-2402": [
     {
       "id": "6b58c1550806",
       "mac": "10:c5:95:9a:6e:4e",
@@ -154,7 +154,7 @@
       }
     }
   ],
-  "Q2KD-1E93-5EAE": [
+  "Q2KD-0D84-85CA": [
     {
       "id": "d0cde860fb89",
       "mac": "00:01:e6:fd:6b:d9",
@@ -360,7 +360,7 @@
       }
     }
   ],
-  "Q2KD-E55C-0D5C": [
+  "Q2KD-B3E5-46E3": [
     {
       "id": "2185b7358986",
       "mac": "00:01:e6:f6:0a:ef",
@@ -498,7 +498,7 @@
       }
     }
   ],
-  "Q2KD-0184-CE88": [
+  "Q2KD-6205-8BF6": [
     {
       "id": "96ab9afce462",
       "mac": "00:01:e6:a6:fa:a2",
@@ -721,7 +721,7 @@
       }
     }
   ],
-  "Q2KD-77C4-4B66": [
+  "Q2KD-EC57-833F": [
     {
       "id": "be721bc3a660",
       "mac": "00:06:5b:07:44:9e",
@@ -961,7 +961,7 @@
       }
     }
   ],
-  "Q2KD-C62F-3F90": [
+  "Q2KD-3423-1217": [
     {
       "id": "a436878b67aa",
       "mac": "00:01:e6:29:15:23",
@@ -1114,9 +1114,43 @@
         "sent": 789200,
         "recv": 5447500
       }
+    },
+    {
+      "id": "0fc2a137553a",
+      "mac": "10:c5:95:26:3f:87",
+      "description": "lsys-lon-lap-0856",
+      "mdnsName": "lsys-lon-lap-0856",
+      "dhcpHostname": "LSYS-LON-LAP-08",
+      "user": null,
+      "ip": "10.13.180.2",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 1090900,
+        "recv": 739800
+      }
+    },
+    {
+      "id": "9b84ce47da9a",
+      "mac": "10:c5:95:f9:4c:c5",
+      "description": "lsys-lon-lap-0865",
+      "mdnsName": "lsys-lon-lap-0865",
+      "dhcpHostname": "LSYS-LON-LAP-08",
+      "user": null,
+      "ip": "10.13.180.11",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 2798100,
+        "recv": 6173700
+      }
     }
   ],
-  "Q2KD-0116-F9E9": [
+  "Q2KD-8C1A-1F87": [
     {
       "id": "2b8e3837d3a6",
       "mac": "00:01:e6:b7:e9:c1",
@@ -1220,7 +1254,7 @@
       }
     }
   ],
-  "Q2KD-6019-5366": [
+  "Q2KD-5705-BF91": [
     {
       "id": "79e08a38eaf6",
       "mac": "00:01:e6:97:43:9d",
@@ -1358,7 +1392,7 @@
       }
     }
   ],
-  "Q2KD-3EA8-38D4": [
+  "Q2KD-05CA-6F2E": [
     {
       "id": "db2ae613e490",
       "mac": "10:c5:95:1f:11:8f",
@@ -1547,7 +1581,7 @@
       }
     }
   ],
-  "Q2KD-E548-3E1D": [
+  "Q2KD-D976-09C2": [
     {
       "id": "a4265fa671e9",
       "mac": "10:c5:95:d7:f5:0c",
@@ -1719,7 +1753,7 @@
       }
     }
   ],
-  "Q2KD-ABDB-8CEA": [
+  "Q2KD-3AE6-D965": [
     {
       "id": "4de0bfd070da",
       "mac": "10:c5:95:44:2c:d4",
@@ -1923,9 +1957,26 @@
         "sent": 1875000,
         "recv": 912500
       }
+    },
+    {
+      "id": "c866898d3b44",
+      "mac": "10:c5:95:26:2d:07",
+      "description": "lsys-lon-lap-0860",
+      "mdnsName": "lsys-lon-lap-0860",
+      "dhcpHostname": "LSYS-LON-LAP-08",
+      "user": null,
+      "ip": "10.13.180.6",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 758600,
+        "recv": 6114100
+      }
     }
   ],
-  "Q2KD-2ABB-F0EC": [
+  "Q2KD-F173-5A72": [
     {
       "id": "e4edd7f02d3f",
       "mac": "00:01:e6:d5:65:3c",
@@ -2095,9 +2146,26 @@
         "sent": 355900,
         "recv": 2492500
       }
+    },
+    {
+      "id": "e8a5b758ac49",
+      "mac": "10:c5:95:5f:f8:12",
+      "description": "lsys-lon-lap-0857",
+      "mdnsName": "lsys-lon-lap-0857",
+      "dhcpHostname": "LSYS-LON-LAP-08",
+      "user": null,
+      "ip": "10.13.180.3",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 2205250,
+        "recv": 3200500
+      }
     }
   ],
-  "Q2KD-9565-7CAC": [
+  "Q2KD-66C1-5B94": [
     {
       "id": "54d20e598171",
       "mac": "10:c5:95:25:41:dd",
@@ -2182,9 +2250,60 @@
         "sent": 351000,
         "recv": 1361900
       }
+    },
+    {
+      "id": "589aaa960c75",
+      "mac": "10:c5:95:dc:a3:ec",
+      "description": "lsys-lon-lap-0858",
+      "mdnsName": "lsys-lon-lap-0858",
+      "dhcpHostname": "LSYS-LON-LAP-08",
+      "user": null,
+      "ip": "10.13.180.4",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 159450,
+        "recv": 1039200
+      }
+    },
+    {
+      "id": "48ab56dcc4b5",
+      "mac": "10:c5:95:2c:f3:eb",
+      "description": "lsys-lon-lap-0862",
+      "mdnsName": "lsys-lon-lap-0862",
+      "dhcpHostname": "LSYS-LON-LAP-08",
+      "user": null,
+      "ip": "10.13.180.8",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 2517850,
+        "recv": 6065600
+      }
+    },
+    {
+      "id": "6bed0498bcb9",
+      "mac": "10:c5:95:a7:73:6f",
+      "description": "lsys-lon-lap-0864",
+      "mdnsName": "lsys-lon-lap-0864",
+      "dhcpHostname": "LSYS-LON-LAP-08",
+      "user": null,
+      "ip": "10.13.180.10",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 2415650,
+        "recv": 4880500
+      }
     }
   ],
-  "Q2KD-5D16-15A3": [
+  "Q2KD-E88A-7784": [
     {
       "id": "53125fb5adf7",
       "mac": "00:06:5b:a0:43:09",
@@ -2286,9 +2405,26 @@
         "sent": 2999900,
         "recv": 6424100
       }
+    },
+    {
+      "id": "18c51ab50ac3",
+      "mac": "10:c5:95:2e:73:ea",
+      "description": "lsys-lon-lap-0867",
+      "mdnsName": "lsys-lon-lap-0867",
+      "dhcpHostname": "LSYS-LON-LAP-08",
+      "user": null,
+      "ip": "10.13.180.13",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 137750,
+        "recv": 4855000
+      }
     }
   ],
-  "Q2KD-C4F1-E268": [
+  "Q2KD-F6EC-C438": [
     {
       "id": "62c10d8789c1",
       "mac": "00:06:5b:b6:47:02",
@@ -2426,7 +2562,7 @@
       }
     }
   ],
-  "Q2KD-9E52-9709": [
+  "Q2KD-A562-4F1A": [
     {
       "id": "9621bd351ef1",
       "mac": "00:01:e6:43:27:29",
@@ -2664,9 +2800,26 @@
         "sent": 2898350,
         "recv": 3212200
       }
+    },
+    {
+      "id": "4b713de45363",
+      "mac": "10:c5:95:34:d9:ca",
+      "description": "lsys-lon-lap-0866",
+      "mdnsName": "lsys-lon-lap-0866",
+      "dhcpHostname": "LSYS-LON-LAP-08",
+      "user": null,
+      "ip": "10.13.180.12",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 1067350,
+        "recv": 3098400
+      }
     }
   ],
-  "Q2KD-740D-261F": [
+  "Q2KD-8133-073C": [
     {
       "id": "ba6745c9fe23",
       "mac": "00:03:93:68:71:52",
@@ -2804,7 +2957,7 @@
       }
     }
   ],
-  "Q2KD-3E04-B933": [
+  "Q2KD-CC36-7E3A": [
     {
       "id": "208c08ac150d",
       "mac": "10:c5:95:48:f6:75",
@@ -2991,9 +3144,43 @@
         "sent": 190750,
         "recv": 6209700
       }
+    },
+    {
+      "id": "771072cbcaa0",
+      "mac": "10:c5:95:86:7c:a3",
+      "description": "lsys-lon-lap-0861",
+      "mdnsName": "lsys-lon-lap-0861",
+      "dhcpHostname": "LSYS-LON-LAP-08",
+      "user": null,
+      "ip": "10.13.180.7",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 2593600,
+        "recv": 777400
+      }
+    },
+    {
+      "id": "ed734f9dee4b",
+      "mac": "10:c5:95:d2:eb:07",
+      "description": "lsys-lon-lap-0863",
+      "mdnsName": "lsys-lon-lap-0863",
+      "dhcpHostname": "LSYS-LON-LAP-08",
+      "user": null,
+      "ip": "10.13.180.9",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 3050150,
+        "recv": 2119000
+      }
     }
   ],
-  "Q2KD-E6D2-67D8": [
+  "Q2KD-D8BC-DE19": [
     {
       "id": "017c12512753",
       "mac": "00:01:e6:c8:2f:bd",
@@ -3131,7 +3318,7 @@
       }
     }
   ],
-  "Q2KD-52EC-52AC": [
+  "Q2KD-D78D-6022": [
     {
       "id": "604d244f2110",
       "mac": "00:06:5b:5e:76:f1",
@@ -3354,7 +3541,7 @@
       }
     }
   ],
-  "Q2KD-ACC9-9968": [
+  "Q2KD-7EBA-CC83": [
     {
       "id": "f0a8711620e9",
       "mac": "00:06:5b:17:63:d0",
@@ -3509,7 +3696,7 @@
       }
     }
   ],
-  "Q2KD-ECB4-4D78": [
+  "Q2KD-C046-7A48": [
     {
       "id": "5300e8990e32",
       "mac": "00:01:e6:a3:8e:d4",
@@ -3647,7 +3834,7 @@
       }
     }
   ],
-  "Q2KD-90DF-C155": [
+  "Q2KD-DD25-07FC": [
     {
       "id": "1429eb3f5218",
       "mac": "00:01:e6:5e:e0:60",
@@ -3819,7 +4006,7 @@
       }
     }
   ],
-  "Q2KD-DC8B-6323": [
+  "Q2KD-6457-661F": [
     {
       "id": "b4e5cab929f1",
       "mac": "00:06:5b:36:95:fa",
@@ -3887,9 +4074,26 @@
         "sent": 3273850,
         "recv": 2212100
       }
+    },
+    {
+      "id": "a22045bd5529",
+      "mac": "10:c5:95:19:ed:74",
+      "description": "lsys-lon-lap-0855",
+      "mdnsName": "lsys-lon-lap-0855",
+      "dhcpHostname": "LSYS-LON-LAP-08",
+      "user": null,
+      "ip": "10.13.180.1",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 1090050,
+        "recv": 4895600
+      }
     }
   ],
-  "Q2KD-3449-2766": [
+  "Q2KD-B6BF-292C": [
     {
       "id": "0a087b107749",
       "mac": "00:01:e6:fa:44:0b",
@@ -4093,9 +4297,26 @@
         "sent": 1541600,
         "recv": 76000
       }
+    },
+    {
+      "id": "a03bfa72f280",
+      "mac": "10:c5:95:62:8d:5a",
+      "description": "lsys-lon-lap-0859",
+      "mdnsName": "lsys-lon-lap-0859",
+      "dhcpHostname": "LSYS-LON-LAP-08",
+      "user": null,
+      "ip": "10.13.180.5",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 3104000,
+        "recv": 2875900
+      }
     }
   ],
-  "Q2QN-41CE-C84F": [
+  "Q2QN-41FB-C6D4": [
     {
       "id": "31f1cd1efe1f",
       "mac": "02:00:00:bf:b2:b2",
@@ -4114,7 +4335,7 @@
       }
     }
   ],
-  "Q2QN-1C19-9D1D": [
+  "Q2QN-6E53-07A9": [
     {
       "id": "3a56e2b0b9a4",
       "mac": "00:01:e6:d6:a2:70",
@@ -4133,8 +4354,8 @@
       }
     }
   ],
-  "Q2QN-0A3C-686A": [],
-  "Q2QN-F384-511C": [
+  "Q2QN-CFEE-9242": [],
+  "Q2QN-9AEA-116D": [
     {
       "id": "4caa7ff6d9b6",
       "mac": "02:00:00:c9:51:ee",
@@ -4153,7 +4374,7 @@
       }
     }
   ],
-  "Q2QN-E366-40B1": [
+  "Q2QN-77BB-A15A": [
     {
       "id": "9ed0bd9d4014",
       "mac": "10:c5:95:08:59:ba",
@@ -4206,7 +4427,7 @@
       }
     }
   ],
-  "Q2QN-CE9D-A1B9": [
+  "Q2QN-75FF-8086": [
     {
       "id": "72c20dab82b1",
       "mac": "10:c5:95:99:c0:5f",
@@ -4257,9 +4478,26 @@
         "sent": 2051700,
         "recv": 6495600
       }
+    },
+    {
+      "id": "b3663e68420f",
+      "mac": "10:c5:95:46:2d:1d",
+      "description": "lsys-lon-lap-0868",
+      "mdnsName": "lsys-lon-lap-0868",
+      "dhcpHostname": "LSYS-LON-LAP-08",
+      "user": null,
+      "ip": "10.13.180.14",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": "1/34",
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 845550,
+        "recv": 2905900
+      }
     }
   ],
-  "Q2QN-B508-891C": [
+  "Q2QN-B2B2-32FF": [
     {
       "id": "c06522af984a",
       "mac": "02:00:00:0a:da:87",
@@ -4278,7 +4516,7 @@
       }
     }
   ],
-  "Q2QN-A5FB-D299": [
+  "Q2QN-64DE-7814": [
     {
       "id": "5d2e7a3c9cf0",
       "mac": "00:01:e6:cf:0e:2c",
@@ -4297,7 +4535,7 @@
       }
     }
   ],
-  "Q2QN-81AE-55C0": [
+  "Q2QN-899C-B9C8": [
     {
       "id": "d9b71c78012e",
       "mac": "10:c5:95:1a:3d:c7",
@@ -4316,7 +4554,7 @@
       }
     }
   ],
-  "Q2QN-676D-AD64": [
+  "Q2QN-A277-BF2B": [
     {
       "id": "509a834279a2",
       "mac": "02:00:00:6a:e4:70",
@@ -4369,7 +4607,7 @@
       }
     }
   ],
-  "Q2QN-F97D-AB72": [
+  "Q2QN-E5D5-3EE6": [
     {
       "id": "d7c93f3fc468",
       "mac": "10:c5:95:db:89:a9",
@@ -4388,7 +4626,7 @@
       }
     }
   ],
-  "Q2KD-28C4-F7AF": [
+  "Q2KD-EEFC-4A50": [
     {
       "id": "1ec2bd3cfd6d",
       "mac": "00:01:e6:a8:31:ca",
@@ -4507,9 +4745,26 @@
         "sent": 1379150,
         "recv": 4208400
       }
+    },
+    {
+      "id": "9a3ae4061beb",
+      "mac": "10:c5:95:a6:2b:22",
+      "description": "lsys-sfo-lap-0872",
+      "mdnsName": "lsys-sfo-lap-0872",
+      "dhcpHostname": "LSYS-SFO-LAP-08",
+      "user": null,
+      "ip": "10.11.180.19",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 357350,
+        "recv": 2740100
+      }
     }
   ],
-  "Q2KD-A05B-9E14": [
+  "Q2KD-63B1-BA3B": [
     {
       "id": "fce672d5ca5e",
       "mac": "10:c5:95:53:b7:9e",
@@ -4713,9 +4968,26 @@
         "sent": 2648650,
         "recv": 5901400
       }
+    },
+    {
+      "id": "cae867abad01",
+      "mac": "10:c5:95:8c:6c:08",
+      "description": "lsys-sfo-lap-0867",
+      "mdnsName": "lsys-sfo-lap-0867",
+      "dhcpHostname": "LSYS-SFO-LAP-08",
+      "user": null,
+      "ip": "10.11.180.14",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 2214450,
+        "recv": 2690800
+      }
     }
   ],
-  "Q2KD-94BD-7F5C": [
+  "Q2KD-39C6-CA35": [
     {
       "id": "2d52fde8d0f4",
       "mac": "00:01:e6:d2:4a:e6",
@@ -4853,7 +5125,7 @@
       }
     }
   ],
-  "Q2KD-6DEB-069F": [
+  "Q2KD-089B-CDBC": [
     {
       "id": "feafbf167a05",
       "mac": "00:06:5b:ab:95:d1",
@@ -5110,7 +5382,7 @@
       }
     }
   ],
-  "Q2KD-BB5A-EE7F": [
+  "Q2KD-EE54-8D9D": [
     {
       "id": "24cfcc0e595f",
       "mac": "10:c5:95:93:bc:94",
@@ -5280,9 +5552,26 @@
         "sent": 1887350,
         "recv": 5919200
       }
+    },
+    {
+      "id": "970988fdf3ba",
+      "mac": "10:c5:95:5a:8a:d3",
+      "description": "lsys-sfo-lap-0878",
+      "mdnsName": "lsys-sfo-lap-0878",
+      "dhcpHostname": "LSYS-SFO-LAP-08",
+      "user": null,
+      "ip": "10.11.180.25",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 3119700,
+        "recv": 2949000
+      }
     }
   ],
-  "Q2KD-8C66-CBF1": [
+  "Q2KD-2F3C-6BE3": [
     {
       "id": "eb1250c47607",
       "mac": "10:c5:95:dc:89:24",
@@ -5520,9 +5809,26 @@
         "sent": 2441600,
         "recv": 6306900
       }
+    },
+    {
+      "id": "7902ebc2faea",
+      "mac": "10:c5:95:84:d4:15",
+      "description": "lsys-sfo-lap-0880",
+      "mdnsName": "lsys-sfo-lap-0880",
+      "dhcpHostname": "LSYS-SFO-LAP-08",
+      "user": null,
+      "ip": "10.11.180.27",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 3211700,
+        "recv": 6264200
+      }
     }
   ],
-  "Q2KD-E3C1-A5B5": [
+  "Q2KD-735D-4572": [
     {
       "id": "432bacdce119",
       "mac": "10:c5:95:ea:77:23",
@@ -5779,7 +6085,7 @@
       }
     }
   ],
-  "Q2KD-E6F2-6990": [
+  "Q2KD-7916-A3A0": [
     {
       "id": "b3f9aa195a29",
       "mac": "10:c5:95:3f:89:96",
@@ -5915,9 +6221,26 @@
         "sent": 2941050,
         "recv": 1014500
       }
+    },
+    {
+      "id": "386cb7c32849",
+      "mac": "10:c5:95:72:a7:9b",
+      "description": "lsys-sfo-lap-0876",
+      "mdnsName": "lsys-sfo-lap-0876",
+      "dhcpHostname": "LSYS-SFO-LAP-08",
+      "user": null,
+      "ip": "10.11.180.23",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 515650,
+        "recv": 5441700
+      }
     }
   ],
-  "Q2KD-D5A8-6572": [
+  "Q2KD-2A49-BB56": [
     {
       "id": "b4b1bf176595",
       "mac": "10:c5:95:e2:ec:6a",
@@ -6089,7 +6412,7 @@
       }
     }
   ],
-  "Q2KD-A860-E2C7": [
+  "Q2KD-1C02-26CE": [
     {
       "id": "ad3f5d2018d2",
       "mac": "00:01:e6:96:5e:91",
@@ -6225,9 +6548,26 @@
         "sent": 215300,
         "recv": 4506600
       }
+    },
+    {
+      "id": "e7cb3b25ae7e",
+      "mac": "10:c5:95:52:9a:9d",
+      "description": "lsys-sfo-lap-0881",
+      "mdnsName": "lsys-sfo-lap-0881",
+      "dhcpHostname": "LSYS-SFO-LAP-08",
+      "user": null,
+      "ip": "10.11.180.28",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 2233500,
+        "recv": 3994900
+      }
     }
   ],
-  "Q2KD-9886-94F2": [
+  "Q2KD-CAA1-7F92": [
     {
       "id": "e90c2b7756af",
       "mac": "10:c5:95:0a:42:6f",
@@ -6363,9 +6703,26 @@
         "sent": 609300,
         "recv": 6051600
       }
+    },
+    {
+      "id": "f6a583f70bbd",
+      "mac": "10:c5:95:fc:90:41",
+      "description": "lsys-sfo-lap-0858",
+      "mdnsName": "lsys-sfo-lap-0858",
+      "dhcpHostname": "LSYS-SFO-LAP-08",
+      "user": null,
+      "ip": "10.11.180.5",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 150250,
+        "recv": 5786500
+      }
     }
   ],
-  "Q2KD-F592-2A03": [
+  "Q2KD-1645-E988": [
     {
       "id": "55a4b686ac66",
       "mac": "10:c5:95:a6:54:33",
@@ -6433,9 +6790,43 @@
         "sent": 3136400,
         "recv": 5570600
       }
+    },
+    {
+      "id": "b22c24502a4a",
+      "mac": "10:c5:95:a3:68:22",
+      "description": "lsys-sfo-lap-0856",
+      "mdnsName": "lsys-sfo-lap-0856",
+      "dhcpHostname": "LSYS-SFO-LAP-08",
+      "user": null,
+      "ip": "10.11.180.3",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 541300,
+        "recv": 2642400
+      }
+    },
+    {
+      "id": "7429b784b1c3",
+      "mac": "10:c5:95:a5:bc:ba",
+      "description": "lsys-sfo-lap-0882",
+      "mdnsName": "lsys-sfo-lap-0882",
+      "dhcpHostname": "LSYS-SFO-LAP-08",
+      "user": null,
+      "ip": "10.11.180.29",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 2275350,
+        "recv": 1778200
+      }
     }
   ],
-  "Q2KD-DC34-54F6": [
+  "Q2KD-173F-B08F": [
     {
       "id": "bb624fca715d",
       "mac": "00:06:5b:71:1a:09",
@@ -6588,9 +6979,26 @@
         "sent": 1635000,
         "recv": 1157900
       }
+    },
+    {
+      "id": "d00c5be43960",
+      "mac": "10:c5:95:ad:ab:0f",
+      "description": "lsys-sfo-lap-0861",
+      "mdnsName": "lsys-sfo-lap-0861",
+      "dhcpHostname": "LSYS-SFO-LAP-08",
+      "user": null,
+      "ip": "10.11.180.8",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 734400,
+        "recv": 2295600
+      }
     }
   ],
-  "Q2KD-42AC-2DE0": [
+  "Q2KD-BE56-EDF8": [
     {
       "id": "5ecdc1fbe2b3",
       "mac": "00:01:e6:de:26:d7",
@@ -6677,7 +7085,7 @@
       }
     }
   ],
-  "Q2KD-55DF-0271": [
+  "Q2KD-11A1-36C4": [
     {
       "id": "e4447dbab54c",
       "mac": "00:01:e6:a0:5a:64",
@@ -6815,7 +7223,7 @@
       }
     }
   ],
-  "Q2KD-F065-57CC": [
+  "Q2KD-B171-851E": [
     {
       "id": "b8fd4b4352fb",
       "mac": "00:01:e6:cd:3a:30",
@@ -6919,7 +7327,7 @@
       }
     }
   ],
-  "Q2KD-342A-473C": [
+  "Q2KD-767B-C47E": [
     {
       "id": "902b044e6d89",
       "mac": "00:01:e6:3d:23:66",
@@ -7006,7 +7414,7 @@
       }
     }
   ],
-  "Q2KD-1487-5DDE": [
+  "Q2KD-AB8A-8DB0": [
     {
       "id": "de287a63f285",
       "mac": "10:c5:95:75:49:92",
@@ -7127,7 +7535,7 @@
       }
     }
   ],
-  "Q2KD-9E3B-F987": [
+  "Q2KD-9843-A2B5": [
     {
       "id": "9cb5420b0333",
       "mac": "00:01:e6:5c:d6:81",
@@ -7365,9 +7773,26 @@
         "sent": 3057800,
         "recv": 3198200
       }
+    },
+    {
+      "id": "93f51ce487f7",
+      "mac": "10:c5:95:25:e9:2a",
+      "description": "lsys-sfo-lap-0883",
+      "mdnsName": "lsys-sfo-lap-0883",
+      "dhcpHostname": "LSYS-SFO-LAP-08",
+      "user": null,
+      "ip": "10.11.180.30",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 1740350,
+        "recv": 1808500
+      }
     }
   ],
-  "Q2KD-6A1F-62CA": [
+  "Q2KD-63FB-04FD": [
     {
       "id": "3b69cba7cf45",
       "mac": "10:c5:95:42:7e:a6",
@@ -7573,7 +7998,7 @@
       }
     }
   ],
-  "Q2KD-4A73-33E0": [
+  "Q2KD-4BC9-A936": [
     {
       "id": "ba6cc418e8e7",
       "mac": "00:01:e6:18:2d:80",
@@ -7643,7 +8068,7 @@
       }
     }
   ],
-  "Q2KD-2896-4130": [
+  "Q2KD-8409-CB23": [
     {
       "id": "c312572a0b85",
       "mac": "10:c5:95:91:20:0b",
@@ -7847,9 +8272,26 @@
         "sent": 1999450,
         "recv": 4250200
       }
+    },
+    {
+      "id": "7a54a7f35f2b",
+      "mac": "10:c5:95:88:40:ab",
+      "description": "lsys-sfo-lap-0862",
+      "mdnsName": "lsys-sfo-lap-0862",
+      "dhcpHostname": "LSYS-SFO-LAP-08",
+      "user": null,
+      "ip": "10.11.180.9",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 1218150,
+        "recv": 4294200
+      }
     }
   ],
-  "Q2KD-0EFF-8EBD": [
+  "Q2KD-BC7E-50ED": [
     {
       "id": "5774ed64f0f3",
       "mac": "00:01:e6:ef:6b:d8",
@@ -8019,9 +8461,26 @@
         "sent": 2050850,
         "recv": 1070000
       }
+    },
+    {
+      "id": "83fed484c34e",
+      "mac": "10:c5:95:26:59:c5",
+      "description": "lsys-sfo-lap-0871",
+      "mdnsName": "lsys-sfo-lap-0871",
+      "dhcpHostname": "LSYS-SFO-LAP-08",
+      "user": null,
+      "ip": "10.11.180.18",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 2499900,
+        "recv": 5030900
+      }
     }
   ],
-  "Q2KD-E7C9-433C": [
+  "Q2KD-8693-8742": [
     {
       "id": "a04633fc9ae4",
       "mac": "10:c5:95:02:e3:3e",
@@ -8174,9 +8633,26 @@
         "sent": 34600,
         "recv": 5847900
       }
+    },
+    {
+      "id": "7b71e3aa68cd",
+      "mac": "10:c5:95:ee:94:d4",
+      "description": "lsys-sfo-lap-0869",
+      "mdnsName": "lsys-sfo-lap-0869",
+      "dhcpHostname": "LSYS-SFO-LAP-08",
+      "user": null,
+      "ip": "10.11.180.16",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 1341450,
+        "recv": 3789300
+      }
     }
   ],
-  "Q2KD-E934-962E": [
+  "Q2KD-EB3E-D557": [
     {
       "id": "169f42554844",
       "mac": "00:06:5b:e5:12:b6",
@@ -8382,7 +8858,7 @@
       }
     }
   ],
-  "Q2KD-9F61-EDAB": [
+  "Q2KD-FDF1-F2C9": [
     {
       "id": "0c515c7e74ee",
       "mac": "00:01:e6:74:59:35",
@@ -8503,7 +8979,7 @@
       }
     }
   ],
-  "Q2KD-0350-56A4": [
+  "Q2KD-FFE2-BE87": [
     {
       "id": "b7a4b8b6a0b6",
       "mac": "00:01:e6:6f:a2:c3",
@@ -8639,9 +9115,43 @@
         "sent": 3073350,
         "recv": 916400
       }
+    },
+    {
+      "id": "e8229f082002",
+      "mac": "10:c5:95:ae:b9:df",
+      "description": "lsys-sfo-lap-0865",
+      "mdnsName": "lsys-sfo-lap-0865",
+      "dhcpHostname": "LSYS-SFO-LAP-08",
+      "user": null,
+      "ip": "10.11.180.12",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 409700,
+        "recv": 5928700
+      }
+    },
+    {
+      "id": "910352491171",
+      "mac": "10:c5:95:5e:74:1a",
+      "description": "lsys-sfo-lap-0870",
+      "mdnsName": "lsys-sfo-lap-0870",
+      "dhcpHostname": "LSYS-SFO-LAP-08",
+      "user": null,
+      "ip": "10.11.180.17",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 223250,
+        "recv": 2992000
+      }
     }
   ],
-  "Q2KD-D55F-963E": [
+  "Q2KD-E4B3-83F1": [
     {
       "id": "32e65930d210",
       "mac": "10:c5:95:5e:1a:a3",
@@ -8811,9 +9321,26 @@
         "sent": 2175150,
         "recv": 4310700
       }
+    },
+    {
+      "id": "d522e49a7c34",
+      "mac": "10:c5:95:3b:18:f7",
+      "description": "lsys-sfo-lap-0866",
+      "mdnsName": "lsys-sfo-lap-0866",
+      "dhcpHostname": "LSYS-SFO-LAP-08",
+      "user": null,
+      "ip": "10.11.180.13",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 1589800,
+        "recv": 2834200
+      }
     }
   ],
-  "Q2KD-2980-99A9": [
+  "Q2KD-06F8-DE54": [
     {
       "id": "5a5cccf35f6e",
       "mac": "00:06:5b:ba:16:c3",
@@ -8983,9 +9510,26 @@
         "sent": 630100,
         "recv": 4654300
       }
+    },
+    {
+      "id": "9ef97dccfb07",
+      "mac": "10:c5:95:34:41:0d",
+      "description": "lsys-sfo-lap-0857",
+      "mdnsName": "lsys-sfo-lap-0857",
+      "dhcpHostname": "LSYS-SFO-LAP-08",
+      "user": null,
+      "ip": "10.11.180.4",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 3213150,
+        "recv": 1260700
+      }
     }
   ],
-  "Q2KD-B76F-5C18": [
+  "Q2KD-E736-9C3A": [
     {
       "id": "13d1f4156ae5",
       "mac": "00:01:e6:6e:ec:da",
@@ -9208,7 +9752,7 @@
       }
     }
   ],
-  "Q2KD-22ED-E58F": [
+  "Q2KD-513A-FCA6": [
     {
       "id": "1e8171a90343",
       "mac": "00:01:e6:d4:f3:f7",
@@ -9344,9 +9888,26 @@
         "sent": 2343900,
         "recv": 4607900
       }
+    },
+    {
+      "id": "b5b82fb064de",
+      "mac": "10:c5:95:7f:c2:7c",
+      "description": "lsys-sfo-lap-0855",
+      "mdnsName": "lsys-sfo-lap-0855",
+      "dhcpHostname": "LSYS-SFO-LAP-08",
+      "user": null,
+      "ip": "10.11.180.2",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 1291100,
+        "recv": 3296300
+      }
     }
   ],
-  "Q2KD-C4DB-36F4": [
+  "Q2KD-AC59-8BF8": [
     {
       "id": "fadb2e455f68",
       "mac": "00:01:e6:8d:bd:28",
@@ -9569,7 +10130,7 @@
       }
     }
   ],
-  "Q2KD-8F16-5FE3": [
+  "Q2KD-6553-8AB9": [
     {
       "id": "322aa419f67f",
       "mac": "00:03:93:1c:13:b0",
@@ -9637,9 +10198,26 @@
         "sent": 651400,
         "recv": 2529300
       }
+    },
+    {
+      "id": "737a0ca3cd66",
+      "mac": "10:c5:95:34:6c:0f",
+      "description": "lsys-sfo-lap-0875",
+      "mdnsName": "lsys-sfo-lap-0875",
+      "dhcpHostname": "LSYS-SFO-LAP-08",
+      "user": null,
+      "ip": "10.11.180.22",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 2629100,
+        "recv": 3093400
+      }
     }
   ],
-  "Q2KD-9D91-3E9C": [
+  "Q2KD-9737-0C7D": [
     {
       "id": "d6c0750469d7",
       "mac": "00:06:5b:f1:ef:94",
@@ -9794,7 +10372,7 @@
       }
     }
   ],
-  "Q2KD-FC4E-4B67": [
+  "Q2KD-B6A4-D0FB": [
     {
       "id": "a81ef169bc85",
       "mac": "10:c5:95:5f:b0:59",
@@ -9981,9 +10559,26 @@
         "sent": 1419350,
         "recv": 1347000
       }
+    },
+    {
+      "id": "426d0abf4937",
+      "mac": "10:c5:95:3e:7a:3a",
+      "description": "lsys-sfo-lap-0877",
+      "mdnsName": "lsys-sfo-lap-0877",
+      "dhcpHostname": "LSYS-SFO-LAP-08",
+      "user": null,
+      "ip": "10.11.180.24",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 937150,
+        "recv": 491500
+      }
     }
   ],
-  "Q2KD-CD0C-B902": [
+  "Q2KD-D833-F15A": [
     {
       "id": "74a1ca93867c",
       "mac": "00:01:e6:eb:04:3e",
@@ -10104,7 +10699,7 @@
       }
     }
   ],
-  "Q2KD-9BBF-C8A5": [
+  "Q2KD-D1F9-1D35": [
     {
       "id": "4d0d9aa037db",
       "mac": "00:01:e6:11:13:4a",
@@ -10189,9 +10784,26 @@
         "sent": 169650,
         "recv": 828300
       }
+    },
+    {
+      "id": "3146aee574e0",
+      "mac": "10:c5:95:b1:be:88",
+      "description": "lsys-sfo-lap-0874",
+      "mdnsName": "lsys-sfo-lap-0874",
+      "dhcpHostname": "LSYS-SFO-LAP-08",
+      "user": null,
+      "ip": "10.11.180.21",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 1496000,
+        "recv": 1596000
+      }
     }
   ],
-  "Q2KD-A314-BCC4": [
+  "Q2KD-EE68-D424": [
     {
       "id": "824f661fa124",
       "mac": "00:06:5b:9a:37:48",
@@ -10327,9 +10939,26 @@
         "sent": 2491950,
         "recv": 1065400
       }
+    },
+    {
+      "id": "0da484a79a74",
+      "mac": "10:c5:95:82:cd:bc",
+      "description": "lsys-sfo-lap-0879",
+      "mdnsName": "lsys-sfo-lap-0879",
+      "dhcpHostname": "LSYS-SFO-LAP-08",
+      "user": null,
+      "ip": "10.11.180.26",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 1977000,
+        "recv": 854200
+      }
     }
   ],
-  "Q2KD-49CF-D49F": [
+  "Q2KD-3BA4-0F24": [
     {
       "id": "ac299d48e873",
       "mac": "10:c5:95:66:85:f8",
@@ -10467,7 +11096,7 @@
       }
     }
   ],
-  "Q2KD-83E3-91F6": [
+  "Q2KD-2DCB-3B10": [
     {
       "id": "393625cd0d59",
       "mac": "10:c5:95:57:0f:5b",
@@ -10537,7 +11166,7 @@
       }
     }
   ],
-  "Q2KD-E5F6-1C0D": [
+  "Q2KD-A218-E779": [
     {
       "id": "5e1424e10e17",
       "mac": "00:01:e6:60:5b:b8",
@@ -10724,9 +11353,26 @@
         "sent": 2650850,
         "recv": 5996800
       }
+    },
+    {
+      "id": "79c6ab21f6d3",
+      "mac": "10:c5:95:ef:f3:fd",
+      "description": "lsys-sfo-lap-0873",
+      "mdnsName": "lsys-sfo-lap-0873",
+      "dhcpHostname": "LSYS-SFO-LAP-08",
+      "user": null,
+      "ip": "10.11.180.20",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 3159350,
+        "recv": 1169900
+      }
     }
   ],
-  "Q2KD-87CD-4185": [
+  "Q2KD-AC0F-1133": [
     {
       "id": "ce6939fbd25f",
       "mac": "10:c5:95:6c:93:3b",
@@ -10964,9 +11610,26 @@
         "sent": 696100,
         "recv": 2391100
       }
+    },
+    {
+      "id": "108b32a1c0a4",
+      "mac": "10:c5:95:49:08:12",
+      "description": "lsys-sfo-lap-0868",
+      "mdnsName": "lsys-sfo-lap-0868",
+      "dhcpHostname": "LSYS-SFO-LAP-08",
+      "user": null,
+      "ip": "10.11.180.15",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 2465800,
+        "recv": 2622900
+      }
     }
   ],
-  "Q2KD-1554-093D": [
+  "Q2KD-8673-9D41": [
     {
       "id": "d2fc939d2b42",
       "mac": "10:c5:95:d9:40:b6",
@@ -11138,7 +11801,7 @@
       }
     }
   ],
-  "Q2KD-1DE4-91DF": [
+  "Q2KD-52B5-E692": [
     {
       "id": "f77cffcb1fb5",
       "mac": "00:06:5b:0f:4a:89",
@@ -11308,9 +11971,26 @@
         "sent": 2621350,
         "recv": 3208900
       }
+    },
+    {
+      "id": "c671aaed82f2",
+      "mac": "10:c5:95:f4:ae:8a",
+      "description": "lsys-sfo-lap-0859",
+      "mdnsName": "lsys-sfo-lap-0859",
+      "dhcpHostname": "LSYS-SFO-LAP-08",
+      "user": null,
+      "ip": "10.11.180.6",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 1676100,
+        "recv": 1067300
+      }
     }
   ],
-  "Q2KD-BC00-1FF5": [
+  "Q2KD-64B6-20B5": [
     {
       "id": "6ce7f1ede842",
       "mac": "00:01:e6:c2:c9:3c",
@@ -11465,7 +12145,7 @@
       }
     }
   ],
-  "Q2KD-8224-F174": [
+  "Q2KD-0838-3532": [
     {
       "id": "030db04fbe07",
       "mac": "10:c5:95:1e:91:a9",
@@ -11737,9 +12417,43 @@
         "sent": 1733050,
         "recv": 1156400
       }
+    },
+    {
+      "id": "fab59a550c30",
+      "mac": "10:c5:95:2a:81:5a",
+      "description": "lsys-sfo-lap-0854",
+      "mdnsName": "lsys-sfo-lap-0854",
+      "dhcpHostname": "LSYS-SFO-LAP-08",
+      "user": null,
+      "ip": "10.11.180.1",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 156000,
+        "recv": 1982900
+      }
+    },
+    {
+      "id": "b5d837558dbe",
+      "mac": "10:c5:95:b1:5e:95",
+      "description": "lsys-sfo-lap-0860",
+      "mdnsName": "lsys-sfo-lap-0860",
+      "dhcpHostname": "LSYS-SFO-LAP-08",
+      "user": null,
+      "ip": "10.11.180.7",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 1814300,
+        "recv": 1803100
+      }
     }
   ],
-  "Q2KD-69CA-9E95": [
+  "Q2KD-D0AE-4481": [
     {
       "id": "0e52d4deea58",
       "mac": "00:01:e6:33:3b:c9",
@@ -11962,7 +12676,7 @@
       }
     }
   ],
-  "Q2KD-1836-2C48": [
+  "Q2KD-4CFD-F3F1": [
     {
       "id": "700ddba6858a",
       "mac": "00:01:e6:f5:a1:91",
@@ -12185,7 +12899,7 @@
       }
     }
   ],
-  "Q2KD-C189-AD0C": [
+  "Q2KD-B009-0B79": [
     {
       "id": "24eb63c9b31c",
       "mac": "00:06:5b:a7:e9:ae",
@@ -12338,9 +13052,43 @@
         "sent": 1204100,
         "recv": 6372800
       }
+    },
+    {
+      "id": "d907acc91901",
+      "mac": "10:c5:95:49:67:fa",
+      "description": "lsys-sfo-lap-0863",
+      "mdnsName": "lsys-sfo-lap-0863",
+      "dhcpHostname": "LSYS-SFO-LAP-08",
+      "user": null,
+      "ip": "10.11.180.10",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 320050,
+        "recv": 2794400
+      }
+    },
+    {
+      "id": "67daadee4594",
+      "mac": "10:c5:95:ce:e5:07",
+      "description": "lsys-sfo-lap-0864",
+      "mdnsName": "lsys-sfo-lap-0864",
+      "dhcpHostname": "LSYS-SFO-LAP-08",
+      "user": null,
+      "ip": "10.11.180.11",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 890600,
+        "recv": 672100
+      }
     }
   ],
-  "Q2KD-1E98-DA74": [
+  "Q2KD-E2DD-8F18": [
     {
       "id": "c3718b5666d1",
       "mac": "00:03:93:38:af:ef",
@@ -12478,8 +13226,8 @@
       }
     }
   ],
-  "Q2QN-D5BC-6F84": [],
-  "Q2QN-FEB7-2A91": [
+  "Q2QN-D2A7-9005": [],
+  "Q2QN-530F-9E58": [
     {
       "id": "5b470dbdaf81",
       "mac": "02:00:00:a7:01:cd",
@@ -12513,9 +13261,26 @@
         "sent": 366500,
         "recv": 5379300
       }
+    },
+    {
+      "id": "0d2f0e2ccdcd",
+      "mac": "10:c5:95:e0:c4:f2",
+      "description": "lsys-sfo-lap-0885",
+      "mdnsName": "lsys-sfo-lap-0885",
+      "dhcpHostname": "LSYS-SFO-LAP-08",
+      "user": null,
+      "ip": "10.11.180.32",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": "1/12",
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 2634250,
+        "recv": 77300
+      }
     }
   ],
-  "Q2QN-4C52-95E4": [
+  "Q2QN-E1B7-C496": [
     {
       "id": "99b4ac505b3d",
       "mac": "02:00:00:2e:8c:f3",
@@ -12551,7 +13316,7 @@
       }
     }
   ],
-  "Q2QN-A7AE-BD2A": [
+  "Q2QN-14AF-9855": [
     {
       "id": "ae5d5b1f313b",
       "mac": "10:c5:95:c8:7c:ae",
@@ -12568,10 +13333,27 @@
         "sent": 630150,
         "recv": 3000300
       }
+    },
+    {
+      "id": "1e05416499e6",
+      "mac": "10:c5:95:75:c4:b6",
+      "description": "lsys-sfo-lap-0886",
+      "mdnsName": "lsys-sfo-lap-0886",
+      "dhcpHostname": "LSYS-SFO-LAP-08",
+      "user": null,
+      "ip": "10.11.180.33",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": "1/34",
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 1969900,
+        "recv": 238100
+      }
     }
   ],
-  "Q2QN-8F8E-4DFA": [],
-  "Q2QN-19E5-7E5F": [
+  "Q2QN-9966-D99F": [],
+  "Q2QN-E81E-12A2": [
     {
       "id": "c18922fdaceb",
       "mac": "02:00:00:ef:21:65",
@@ -12590,7 +13372,7 @@
       }
     }
   ],
-  "Q2QN-0678-38BE": [
+  "Q2QN-9179-4758": [
     {
       "id": "3ebf2e8732a4",
       "mac": "02:00:00:d2:af:b2",
@@ -12609,8 +13391,8 @@
       }
     }
   ],
-  "Q2QN-312A-DBF0": [],
-  "Q2QN-416D-E265": [
+  "Q2QN-F647-85B2": [],
+  "Q2QN-DE3E-E8EF": [
     {
       "id": "0764247bfe12",
       "mac": "10:c5:95:3d:52:7d",
@@ -12629,7 +13411,7 @@
       }
     }
   ],
-  "Q2QN-14B3-A67B": [
+  "Q2QN-8D55-A0EA": [
     {
       "id": "80f7cb4a1c20",
       "mac": "10:c5:95:3a:e3:32",
@@ -12648,9 +13430,9 @@
       }
     }
   ],
-  "Q2QN-668C-FACD": [],
-  "Q2QN-63F3-364E": [],
-  "Q2QN-B4C3-A695": [
+  "Q2QN-2C43-77DE": [],
+  "Q2QN-25F1-8121": [],
+  "Q2QN-8D7B-91F1": [
     {
       "id": "c20ce16ec017",
       "mac": "02:00:00:79:06:bd",
@@ -12669,7 +13451,7 @@
       }
     }
   ],
-  "Q2QN-89CD-4790": [
+  "Q2QN-E738-3C07": [
     {
       "id": "92ef03d2cee5",
       "mac": "00:06:5b:79:88:30",
@@ -12705,9 +13487,27 @@
       }
     }
   ],
-  "Q2QN-2747-C7C4": [],
-  "Q2QN-5A6F-FE28": [],
-  "Q2QN-8E07-8253": [
+  "Q2QN-4AD1-4865": [
+    {
+      "id": "52aac96d5ffa",
+      "mac": "10:c5:95:d6:0d:f3",
+      "description": "lsys-sfo-lap-0884",
+      "mdnsName": "lsys-sfo-lap-0884",
+      "dhcpHostname": "LSYS-SFO-LAP-08",
+      "user": null,
+      "ip": "10.11.180.31",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": "1/17",
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 1228500,
+        "recv": 5318000
+      }
+    }
+  ],
+  "Q2QN-01B3-0F44": [],
+  "Q2QN-1811-B75E": [
     {
       "id": "70fa12e96b7f",
       "mac": "02:00:00:5f:e6:c2",
@@ -12726,8 +13526,8 @@
       }
     }
   ],
-  "Q2QN-35CE-5D3F": [],
-  "Q2QN-16C4-1A53": [
+  "Q2QN-2503-AEF1": [],
+  "Q2QN-6958-2552": [
     {
       "id": "bdeba3d515d1",
       "mac": "02:00:00:d8:1c:44",
@@ -12746,7 +13546,7 @@
       }
     }
   ],
-  "Q2QN-2E6F-0560": [
+  "Q2QN-C98B-73DD": [
     {
       "id": "6bd496b796f8",
       "mac": "10:c5:95:07:e2:ca",
@@ -12782,7 +13582,7 @@
       }
     }
   ],
-  "Q2QN-F6D7-48B9": [
+  "Q2QN-0DD6-2B63": [
     {
       "id": "7501bd0cba97",
       "mac": "02:00:00:d8:c9:be",
@@ -12801,7 +13601,7 @@
       }
     }
   ],
-  "Q2QN-C339-91EA": [
+  "Q2QN-00B1-7241": [
     {
       "id": "1f1f6d1bd6cc",
       "mac": "10:c5:95:66:ba:18",
@@ -12837,7 +13637,7 @@
       }
     }
   ],
-  "Q2QN-E81F-CFD9": [
+  "Q2QN-1A07-003C": [
     {
       "id": "3e70a275e8ac",
       "mac": "00:06:5b:ef:e9:7b",
@@ -12856,7 +13656,7 @@
       }
     }
   ],
-  "Q2QN-DEEA-5004": [
+  "Q2QN-453D-411B": [
     {
       "id": "2e83e40e9b48",
       "mac": "00:01:e6:4a:71:a8",
@@ -12875,7 +13675,7 @@
       }
     }
   ],
-  "Q2QN-F67C-3807": [
+  "Q2QN-B69D-9068": [
     {
       "id": "3d3f81e2b6fb",
       "mac": "00:01:e6:b0:c8:2c",
@@ -12911,7 +13711,7 @@
       }
     }
   ],
-  "Q2QN-729B-3693": [
+  "Q2QN-49E8-FDCC": [
     {
       "id": "6b169e0527dd",
       "mac": "00:01:e6:fe:48:87",
@@ -12947,11 +13747,11 @@
       }
     }
   ],
-  "Q2QN-9670-3354": [],
-  "Q2QN-3E80-CA66": [],
-  "Q2QN-0B35-400C": [],
-  "Q2QN-4E81-1B7C": [],
-  "Q2KD-9BD5-AAB8": [
+  "Q2QN-B791-C155": [],
+  "Q2QN-7E98-3D14": [],
+  "Q2QN-8DB6-EBBE": [],
+  "Q2QN-EF04-AC22": [],
+  "Q2KD-CC9B-08F0": [
     {
       "id": "88b36af4fa91",
       "mac": "00:01:e6:ce:25:05",
@@ -13106,7 +13906,7 @@
       }
     }
   ],
-  "Q2KD-906C-9819": [
+  "Q2KD-72B3-3D45": [
     {
       "id": "9f110453a107",
       "mac": "00:06:5b:22:41:02",
@@ -13227,7 +14027,7 @@
       }
     }
   ],
-  "Q2KD-9D45-BFA7": [
+  "Q2KD-CB79-BBAA": [
     {
       "id": "efb7a9215279",
       "mac": "00:06:5b:1f:1e:39",
@@ -13431,9 +14231,26 @@
         "sent": 261900,
         "recv": 5272900
       }
+    },
+    {
+      "id": "0ad68bac0aae",
+      "mac": "10:c5:95:dc:10:64",
+      "description": "lsys-nyc-lap-0855",
+      "mdnsName": "lsys-nyc-lap-0855",
+      "dhcpHostname": "LSYS-NYC-LAP-08",
+      "user": null,
+      "ip": "10.12.180.11",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 136700,
+        "recv": 3206900
+      }
     }
   ],
-  "Q2KD-E95E-15BB": [
+  "Q2KD-CF55-6A50": [
     {
       "id": "b833f6e95110",
       "mac": "00:01:e6:78:0b:9e",
@@ -13688,9 +14505,26 @@
         "sent": 1866800,
         "recv": 3602500
       }
+    },
+    {
+      "id": "961606dd1733",
+      "mac": "10:c5:95:53:c0:f9",
+      "description": "lsys-nyc-lap-0856",
+      "mdnsName": "lsys-nyc-lap-0856",
+      "dhcpHostname": "LSYS-NYC-LAP-08",
+      "user": null,
+      "ip": "10.12.180.12",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 296950,
+        "recv": 1616000
+      }
     }
   ],
-  "Q2KD-5A39-61F7": [
+  "Q2KD-2573-26B7": [
     {
       "id": "eb245e05c5bf",
       "mac": "10:c5:95:1b:d2:21",
@@ -13945,9 +14779,26 @@
         "sent": 1654700,
         "recv": 2744000
       }
+    },
+    {
+      "id": "a647d469d9be",
+      "mac": "10:c5:95:89:9f:00",
+      "description": "lsys-nyc-lap-0847",
+      "mdnsName": "lsys-nyc-lap-0847",
+      "dhcpHostname": "LSYS-NYC-LAP-08",
+      "user": null,
+      "ip": "10.12.180.3",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 2787100,
+        "recv": 2727900
+      }
     }
   ],
-  "Q2KD-481E-8E26": [
+  "Q2KD-8F7E-B0C3": [
     {
       "id": "3aed32fa1083",
       "mac": "10:c5:95:55:3e:bc",
@@ -14185,9 +15036,43 @@
         "sent": 1322950,
         "recv": 1728400
       }
+    },
+    {
+      "id": "9e49ebe550ee",
+      "mac": "10:c5:95:5f:f5:e3",
+      "description": "lsys-nyc-lap-0850",
+      "mdnsName": "lsys-nyc-lap-0850",
+      "dhcpHostname": "LSYS-NYC-LAP-08",
+      "user": null,
+      "ip": "10.12.180.6",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 1035900,
+        "recv": 6056200
+      }
+    },
+    {
+      "id": "a54cdd2955af",
+      "mac": "10:c5:95:95:96:99",
+      "description": "lsys-nyc-lap-0858",
+      "mdnsName": "lsys-nyc-lap-0858",
+      "dhcpHostname": "LSYS-NYC-LAP-08",
+      "user": null,
+      "ip": "10.12.180.14",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 1096750,
+        "recv": 758500
+      }
     }
   ],
-  "Q2KD-79AF-A714": [
+  "Q2KD-6597-A7A9": [
     {
       "id": "b494d826e043",
       "mac": "00:01:e6:40:61:c7",
@@ -14357,9 +15242,26 @@
         "sent": 2838600,
         "recv": 3339000
       }
+    },
+    {
+      "id": "0ab95a8f5f8e",
+      "mac": "10:c5:95:f1:0a:45",
+      "description": "lsys-nyc-lap-0849",
+      "mdnsName": "lsys-nyc-lap-0849",
+      "dhcpHostname": "LSYS-NYC-LAP-08",
+      "user": null,
+      "ip": "10.12.180.5",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 1223100,
+        "recv": 2765300
+      }
     }
   ],
-  "Q2KD-8B0B-90F4": [
+  "Q2KD-CA4D-CB5A": [
     {
       "id": "008c89118018",
       "mac": "00:01:e6:13:87:ae",
@@ -14497,7 +15399,7 @@
       }
     }
   ],
-  "Q2KD-95C6-092F": [
+  "Q2KD-31EB-E909": [
     {
       "id": "2877edf41fa6",
       "mac": "00:01:e6:4b:4d:d6",
@@ -14567,7 +15469,7 @@
       }
     }
   ],
-  "Q2KD-0A84-48C1": [
+  "Q2KD-5015-A1A9": [
     {
       "id": "b8d91361820f",
       "mac": "10:c5:95:41:dc:89",
@@ -14688,7 +15590,7 @@
       }
     }
   ],
-  "Q2KD-58F9-B195": [
+  "Q2KD-F149-36BC": [
     {
       "id": "f0cc2e8f2e96",
       "mac": "00:06:5b:0f:2b:33",
@@ -14911,7 +15813,7 @@
       }
     }
   ],
-  "Q2KD-C60A-9B08": [
+  "Q2KD-289A-8F82": [
     {
       "id": "a4f8458c7e84",
       "mac": "00:01:e6:4e:d3:fa",
@@ -15117,7 +16019,7 @@
       }
     }
   ],
-  "Q2KD-E790-B71D": [
+  "Q2KD-B849-B4D1": [
     {
       "id": "848307d01442",
       "mac": "00:06:5b:06:24:29",
@@ -15236,9 +16138,26 @@
         "sent": 1911500,
         "recv": 4815500
       }
+    },
+    {
+      "id": "23806558571c",
+      "mac": "10:c5:95:d1:38:cf",
+      "description": "lsys-nyc-lap-0852",
+      "mdnsName": "lsys-nyc-lap-0852",
+      "dhcpHostname": "LSYS-NYC-LAP-08",
+      "user": null,
+      "ip": "10.12.180.8",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 1115000,
+        "recv": 6100000
+      }
     }
   ],
-  "Q2KD-2E4D-6043": [
+  "Q2KD-FBBC-EC1A": [
     {
       "id": "dbe62fcc5a1b",
       "mac": "00:01:e6:b9:3d:1a",
@@ -15391,9 +16310,26 @@
         "sent": 1354450,
         "recv": 2801700
       }
+    },
+    {
+      "id": "0556e5f7fe7e",
+      "mac": "10:c5:95:21:e6:42",
+      "description": "lsys-nyc-lap-0846",
+      "mdnsName": "lsys-nyc-lap-0846",
+      "dhcpHostname": "LSYS-NYC-LAP-08",
+      "user": null,
+      "ip": "10.12.180.2",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 3257500,
+        "recv": 3329100
+      }
     }
   ],
-  "Q2KD-8169-FFE1": [
+  "Q2KD-923B-B637": [
     {
       "id": "440d41fd768f",
       "mac": "00:01:e6:8c:30:6d",
@@ -15648,9 +16584,26 @@
         "sent": 2977300,
         "recv": 501200
       }
+    },
+    {
+      "id": "98c2af69edeb",
+      "mac": "10:c5:95:f4:f4:e2",
+      "description": "lsys-nyc-lap-0851",
+      "mdnsName": "lsys-nyc-lap-0851",
+      "dhcpHostname": "LSYS-NYC-LAP-08",
+      "user": null,
+      "ip": "10.12.180.7",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 3045350,
+        "recv": 1372600
+      }
     }
   ],
-  "Q2KD-4959-9852": [
+  "Q2KD-4549-BAB1": [
     {
       "id": "414f418d3cd8",
       "mac": "00:01:e6:d0:08:35",
@@ -15788,7 +16741,7 @@
       }
     }
   ],
-  "Q2KD-CA57-82B1": [
+  "Q2KD-F36F-8A1B": [
     {
       "id": "9c80c6da34b1",
       "mac": "10:c5:95:81:73:61",
@@ -15924,9 +16877,26 @@
         "sent": 453450,
         "recv": 3456400
       }
+    },
+    {
+      "id": "5ac7d76c1392",
+      "mac": "10:c5:95:48:b9:9c",
+      "description": "lsys-nyc-lap-0854",
+      "mdnsName": "lsys-nyc-lap-0854",
+      "dhcpHostname": "LSYS-NYC-LAP-08",
+      "user": null,
+      "ip": "10.12.180.10",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 250500,
+        "recv": 5738300
+      }
     }
   ],
-  "Q2KD-9D7F-D10B": [
+  "Q2KD-85C2-760A": [
     {
       "id": "59896df834fc",
       "mac": "10:c5:95:64:3b:28",
@@ -16132,7 +17102,7 @@
       }
     }
   ],
-  "Q2KD-E70B-77BF": [
+  "Q2KD-DEE0-2412": [
     {
       "id": "2172c29571ff",
       "mac": "00:06:5b:36:cb:56",
@@ -16253,7 +17223,7 @@
       }
     }
   ],
-  "Q2KD-9D2C-0290": [
+  "Q2KD-1A17-6802": [
     {
       "id": "1e076176a58d",
       "mac": "00:06:5b:7d:64:1a",
@@ -16372,9 +17342,43 @@
         "sent": 3066200,
         "recv": 741400
       }
+    },
+    {
+      "id": "0ce1a2c0d4f5",
+      "mac": "10:c5:95:56:19:6a",
+      "description": "lsys-nyc-lap-0845",
+      "mdnsName": "lsys-nyc-lap-0845",
+      "dhcpHostname": "LSYS-NYC-LAP-08",
+      "user": null,
+      "ip": "10.12.180.1",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 2725850,
+        "recv": 5319300
+      }
+    },
+    {
+      "id": "9ce024432361",
+      "mac": "10:c5:95:65:55:00",
+      "description": "lsys-nyc-lap-0857",
+      "mdnsName": "lsys-nyc-lap-0857",
+      "dhcpHostname": "LSYS-NYC-LAP-08",
+      "user": null,
+      "ip": "10.12.180.13",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 452850,
+        "recv": 5412400
+      }
     }
   ],
-  "Q2KD-87AF-E817": [
+  "Q2KD-1B4B-59E0": [
     {
       "id": "9d36d9487cb4",
       "mac": "00:01:e6:fc:ad:60",
@@ -16544,11 +17548,45 @@
         "sent": 92600,
         "recv": 2263100
       }
+    },
+    {
+      "id": "84ac8732675b",
+      "mac": "10:c5:95:8b:7f:ad",
+      "description": "lsys-nyc-lap-0848",
+      "mdnsName": "lsys-nyc-lap-0848",
+      "dhcpHostname": "LSYS-NYC-LAP-08",
+      "user": null,
+      "ip": "10.12.180.4",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 1322950,
+        "recv": 2716200
+      }
+    },
+    {
+      "id": "a4b0794d0d38",
+      "mac": "10:c5:95:1a:29:29",
+      "description": "lsys-nyc-lap-0853",
+      "mdnsName": "lsys-nyc-lap-0853",
+      "dhcpHostname": "LSYS-NYC-LAP-08",
+      "user": null,
+      "ip": "10.12.180.9",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": null,
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 169200,
+        "recv": 4191100
+      }
     }
   ],
-  "Q2QN-5F17-9D76": [],
-  "Q2QN-9E01-F0DF": [],
-  "Q2QN-2141-1BBD": [
+  "Q2QN-8827-5B07": [],
+  "Q2QN-745E-4C88": [],
+  "Q2QN-98C2-AB94": [
     {
       "id": "eceb6da04578",
       "mac": "02:00:00:6c:c0:87",
@@ -16567,8 +17605,8 @@
       }
     }
   ],
-  "Q2QN-C71A-907C": [],
-  "Q2QN-1024-49C5": [
+  "Q2QN-71E6-81D0": [],
+  "Q2QN-C32D-1997": [
     {
       "id": "11e389bbfa07",
       "mac": "00:06:5b:52:8f:3d",
@@ -16587,7 +17625,7 @@
       }
     }
   ],
-  "Q2QN-5697-952A": [
+  "Q2QN-4A97-BDBE": [
     {
       "id": "01d4d2d7e621",
       "mac": "00:06:5b:91:66:29",
@@ -16606,7 +17644,7 @@
       }
     }
   ],
-  "Q2QN-611F-E0A6": [
+  "Q2QN-7D53-4138": [
     {
       "id": "370882581bae",
       "mac": "00:06:5b:66:b6:9d",
@@ -16659,7 +17697,7 @@
       }
     }
   ],
-  "Q2QN-2163-CF85": [
+  "Q2QN-2527-0CA9": [
     {
       "id": "125d4b8dde01",
       "mac": "02:00:00:c3:25:0f",
@@ -16678,8 +17716,8 @@
       }
     }
   ],
-  "Q2QN-B760-B11E": [],
-  "Q2QN-E466-9C3D": [
+  "Q2QN-9827-D3F3": [],
+  "Q2QN-DB5E-714A": [
     {
       "id": "520ac6c2e20b",
       "mac": "10:c5:95:ce:c8:66",
@@ -16696,12 +17734,29 @@
         "sent": 2893350,
         "recv": 4119300
       }
+    },
+    {
+      "id": "84df53a7983c",
+      "mac": "10:c5:95:d9:b6:28",
+      "description": "lsys-nyc-lap-0859",
+      "mdnsName": "lsys-nyc-lap-0859",
+      "dhcpHostname": "LSYS-NYC-LAP-08",
+      "user": null,
+      "ip": "10.12.180.15",
+      "vlan": "1",
+      "namedVlan": "Corporate",
+      "switchport": "1/25",
+      "adaptivePolicyGroup": null,
+      "usage": {
+        "sent": 1948600,
+        "recv": 1367300
+      }
     }
   ],
-  "Q2QN-18CC-B206": [],
-  "Q2QN-AD38-DCFB": [],
-  "Q2QN-7444-01ED": [],
-  "Q2QN-088D-C033": [
+  "Q2QN-7C44-2F48": [],
+  "Q2QN-BDB1-5C52": [],
+  "Q2QN-9FD8-AE73": [],
+  "Q2QN-D786-6BE2": [
     {
       "id": "1a099600e9b2",
       "mac": "00:01:e6:f6:ff:a9",
@@ -16720,8 +17775,8 @@
       }
     }
   ],
-  "Q2QN-8046-DFDC": [],
-  "Q2QN-7283-CA56": [
+  "Q2QN-622C-55A8": [],
+  "Q2QN-3E82-DF96": [
     {
       "id": "15bb619e8d81",
       "mac": "02:00:00:98:00:8f",
@@ -16757,6 +17812,6 @@
       }
     }
   ],
-  "Q2QN-D33F-2533": [],
-  "Q2QN-2978-E19A": []
+  "Q2QN-0DB9-1A85": [],
+  "Q2QN-12D8-A001": []
 }
