@@ -55,6 +55,16 @@ def make_serial(prefix: str, seed: str) -> str:
     h = _md5(seed).upper()
     return f"{prefix}-{h[0:4]}-{h[4:8]}"
 
+def device_notes(name: str, site_cfg: dict) -> str:
+    """Build the notes string from device name: lsys-{site}-f{N}-{type}-{num}."""
+    import re
+    m = re.search(r'-f(\d+)-', name)
+    floor = int(m.group(1)) if m else None
+    building = site_cfg.get("building", site_cfg["addr"])
+    if floor:
+        return f"{building}, Floor {floor}"
+    return building
+
 def make_ts_str(offset_secs: int) -> str:
     """Unix timestamp string (Meraki firstSeen/lastSeen format)."""
     return str(NOW_EPOCH - offset_secs)
@@ -78,6 +88,7 @@ SITES = {
         "lat":    37.7749,
         "lng":    -122.4194,
         "addr":   "San Francisco",
+        "building": "San Francisco HQ",
     },
     "New York": {
         "code":   "nyc",
@@ -86,6 +97,7 @@ SITES = {
         "lat":    40.7128,
         "lng":    -74.0060,
         "addr":   "New York",
+        "building": "New York Office",
     },
     "London": {
         "code":   "lon",
@@ -94,6 +106,7 @@ SITES = {
         "lat":    51.5074,
         "lng":    -0.1278,
         "addr":   "London",
+        "building": "London Office",
     },
 }
 
@@ -302,7 +315,7 @@ for loc, rows in rows_by_site.items():
             "lat":              cfg["lat"] + int(_md5(seed)[4:8], 16) % 100 / 10000,
             "lng":              cfg["lng"] + int(_md5(seed)[8:12], 16) % 100 / 10000,
             "address":          cfg["addr"],
-            "notes":            None,
+            "notes":            device_notes(meraki_name, cfg),
             "url":              f"https://mock.meraki.com/devices/{serial}/manage",
             "configurationUpdatedAt": make_iso(offset_cfg),
             "details":          [{"name": "Running software version", "value": dm["firmware_disp"]}],
