@@ -13,7 +13,7 @@ and manages two classes of assets:
 - **Clients** — endpoints (laptops, mobiles, printers, IoT) connected through
   Meraki-managed networks
 
-This mock serves **1124 assets** across 3 Luminary Systems sites (San Francisco, New York,
+This mock serves **1,177 assets** across 3 Luminary Systems sites (San Francisco, New York,
 London) drawn from the Luminary Systems UAI Demo Dataset v7.
 
 ## API surface
@@ -50,33 +50,32 @@ curl -H "X-Cisco-Meraki-API-Key: mock_meraki_key_luminary" \
 
 ## Data
 
-**1124 total assets** — 969 clients + 155 network devices — across 3 Meraki-managed
+**1,177 total assets** — 1,022 clients + 155 network devices — across 3 Meraki-managed
 sites (SFO / NYC / LON only; AMS / SGP / BLR are Mist sites in this dataset).
 
 ### Fleet breakdown
 
 | Category | Meraki type | Count |
 |----------|-------------|-------|
-| Windows laptops | wireless client | 322 |
-| macOS laptops | wireless client | 191 |
+| Windows laptops | wireless client | 358 |
+| macOS laptops | wireless client | 212 |
 | iOS mobile | wireless client | 148 |
 | Android mobile | wireless client | 126 |
 | IoT / cameras | wireless client | 130 |
 | Access Points (Cisco Meraki MR57) | network device | 96 |
 | Switches (Cisco Meraki MS225-48) | network device | 53 |
 | Printers | wired client | 25 |
-| Linux workstations | wired client | 18 |
-| Clinic / medical devices | wired client | 9 |
+| Linux workstations | wired client | 23 |
 | Routers (Cisco MX450 appliance) | network device | 6 |
-| **Total** | | **1124** |
+| **Total** | | **1,177** |
 
 ### Site breakdown
 
 | Site | Clients | Devices | Total |
 |------|---------|---------|-------|
-| San Francisco (SFO) | 495 | 80 | 575 |
-| New York (NYC) | 220 | 39 | 259 |
-| London (LON) | 254 | 36 | 290 |
+| San Francisco (SFO) | 524 | 80 | 604 |
+| New York (NYC) | 232 | 39 | 271 |
+| London (LON) | 266 | 36 | 302 |
 
 ### Key IDs
 
@@ -94,7 +93,7 @@ correlates the same physical device across Meraki, CrowdStrike, Intune, Jamf, an
 ServiceNow automatically.
 
 Source of truth: [`luminary-demo-docs/master-sheet/assets_luminary.xlsx`](https://github.com/repswalp-cmd/luminary-demo-docs)
-(Luminary Systems UAI Demo Dataset v7, ~2,295 total assets).
+(Luminary Systems UAI Demo Dataset v7, 2,403 total assets).
 
 Regenerate deterministically:
 
