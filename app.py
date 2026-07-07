@@ -336,6 +336,12 @@ def get_network_switch_routing_interfaces(net_id):
     return jsonify([])
 
 
+@app.route("/api/v1/devices/<serial>/switch/routing/interfaces")
+def get_device_switch_routing_interfaces(serial):
+    _log()
+    return jsonify([])
+
+
 # ---------------------------------------------------------------------------
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
