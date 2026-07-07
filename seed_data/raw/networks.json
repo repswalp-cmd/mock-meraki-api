@@ -2,7 +2,7 @@
   {
     "id": "N_322920021",
     "organizationId": "243503",
-    "name": "London",
+    "name": "Branch-London",
     "productTypes": [
       "appliance",
       "switch",
@@ -22,7 +22,7 @@
   {
     "id": "N_695691719",
     "organizationId": "243503",
-    "name": "San Francisco",
+    "name": "San Francisco HQ",
     "productTypes": [
       "appliance",
       "switch",
@@ -42,7 +42,7 @@
   {
     "id": "N_123827610",
     "organizationId": "243503",
-    "name": "New York",
+    "name": "Branch-NYC",
     "productTypes": [
       "appliance",
       "switch",
