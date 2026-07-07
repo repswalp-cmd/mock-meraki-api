@@ -286,6 +286,56 @@ def get_device_dhcp_subnets(serial):
     return jsonify(result)
 
 
+# ── Switch / LLDP / Management stubs ─────────────────────────────────────────
+
+@app.route("/api/v1/devices/<serial>/switch/ports")
+def get_device_switch_ports(serial):
+    _log()
+    return jsonify([])
+
+
+@app.route("/api/v1/devices/<serial>/switch/ports/statuses")
+def get_device_switch_ports_statuses(serial):
+    _log()
+    return jsonify([])
+
+
+@app.route("/api/v1/devices/<serial>/lldpCdp")
+def get_device_lldp_cdp(serial):
+    _log()
+    return jsonify({"ports": {}})
+
+
+@app.route("/api/v1/devices/<serial>/managementInterface")
+def get_device_management_interface(serial):
+    _log()
+    return jsonify({})
+
+
+@app.route("/api/v1/organizations/<org_id>/appliance/uplink/statuses")
+def get_org_appliance_uplink_statuses(org_id):
+    _log()
+    return jsonify([])
+
+
+@app.route("/api/v1/networks/<net_id>/switch/linkAggregations")
+def get_network_switch_link_aggregations(net_id):
+    _log()
+    return jsonify([])
+
+
+@app.route("/api/v1/networks/<net_id>/appliance/ports")
+def get_network_appliance_ports(net_id):
+    _log()
+    return jsonify([])
+
+
+@app.route("/api/v1/networks/<net_id>/switch/routing/interfaces")
+def get_network_switch_routing_interfaces(net_id):
+    _log()
+    return jsonify([])
+
+
 # ---------------------------------------------------------------------------
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 5000))
