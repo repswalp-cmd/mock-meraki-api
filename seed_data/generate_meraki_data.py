@@ -442,7 +442,7 @@ for loc, rows in rows_by_site.items():
                 "mac":               mac,
                 "description":       hostname,
                 "mdnsName":          hostname,
-                "dhcpHostname":      hostname.upper()[:15],
+                "dhcpHostname":      hostname,
                 "user":              user,
                 "ip":                ip,
                 "vlan":              str(ccfg["vlan"]),
