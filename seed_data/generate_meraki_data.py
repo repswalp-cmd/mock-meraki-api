@@ -125,7 +125,7 @@ DEVICE_CATS = {"wap", "switch", "router"}
 WIRELESS_CATS = {"win_laptop", "mac_laptop", "mobile_ios", "mobile_droid", "iot"}
 
 # Wired client categories (connected via switchport)
-WIRED_CATS = {"linux_ws", "printer", "clinic"}
+WIRED_CATS = {"linux_ws", "printer"}  # clinic is Ordr-only
 
 # Device models
 DEVICE_MODEL = {
