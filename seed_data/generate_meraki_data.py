@@ -317,7 +317,7 @@ for loc, rows in rows_by_site.items():
             "tags":             [code],
             "lat":              cfg["lat"] + int(_md5(seed)[4:8], 16) % 100 / 10000,
             "lng":              cfg["lng"] + int(_md5(seed)[8:12], 16) % 100 / 10000,
-            "address":          cfg["addr"],
+            "address":          "",
             "notes":            device_notes(meraki_name, cfg),
             "url":              f"https://mock.meraki.com/devices/{serial}/manage",
             "configurationUpdatedAt": make_iso(offset_cfg),

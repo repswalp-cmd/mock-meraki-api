@@ -14,10 +14,10 @@
     ],
     "lat": 51.5092,
     "lng": -0.1196,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-C5CC-2402/manage",
-    "configurationUpdatedAt": "2026-07-06T15:05:29Z",
+    "configurationUpdatedAt": "2026-07-06T15:41:31Z",
     "details": [
       {
         "name": "Running software version",
@@ -40,10 +40,10 @@
     ],
     "lat": 51.5124,
     "lng": -0.1271,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-0D84-85CA/manage",
-    "configurationUpdatedAt": "2026-07-07T04:11:45Z",
+    "configurationUpdatedAt": "2026-07-07T04:47:47Z",
     "details": [
       {
         "name": "Running software version",
@@ -66,10 +66,10 @@
     ],
     "lat": 51.5121,
     "lng": -0.1236,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2KD-B3E5-46E3/manage",
-    "configurationUpdatedAt": "2026-07-06T16:21:52Z",
+    "configurationUpdatedAt": "2026-07-06T16:57:54Z",
     "details": [
       {
         "name": "Running software version",
@@ -92,10 +92,10 @@
     ],
     "lat": 51.5104,
     "lng": -0.1219,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-6205-8BF6/manage",
-    "configurationUpdatedAt": "2026-07-06T22:11:12Z",
+    "configurationUpdatedAt": "2026-07-06T22:47:14Z",
     "details": [
       {
         "name": "Running software version",
@@ -118,10 +118,10 @@
     ],
     "lat": 51.5173,
     "lng": -0.122,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2KD-EC57-833F/manage",
-    "configurationUpdatedAt": "2026-07-06T12:21:02Z",
+    "configurationUpdatedAt": "2026-07-06T12:57:04Z",
     "details": [
       {
         "name": "Running software version",
@@ -144,10 +144,10 @@
     ],
     "lat": 51.5105,
     "lng": -0.1278,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-3423-1217/manage",
-    "configurationUpdatedAt": "2026-07-07T01:26:58Z",
+    "configurationUpdatedAt": "2026-07-07T02:03:00Z",
     "details": [
       {
         "name": "Running software version",
@@ -170,10 +170,10 @@
     ],
     "lat": 51.5145,
     "lng": -0.1205,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-8C1A-1F87/manage",
-    "configurationUpdatedAt": "2026-07-06T19:11:39Z",
+    "configurationUpdatedAt": "2026-07-06T19:47:41Z",
     "details": [
       {
         "name": "Running software version",
@@ -196,10 +196,10 @@
     ],
     "lat": 51.5115,
     "lng": -0.12589999999999998,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-5705-BF91/manage",
-    "configurationUpdatedAt": "2026-07-06T22:58:08Z",
+    "configurationUpdatedAt": "2026-07-06T23:34:10Z",
     "details": [
       {
         "name": "Running software version",
@@ -222,10 +222,10 @@
     ],
     "lat": 51.5136,
     "lng": -0.1266,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2KD-05CA-6F2E/manage",
-    "configurationUpdatedAt": "2026-07-07T04:44:43Z",
+    "configurationUpdatedAt": "2026-07-07T05:20:45Z",
     "details": [
       {
         "name": "Running software version",
@@ -248,10 +248,10 @@
     ],
     "lat": 51.517199999999995,
     "lng": -0.12639999999999998,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2KD-D976-09C2/manage",
-    "configurationUpdatedAt": "2026-07-06T13:41:35Z",
+    "configurationUpdatedAt": "2026-07-06T14:17:37Z",
     "details": [
       {
         "name": "Running software version",
@@ -274,10 +274,10 @@
     ],
     "lat": 51.512699999999995,
     "lng": -0.12079999999999999,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-3AE6-D965/manage",
-    "configurationUpdatedAt": "2026-07-07T00:58:07Z",
+    "configurationUpdatedAt": "2026-07-07T01:34:09Z",
     "details": [
       {
         "name": "Running software version",
@@ -300,10 +300,10 @@
     ],
     "lat": 51.5128,
     "lng": -0.126,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2KD-F173-5A72/manage",
-    "configurationUpdatedAt": "2026-07-06T11:59:14Z",
+    "configurationUpdatedAt": "2026-07-06T12:35:16Z",
     "details": [
       {
         "name": "Running software version",
@@ -326,10 +326,10 @@
     ],
     "lat": 51.511799999999994,
     "lng": -0.1185,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2KD-66C1-5B94/manage",
-    "configurationUpdatedAt": "2026-07-06T21:51:00Z",
+    "configurationUpdatedAt": "2026-07-06T22:27:02Z",
     "details": [
       {
         "name": "Running software version",
@@ -352,10 +352,10 @@
     ],
     "lat": 51.516999999999996,
     "lng": -0.123,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-E88A-7784/manage",
-    "configurationUpdatedAt": "2026-07-06T12:37:15Z",
+    "configurationUpdatedAt": "2026-07-06T13:13:17Z",
     "details": [
       {
         "name": "Running software version",
@@ -378,10 +378,10 @@
     ],
     "lat": 51.5106,
     "lng": -0.126,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-F6EC-C438/manage",
-    "configurationUpdatedAt": "2026-07-06T11:35:53Z",
+    "configurationUpdatedAt": "2026-07-06T12:11:55Z",
     "details": [
       {
         "name": "Running software version",
@@ -404,10 +404,10 @@
     ],
     "lat": 51.5124,
     "lng": -0.12079999999999999,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-A562-4F1A/manage",
-    "configurationUpdatedAt": "2026-07-06T17:23:47Z",
+    "configurationUpdatedAt": "2026-07-06T17:59:49Z",
     "details": [
       {
         "name": "Running software version",
@@ -430,10 +430,10 @@
     ],
     "lat": 51.5126,
     "lng": -0.1248,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-8133-073C/manage",
-    "configurationUpdatedAt": "2026-07-06T19:58:10Z",
+    "configurationUpdatedAt": "2026-07-06T20:34:12Z",
     "details": [
       {
         "name": "Running software version",
@@ -456,10 +456,10 @@
     ],
     "lat": 51.508799999999994,
     "lng": -0.1246,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2KD-CC36-7E3A/manage",
-    "configurationUpdatedAt": "2026-07-06T14:38:07Z",
+    "configurationUpdatedAt": "2026-07-06T15:14:09Z",
     "details": [
       {
         "name": "Running software version",
@@ -482,10 +482,10 @@
     ],
     "lat": 51.513099999999994,
     "lng": -0.12739999999999999,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-D8BC-DE19/manage",
-    "configurationUpdatedAt": "2026-07-06T13:44:41Z",
+    "configurationUpdatedAt": "2026-07-06T14:20:43Z",
     "details": [
       {
         "name": "Running software version",
@@ -508,10 +508,10 @@
     ],
     "lat": 51.508399999999995,
     "lng": -0.1185,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2KD-D78D-6022/manage",
-    "configurationUpdatedAt": "2026-07-06T13:49:44Z",
+    "configurationUpdatedAt": "2026-07-06T14:25:46Z",
     "details": [
       {
         "name": "Running software version",
@@ -534,10 +534,10 @@
     ],
     "lat": 51.512899999999995,
     "lng": -0.1205,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2KD-7EBA-CC83/manage",
-    "configurationUpdatedAt": "2026-07-06T20:08:43Z",
+    "configurationUpdatedAt": "2026-07-06T20:44:45Z",
     "details": [
       {
         "name": "Running software version",
@@ -560,10 +560,10 @@
     ],
     "lat": 51.507799999999996,
     "lng": -0.1275,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-C046-7A48/manage",
-    "configurationUpdatedAt": "2026-07-06T15:29:03Z",
+    "configurationUpdatedAt": "2026-07-06T16:05:05Z",
     "details": [
       {
         "name": "Running software version",
@@ -586,10 +586,10 @@
     ],
     "lat": 51.511799999999994,
     "lng": -0.1221,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2KD-DD25-07FC/manage",
-    "configurationUpdatedAt": "2026-07-06T13:25:52Z",
+    "configurationUpdatedAt": "2026-07-06T14:01:54Z",
     "details": [
       {
         "name": "Running software version",
@@ -612,10 +612,10 @@
     ],
     "lat": 51.5117,
     "lng": -0.1252,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-6457-661F/manage",
-    "configurationUpdatedAt": "2026-07-06T22:01:18Z",
+    "configurationUpdatedAt": "2026-07-06T22:37:20Z",
     "details": [
       {
         "name": "Running software version",
@@ -638,10 +638,10 @@
     ],
     "lat": 51.511399999999995,
     "lng": -0.1207,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2KD-B6BF-292C/manage",
-    "configurationUpdatedAt": "2026-07-06T16:09:42Z",
+    "configurationUpdatedAt": "2026-07-06T16:45:44Z",
     "details": [
       {
         "name": "Running software version",
@@ -664,10 +664,10 @@
     ],
     "lat": 51.5074,
     "lng": -0.11979999999999999,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2QN-41FB-C6D4/manage",
-    "configurationUpdatedAt": "2026-07-07T00:27:54Z",
+    "configurationUpdatedAt": "2026-07-07T01:03:56Z",
     "details": [
       {
         "name": "Running software version",
@@ -690,10 +690,10 @@
     ],
     "lat": 51.5135,
     "lng": -0.1231,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2QN-6E53-07A9/manage",
-    "configurationUpdatedAt": "2026-07-06T21:18:42Z",
+    "configurationUpdatedAt": "2026-07-06T21:54:44Z",
     "details": [
       {
         "name": "Running software version",
@@ -716,10 +716,10 @@
     ],
     "lat": 51.511599999999994,
     "lng": -0.119,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2QN-CFEE-9242/manage",
-    "configurationUpdatedAt": "2026-07-06T14:22:15Z",
+    "configurationUpdatedAt": "2026-07-06T14:58:17Z",
     "details": [
       {
         "name": "Running software version",
@@ -742,10 +742,10 @@
     ],
     "lat": 51.5135,
     "lng": -0.119,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2QN-9AEA-116D/manage",
-    "configurationUpdatedAt": "2026-07-06T18:08:27Z",
+    "configurationUpdatedAt": "2026-07-06T18:44:29Z",
     "details": [
       {
         "name": "Running software version",
@@ -768,10 +768,10 @@
     ],
     "lat": 51.507999999999996,
     "lng": -0.12639999999999998,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2QN-77BB-A15A/manage",
-    "configurationUpdatedAt": "2026-07-06T20:38:34Z",
+    "configurationUpdatedAt": "2026-07-06T21:14:36Z",
     "details": [
       {
         "name": "Running software version",
@@ -794,10 +794,10 @@
     ],
     "lat": 51.5076,
     "lng": -0.1202,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2QN-75FF-8086/manage",
-    "configurationUpdatedAt": "2026-07-06T20:45:58Z",
+    "configurationUpdatedAt": "2026-07-06T21:22:00Z",
     "details": [
       {
         "name": "Running software version",
@@ -820,10 +820,10 @@
     ],
     "lat": 51.512899999999995,
     "lng": -0.12369999999999999,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2QN-B2B2-32FF/manage",
-    "configurationUpdatedAt": "2026-07-06T16:26:59Z",
+    "configurationUpdatedAt": "2026-07-06T17:03:01Z",
     "details": [
       {
         "name": "Running software version",
@@ -846,10 +846,10 @@
     ],
     "lat": 51.511399999999995,
     "lng": -0.1217,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2QN-64DE-7814/manage",
-    "configurationUpdatedAt": "2026-07-06T21:59:03Z",
+    "configurationUpdatedAt": "2026-07-06T22:35:05Z",
     "details": [
       {
         "name": "Running software version",
@@ -872,10 +872,10 @@
     ],
     "lat": 51.5134,
     "lng": -0.1196,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2QN-899C-B9C8/manage",
-    "configurationUpdatedAt": "2026-07-06T19:22:17Z",
+    "configurationUpdatedAt": "2026-07-06T19:58:19Z",
     "details": [
       {
         "name": "Running software version",
@@ -898,10 +898,10 @@
     ],
     "lat": 51.5113,
     "lng": -0.1267,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2QN-A277-BF2B/manage",
-    "configurationUpdatedAt": "2026-07-06T17:36:14Z",
+    "configurationUpdatedAt": "2026-07-06T18:12:16Z",
     "details": [
       {
         "name": "Running software version",
@@ -924,10 +924,10 @@
     ],
     "lat": 51.5076,
     "lng": -0.1256,
-    "address": "Branch-London",
+    "address": "",
     "notes": "Branch-London, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2QN-E5D5-3EE6/manage",
-    "configurationUpdatedAt": "2026-07-06T12:48:48Z",
+    "configurationUpdatedAt": "2026-07-06T13:24:50Z",
     "details": [
       {
         "name": "Running software version",
@@ -950,10 +950,10 @@
     ],
     "lat": 37.777300000000004,
     "lng": -122.41,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-EEFC-4A50/manage",
-    "configurationUpdatedAt": "2026-07-06T12:09:45Z",
+    "configurationUpdatedAt": "2026-07-06T12:45:47Z",
     "details": [
       {
         "name": "Running software version",
@@ -976,10 +976,10 @@
     ],
     "lat": 37.7824,
     "lng": -122.41319999999999,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-63B1-BA3B/manage",
-    "configurationUpdatedAt": "2026-07-06T22:04:04Z",
+    "configurationUpdatedAt": "2026-07-06T22:40:06Z",
     "details": [
       {
         "name": "Running software version",
@@ -1002,10 +1002,10 @@
     ],
     "lat": 37.781400000000005,
     "lng": -122.41749999999999,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-39C6-CA35/manage",
-    "configurationUpdatedAt": "2026-07-07T01:02:55Z",
+    "configurationUpdatedAt": "2026-07-07T01:38:57Z",
     "details": [
       {
         "name": "Running software version",
@@ -1028,10 +1028,10 @@
     ],
     "lat": 37.7817,
     "lng": -122.41069999999999,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2KD-089B-CDBC/manage",
-    "configurationUpdatedAt": "2026-07-07T04:32:42Z",
+    "configurationUpdatedAt": "2026-07-07T05:08:44Z",
     "details": [
       {
         "name": "Running software version",
@@ -1054,10 +1054,10 @@
     ],
     "lat": 37.7802,
     "lng": -122.41199999999999,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2KD-EE54-8D9D/manage",
-    "configurationUpdatedAt": "2026-07-06T12:12:33Z",
+    "configurationUpdatedAt": "2026-07-06T12:48:35Z",
     "details": [
       {
         "name": "Running software version",
@@ -1080,10 +1080,10 @@
     ],
     "lat": 37.7768,
     "lng": -122.4173,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-2F3C-6BE3/manage",
-    "configurationUpdatedAt": "2026-07-07T01:47:53Z",
+    "configurationUpdatedAt": "2026-07-07T02:23:55Z",
     "details": [
       {
         "name": "Running software version",
@@ -1106,10 +1106,10 @@
     ],
     "lat": 37.782700000000006,
     "lng": -122.4148,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2KD-735D-4572/manage",
-    "configurationUpdatedAt": "2026-07-06T20:57:12Z",
+    "configurationUpdatedAt": "2026-07-06T21:33:14Z",
     "details": [
       {
         "name": "Running software version",
@@ -1132,10 +1132,10 @@
     ],
     "lat": 37.7837,
     "lng": -122.4095,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-7916-A3A0/manage",
-    "configurationUpdatedAt": "2026-07-06T20:32:47Z",
+    "configurationUpdatedAt": "2026-07-06T21:08:49Z",
     "details": [
       {
         "name": "Running software version",
@@ -1158,10 +1158,10 @@
     ],
     "lat": 37.7807,
     "lng": -122.41369999999999,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-2A49-BB56/manage",
-    "configurationUpdatedAt": "2026-07-07T02:09:00Z",
+    "configurationUpdatedAt": "2026-07-07T02:45:02Z",
     "details": [
       {
         "name": "Running software version",
@@ -1184,10 +1184,10 @@
     ],
     "lat": 37.7783,
     "lng": -122.41619999999999,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-1C02-26CE/manage",
-    "configurationUpdatedAt": "2026-07-07T03:09:55Z",
+    "configurationUpdatedAt": "2026-07-07T03:45:57Z",
     "details": [
       {
         "name": "Running software version",
@@ -1210,10 +1210,10 @@
     ],
     "lat": 37.7807,
     "lng": -122.41499999999999,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2KD-CAA1-7F92/manage",
-    "configurationUpdatedAt": "2026-07-06T14:44:52Z",
+    "configurationUpdatedAt": "2026-07-06T15:20:54Z",
     "details": [
       {
         "name": "Running software version",
@@ -1236,10 +1236,10 @@
     ],
     "lat": 37.783300000000004,
     "lng": -122.4183,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-1645-E988/manage",
-    "configurationUpdatedAt": "2026-07-07T03:34:24Z",
+    "configurationUpdatedAt": "2026-07-07T04:10:26Z",
     "details": [
       {
         "name": "Running software version",
@@ -1262,10 +1262,10 @@
     ],
     "lat": 37.784800000000004,
     "lng": -122.4112,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-173F-B08F/manage",
-    "configurationUpdatedAt": "2026-07-07T03:30:14Z",
+    "configurationUpdatedAt": "2026-07-07T04:06:16Z",
     "details": [
       {
         "name": "Running software version",
@@ -1288,10 +1288,10 @@
     ],
     "lat": 37.776900000000005,
     "lng": -122.414,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-BE56-EDF8/manage",
-    "configurationUpdatedAt": "2026-07-06T15:37:19Z",
+    "configurationUpdatedAt": "2026-07-06T16:13:21Z",
     "details": [
       {
         "name": "Running software version",
@@ -1314,10 +1314,10 @@
     ],
     "lat": 37.776900000000005,
     "lng": -122.4157,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-11A1-36C4/manage",
-    "configurationUpdatedAt": "2026-07-07T03:54:12Z",
+    "configurationUpdatedAt": "2026-07-07T04:30:14Z",
     "details": [
       {
         "name": "Running software version",
@@ -1340,10 +1340,10 @@
     ],
     "lat": 37.782700000000006,
     "lng": -122.4134,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-B171-851E/manage",
-    "configurationUpdatedAt": "2026-07-06T16:32:20Z",
+    "configurationUpdatedAt": "2026-07-06T17:08:22Z",
     "details": [
       {
         "name": "Running software version",
@@ -1366,10 +1366,10 @@
     ],
     "lat": 37.7751,
     "lng": -122.4147,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2KD-767B-C47E/manage",
-    "configurationUpdatedAt": "2026-07-06T20:43:54Z",
+    "configurationUpdatedAt": "2026-07-06T21:19:56Z",
     "details": [
       {
         "name": "Running software version",
@@ -1392,10 +1392,10 @@
     ],
     "lat": 37.7821,
     "lng": -122.4112,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-AB8A-8DB0/manage",
-    "configurationUpdatedAt": "2026-07-06T16:57:31Z",
+    "configurationUpdatedAt": "2026-07-06T17:33:33Z",
     "details": [
       {
         "name": "Running software version",
@@ -1418,10 +1418,10 @@
     ],
     "lat": 37.7802,
     "lng": -122.4135,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-9843-A2B5/manage",
-    "configurationUpdatedAt": "2026-07-06T18:19:46Z",
+    "configurationUpdatedAt": "2026-07-06T18:55:48Z",
     "details": [
       {
         "name": "Running software version",
@@ -1444,10 +1444,10 @@
     ],
     "lat": 37.7826,
     "lng": -122.41109999999999,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-63FB-04FD/manage",
-    "configurationUpdatedAt": "2026-07-06T22:02:50Z",
+    "configurationUpdatedAt": "2026-07-06T22:38:52Z",
     "details": [
       {
         "name": "Running software version",
@@ -1470,10 +1470,10 @@
     ],
     "lat": 37.776700000000005,
     "lng": -122.41279999999999,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2KD-4BC9-A936/manage",
-    "configurationUpdatedAt": "2026-07-06T23:46:04Z",
+    "configurationUpdatedAt": "2026-07-07T00:22:06Z",
     "details": [
       {
         "name": "Running software version",
@@ -1496,10 +1496,10 @@
     ],
     "lat": 37.775200000000005,
     "lng": -122.41329999999999,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-8409-CB23/manage",
-    "configurationUpdatedAt": "2026-07-06T19:46:04Z",
+    "configurationUpdatedAt": "2026-07-06T20:22:06Z",
     "details": [
       {
         "name": "Running software version",
@@ -1522,10 +1522,10 @@
     ],
     "lat": 37.7766,
     "lng": -122.4164,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2KD-BC7E-50ED/manage",
-    "configurationUpdatedAt": "2026-07-06T15:45:11Z",
+    "configurationUpdatedAt": "2026-07-06T16:21:13Z",
     "details": [
       {
         "name": "Running software version",
@@ -1548,10 +1548,10 @@
     ],
     "lat": 37.7775,
     "lng": -122.4166,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-8693-8742/manage",
-    "configurationUpdatedAt": "2026-07-06T19:35:14Z",
+    "configurationUpdatedAt": "2026-07-06T20:11:16Z",
     "details": [
       {
         "name": "Running software version",
@@ -1574,10 +1574,10 @@
     ],
     "lat": 37.7764,
     "lng": -122.41749999999999,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-EB3E-D557/manage",
-    "configurationUpdatedAt": "2026-07-06T12:25:43Z",
+    "configurationUpdatedAt": "2026-07-06T13:01:45Z",
     "details": [
       {
         "name": "Running software version",
@@ -1600,10 +1600,10 @@
     ],
     "lat": 37.7802,
     "lng": -122.4127,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2KD-FDF1-F2C9/manage",
-    "configurationUpdatedAt": "2026-07-06T11:05:56Z",
+    "configurationUpdatedAt": "2026-07-06T11:41:58Z",
     "details": [
       {
         "name": "Running software version",
@@ -1626,10 +1626,10 @@
     ],
     "lat": 37.7824,
     "lng": -122.41029999999999,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-FFE2-BE87/manage",
-    "configurationUpdatedAt": "2026-07-06T10:57:39Z",
+    "configurationUpdatedAt": "2026-07-06T11:33:41Z",
     "details": [
       {
         "name": "Running software version",
@@ -1652,10 +1652,10 @@
     ],
     "lat": 37.7826,
     "lng": -122.41319999999999,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-E4B3-83F1/manage",
-    "configurationUpdatedAt": "2026-07-06T12:53:38Z",
+    "configurationUpdatedAt": "2026-07-06T13:29:40Z",
     "details": [
       {
         "name": "Running software version",
@@ -1678,10 +1678,10 @@
     ],
     "lat": 37.776500000000006,
     "lng": -122.4142,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-06F8-DE54/manage",
-    "configurationUpdatedAt": "2026-07-07T04:39:41Z",
+    "configurationUpdatedAt": "2026-07-07T05:15:43Z",
     "details": [
       {
         "name": "Running software version",
@@ -1704,10 +1704,10 @@
     ],
     "lat": 37.7843,
     "lng": -122.41329999999999,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-E736-9C3A/manage",
-    "configurationUpdatedAt": "2026-07-06T12:42:55Z",
+    "configurationUpdatedAt": "2026-07-06T13:18:57Z",
     "details": [
       {
         "name": "Running software version",
@@ -1730,10 +1730,10 @@
     ],
     "lat": 37.782700000000006,
     "lng": -122.4114,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2KD-513A-FCA6/manage",
-    "configurationUpdatedAt": "2026-07-06T23:22:51Z",
+    "configurationUpdatedAt": "2026-07-06T23:58:53Z",
     "details": [
       {
         "name": "Running software version",
@@ -1756,10 +1756,10 @@
     ],
     "lat": 37.7781,
     "lng": -122.4105,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-AC59-8BF8/manage",
-    "configurationUpdatedAt": "2026-07-06T16:54:04Z",
+    "configurationUpdatedAt": "2026-07-06T17:30:06Z",
     "details": [
       {
         "name": "Running software version",
@@ -1782,10 +1782,10 @@
     ],
     "lat": 37.7762,
     "lng": -122.4123,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-6553-8AB9/manage",
-    "configurationUpdatedAt": "2026-07-06T21:57:06Z",
+    "configurationUpdatedAt": "2026-07-06T22:33:08Z",
     "details": [
       {
         "name": "Running software version",
@@ -1808,10 +1808,10 @@
     ],
     "lat": 37.784600000000005,
     "lng": -122.4185,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2KD-9737-0C7D/manage",
-    "configurationUpdatedAt": "2026-07-06T18:24:14Z",
+    "configurationUpdatedAt": "2026-07-06T19:00:16Z",
     "details": [
       {
         "name": "Running software version",
@@ -1834,10 +1834,10 @@
     ],
     "lat": 37.784800000000004,
     "lng": -122.4134,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2KD-B6A4-D0FB/manage",
-    "configurationUpdatedAt": "2026-07-06T16:10:09Z",
+    "configurationUpdatedAt": "2026-07-06T16:46:11Z",
     "details": [
       {
         "name": "Running software version",
@@ -1860,10 +1860,10 @@
     ],
     "lat": 37.783500000000004,
     "lng": -122.4182,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-D833-F15A/manage",
-    "configurationUpdatedAt": "2026-07-06T13:46:58Z",
+    "configurationUpdatedAt": "2026-07-06T14:23:00Z",
     "details": [
       {
         "name": "Running software version",
@@ -1886,10 +1886,10 @@
     ],
     "lat": 37.7826,
     "lng": -122.4179,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-D1F9-1D35/manage",
-    "configurationUpdatedAt": "2026-07-06T14:13:32Z",
+    "configurationUpdatedAt": "2026-07-06T14:49:34Z",
     "details": [
       {
         "name": "Running software version",
@@ -1912,10 +1912,10 @@
     ],
     "lat": 37.7757,
     "lng": -122.4112,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-EE68-D424/manage",
-    "configurationUpdatedAt": "2026-07-06T12:12:13Z",
+    "configurationUpdatedAt": "2026-07-06T12:48:15Z",
     "details": [
       {
         "name": "Running software version",
@@ -1938,10 +1938,10 @@
     ],
     "lat": 37.7825,
     "lng": -122.4186,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-3BA4-0F24/manage",
-    "configurationUpdatedAt": "2026-07-07T00:54:57Z",
+    "configurationUpdatedAt": "2026-07-07T01:30:59Z",
     "details": [
       {
         "name": "Running software version",
@@ -1964,10 +1964,10 @@
     ],
     "lat": 37.776900000000005,
     "lng": -122.4185,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-2DCB-3B10/manage",
-    "configurationUpdatedAt": "2026-07-07T01:54:02Z",
+    "configurationUpdatedAt": "2026-07-07T02:30:04Z",
     "details": [
       {
         "name": "Running software version",
@@ -1990,10 +1990,10 @@
     ],
     "lat": 37.7806,
     "lng": -122.41109999999999,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2KD-A218-E779/manage",
-    "configurationUpdatedAt": "2026-07-06T17:37:49Z",
+    "configurationUpdatedAt": "2026-07-06T18:13:51Z",
     "details": [
       {
         "name": "Running software version",
@@ -2016,10 +2016,10 @@
     ],
     "lat": 37.775200000000005,
     "lng": -122.4164,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-AC0F-1133/manage",
-    "configurationUpdatedAt": "2026-07-06T16:55:18Z",
+    "configurationUpdatedAt": "2026-07-06T17:31:20Z",
     "details": [
       {
         "name": "Running software version",
@@ -2042,10 +2042,10 @@
     ],
     "lat": 37.7806,
     "lng": -122.4174,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-8673-9D41/manage",
-    "configurationUpdatedAt": "2026-07-06T19:35:46Z",
+    "configurationUpdatedAt": "2026-07-06T20:11:48Z",
     "details": [
       {
         "name": "Running software version",
@@ -2068,10 +2068,10 @@
     ],
     "lat": 37.7775,
     "lng": -122.4144,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2KD-52B5-E692/manage",
-    "configurationUpdatedAt": "2026-07-06T23:16:32Z",
+    "configurationUpdatedAt": "2026-07-06T23:52:34Z",
     "details": [
       {
         "name": "Running software version",
@@ -2094,10 +2094,10 @@
     ],
     "lat": 37.7822,
     "lng": -122.40979999999999,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-64B6-20B5/manage",
-    "configurationUpdatedAt": "2026-07-06T21:59:43Z",
+    "configurationUpdatedAt": "2026-07-06T22:35:45Z",
     "details": [
       {
         "name": "Running software version",
@@ -2120,10 +2120,10 @@
     ],
     "lat": 37.776700000000005,
     "lng": -122.4139,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-0838-3532/manage",
-    "configurationUpdatedAt": "2026-07-07T04:34:21Z",
+    "configurationUpdatedAt": "2026-07-07T05:10:23Z",
     "details": [
       {
         "name": "Running software version",
@@ -2146,10 +2146,10 @@
     ],
     "lat": 37.778600000000004,
     "lng": -122.41449999999999,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-D0AE-4481/manage",
-    "configurationUpdatedAt": "2026-07-06T14:19:03Z",
+    "configurationUpdatedAt": "2026-07-06T14:55:05Z",
     "details": [
       {
         "name": "Running software version",
@@ -2172,10 +2172,10 @@
     ],
     "lat": 37.7798,
     "lng": -122.4157,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2KD-4CFD-F3F1/manage",
-    "configurationUpdatedAt": "2026-07-06T23:40:56Z",
+    "configurationUpdatedAt": "2026-07-07T00:16:58Z",
     "details": [
       {
         "name": "Running software version",
@@ -2198,10 +2198,10 @@
     ],
     "lat": 37.778600000000004,
     "lng": -122.4138,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-B009-0B79/manage",
-    "configurationUpdatedAt": "2026-07-06T16:38:20Z",
+    "configurationUpdatedAt": "2026-07-06T17:14:22Z",
     "details": [
       {
         "name": "Running software version",
@@ -2224,10 +2224,10 @@
     ],
     "lat": 37.7781,
     "lng": -122.417,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-E2DD-8F18/manage",
-    "configurationUpdatedAt": "2026-07-06T13:01:28Z",
+    "configurationUpdatedAt": "2026-07-06T13:37:30Z",
     "details": [
       {
         "name": "Running software version",
@@ -2250,10 +2250,10 @@
     ],
     "lat": 37.781800000000004,
     "lng": -122.4168,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2QN-D2A7-9005/manage",
-    "configurationUpdatedAt": "2026-07-06T14:10:38Z",
+    "configurationUpdatedAt": "2026-07-06T14:46:40Z",
     "details": [
       {
         "name": "Running software version",
@@ -2276,10 +2276,10 @@
     ],
     "lat": 37.7785,
     "lng": -122.4164,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2QN-530F-9E58/manage",
-    "configurationUpdatedAt": "2026-07-06T23:15:02Z",
+    "configurationUpdatedAt": "2026-07-06T23:51:04Z",
     "details": [
       {
         "name": "Running software version",
@@ -2302,10 +2302,10 @@
     ],
     "lat": 37.7775,
     "lng": -122.41409999999999,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2QN-E1B7-C496/manage",
-    "configurationUpdatedAt": "2026-07-06T13:06:22Z",
+    "configurationUpdatedAt": "2026-07-06T13:42:24Z",
     "details": [
       {
         "name": "Running software version",
@@ -2328,10 +2328,10 @@
     ],
     "lat": 37.784600000000005,
     "lng": -122.4187,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2QN-14AF-9855/manage",
-    "configurationUpdatedAt": "2026-07-07T03:41:10Z",
+    "configurationUpdatedAt": "2026-07-07T04:17:12Z",
     "details": [
       {
         "name": "Running software version",
@@ -2354,10 +2354,10 @@
     ],
     "lat": 37.776,
     "lng": -122.4155,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2QN-9966-D99F/manage",
-    "configurationUpdatedAt": "2026-07-06T18:14:55Z",
+    "configurationUpdatedAt": "2026-07-06T18:50:57Z",
     "details": [
       {
         "name": "Running software version",
@@ -2380,10 +2380,10 @@
     ],
     "lat": 37.7819,
     "lng": -122.41839999999999,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2QN-E81E-12A2/manage",
-    "configurationUpdatedAt": "2026-07-06T12:39:03Z",
+    "configurationUpdatedAt": "2026-07-06T13:15:05Z",
     "details": [
       {
         "name": "Running software version",
@@ -2406,10 +2406,10 @@
     ],
     "lat": 37.7813,
     "lng": -122.4189,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2QN-9179-4758/manage",
-    "configurationUpdatedAt": "2026-07-06T18:48:44Z",
+    "configurationUpdatedAt": "2026-07-06T19:24:46Z",
     "details": [
       {
         "name": "Running software version",
@@ -2432,10 +2432,10 @@
     ],
     "lat": 37.7775,
     "lng": -122.4143,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2QN-F647-85B2/manage",
-    "configurationUpdatedAt": "2026-07-06T11:38:38Z",
+    "configurationUpdatedAt": "2026-07-06T12:14:40Z",
     "details": [
       {
         "name": "Running software version",
@@ -2458,10 +2458,10 @@
     ],
     "lat": 37.778000000000006,
     "lng": -122.41539999999999,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2QN-DE3E-E8EF/manage",
-    "configurationUpdatedAt": "2026-07-06T13:21:11Z",
+    "configurationUpdatedAt": "2026-07-06T13:57:13Z",
     "details": [
       {
         "name": "Running software version",
@@ -2484,10 +2484,10 @@
     ],
     "lat": 37.7843,
     "lng": -122.41279999999999,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2QN-8D55-A0EA/manage",
-    "configurationUpdatedAt": "2026-07-06T19:06:24Z",
+    "configurationUpdatedAt": "2026-07-06T19:42:26Z",
     "details": [
       {
         "name": "Running software version",
@@ -2510,10 +2510,10 @@
     ],
     "lat": 37.783500000000004,
     "lng": -122.4185,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2QN-2C43-77DE/manage",
-    "configurationUpdatedAt": "2026-07-07T02:00:34Z",
+    "configurationUpdatedAt": "2026-07-07T02:36:36Z",
     "details": [
       {
         "name": "Running software version",
@@ -2536,10 +2536,10 @@
     ],
     "lat": 37.7806,
     "lng": -122.413,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2QN-25F1-8121/manage",
-    "configurationUpdatedAt": "2026-07-07T02:27:32Z",
+    "configurationUpdatedAt": "2026-07-07T03:03:34Z",
     "details": [
       {
         "name": "Running software version",
@@ -2562,10 +2562,10 @@
     ],
     "lat": 37.781000000000006,
     "lng": -122.41409999999999,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2QN-8D7B-91F1/manage",
-    "configurationUpdatedAt": "2026-07-06T19:05:46Z",
+    "configurationUpdatedAt": "2026-07-06T19:41:48Z",
     "details": [
       {
         "name": "Running software version",
@@ -2588,10 +2588,10 @@
     ],
     "lat": 37.781600000000005,
     "lng": -122.4166,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2QN-E738-3C07/manage",
-    "configurationUpdatedAt": "2026-07-06T12:42:53Z",
+    "configurationUpdatedAt": "2026-07-06T13:18:55Z",
     "details": [
       {
         "name": "Running software version",
@@ -2614,10 +2614,10 @@
     ],
     "lat": 37.778200000000005,
     "lng": -122.41629999999999,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2QN-4AD1-4865/manage",
-    "configurationUpdatedAt": "2026-07-06T23:50:12Z",
+    "configurationUpdatedAt": "2026-07-07T00:26:14Z",
     "details": [
       {
         "name": "Running software version",
@@ -2640,10 +2640,10 @@
     ],
     "lat": 37.7757,
     "lng": -122.4148,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2QN-01B3-0F44/manage",
-    "configurationUpdatedAt": "2026-07-07T05:02:10Z",
+    "configurationUpdatedAt": "2026-07-07T05:38:12Z",
     "details": [
       {
         "name": "Running software version",
@@ -2666,10 +2666,10 @@
     ],
     "lat": 37.7791,
     "lng": -122.413,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2QN-1811-B75E/manage",
-    "configurationUpdatedAt": "2026-07-07T03:26:44Z",
+    "configurationUpdatedAt": "2026-07-07T04:02:46Z",
     "details": [
       {
         "name": "Running software version",
@@ -2692,10 +2692,10 @@
     ],
     "lat": 37.7834,
     "lng": -122.41929999999999,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2QN-2503-AEF1/manage",
-    "configurationUpdatedAt": "2026-07-07T02:31:30Z",
+    "configurationUpdatedAt": "2026-07-07T03:07:32Z",
     "details": [
       {
         "name": "Running software version",
@@ -2718,10 +2718,10 @@
     ],
     "lat": 37.780300000000004,
     "lng": -122.4119,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2QN-6958-2552/manage",
-    "configurationUpdatedAt": "2026-07-06T21:39:57Z",
+    "configurationUpdatedAt": "2026-07-06T22:15:59Z",
     "details": [
       {
         "name": "Running software version",
@@ -2744,10 +2744,10 @@
     ],
     "lat": 37.781000000000006,
     "lng": -122.4165,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2QN-C98B-73DD/manage",
-    "configurationUpdatedAt": "2026-07-06T14:49:30Z",
+    "configurationUpdatedAt": "2026-07-06T15:25:32Z",
     "details": [
       {
         "name": "Running software version",
@@ -2770,10 +2770,10 @@
     ],
     "lat": 37.775600000000004,
     "lng": -122.4191,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2QN-0DD6-2B63/manage",
-    "configurationUpdatedAt": "2026-07-07T04:10:23Z",
+    "configurationUpdatedAt": "2026-07-07T04:46:25Z",
     "details": [
       {
         "name": "Running software version",
@@ -2796,10 +2796,10 @@
     ],
     "lat": 37.7798,
     "lng": -122.41839999999999,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2QN-00B1-7241/manage",
-    "configurationUpdatedAt": "2026-07-07T05:06:28Z",
+    "configurationUpdatedAt": "2026-07-07T05:42:30Z",
     "details": [
       {
         "name": "Running software version",
@@ -2822,10 +2822,10 @@
     ],
     "lat": 37.7809,
     "lng": -122.41929999999999,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2QN-1A07-003C/manage",
-    "configurationUpdatedAt": "2026-07-07T03:18:22Z",
+    "configurationUpdatedAt": "2026-07-07T03:54:24Z",
     "details": [
       {
         "name": "Running software version",
@@ -2848,10 +2848,10 @@
     ],
     "lat": 37.781600000000005,
     "lng": -122.41019999999999,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2QN-453D-411B/manage",
-    "configurationUpdatedAt": "2026-07-07T00:14:00Z",
+    "configurationUpdatedAt": "2026-07-07T00:50:02Z",
     "details": [
       {
         "name": "Running software version",
@@ -2874,10 +2874,10 @@
     ],
     "lat": 37.7817,
     "lng": -122.4147,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2QN-B69D-9068/manage",
-    "configurationUpdatedAt": "2026-07-06T16:10:16Z",
+    "configurationUpdatedAt": "2026-07-06T16:46:18Z",
     "details": [
       {
         "name": "Running software version",
@@ -2900,10 +2900,10 @@
     ],
     "lat": 37.7821,
     "lng": -122.4187,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2QN-49E8-FDCC/manage",
-    "configurationUpdatedAt": "2026-07-06T23:54:05Z",
+    "configurationUpdatedAt": "2026-07-07T00:30:07Z",
     "details": [
       {
         "name": "Running software version",
@@ -2926,10 +2926,10 @@
     ],
     "lat": 37.784200000000006,
     "lng": -122.4172,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2QN-B791-C155/manage",
-    "configurationUpdatedAt": "2026-07-06T16:06:12Z",
+    "configurationUpdatedAt": "2026-07-06T16:42:14Z",
     "details": [
       {
         "name": "Running software version",
@@ -2953,10 +2953,10 @@
     ],
     "lat": 37.7785,
     "lng": -122.4114,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2QN-7E98-3D14/manage",
-    "configurationUpdatedAt": "2026-07-06T20:09:17Z",
+    "configurationUpdatedAt": "2026-07-06T20:45:19Z",
     "details": [
       {
         "name": "Running software version",
@@ -2980,10 +2980,10 @@
     ],
     "lat": 37.779900000000005,
     "lng": -122.4149,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2QN-8DB6-EBBE/manage",
-    "configurationUpdatedAt": "2026-07-06T19:04:47Z",
+    "configurationUpdatedAt": "2026-07-06T19:40:49Z",
     "details": [
       {
         "name": "Running software version",
@@ -3007,10 +3007,10 @@
     ],
     "lat": 37.7815,
     "lng": -122.41149999999999,
-    "address": "San Francisco HQ",
+    "address": "",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2QN-EF04-AC22/manage",
-    "configurationUpdatedAt": "2026-07-06T12:09:37Z",
+    "configurationUpdatedAt": "2026-07-06T12:45:39Z",
     "details": [
       {
         "name": "Running software version",
@@ -3034,10 +3034,10 @@
     ],
     "lat": 40.7216,
     "lng": -74.0013,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-CC9B-08F0/manage",
-    "configurationUpdatedAt": "2026-07-06T14:36:26Z",
+    "configurationUpdatedAt": "2026-07-06T15:12:28Z",
     "details": [
       {
         "name": "Running software version",
@@ -3060,10 +3060,10 @@
     ],
     "lat": 40.7213,
     "lng": -74.0048,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2KD-72B3-3D45/manage",
-    "configurationUpdatedAt": "2026-07-06T21:00:02Z",
+    "configurationUpdatedAt": "2026-07-06T21:36:04Z",
     "details": [
       {
         "name": "Running software version",
@@ -3086,10 +3086,10 @@
     ],
     "lat": 40.717,
     "lng": -73.9998,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2KD-CB79-BBAA/manage",
-    "configurationUpdatedAt": "2026-07-06T14:41:16Z",
+    "configurationUpdatedAt": "2026-07-06T15:17:18Z",
     "details": [
       {
         "name": "Running software version",
@@ -3112,10 +3112,10 @@
     ],
     "lat": 40.714400000000005,
     "lng": -74.0042,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-CF55-6A50/manage",
-    "configurationUpdatedAt": "2026-07-06T14:24:48Z",
+    "configurationUpdatedAt": "2026-07-06T15:00:50Z",
     "details": [
       {
         "name": "Running software version",
@@ -3138,10 +3138,10 @@
     ],
     "lat": 40.7139,
     "lng": -73.9966,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-2573-26B7/manage",
-    "configurationUpdatedAt": "2026-07-07T02:29:38Z",
+    "configurationUpdatedAt": "2026-07-07T03:05:40Z",
     "details": [
       {
         "name": "Running software version",
@@ -3164,10 +3164,10 @@
     ],
     "lat": 40.7179,
     "lng": -74.0033,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2KD-8F7E-B0C3/manage",
-    "configurationUpdatedAt": "2026-07-06T18:57:11Z",
+    "configurationUpdatedAt": "2026-07-06T19:33:13Z",
     "details": [
       {
         "name": "Running software version",
@@ -3190,10 +3190,10 @@
     ],
     "lat": 40.7149,
     "lng": -74.0007,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-6597-A7A9/manage",
-    "configurationUpdatedAt": "2026-07-06T21:55:58Z",
+    "configurationUpdatedAt": "2026-07-06T22:32:00Z",
     "details": [
       {
         "name": "Running software version",
@@ -3216,10 +3216,10 @@
     ],
     "lat": 40.7186,
     "lng": -74.0058,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2KD-CA4D-CB5A/manage",
-    "configurationUpdatedAt": "2026-07-06T14:46:16Z",
+    "configurationUpdatedAt": "2026-07-06T15:22:18Z",
     "details": [
       {
         "name": "Running software version",
@@ -3242,10 +3242,10 @@
     ],
     "lat": 40.7185,
     "lng": -73.9998,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2KD-31EB-E909/manage",
-    "configurationUpdatedAt": "2026-07-07T01:36:26Z",
+    "configurationUpdatedAt": "2026-07-07T02:12:28Z",
     "details": [
       {
         "name": "Running software version",
@@ -3268,10 +3268,10 @@
     ],
     "lat": 40.7213,
     "lng": -74.0009,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-5015-A1A9/manage",
-    "configurationUpdatedAt": "2026-07-06T23:27:44Z",
+    "configurationUpdatedAt": "2026-07-07T00:03:46Z",
     "details": [
       {
         "name": "Running software version",
@@ -3294,10 +3294,10 @@
     ],
     "lat": 40.714,
     "lng": -73.9992,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-F149-36BC/manage",
-    "configurationUpdatedAt": "2026-07-06T11:59:56Z",
+    "configurationUpdatedAt": "2026-07-06T12:35:58Z",
     "details": [
       {
         "name": "Running software version",
@@ -3320,10 +3320,10 @@
     ],
     "lat": 40.7166,
     "lng": -74.0014,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-289A-8F82/manage",
-    "configurationUpdatedAt": "2026-07-07T02:16:11Z",
+    "configurationUpdatedAt": "2026-07-07T02:52:13Z",
     "details": [
       {
         "name": "Running software version",
@@ -3346,10 +3346,10 @@
     ],
     "lat": 40.7217,
     "lng": -74.0043,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-B849-B4D1/manage",
-    "configurationUpdatedAt": "2026-07-06T16:03:08Z",
+    "configurationUpdatedAt": "2026-07-06T16:39:10Z",
     "details": [
       {
         "name": "Running software version",
@@ -3372,10 +3372,10 @@
     ],
     "lat": 40.717,
     "lng": -73.9977,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-FBBC-EC1A/manage",
-    "configurationUpdatedAt": "2026-07-06T11:15:21Z",
+    "configurationUpdatedAt": "2026-07-06T11:51:23Z",
     "details": [
       {
         "name": "Running software version",
@@ -3398,10 +3398,10 @@
     ],
     "lat": 40.7175,
     "lng": -74.003,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2KD-923B-B637/manage",
-    "configurationUpdatedAt": "2026-07-06T18:45:30Z",
+    "configurationUpdatedAt": "2026-07-06T19:21:32Z",
     "details": [
       {
         "name": "Running software version",
@@ -3424,10 +3424,10 @@
     ],
     "lat": 40.722100000000005,
     "lng": -74.0017,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-4549-BAB1/manage",
-    "configurationUpdatedAt": "2026-07-07T00:13:48Z",
+    "configurationUpdatedAt": "2026-07-07T00:49:50Z",
     "details": [
       {
         "name": "Running software version",
@@ -3450,10 +3450,10 @@
     ],
     "lat": 40.7183,
     "lng": -74.0019,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2KD-F36F-8A1B/manage",
-    "configurationUpdatedAt": "2026-07-06T11:50:46Z",
+    "configurationUpdatedAt": "2026-07-06T12:26:48Z",
     "details": [
       {
         "name": "Running software version",
@@ -3476,10 +3476,10 @@
     ],
     "lat": 40.714600000000004,
     "lng": -74.0029,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2KD-85C2-760A/manage",
-    "configurationUpdatedAt": "2026-07-06T19:38:43Z",
+    "configurationUpdatedAt": "2026-07-06T20:14:45Z",
     "details": [
       {
         "name": "Running software version",
@@ -3502,10 +3502,10 @@
     ],
     "lat": 40.7162,
     "lng": -74.004,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-DEE0-2412/manage",
-    "configurationUpdatedAt": "2026-07-06T13:18:29Z",
+    "configurationUpdatedAt": "2026-07-06T13:54:31Z",
     "details": [
       {
         "name": "Running software version",
@@ -3528,10 +3528,10 @@
     ],
     "lat": 40.7154,
     "lng": -74.0022,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2KD-1A17-6802/manage",
-    "configurationUpdatedAt": "2026-07-07T03:18:06Z",
+    "configurationUpdatedAt": "2026-07-07T03:54:08Z",
     "details": [
       {
         "name": "Running software version",
@@ -3554,10 +3554,10 @@
     ],
     "lat": 40.7136,
     "lng": -73.9985,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-1B4B-59E0/manage",
-    "configurationUpdatedAt": "2026-07-07T03:12:58Z",
+    "configurationUpdatedAt": "2026-07-07T03:49:00Z",
     "details": [
       {
         "name": "Running software version",
@@ -3580,10 +3580,10 @@
     ],
     "lat": 40.713100000000004,
     "lng": -74.0036,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2QN-8827-5B07/manage",
-    "configurationUpdatedAt": "2026-07-06T19:28:30Z",
+    "configurationUpdatedAt": "2026-07-06T20:04:32Z",
     "details": [
       {
         "name": "Running software version",
@@ -3606,10 +3606,10 @@
     ],
     "lat": 40.722,
     "lng": -73.9996,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2QN-745E-4C88/manage",
-    "configurationUpdatedAt": "2026-07-06T20:52:55Z",
+    "configurationUpdatedAt": "2026-07-06T21:28:57Z",
     "details": [
       {
         "name": "Running software version",
@@ -3632,10 +3632,10 @@
     ],
     "lat": 40.7152,
     "lng": -73.9968,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2QN-98C2-AB94/manage",
-    "configurationUpdatedAt": "2026-07-06T18:17:39Z",
+    "configurationUpdatedAt": "2026-07-06T18:53:41Z",
     "details": [
       {
         "name": "Running software version",
@@ -3658,10 +3658,10 @@
     ],
     "lat": 40.716,
     "lng": -73.9961,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2QN-71E6-81D0/manage",
-    "configurationUpdatedAt": "2026-07-06T21:03:27Z",
+    "configurationUpdatedAt": "2026-07-06T21:39:29Z",
     "details": [
       {
         "name": "Running software version",
@@ -3684,10 +3684,10 @@
     ],
     "lat": 40.7179,
     "lng": -74.0052,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2QN-C32D-1997/manage",
-    "configurationUpdatedAt": "2026-07-06T15:16:40Z",
+    "configurationUpdatedAt": "2026-07-06T15:52:42Z",
     "details": [
       {
         "name": "Running software version",
@@ -3710,10 +3710,10 @@
     ],
     "lat": 40.7202,
     "lng": -74.001,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2QN-4A97-BDBE/manage",
-    "configurationUpdatedAt": "2026-07-06T23:51:10Z",
+    "configurationUpdatedAt": "2026-07-07T00:27:12Z",
     "details": [
       {
         "name": "Running software version",
@@ -3736,10 +3736,10 @@
     ],
     "lat": 40.7224,
     "lng": -73.9992,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2QN-7D53-4138/manage",
-    "configurationUpdatedAt": "2026-07-06T20:14:42Z",
+    "configurationUpdatedAt": "2026-07-06T20:50:44Z",
     "details": [
       {
         "name": "Running software version",
@@ -3762,10 +3762,10 @@
     ],
     "lat": 40.7169,
     "lng": -74.0042,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2QN-2527-0CA9/manage",
-    "configurationUpdatedAt": "2026-07-07T02:30:54Z",
+    "configurationUpdatedAt": "2026-07-07T03:06:56Z",
     "details": [
       {
         "name": "Running software version",
@@ -3788,10 +3788,10 @@
     ],
     "lat": 40.7187,
     "lng": -74.0041,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2QN-9827-D3F3/manage",
-    "configurationUpdatedAt": "2026-07-06T18:20:14Z",
+    "configurationUpdatedAt": "2026-07-06T18:56:16Z",
     "details": [
       {
         "name": "Running software version",
@@ -3814,10 +3814,10 @@
     ],
     "lat": 40.713,
     "lng": -74.0008,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2QN-DB5E-714A/manage",
-    "configurationUpdatedAt": "2026-07-06T13:33:27Z",
+    "configurationUpdatedAt": "2026-07-06T14:09:29Z",
     "details": [
       {
         "name": "Running software version",
@@ -3840,10 +3840,10 @@
     ],
     "lat": 40.7132,
     "lng": -74.0014,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2QN-7C44-2F48/manage",
-    "configurationUpdatedAt": "2026-07-06T20:19:13Z",
+    "configurationUpdatedAt": "2026-07-06T20:55:15Z",
     "details": [
       {
         "name": "Running software version",
@@ -3866,10 +3866,10 @@
     ],
     "lat": 40.7162,
     "lng": -74.0044,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2QN-BDB1-5C52/manage",
-    "configurationUpdatedAt": "2026-07-06T15:40:04Z",
+    "configurationUpdatedAt": "2026-07-06T16:16:06Z",
     "details": [
       {
         "name": "Running software version",
@@ -3892,10 +3892,10 @@
     ],
     "lat": 40.7187,
     "lng": -74.0026,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2QN-9FD8-AE73/manage",
-    "configurationUpdatedAt": "2026-07-06T17:47:25Z",
+    "configurationUpdatedAt": "2026-07-06T18:23:27Z",
     "details": [
       {
         "name": "Running software version",
@@ -3918,10 +3918,10 @@
     ],
     "lat": 40.714600000000004,
     "lng": -74.004,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2QN-D786-6BE2/manage",
-    "configurationUpdatedAt": "2026-07-06T13:49:51Z",
+    "configurationUpdatedAt": "2026-07-06T14:25:53Z",
     "details": [
       {
         "name": "Running software version",
@@ -3944,10 +3944,10 @@
     ],
     "lat": 40.7156,
     "lng": -74.0023,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2QN-622C-55A8/manage",
-    "configurationUpdatedAt": "2026-07-06T22:10:33Z",
+    "configurationUpdatedAt": "2026-07-06T22:46:35Z",
     "details": [
       {
         "name": "Running software version",
@@ -3970,10 +3970,10 @@
     ],
     "lat": 40.7166,
     "lng": -74.0041,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2QN-3E82-DF96/manage",
-    "configurationUpdatedAt": "2026-07-07T00:42:43Z",
+    "configurationUpdatedAt": "2026-07-07T01:18:45Z",
     "details": [
       {
         "name": "Running software version",
@@ -3996,10 +3996,10 @@
     ],
     "lat": 40.7217,
     "lng": -74.0007,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2QN-0DB9-1A85/manage",
-    "configurationUpdatedAt": "2026-07-07T04:10:52Z",
+    "configurationUpdatedAt": "2026-07-07T04:46:54Z",
     "details": [
       {
         "name": "Running software version",
@@ -4023,10 +4023,10 @@
     ],
     "lat": 40.718900000000005,
     "lng": -74.0006,
-    "address": "Branch-NYC",
+    "address": "",
     "notes": "Branch-NYC, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2QN-12D8-A001/manage",
-    "configurationUpdatedAt": "2026-07-07T03:49:01Z",
+    "configurationUpdatedAt": "2026-07-07T04:25:03Z",
     "details": [
       {
         "name": "Running software version",
