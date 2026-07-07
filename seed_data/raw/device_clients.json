@@ -4355,25 +4355,7 @@
     }
   ],
   "Q2QN-CFEE-9242": [],
-  "Q2QN-9AEA-116D": [
-    {
-      "id": "4caa7ff6d9b6",
-      "mac": "02:00:00:c9:51:ee",
-      "description": "lsys-lon-clinic-2242",
-      "mdnsName": "lsys-lon-clinic-2242",
-      "dhcpHostname": "LSYS-LON-CLINIC",
-      "user": null,
-      "ip": "10.13.9.2",
-      "vlan": "9",
-      "namedVlan": "Clinic",
-      "switchport": "1/5",
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2786700,
-        "recv": 380300
-      }
-    }
-  ],
+  "Q2QN-9AEA-116D": [],
   "Q2QN-77BB-A15A": [
     {
       "id": "9ed0bd9d4014",
@@ -4497,25 +4479,7 @@
       }
     }
   ],
-  "Q2QN-B2B2-32FF": [
-    {
-      "id": "c06522af984a",
-      "mac": "02:00:00:0a:da:87",
-      "description": "lsys-lon-clinic-2256",
-      "mdnsName": "lsys-lon-clinic-2256",
-      "dhcpHostname": "LSYS-LON-CLINIC",
-      "user": null,
-      "ip": "10.13.9.3",
-      "vlan": "9",
-      "namedVlan": "Clinic",
-      "switchport": "1/21",
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1949300,
-        "recv": 3730700
-      }
-    }
-  ],
+  "Q2QN-B2B2-32FF": [],
   "Q2QN-64DE-7814": [
     {
       "id": "5d2e7a3c9cf0",
@@ -13246,23 +13210,6 @@
       }
     },
     {
-      "id": "9013a9bb1ca2",
-      "mac": "02:00:00:33:1d:cf",
-      "description": "lsys-sfo-clinic-2254",
-      "mdnsName": "lsys-sfo-clinic-2254",
-      "dhcpHostname": "LSYS-SFO-CLINIC",
-      "user": null,
-      "ip": "10.11.9.5",
-      "vlan": "9",
-      "namedVlan": "Clinic",
-      "switchport": "1/22",
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 366500,
-        "recv": 5379300
-      }
-    },
-    {
       "id": "0d2f0e2ccdcd",
       "mac": "10:c5:95:e0:c4:f2",
       "description": "lsys-sfo-lap-0885",
@@ -13296,23 +13243,6 @@
       "usage": {
         "sent": 1167850,
         "recv": 4783200
-      }
-    },
-    {
-      "id": "4bc48857eb4f",
-      "mac": "02:00:00:0e:49:e5",
-      "description": "lsys-sfo-clinic-2246",
-      "mdnsName": "lsys-sfo-clinic-2246",
-      "dhcpHostname": "LSYS-SFO-CLINIC",
-      "user": null,
-      "ip": "10.11.9.3",
-      "vlan": "9",
-      "namedVlan": "Clinic",
-      "switchport": "1/7",
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 3011950,
-        "recv": 321700
       }
     }
   ],
@@ -13353,25 +13283,7 @@
     }
   ],
   "Q2QN-9966-D99F": [],
-  "Q2QN-E81E-12A2": [
-    {
-      "id": "c18922fdaceb",
-      "mac": "02:00:00:ef:21:65",
-      "description": "lsys-sfo-clinic-2251",
-      "mdnsName": "lsys-sfo-clinic-2251",
-      "dhcpHostname": "LSYS-SFO-CLINIC",
-      "user": null,
-      "ip": "10.11.9.4",
-      "vlan": "9",
-      "namedVlan": "Clinic",
-      "switchport": "1/35",
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2213350,
-        "recv": 4248800
-      }
-    }
-  ],
+  "Q2QN-E81E-12A2": [],
   "Q2QN-9179-4758": [
     {
       "id": "3ebf2e8732a4",
@@ -13507,25 +13419,7 @@
     }
   ],
   "Q2QN-01B3-0F44": [],
-  "Q2QN-1811-B75E": [
-    {
-      "id": "70fa12e96b7f",
-      "mac": "02:00:00:5f:e6:c2",
-      "description": "lsys-sfo-clinic-2257",
-      "mdnsName": "lsys-sfo-clinic-2257",
-      "dhcpHostname": "LSYS-SFO-CLINIC",
-      "user": null,
-      "ip": "10.11.9.6",
-      "vlan": "9",
-      "namedVlan": "Clinic",
-      "switchport": "1/5",
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1375950,
-        "recv": 2880500
-      }
-    }
-  ],
+  "Q2QN-1811-B75E": [],
   "Q2QN-2503-AEF1": [],
   "Q2QN-6958-2552": [
     {
@@ -17586,25 +17480,7 @@
   ],
   "Q2QN-8827-5B07": [],
   "Q2QN-745E-4C88": [],
-  "Q2QN-98C2-AB94": [
-    {
-      "id": "eceb6da04578",
-      "mac": "02:00:00:6c:c0:87",
-      "description": "lsys-nyc-clinic-2247",
-      "mdnsName": "lsys-nyc-clinic-2247",
-      "dhcpHostname": "LSYS-NYC-CLINIC",
-      "user": null,
-      "ip": "10.12.9.3",
-      "vlan": "9",
-      "namedVlan": "Clinic",
-      "switchport": "1/40",
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 889200,
-        "recv": 3572500
-      }
-    }
-  ],
+  "Q2QN-98C2-AB94": [],
   "Q2QN-71E6-81D0": [],
   "Q2QN-C32D-1997": [
     {
@@ -17697,25 +17573,7 @@
       }
     }
   ],
-  "Q2QN-2527-0CA9": [
-    {
-      "id": "125d4b8dde01",
-      "mac": "02:00:00:c3:25:0f",
-      "description": "lsys-nyc-clinic-2245",
-      "mdnsName": "lsys-nyc-clinic-2245",
-      "dhcpHostname": "LSYS-NYC-CLINIC",
-      "user": null,
-      "ip": "10.12.9.2",
-      "vlan": "9",
-      "namedVlan": "Clinic",
-      "switchport": "1/48",
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2841650,
-        "recv": 2845300
-      }
-    }
-  ],
+  "Q2QN-2527-0CA9": [],
   "Q2QN-9827-D3F3": [],
   "Q2QN-DB5E-714A": [
     {
@@ -17792,23 +17650,6 @@
       "usage": {
         "sent": 1811250,
         "recv": 3525400
-      }
-    },
-    {
-      "id": "aa89e82c8513",
-      "mac": "02:00:00:93:74:33",
-      "description": "lsys-nyc-clinic-2250",
-      "mdnsName": "lsys-nyc-clinic-2250",
-      "dhcpHostname": "LSYS-NYC-CLINIC",
-      "user": null,
-      "ip": "10.12.9.5",
-      "vlan": "9",
-      "namedVlan": "Clinic",
-      "switchport": "1/16",
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1703350,
-        "recv": 6544800
       }
     }
   ],
