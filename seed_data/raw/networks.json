@@ -3,6 +3,9 @@
     "id": "N_322920021",
     "organizationId": "243503",
     "name": "Branch-London",
+    "address": "London",
+    "lat": 51.5074,
+    "lng": -0.1278,
     "productTypes": [
       "appliance",
       "switch",
@@ -23,6 +26,9 @@
     "id": "N_695691719",
     "organizationId": "243503",
     "name": "San Francisco HQ",
+    "address": "San Francisco",
+    "lat": 37.7749,
+    "lng": -122.4194,
     "productTypes": [
       "appliance",
       "switch",
@@ -43,6 +49,9 @@
     "id": "N_123827610",
     "organizationId": "243503",
     "name": "Branch-NYC",
+    "address": "New York",
+    "lat": 40.7128,
+    "lng": -74.006,
     "productTypes": [
       "appliance",
       "switch",

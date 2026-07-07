@@ -233,6 +233,9 @@ for loc, rows in rows_by_site.items():
         "id":            net_id,
         "organizationId": ORG_ID,
         "name":          cfg["display_name"],
+        "address":       loc,          # plain city name — UAI reads this for device/client location
+        "lat":           cfg["lat"],
+        "lng":           cfg["lng"],
         "productTypes":  ["appliance", "switch", "wireless"],
         "timeZone":      cfg["tz"],
         "tags":          [code],
