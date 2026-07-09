@@ -324,40 +324,6 @@
         "sent": 2860800,
         "recv": 3439300
       }
-    },
-    {
-      "id": "3bd2eda6a940",
-      "mac": "02:00:00:b3:e2:7a",
-      "description": "lsys-lon-iot-2075",
-      "mdnsName": "lsys-lon-iot-2075",
-      "dhcpHostname": "lsys-lon-iot-2075",
-      "user": null,
-      "ip": "10.13.8.9",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2166400,
-        "recv": 1445800
-      }
-    },
-    {
-      "id": "f69f06ddcdef",
-      "mac": "0c:8d:db:71:53:a1",
-      "description": "lsys-lon-iot-2124",
-      "mdnsName": "lsys-lon-iot-2124",
-      "dhcpHostname": "lsys-lon-iot-2124",
-      "user": null,
-      "ip": "10.13.8.15",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2635950,
-        "recv": 2748500
-      }
     }
   ],
   "Q2KD-B3E5-46E3": [
@@ -478,23 +444,6 @@
       "usage": {
         "sent": 2968450,
         "recv": 4456500
-      }
-    },
-    {
-      "id": "2ccc25c942d5",
-      "mac": "02:00:00:60:ce:2d",
-      "description": "lsys-lon-iot-2227",
-      "mdnsName": "lsys-lon-iot-2227",
-      "dhcpHostname": "lsys-lon-iot-2227",
-      "user": null,
-      "ip": "10.13.8.33",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 855450,
-        "recv": 5424900
       }
     }
   ],
@@ -684,40 +633,6 @@
       "usage": {
         "sent": 2953900,
         "recv": 2874700
-      }
-    },
-    {
-      "id": "c09d6265a994",
-      "mac": "02:00:00:30:0f:9b",
-      "description": "lsys-lon-iot-2213",
-      "mdnsName": "lsys-lon-iot-2213",
-      "dhcpHostname": "lsys-lon-iot-2213",
-      "user": null,
-      "ip": "10.13.8.27",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2170600,
-        "recv": 3848100
-      }
-    },
-    {
-      "id": "92753895da33",
-      "mac": "0c:8d:db:10:87:32",
-      "description": "lsys-lon-iot-2238",
-      "mdnsName": "lsys-lon-iot-2238",
-      "dhcpHostname": "lsys-lon-iot-2238",
-      "user": null,
-      "ip": "10.13.8.34",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2792950,
-        "recv": 5011600
       }
     }
   ],
@@ -925,40 +840,6 @@
         "sent": 2940900,
         "recv": 624400
       }
-    },
-    {
-      "id": "0d2ac01b844d",
-      "mac": "02:00:00:0b:71:4e",
-      "description": "lsys-lon-iot-2091",
-      "mdnsName": "lsys-lon-iot-2091",
-      "dhcpHostname": "lsys-lon-iot-2091",
-      "user": null,
-      "ip": "10.13.8.11",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1693450,
-        "recv": 2680400
-      }
-    },
-    {
-      "id": "ab5af9493f83",
-      "mac": "02:00:00:b4:53:5e",
-      "description": "lsys-lon-iot-2168",
-      "mdnsName": "lsys-lon-iot-2168",
-      "dhcpHostname": "lsys-lon-iot-2168",
-      "user": null,
-      "ip": "10.13.8.21",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 812950,
-        "recv": 1665300
-      }
     }
   ],
   "Q2KD-3423-1217": [
@@ -1082,40 +963,6 @@
       }
     },
     {
-      "id": "0074e0606559",
-      "mac": "0c:8d:db:36:f4:24",
-      "description": "lsys-lon-iot-2041",
-      "mdnsName": "lsys-lon-iot-2041",
-      "dhcpHostname": "lsys-lon-iot-2041",
-      "user": null,
-      "ip": "10.13.8.5",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1297250,
-        "recv": 4367100
-      }
-    },
-    {
-      "id": "7663deb23da8",
-      "mac": "02:00:00:3b:73:52",
-      "description": "lsys-lon-iot-2042",
-      "mdnsName": "lsys-lon-iot-2042",
-      "dhcpHostname": "lsys-lon-iot-2042",
-      "user": null,
-      "ip": "10.13.8.6",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 789200,
-        "recv": 5447500
-      }
-    },
-    {
       "id": "0fc2a137553a",
       "mac": "10:c5:95:26:3f:87",
       "description": "lsys-lon-lap-0856",
@@ -1217,40 +1064,6 @@
       "usage": {
         "sent": 404650,
         "recv": 4601400
-      }
-    },
-    {
-      "id": "9911cc73efb1",
-      "mac": "02:00:00:d6:cc:6e",
-      "description": "lsys-lon-iot-2073",
-      "mdnsName": "lsys-lon-iot-2073",
-      "dhcpHostname": "lsys-lon-iot-2073",
-      "user": null,
-      "ip": "10.13.8.8",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 3068050,
-        "recv": 1425500
-      }
-    },
-    {
-      "id": "3c64f4dce543",
-      "mac": "02:00:00:4b:f1:7a",
-      "description": "lsys-lon-iot-2106",
-      "mdnsName": "lsys-lon-iot-2106",
-      "dhcpHostname": "lsys-lon-iot-2106",
-      "user": null,
-      "ip": "10.13.8.13",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2934550,
-        "recv": 33700
       }
     }
   ],
@@ -1372,23 +1185,6 @@
       "usage": {
         "sent": 212550,
         "recv": 3740700
-      }
-    },
-    {
-      "id": "b9c60aaf70b1",
-      "mac": "02:00:00:75:a4:35",
-      "description": "lsys-lon-iot-2203",
-      "mdnsName": "lsys-lon-iot-2203",
-      "dhcpHostname": "lsys-lon-iot-2203",
-      "user": null,
-      "ip": "10.13.8.24",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1442450,
-        "recv": 4014600
       }
     }
   ],
@@ -1562,23 +1358,6 @@
         "sent": 1484100,
         "recv": 2902100
       }
-    },
-    {
-      "id": "42990c88ced2",
-      "mac": "02:00:00:0d:00:87",
-      "description": "lsys-lon-iot-2226",
-      "mdnsName": "lsys-lon-iot-2226",
-      "dhcpHostname": "lsys-lon-iot-2226",
-      "user": null,
-      "ip": "10.13.8.32",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2647300,
-        "recv": 4933800
-      }
     }
   ],
   "Q2KD-D976-09C2": [
@@ -1716,40 +1495,6 @@
       "usage": {
         "sent": 2483700,
         "recv": 1883700
-      }
-    },
-    {
-      "id": "d2eae34947d5",
-      "mac": "0c:8d:db:47:b6:20",
-      "description": "lsys-lon-iot-2131",
-      "mdnsName": "lsys-lon-iot-2131",
-      "dhcpHostname": "lsys-lon-iot-2131",
-      "user": null,
-      "ip": "10.13.8.16",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 919450,
-        "recv": 5054500
-      }
-    },
-    {
-      "id": "fa316b743cf5",
-      "mac": "0c:8d:db:8d:8f:4d",
-      "description": "lsys-lon-iot-2220",
-      "mdnsName": "lsys-lon-iot-2220",
-      "dhcpHostname": "lsys-lon-iot-2220",
-      "user": null,
-      "ip": "10.13.8.30",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 780250,
-        "recv": 5208000
       }
     }
   ],
@@ -1939,23 +1684,6 @@
       "usage": {
         "sent": 2657950,
         "recv": 3681800
-      }
-    },
-    {
-      "id": "ef48859e927c",
-      "mac": "02:00:00:70:b6:10",
-      "description": "lsys-lon-iot-2152",
-      "mdnsName": "lsys-lon-iot-2152",
-      "dhcpHostname": "lsys-lon-iot-2152",
-      "user": null,
-      "ip": "10.13.8.19",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1875000,
-        "recv": 912500
       }
     },
     {
@@ -2768,40 +2496,6 @@
       }
     },
     {
-      "id": "cfbd8300c58e",
-      "mac": "02:00:00:85:df:dd",
-      "description": "lsys-lon-iot-2211",
-      "mdnsName": "lsys-lon-iot-2211",
-      "dhcpHostname": "lsys-lon-iot-2211",
-      "user": null,
-      "ip": "10.13.8.26",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2528700,
-        "recv": 909300
-      }
-    },
-    {
-      "id": "7c466721e26f",
-      "mac": "02:00:00:3d:6e:4f",
-      "description": "lsys-lon-iot-2222",
-      "mdnsName": "lsys-lon-iot-2222",
-      "dhcpHostname": "lsys-lon-iot-2222",
-      "user": null,
-      "ip": "10.13.8.31",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2898350,
-        "recv": 3212200
-      }
-    },
-    {
       "id": "4b713de45363",
       "mac": "10:c5:95:34:d9:ca",
       "description": "lsys-lon-lap-0866",
@@ -2920,40 +2614,6 @@
       "usage": {
         "sent": 2938550,
         "recv": 5020600
-      }
-    },
-    {
-      "id": "e2136c929cfb",
-      "mac": "0c:8d:db:ee:bb:3f",
-      "description": "lsys-lon-iot-2054",
-      "mdnsName": "lsys-lon-iot-2054",
-      "dhcpHostname": "lsys-lon-iot-2054",
-      "user": null,
-      "ip": "10.13.8.7",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2009350,
-        "recv": 3674500
-      }
-    },
-    {
-      "id": "cd3b07bfd4e2",
-      "mac": "0c:8d:db:ce:1a:be",
-      "description": "lsys-lon-iot-2207",
-      "mdnsName": "lsys-lon-iot-2207",
-      "dhcpHostname": "lsys-lon-iot-2207",
-      "user": null,
-      "ip": "10.13.8.25",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2724900,
-        "recv": 1581200
       }
     }
   ],
@@ -3129,23 +2789,6 @@
       }
     },
     {
-      "id": "f0974fab0ee7",
-      "mac": "0c:8d:db:2a:fe:09",
-      "description": "lsys-lon-iot-2148",
-      "mdnsName": "lsys-lon-iot-2148",
-      "dhcpHostname": "lsys-lon-iot-2148",
-      "user": null,
-      "ip": "10.13.8.18",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 190750,
-        "recv": 6209700
-      }
-    },
-    {
       "id": "771072cbcaa0",
       "mac": "10:c5:95:86:7c:a3",
       "description": "lsys-lon-lap-0861",
@@ -3298,23 +2941,6 @@
       "usage": {
         "sent": 3216350,
         "recv": 2521500
-      }
-    },
-    {
-      "id": "dbffa6e90afd",
-      "mac": "02:00:00:d0:88:cc",
-      "description": "lsys-lon-iot-2158",
-      "mdnsName": "lsys-lon-iot-2158",
-      "dhcpHostname": "lsys-lon-iot-2158",
-      "user": null,
-      "ip": "10.13.8.20",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 140650,
-        "recv": 3679100
       }
     }
   ],
@@ -3505,40 +3131,6 @@
         "sent": 669350,
         "recv": 5053200
       }
-    },
-    {
-      "id": "4e9ddfdb1ce2",
-      "mac": "02:00:00:43:5f:23",
-      "description": "lsys-lon-iot-2005",
-      "mdnsName": "lsys-lon-iot-2005",
-      "dhcpHostname": "lsys-lon-iot-2005",
-      "user": null,
-      "ip": "10.13.8.3",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 369700,
-        "recv": 1838100
-      }
-    },
-    {
-      "id": "ac4e225c9b33",
-      "mac": "0c:8d:db:4e:07:ed",
-      "description": "lsys-lon-iot-2202",
-      "mdnsName": "lsys-lon-iot-2202",
-      "dhcpHostname": "lsys-lon-iot-2202",
-      "user": null,
-      "ip": "10.13.8.23",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1986550,
-        "recv": 2750900
-      }
     }
   ],
   "Q2KD-7EBA-CC83": [
@@ -3660,40 +3252,6 @@
         "sent": 2878500,
         "recv": 3034000
       }
-    },
-    {
-      "id": "b4302da5bce1",
-      "mac": "02:00:00:0a:ea:b9",
-      "description": "lsys-lon-iot-2098",
-      "mdnsName": "lsys-lon-iot-2098",
-      "dhcpHostname": "lsys-lon-iot-2098",
-      "user": null,
-      "ip": "10.13.8.12",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2417650,
-        "recv": 947500
-      }
-    },
-    {
-      "id": "df7a46f9c319",
-      "mac": "02:00:00:bd:d2:4f",
-      "description": "lsys-lon-iot-2145",
-      "mdnsName": "lsys-lon-iot-2145",
-      "dhcpHostname": "lsys-lon-iot-2145",
-      "user": null,
-      "ip": "10.13.8.17",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2497250,
-        "recv": 6222200
-      }
     }
   ],
   "Q2KD-C046-7A48": [
@@ -3814,23 +3372,6 @@
       "usage": {
         "sent": 2659600,
         "recv": 4676000
-      }
-    },
-    {
-      "id": "b912e640230f",
-      "mac": "02:00:00:1a:c7:b8",
-      "description": "lsys-lon-iot-2197",
-      "mdnsName": "lsys-lon-iot-2197",
-      "dhcpHostname": "lsys-lon-iot-2197",
-      "user": null,
-      "ip": "10.13.8.22",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 448750,
-        "recv": 102600
       }
     }
   ],
@@ -4883,57 +4424,6 @@
       }
     },
     {
-      "id": "ee0766488cc3",
-      "mac": "0c:8d:db:8b:cc:57",
-      "description": "lsys-sfo-iot-2032",
-      "mdnsName": "lsys-sfo-iot-2032",
-      "dhcpHostname": "lsys-sfo-iot-2032",
-      "user": null,
-      "ip": "10.11.8.14",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1801750,
-        "recv": 647000
-      }
-    },
-    {
-      "id": "47e2616562ba",
-      "mac": "0c:8d:db:98:f7:8b",
-      "description": "lsys-sfo-iot-2219",
-      "mdnsName": "lsys-sfo-iot-2219",
-      "dhcpHostname": "lsys-sfo-iot-2219",
-      "user": null,
-      "ip": "10.11.8.86",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1263700,
-        "recv": 6243900
-      }
-    },
-    {
-      "id": "74293cb2ceed",
-      "mac": "02:00:00:33:97:2d",
-      "description": "lsys-sfo-iot-2221",
-      "mdnsName": "lsys-sfo-iot-2221",
-      "dhcpHostname": "lsys-sfo-iot-2221",
-      "user": null,
-      "ip": "10.11.8.87",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2648650,
-        "recv": 5901400
-      }
-    },
-    {
       "id": "cae867abad01",
       "mac": "10:c5:95:8c:6c:08",
       "description": "lsys-sfo-lap-0867",
@@ -5310,40 +4800,6 @@
         "sent": 2045000,
         "recv": 1478100
       }
-    },
-    {
-      "id": "14421d5e8891",
-      "mac": "02:00:00:0e:8e:2c",
-      "description": "lsys-sfo-iot-2144",
-      "mdnsName": "lsys-sfo-iot-2144",
-      "dhcpHostname": "lsys-sfo-iot-2144",
-      "user": null,
-      "ip": "10.11.8.63",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1748050,
-        "recv": 5362000
-      }
-    },
-    {
-      "id": "7cb903ce04d5",
-      "mac": "02:00:00:68:19:14",
-      "description": "lsys-sfo-iot-2166",
-      "mdnsName": "lsys-sfo-iot-2166",
-      "dhcpHostname": "lsys-sfo-iot-2166",
-      "user": null,
-      "ip": "10.11.8.70",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 61850,
-        "recv": 4356400
-      }
     }
   ],
   "Q2KD-EE54-8D9D": [
@@ -5481,40 +4937,6 @@
       "usage": {
         "sent": 875000,
         "recv": 2890900
-      }
-    },
-    {
-      "id": "aab6ffbaba98",
-      "mac": "0c:8d:db:9e:9f:57",
-      "description": "lsys-sfo-iot-2089",
-      "mdnsName": "lsys-sfo-iot-2089",
-      "dhcpHostname": "lsys-sfo-iot-2089",
-      "user": null,
-      "ip": "10.11.8.43",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2388400,
-        "recv": 4464300
-      }
-    },
-    {
-      "id": "ee11afc19373",
-      "mac": "02:00:00:08:91:f6",
-      "description": "lsys-sfo-iot-2188",
-      "mdnsName": "lsys-sfo-iot-2188",
-      "dhcpHostname": "lsys-sfo-iot-2188",
-      "user": null,
-      "ip": "10.11.8.77",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1887350,
-        "recv": 5919200
       }
     },
     {
@@ -5704,74 +5126,6 @@
       "usage": {
         "sent": 2661600,
         "recv": 5928800
-      }
-    },
-    {
-      "id": "0cbb74a91258",
-      "mac": "0c:8d:db:91:dc:a0",
-      "description": "lsys-sfo-iot-1997",
-      "mdnsName": "lsys-sfo-iot-1997",
-      "dhcpHostname": "lsys-sfo-iot-1997",
-      "user": null,
-      "ip": "10.11.8.3",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 234800,
-        "recv": 4645300
-      }
-    },
-    {
-      "id": "a362385a7364",
-      "mac": "02:00:00:20:8b:fb",
-      "description": "lsys-sfo-iot-2058",
-      "mdnsName": "lsys-sfo-iot-2058",
-      "dhcpHostname": "lsys-sfo-iot-2058",
-      "user": null,
-      "ip": "10.11.8.30",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1477000,
-        "recv": 5278700
-      }
-    },
-    {
-      "id": "93df88c8c0e2",
-      "mac": "02:00:00:6b:37:98",
-      "description": "lsys-sfo-iot-2121",
-      "mdnsName": "lsys-sfo-iot-2121",
-      "dhcpHostname": "lsys-sfo-iot-2121",
-      "user": null,
-      "ip": "10.11.8.52",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2468900,
-        "recv": 1914000
-      }
-    },
-    {
-      "id": "9e671f15bec0",
-      "mac": "02:00:00:1d:22:b6",
-      "description": "lsys-sfo-iot-2130",
-      "mdnsName": "lsys-sfo-iot-2130",
-      "dhcpHostname": "lsys-sfo-iot-2130",
-      "user": null,
-      "ip": "10.11.8.54",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2441600,
-        "recv": 6306900
       }
     },
     {
@@ -5979,74 +5333,6 @@
         "sent": 2640700,
         "recv": 1346500
       }
-    },
-    {
-      "id": "69cbce8ea43b",
-      "mac": "02:00:00:39:6e:fb",
-      "description": "lsys-sfo-iot-1996",
-      "mdnsName": "lsys-sfo-iot-1996",
-      "dhcpHostname": "lsys-sfo-iot-1996",
-      "user": null,
-      "ip": "10.11.8.2",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2102150,
-        "recv": 3765300
-      }
-    },
-    {
-      "id": "d24e58a49456",
-      "mac": "02:00:00:b1:7f:25",
-      "description": "lsys-sfo-iot-2076",
-      "mdnsName": "lsys-sfo-iot-2076",
-      "dhcpHostname": "lsys-sfo-iot-2076",
-      "user": null,
-      "ip": "10.11.8.36",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1898700,
-        "recv": 4211800
-      }
-    },
-    {
-      "id": "550e487c2f57",
-      "mac": "02:00:00:5b:db:21",
-      "description": "lsys-sfo-iot-2088",
-      "mdnsName": "lsys-sfo-iot-2088",
-      "dhcpHostname": "lsys-sfo-iot-2088",
-      "user": null,
-      "ip": "10.11.8.42",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 605950,
-        "recv": 2678000
-      }
-    },
-    {
-      "id": "30271ca5ef1b",
-      "mac": "02:00:00:0e:22:a8",
-      "description": "lsys-sfo-iot-2210",
-      "mdnsName": "lsys-sfo-iot-2210",
-      "dhcpHostname": "lsys-sfo-iot-2210",
-      "user": null,
-      "ip": "10.11.8.84",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 3060550,
-        "recv": 6339600
-      }
     }
   ],
   "Q2KD-7916-A3A0": [
@@ -6167,23 +5453,6 @@
       "usage": {
         "sent": 1457500,
         "recv": 1043100
-      }
-    },
-    {
-      "id": "e8ab1498e5c5",
-      "mac": "02:00:00:32:9d:b3",
-      "description": "lsys-sfo-iot-2070",
-      "mdnsName": "lsys-sfo-iot-2070",
-      "dhcpHostname": "lsys-sfo-iot-2070",
-      "user": null,
-      "ip": "10.11.8.35",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2941050,
-        "recv": 1014500
       }
     },
     {
@@ -6340,40 +5609,6 @@
         "sent": 1606400,
         "recv": 4665100
       }
-    },
-    {
-      "id": "b1146f99293b",
-      "mac": "02:00:00:88:08:e2",
-      "description": "lsys-sfo-iot-2052",
-      "mdnsName": "lsys-sfo-iot-2052",
-      "dhcpHostname": "lsys-sfo-iot-2052",
-      "user": null,
-      "ip": "10.11.8.26",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 527750,
-        "recv": 4665900
-      }
-    },
-    {
-      "id": "c76220bf7c5f",
-      "mac": "02:00:00:b0:b9:0e",
-      "description": "lsys-sfo-iot-2199",
-      "mdnsName": "lsys-sfo-iot-2199",
-      "dhcpHostname": "lsys-sfo-iot-2199",
-      "user": null,
-      "ip": "10.11.8.79",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1591950,
-        "recv": 2739400
-      }
     }
   ],
   "Q2KD-1C02-26CE": [
@@ -6494,23 +5729,6 @@
       "usage": {
         "sent": 420300,
         "recv": 866500
-      }
-    },
-    {
-      "id": "a7afcd4110d2",
-      "mac": "02:00:00:c0:36:b9",
-      "description": "lsys-sfo-iot-2143",
-      "mdnsName": "lsys-sfo-iot-2143",
-      "dhcpHostname": "lsys-sfo-iot-2143",
-      "user": null,
-      "ip": "10.11.8.62",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 215300,
-        "recv": 4506600
       }
     },
     {
@@ -6911,40 +6129,6 @@
       }
     },
     {
-      "id": "473a34245c06",
-      "mac": "0c:8d:db:4a:f8:2d",
-      "description": "lsys-sfo-iot-2013",
-      "mdnsName": "lsys-sfo-iot-2013",
-      "dhcpHostname": "lsys-sfo-iot-2013",
-      "user": null,
-      "ip": "10.11.8.6",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1177900,
-        "recv": 2888300
-      }
-    },
-    {
-      "id": "41b3220f7fbc",
-      "mac": "02:00:00:a1:5f:15",
-      "description": "lsys-sfo-iot-2139",
-      "mdnsName": "lsys-sfo-iot-2139",
-      "dhcpHostname": "lsys-sfo-iot-2139",
-      "user": null,
-      "ip": "10.11.8.59",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1635000,
-        "recv": 1157900
-      }
-    },
-    {
       "id": "d00c5be43960",
       "mac": "10:c5:95:ad:ab:0f",
       "description": "lsys-sfo-lap-0861",
@@ -7150,40 +6334,6 @@
       "usage": {
         "sent": 3180100,
         "recv": 6523200
-      }
-    },
-    {
-      "id": "fb8c497de3ed",
-      "mac": "0c:8d:db:bd:46:ea",
-      "description": "lsys-sfo-iot-2147",
-      "mdnsName": "lsys-sfo-iot-2147",
-      "dhcpHostname": "lsys-sfo-iot-2147",
-      "user": null,
-      "ip": "10.11.8.65",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2917450,
-        "recv": 739700
-      }
-    },
-    {
-      "id": "a75c33da86c2",
-      "mac": "0c:8d:db:e0:65:a6",
-      "description": "lsys-sfo-iot-2236",
-      "mdnsName": "lsys-sfo-iot-2236",
-      "dhcpHostname": "lsys-sfo-iot-2236",
-      "user": null,
-      "ip": "10.11.8.92",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1724900,
-        "recv": 6023100
       }
     }
   ],
@@ -7480,23 +6630,6 @@
         "sent": 2724300,
         "recv": 880500
       }
-    },
-    {
-      "id": "ced4eb6a5a54",
-      "mac": "0c:8d:db:bb:2b:5f",
-      "description": "lsys-sfo-iot-2028",
-      "mdnsName": "lsys-sfo-iot-2028",
-      "dhcpHostname": "lsys-sfo-iot-2028",
-      "user": null,
-      "ip": "10.11.8.13",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1156200,
-        "recv": 5054100
-      }
     }
   ],
   "Q2KD-9843-A2B5": [
@@ -7688,57 +6821,6 @@
       }
     },
     {
-      "id": "7950091be9c0",
-      "mac": "0c:8d:db:53:f5:77",
-      "description": "lsys-sfo-iot-2035",
-      "mdnsName": "lsys-sfo-iot-2035",
-      "dhcpHostname": "lsys-sfo-iot-2035",
-      "user": null,
-      "ip": "10.11.8.17",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2992000,
-        "recv": 695300
-      }
-    },
-    {
-      "id": "92923ad12d36",
-      "mac": "02:00:00:a4:5b:05",
-      "description": "lsys-sfo-iot-2044",
-      "mdnsName": "lsys-sfo-iot-2044",
-      "dhcpHostname": "lsys-sfo-iot-2044",
-      "user": null,
-      "ip": "10.11.8.20",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 578700,
-        "recv": 5114400
-      }
-    },
-    {
-      "id": "0c9cfa55eee4",
-      "mac": "02:00:00:64:2d:05",
-      "description": "lsys-sfo-iot-2097",
-      "mdnsName": "lsys-sfo-iot-2097",
-      "dhcpHostname": "lsys-sfo-iot-2097",
-      "user": null,
-      "ip": "10.11.8.45",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 3057800,
-        "recv": 3198200
-      }
-    },
-    {
       "id": "93f51ce487f7",
       "mac": "10:c5:95:25:e9:2a",
       "description": "lsys-sfo-lap-0883",
@@ -7908,57 +6990,6 @@
       "usage": {
         "sent": 60100,
         "recv": 6095700
-      }
-    },
-    {
-      "id": "66b8e28363c3",
-      "mac": "0c:8d:db:a5:0e:45",
-      "description": "lsys-sfo-iot-2033",
-      "mdnsName": "lsys-sfo-iot-2033",
-      "dhcpHostname": "lsys-sfo-iot-2033",
-      "user": null,
-      "ip": "10.11.8.15",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1276950,
-        "recv": 4196500
-      }
-    },
-    {
-      "id": "58d1090b02d5",
-      "mac": "02:00:00:33:dc:57",
-      "description": "lsys-sfo-iot-2038",
-      "mdnsName": "lsys-sfo-iot-2038",
-      "dhcpHostname": "lsys-sfo-iot-2038",
-      "user": null,
-      "ip": "10.11.8.18",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 36250,
-        "recv": 2457400
-      }
-    },
-    {
-      "id": "1ba1d6224b95",
-      "mac": "02:00:00:fd:c2:d8",
-      "description": "lsys-sfo-iot-2237",
-      "mdnsName": "lsys-sfo-iot-2237",
-      "dhcpHostname": "lsys-sfo-iot-2237",
-      "user": null,
-      "ip": "10.11.8.93",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 967450,
-        "recv": 3001400
       }
     }
   ],
@@ -8187,57 +7218,6 @@
       }
     },
     {
-      "id": "fd93fa2b863d",
-      "mac": "0c:8d:db:dc:9c:8f",
-      "description": "lsys-sfo-iot-2077",
-      "mdnsName": "lsys-sfo-iot-2077",
-      "dhcpHostname": "lsys-sfo-iot-2077",
-      "user": null,
-      "ip": "10.11.8.37",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1718250,
-        "recv": 5228100
-      }
-    },
-    {
-      "id": "3dc3b31b98e5",
-      "mac": "02:00:00:d5:6a:b5",
-      "description": "lsys-sfo-iot-2110",
-      "mdnsName": "lsys-sfo-iot-2110",
-      "dhcpHostname": "lsys-sfo-iot-2110",
-      "user": null,
-      "ip": "10.11.8.48",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1957050,
-        "recv": 667400
-      }
-    },
-    {
-      "id": "97f068cd9c35",
-      "mac": "02:00:00:ba:eb:10",
-      "description": "lsys-sfo-iot-2161",
-      "mdnsName": "lsys-sfo-iot-2161",
-      "dhcpHostname": "lsys-sfo-iot-2161",
-      "user": null,
-      "ip": "10.11.8.66",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1999450,
-        "recv": 4250200
-      }
-    },
-    {
       "id": "7a54a7f35f2b",
       "mac": "10:c5:95:88:40:ab",
       "description": "lsys-sfo-lap-0862",
@@ -8373,57 +7353,6 @@
       "usage": {
         "sent": 3197950,
         "recv": 304400
-      }
-    },
-    {
-      "id": "4dceccd8be2d",
-      "mac": "0c:8d:db:33:2c:f1",
-      "description": "lsys-sfo-iot-2119",
-      "mdnsName": "lsys-sfo-iot-2119",
-      "dhcpHostname": "lsys-sfo-iot-2119",
-      "user": null,
-      "ip": "10.11.8.50",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2434250,
-        "recv": 3407700
-      }
-    },
-    {
-      "id": "36c3c49cea6c",
-      "mac": "02:00:00:30:bd:b7",
-      "description": "lsys-sfo-iot-2178",
-      "mdnsName": "lsys-sfo-iot-2178",
-      "dhcpHostname": "lsys-sfo-iot-2178",
-      "user": null,
-      "ip": "10.11.8.74",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 3000600,
-        "recv": 940000
-      }
-    },
-    {
-      "id": "a1215e57a039",
-      "mac": "02:00:00:c3:79:df",
-      "description": "lsys-sfo-iot-2187",
-      "mdnsName": "lsys-sfo-iot-2187",
-      "dhcpHostname": "lsys-sfo-iot-2187",
-      "user": null,
-      "ip": "10.11.8.76",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2050850,
-        "recv": 1070000
       }
     },
     {
@@ -8579,23 +7508,6 @@
       "usage": {
         "sent": 739900,
         "recv": 2160500
-      }
-    },
-    {
-      "id": "b9d95c2a02b4",
-      "mac": "02:00:00:ff:45:8e",
-      "description": "lsys-sfo-iot-2240",
-      "mdnsName": "lsys-sfo-iot-2240",
-      "dhcpHostname": "lsys-sfo-iot-2240",
-      "user": null,
-      "ip": "10.11.8.94",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 34600,
-        "recv": 5847900
       }
     },
     {
@@ -8786,40 +7698,6 @@
         "sent": 2561250,
         "recv": 2426600
       }
-    },
-    {
-      "id": "d03f1afb6ea7",
-      "mac": "02:00:00:f3:74:68",
-      "description": "lsys-sfo-iot-2055",
-      "mdnsName": "lsys-sfo-iot-2055",
-      "dhcpHostname": "lsys-sfo-iot-2055",
-      "user": null,
-      "ip": "10.11.8.27",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1416350,
-        "recv": 2280900
-      }
-    },
-    {
-      "id": "0f28d5511d46",
-      "mac": "02:00:00:89:c3:80",
-      "description": "lsys-sfo-iot-2108",
-      "mdnsName": "lsys-sfo-iot-2108",
-      "dhcpHostname": "lsys-sfo-iot-2108",
-      "user": null,
-      "ip": "10.11.8.47",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 374700,
-        "recv": 2140100
-      }
     }
   ],
   "Q2KD-FDF1-F2C9": [
@@ -8923,23 +7801,6 @@
       "usage": {
         "sent": 2181850,
         "recv": 6087800
-      }
-    },
-    {
-      "id": "8a2b0f70ac07",
-      "mac": "02:00:00:0a:94:85",
-      "description": "lsys-sfo-iot-2087",
-      "mdnsName": "lsys-sfo-iot-2087",
-      "dhcpHostname": "lsys-sfo-iot-2087",
-      "user": null,
-      "ip": "10.11.8.41",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2201950,
-        "recv": 1491600
       }
     }
   ],
@@ -9270,23 +8131,6 @@
       }
     },
     {
-      "id": "4d807367a9ef",
-      "mac": "02:00:00:20:4e:59",
-      "description": "lsys-sfo-iot-2046",
-      "mdnsName": "lsys-sfo-iot-2046",
-      "dhcpHostname": "lsys-sfo-iot-2046",
-      "user": null,
-      "ip": "10.11.8.22",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2175150,
-        "recv": 4310700
-      }
-    },
-    {
       "id": "d522e49a7c34",
       "mac": "10:c5:95:3b:18:f7",
       "description": "lsys-sfo-lap-0866",
@@ -9456,23 +8300,6 @@
       "usage": {
         "sent": 737500,
         "recv": 2537000
-      }
-    },
-    {
-      "id": "1fe4a2f5313a",
-      "mac": "02:00:00:77:5f:22",
-      "description": "lsys-sfo-iot-2080",
-      "mdnsName": "lsys-sfo-iot-2080",
-      "dhcpHostname": "lsys-sfo-iot-2080",
-      "user": null,
-      "ip": "10.11.8.39",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 630100,
-        "recv": 4654300
       }
     },
     {
@@ -9663,57 +8490,6 @@
         "sent": 2322450,
         "recv": 5555300
       }
-    },
-    {
-      "id": "cf105b65d776",
-      "mac": "0c:8d:db:00:af:d2",
-      "description": "lsys-sfo-iot-2000",
-      "mdnsName": "lsys-sfo-iot-2000",
-      "dhcpHostname": "lsys-sfo-iot-2000",
-      "user": null,
-      "ip": "10.11.8.4",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2757900,
-        "recv": 5265100
-      }
-    },
-    {
-      "id": "e840645598ab",
-      "mac": "02:00:00:9e:b9:cd",
-      "description": "lsys-sfo-iot-2050",
-      "mdnsName": "lsys-sfo-iot-2050",
-      "dhcpHostname": "lsys-sfo-iot-2050",
-      "user": null,
-      "ip": "10.11.8.25",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1954150,
-        "recv": 5307400
-      }
-    },
-    {
-      "id": "b018fb2f9809",
-      "mac": "02:00:00:bb:11:bf",
-      "description": "lsys-sfo-iot-2082",
-      "mdnsName": "lsys-sfo-iot-2082",
-      "dhcpHostname": "lsys-sfo-iot-2082",
-      "user": null,
-      "ip": "10.11.8.40",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1946050,
-        "recv": 5401000
-      }
     }
   ],
   "Q2KD-513A-FCA6": [
@@ -9817,40 +8593,6 @@
       "usage": {
         "sent": 313350,
         "recv": 3245600
-      }
-    },
-    {
-      "id": "aaaad54a4f32",
-      "mac": "02:00:00:78:a5:b5",
-      "description": "lsys-sfo-iot-2021",
-      "mdnsName": "lsys-sfo-iot-2021",
-      "dhcpHostname": "lsys-sfo-iot-2021",
-      "user": null,
-      "ip": "10.11.8.10",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1013700,
-        "recv": 3434200
-      }
-    },
-    {
-      "id": "134b4425b71e",
-      "mac": "0c:8d:db:5d:0c:99",
-      "description": "lsys-sfo-iot-2039",
-      "mdnsName": "lsys-sfo-iot-2039",
-      "dhcpHostname": "lsys-sfo-iot-2039",
-      "user": null,
-      "ip": "10.11.8.19",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2343900,
-        "recv": 4607900
       }
     },
     {
@@ -10075,23 +8817,6 @@
         "sent": 905850,
         "recv": 3913900
       }
-    },
-    {
-      "id": "d84b13126ac2",
-      "mac": "0c:8d:db:e7:12:91",
-      "description": "lsys-sfo-iot-2064",
-      "mdnsName": "lsys-sfo-iot-2064",
-      "dhcpHostname": "lsys-sfo-iot-2064",
-      "user": null,
-      "ip": "10.11.8.32",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1366500,
-        "recv": 675600
-      }
     }
   ],
   "Q2KD-6553-8AB9": [
@@ -10144,23 +8869,6 @@
       "usage": {
         "sent": 750600,
         "recv": 341100
-      }
-    },
-    {
-      "id": "1460143a32e4",
-      "mac": "0c:8d:db:7d:59:f1",
-      "description": "lsys-sfo-iot-2133",
-      "mdnsName": "lsys-sfo-iot-2133",
-      "dhcpHostname": "lsys-sfo-iot-2133",
-      "user": null,
-      "ip": "10.11.8.55",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 651400,
-        "recv": 2529300
       }
     },
     {
@@ -10299,40 +9007,6 @@
       "usage": {
         "sent": 81400,
         "recv": 2893000
-      }
-    },
-    {
-      "id": "a58fb2035976",
-      "mac": "02:00:00:a6:9c:7e",
-      "description": "lsys-sfo-iot-2163",
-      "mdnsName": "lsys-sfo-iot-2163",
-      "dhcpHostname": "lsys-sfo-iot-2163",
-      "user": null,
-      "ip": "10.11.8.68",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1145100,
-        "recv": 6533000
-      }
-    },
-    {
-      "id": "21f271d5376f",
-      "mac": "02:00:00:71:1c:58",
-      "description": "lsys-sfo-iot-2205",
-      "mdnsName": "lsys-sfo-iot-2205",
-      "dhcpHostname": "lsys-sfo-iot-2205",
-      "user": null,
-      "ip": "10.11.8.80",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 709550,
-        "recv": 1400300
       }
     }
   ],
@@ -10733,23 +9407,6 @@
       }
     },
     {
-      "id": "2339e8c30d41",
-      "mac": "02:00:00:e0:2c:33",
-      "description": "lsys-sfo-iot-2095",
-      "mdnsName": "lsys-sfo-iot-2095",
-      "dhcpHostname": "lsys-sfo-iot-2095",
-      "user": null,
-      "ip": "10.11.8.44",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 169650,
-        "recv": 828300
-      }
-    },
-    {
       "id": "3146aee574e0",
       "mac": "10:c5:95:b1:be:88",
       "description": "lsys-sfo-lap-0874",
@@ -11041,23 +9698,6 @@
         "sent": 793700,
         "recv": 5728600
       }
-    },
-    {
-      "id": "86f373c96835",
-      "mac": "02:00:00:17:07:ff",
-      "description": "lsys-sfo-iot-2045",
-      "mdnsName": "lsys-sfo-iot-2045",
-      "dhcpHostname": "lsys-sfo-iot-2045",
-      "user": null,
-      "ip": "10.11.8.21",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1333850,
-        "recv": 3138000
-      }
     }
   ],
   "Q2KD-2DCB-3B10": [
@@ -11110,23 +9750,6 @@
       "usage": {
         "sent": 156100,
         "recv": 1802600
-      }
-    },
-    {
-      "id": "ab4194c61b44",
-      "mac": "02:00:00:4c:fa:8a",
-      "description": "lsys-sfo-iot-2057",
-      "mdnsName": "lsys-sfo-iot-2057",
-      "dhcpHostname": "lsys-sfo-iot-2057",
-      "user": null,
-      "ip": "10.11.8.29",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 349000,
-        "recv": 2239200
       }
     }
   ],
@@ -11746,23 +10369,6 @@
         "sent": 1940150,
         "recv": 5704600
       }
-    },
-    {
-      "id": "a73810e63092",
-      "mac": "0c:8d:db:f1:c5:2b",
-      "description": "lsys-sfo-iot-2183",
-      "mdnsName": "lsys-sfo-iot-2183",
-      "dhcpHostname": "lsys-sfo-iot-2183",
-      "user": null,
-      "ip": "10.11.8.75",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 621700,
-        "recv": 638200
-      }
     }
   ],
   "Q2KD-52B5-E692": [
@@ -11883,57 +10489,6 @@
       "usage": {
         "sent": 935500,
         "recv": 1240100
-      }
-    },
-    {
-      "id": "8f5e50e64393",
-      "mac": "02:00:00:69:2c:8b",
-      "description": "lsys-sfo-iot-2049",
-      "mdnsName": "lsys-sfo-iot-2049",
-      "dhcpHostname": "lsys-sfo-iot-2049",
-      "user": null,
-      "ip": "10.11.8.24",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 864950,
-        "recv": 930400
-      }
-    },
-    {
-      "id": "b201c4c421b2",
-      "mac": "02:00:00:0e:9f:7f",
-      "description": "lsys-sfo-iot-2208",
-      "mdnsName": "lsys-sfo-iot-2208",
-      "dhcpHostname": "lsys-sfo-iot-2208",
-      "user": null,
-      "ip": "10.11.8.82",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 431300,
-        "recv": 1955100
-      }
-    },
-    {
-      "id": "3e251bd0cccb",
-      "mac": "02:00:00:1c:70:87",
-      "description": "lsys-sfo-iot-2235",
-      "mdnsName": "lsys-sfo-iot-2235",
-      "dhcpHostname": "lsys-sfo-iot-2235",
-      "user": null,
-      "ip": "10.11.8.91",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2621350,
-        "recv": 3208900
       }
     },
     {
@@ -12072,40 +10627,6 @@
       "usage": {
         "sent": 3050700,
         "recv": 1092600
-      }
-    },
-    {
-      "id": "583d7fd95a1f",
-      "mac": "0c:8d:db:fa:48:48",
-      "description": "lsys-sfo-iot-2126",
-      "mdnsName": "lsys-sfo-iot-2126",
-      "dhcpHostname": "lsys-sfo-iot-2126",
-      "user": null,
-      "ip": "10.11.8.53",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1153550,
-        "recv": 5156900
-      }
-    },
-    {
-      "id": "7d1724a87815",
-      "mac": "0c:8d:db:2f:fb:1d",
-      "description": "lsys-sfo-iot-2162",
-      "mdnsName": "lsys-sfo-iot-2162",
-      "dhcpHostname": "lsys-sfo-iot-2162",
-      "user": null,
-      "ip": "10.11.8.67",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1537050,
-        "recv": 2266700
       }
     }
   ],
@@ -12332,57 +10853,6 @@
       }
     },
     {
-      "id": "6e3857aa4b89",
-      "mac": "02:00:00:48:42:77",
-      "description": "lsys-sfo-iot-2056",
-      "mdnsName": "lsys-sfo-iot-2056",
-      "dhcpHostname": "lsys-sfo-iot-2056",
-      "user": null,
-      "ip": "10.11.8.28",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 966850,
-        "recv": 1235600
-      }
-    },
-    {
-      "id": "32b17e025e4a",
-      "mac": "02:00:00:7c:bc:54",
-      "description": "lsys-sfo-iot-2134",
-      "mdnsName": "lsys-sfo-iot-2134",
-      "dhcpHostname": "lsys-sfo-iot-2134",
-      "user": null,
-      "ip": "10.11.8.56",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1206900,
-        "recv": 661900
-      }
-    },
-    {
-      "id": "cc6f93248765",
-      "mac": "02:00:00:2e:67:7d",
-      "description": "lsys-sfo-iot-2209",
-      "mdnsName": "lsys-sfo-iot-2209",
-      "dhcpHostname": "lsys-sfo-iot-2209",
-      "user": null,
-      "ip": "10.11.8.83",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1733050,
-        "recv": 1156400
-      }
-    },
-    {
       "id": "fab59a550c30",
       "mac": "10:c5:95:2a:81:5a",
       "description": "lsys-sfo-lap-0854",
@@ -12552,91 +11022,6 @@
       "usage": {
         "sent": 2241950,
         "recv": 2563300
-      }
-    },
-    {
-      "id": "a029a2c39091",
-      "mac": "02:00:00:69:69:5e",
-      "description": "lsys-sfo-iot-2014",
-      "mdnsName": "lsys-sfo-iot-2014",
-      "dhcpHostname": "lsys-sfo-iot-2014",
-      "user": null,
-      "ip": "10.11.8.7",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1850450,
-        "recv": 1652000
-      }
-    },
-    {
-      "id": "b273117c8c56",
-      "mac": "0c:8d:db:ae:03:37",
-      "description": "lsys-sfo-iot-2026",
-      "mdnsName": "lsys-sfo-iot-2026",
-      "dhcpHostname": "lsys-sfo-iot-2026",
-      "user": null,
-      "ip": "10.11.8.12",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1796300,
-        "recv": 733300
-      }
-    },
-    {
-      "id": "6942156d42df",
-      "mac": "02:00:00:ad:a0:a5",
-      "description": "lsys-sfo-iot-2066",
-      "mdnsName": "lsys-sfo-iot-2066",
-      "dhcpHostname": "lsys-sfo-iot-2066",
-      "user": null,
-      "ip": "10.11.8.33",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 855950,
-        "recv": 2390300
-      }
-    },
-    {
-      "id": "d24a55b44382",
-      "mac": "02:00:00:10:4a:86",
-      "description": "lsys-sfo-iot-2141",
-      "mdnsName": "lsys-sfo-iot-2141",
-      "dhcpHostname": "lsys-sfo-iot-2141",
-      "user": null,
-      "ip": "10.11.8.61",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 864100,
-        "recv": 567400
-      }
-    },
-    {
-      "id": "30bb723498ec",
-      "mac": "0c:8d:db:a0:4a:35",
-      "description": "lsys-sfo-iot-2223",
-      "mdnsName": "lsys-sfo-iot-2223",
-      "dhcpHostname": "lsys-sfo-iot-2223",
-      "user": null,
-      "ip": "10.11.8.88",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1957400,
-        "recv": 2418600
       }
     }
   ],
@@ -12843,23 +11228,6 @@
       "usage": {
         "sent": 565700,
         "recv": 5194800
-      }
-    },
-    {
-      "id": "05262a5a3430",
-      "mac": "02:00:00:44:16:a8",
-      "description": "lsys-sfo-iot-2067",
-      "mdnsName": "lsys-sfo-iot-2067",
-      "dhcpHostname": "lsys-sfo-iot-2067",
-      "user": null,
-      "ip": "10.11.8.34",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 668000,
-        "recv": 6180800
       }
     }
   ],
@@ -13153,40 +11521,6 @@
       "usage": {
         "sent": 2885100,
         "recv": 5957800
-      }
-    },
-    {
-      "id": "73e78574dcc6",
-      "mac": "02:00:00:d2:cb:cf",
-      "description": "lsys-sfo-iot-2216",
-      "mdnsName": "lsys-sfo-iot-2216",
-      "dhcpHostname": "lsys-sfo-iot-2216",
-      "user": null,
-      "ip": "10.11.8.85",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2825900,
-        "recv": 6158800
-      }
-    },
-    {
-      "id": "8b3d37e28d08",
-      "mac": "0c:8d:db:a6:1f:a7",
-      "description": "lsys-sfo-iot-2229",
-      "mdnsName": "lsys-sfo-iot-2229",
-      "dhcpHostname": "lsys-sfo-iot-2229",
-      "user": null,
-      "ip": "10.11.8.90",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1805200,
-        "recv": 467100
       }
     }
   ],
@@ -13764,40 +12098,6 @@
         "sent": 386950,
         "recv": 3023300
       }
-    },
-    {
-      "id": "ce180ae2d096",
-      "mac": "0c:8d:db:f0:1a:7d",
-      "description": "lsys-nyc-iot-2090",
-      "mdnsName": "lsys-nyc-iot-2090",
-      "dhcpHostname": "lsys-nyc-iot-2090",
-      "user": null,
-      "ip": "10.12.8.18",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2669900,
-        "recv": 5340800
-      }
-    },
-    {
-      "id": "9962c712928f",
-      "mac": "02:00:00:b5:99:56",
-      "description": "lsys-nyc-iot-2225",
-      "mdnsName": "lsys-nyc-iot-2225",
-      "dhcpHostname": "lsys-nyc-iot-2225",
-      "user": null,
-      "ip": "10.12.8.37",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1875950,
-        "recv": 5652200
-      }
     }
   ],
   "Q2KD-72B3-3D45": [
@@ -14076,57 +12376,6 @@
       }
     },
     {
-      "id": "1413ac7f546b",
-      "mac": "02:00:00:dd:50:4b",
-      "description": "lsys-nyc-iot-2063",
-      "mdnsName": "lsys-nyc-iot-2063",
-      "dhcpHostname": "lsys-nyc-iot-2063",
-      "user": null,
-      "ip": "10.12.8.14",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1080550,
-        "recv": 5567400
-      }
-    },
-    {
-      "id": "7639827d3175",
-      "mac": "02:00:00:35:10:7c",
-      "description": "lsys-nyc-iot-2083",
-      "mdnsName": "lsys-nyc-iot-2083",
-      "dhcpHostname": "lsys-nyc-iot-2083",
-      "user": null,
-      "ip": "10.12.8.17",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 633050,
-        "recv": 1836300
-      }
-    },
-    {
-      "id": "797019f61476",
-      "mac": "02:00:00:13:39:99",
-      "description": "lsys-nyc-iot-2109",
-      "mdnsName": "lsys-nyc-iot-2109",
-      "dhcpHostname": "lsys-nyc-iot-2109",
-      "user": null,
-      "ip": "10.12.8.21",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 261900,
-        "recv": 5272900
-      }
-    },
-    {
       "id": "0ad68bac0aae",
       "mac": "10:c5:95:dc:10:64",
       "description": "lsys-nyc-lap-0855",
@@ -14384,23 +12633,6 @@
       }
     },
     {
-      "id": "f9aad6bb91d8",
-      "mac": "02:00:00:4f:cf:5c",
-      "description": "lsys-nyc-iot-2116",
-      "mdnsName": "lsys-nyc-iot-2116",
-      "dhcpHostname": "lsys-nyc-iot-2116",
-      "user": null,
-      "ip": "10.12.8.23",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1866800,
-        "recv": 3602500
-      }
-    },
-    {
       "id": "961606dd1733",
       "mac": "10:c5:95:53:c0:f9",
       "description": "lsys-nyc-lap-0856",
@@ -14570,108 +12802,6 @@
       "usage": {
         "sent": 1668350,
         "recv": 3342000
-      }
-    },
-    {
-      "id": "c8be6cf7a2ce",
-      "mac": "02:00:00:b3:ee:da",
-      "description": "lsys-nyc-iot-2012",
-      "mdnsName": "lsys-nyc-iot-2012",
-      "dhcpHostname": "lsys-nyc-iot-2012",
-      "user": null,
-      "ip": "10.12.8.7",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2083900,
-        "recv": 2455500
-      }
-    },
-    {
-      "id": "8cdcdd827e92",
-      "mac": "0c:8d:db:44:cb:89",
-      "description": "lsys-nyc-iot-2027",
-      "mdnsName": "lsys-nyc-iot-2027",
-      "dhcpHostname": "lsys-nyc-iot-2027",
-      "user": null,
-      "ip": "10.12.8.9",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1620100,
-        "recv": 3491800
-      }
-    },
-    {
-      "id": "4a670bbd47a8",
-      "mac": "02:00:00:60:19:26",
-      "description": "lsys-nyc-iot-2036",
-      "mdnsName": "lsys-nyc-iot-2036",
-      "dhcpHostname": "lsys-nyc-iot-2036",
-      "user": null,
-      "ip": "10.12.8.11",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 917200,
-        "recv": 6171500
-      }
-    },
-    {
-      "id": "d626fd1aa182",
-      "mac": "0c:8d:db:91:37:4e",
-      "description": "lsys-nyc-iot-2103",
-      "mdnsName": "lsys-nyc-iot-2103",
-      "dhcpHostname": "lsys-nyc-iot-2103",
-      "user": null,
-      "ip": "10.12.8.20",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2067300,
-        "recv": 4053300
-      }
-    },
-    {
-      "id": "9f050c9ae795",
-      "mac": "0c:8d:db:d6:59:dc",
-      "description": "lsys-nyc-iot-2159",
-      "mdnsName": "lsys-nyc-iot-2159",
-      "dhcpHostname": "lsys-nyc-iot-2159",
-      "user": null,
-      "ip": "10.12.8.29",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2964250,
-        "recv": 3164100
-      }
-    },
-    {
-      "id": "8a900d5c8146",
-      "mac": "02:00:00:89:26:26",
-      "description": "lsys-nyc-iot-2196",
-      "mdnsName": "lsys-nyc-iot-2196",
-      "dhcpHostname": "lsys-nyc-iot-2196",
-      "user": null,
-      "ip": "10.12.8.34",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1654700,
-        "recv": 2744000
       }
     },
     {
@@ -14915,23 +13045,6 @@
       }
     },
     {
-      "id": "ce13ac7a675b",
-      "mac": "0c:8d:db:7f:42:61",
-      "description": "lsys-nyc-iot-2043",
-      "mdnsName": "lsys-nyc-iot-2043",
-      "dhcpHostname": "lsys-nyc-iot-2043",
-      "user": null,
-      "ip": "10.12.8.12",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1322950,
-        "recv": 1728400
-      }
-    },
-    {
       "id": "9e49ebe550ee",
       "mac": "10:c5:95:5f:f5:e3",
       "description": "lsys-nyc-lap-0850",
@@ -15087,57 +13200,6 @@
       }
     },
     {
-      "id": "2fa089ef85b5",
-      "mac": "0c:8d:db:77:f3:ed",
-      "description": "lsys-nyc-iot-2006",
-      "mdnsName": "lsys-nyc-iot-2006",
-      "dhcpHostname": "lsys-nyc-iot-2006",
-      "user": null,
-      "ip": "10.12.8.5",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1711450,
-        "recv": 1642100
-      }
-    },
-    {
-      "id": "451d25a2e696",
-      "mac": "02:00:00:b4:60:f1",
-      "description": "lsys-nyc-iot-2078",
-      "mdnsName": "lsys-nyc-iot-2078",
-      "dhcpHostname": "lsys-nyc-iot-2078",
-      "user": null,
-      "ip": "10.12.8.16",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2951500,
-        "recv": 5291400
-      }
-    },
-    {
-      "id": "83173219ddc4",
-      "mac": "0c:8d:db:f2:14:5f",
-      "description": "lsys-nyc-iot-2234",
-      "mdnsName": "lsys-nyc-iot-2234",
-      "dhcpHostname": "lsys-nyc-iot-2234",
-      "user": null,
-      "ip": "10.12.8.39",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2838600,
-        "recv": 3339000
-      }
-    },
-    {
       "id": "0ab95a8f5f8e",
       "mac": "10:c5:95:f1:0a:45",
       "description": "lsys-nyc-lap-0849",
@@ -15273,23 +13335,6 @@
       "usage": {
         "sent": 1686300,
         "recv": 5089600
-      }
-    },
-    {
-      "id": "777adfa6d505",
-      "mac": "0c:8d:db:0a:4f:0d",
-      "description": "lsys-nyc-iot-2142",
-      "mdnsName": "lsys-nyc-iot-2142",
-      "dhcpHostname": "lsys-nyc-iot-2142",
-      "user": null,
-      "ip": "10.12.8.26",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2726650,
-        "recv": 4114600
       }
     }
   ],
@@ -15877,40 +13922,6 @@
         "sent": 3090700,
         "recv": 4732000
       }
-    },
-    {
-      "id": "418ef8786763",
-      "mac": "0c:8d:db:03:e8:14",
-      "description": "lsys-nyc-iot-2003",
-      "mdnsName": "lsys-nyc-iot-2003",
-      "dhcpHostname": "lsys-nyc-iot-2003",
-      "user": null,
-      "ip": "10.12.8.3",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1323350,
-        "recv": 2458100
-      }
-    },
-    {
-      "id": "a95bc74c6435",
-      "mac": "0c:8d:db:d2:9e:5e",
-      "description": "lsys-nyc-iot-2239",
-      "mdnsName": "lsys-nyc-iot-2239",
-      "dhcpHostname": "lsys-nyc-iot-2239",
-      "user": null,
-      "ip": "10.12.8.40",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1282650,
-        "recv": 2604800
-      }
     }
   ],
   "Q2KD-B849-B4D1": [
@@ -16014,23 +14025,6 @@
       "usage": {
         "sent": 628850,
         "recv": 505800
-      }
-    },
-    {
-      "id": "63b5381f9556",
-      "mac": "0c:8d:db:ac:dc:68",
-      "description": "lsys-nyc-iot-2185",
-      "mdnsName": "lsys-nyc-iot-2185",
-      "dhcpHostname": "lsys-nyc-iot-2185",
-      "user": null,
-      "ip": "10.12.8.33",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1911500,
-        "recv": 4815500
       }
     },
     {
@@ -16186,23 +14180,6 @@
       "usage": {
         "sent": 1049000,
         "recv": 2296300
-      }
-    },
-    {
-      "id": "26a1f14469d1",
-      "mac": "02:00:00:08:b7:04",
-      "description": "lsys-nyc-iot-1999",
-      "mdnsName": "lsys-nyc-iot-1999",
-      "dhcpHostname": "lsys-nyc-iot-1999",
-      "user": null,
-      "ip": "10.12.8.2",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 1354450,
-        "recv": 2801700
       }
     },
     {
@@ -16463,23 +14440,6 @@
       }
     },
     {
-      "id": "bc826a99e89a",
-      "mac": "0c:8d:db:d1:0d:8c",
-      "description": "lsys-nyc-iot-2174",
-      "mdnsName": "lsys-nyc-iot-2174",
-      "dhcpHostname": "lsys-nyc-iot-2174",
-      "user": null,
-      "ip": "10.12.8.31",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2977300,
-        "recv": 501200
-      }
-    },
-    {
       "id": "98c2af69edeb",
       "mac": "10:c5:95:f4:f4:e2",
       "description": "lsys-nyc-lap-0851",
@@ -16599,40 +14559,6 @@
         "sent": 3042200,
         "recv": 12300
       }
-    },
-    {
-      "id": "ce6fabb7d17a",
-      "mac": "02:00:00:1d:c2:c0",
-      "description": "lsys-nyc-iot-2112",
-      "mdnsName": "lsys-nyc-iot-2112",
-      "dhcpHostname": "lsys-nyc-iot-2112",
-      "user": null,
-      "ip": "10.12.8.22",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2681300,
-        "recv": 1395000
-      }
-    },
-    {
-      "id": "54135e56f511",
-      "mac": "02:00:00:97:3a:6f",
-      "description": "lsys-nyc-iot-2154",
-      "mdnsName": "lsys-nyc-iot-2154",
-      "dhcpHostname": "lsys-nyc-iot-2154",
-      "user": null,
-      "ip": "10.12.8.28",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 3136850,
-        "recv": 1569700
-      }
     }
   ],
   "Q2KD-F36F-8A1B": [
@@ -16719,57 +14645,6 @@
       "usage": {
         "sent": 1593350,
         "recv": 3587500
-      }
-    },
-    {
-      "id": "bdf13feff960",
-      "mac": "02:00:00:93:09:09",
-      "description": "lsys-nyc-iot-2053",
-      "mdnsName": "lsys-nyc-iot-2053",
-      "dhcpHostname": "lsys-nyc-iot-2053",
-      "user": null,
-      "ip": "10.12.8.13",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 3192000,
-        "recv": 5666300
-      }
-    },
-    {
-      "id": "bbd09243a177",
-      "mac": "02:00:00:23:fd:ea",
-      "description": "lsys-nyc-iot-2129",
-      "mdnsName": "lsys-nyc-iot-2129",
-      "dhcpHostname": "lsys-nyc-iot-2129",
-      "user": null,
-      "ip": "10.12.8.25",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2066750,
-        "recv": 543500
-      }
-    },
-    {
-      "id": "0660456a236d",
-      "mac": "0c:8d:db:2d:a6:c2",
-      "description": "lsys-nyc-iot-2169",
-      "mdnsName": "lsys-nyc-iot-2169",
-      "dhcpHostname": "lsys-nyc-iot-2169",
-      "user": null,
-      "ip": "10.12.8.30",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 453450,
-        "recv": 3456400
       }
     },
     {
@@ -16959,40 +14834,6 @@
       "usage": {
         "sent": 485200,
         "recv": 1525500
-      }
-    },
-    {
-      "id": "eea0f33d48e9",
-      "mac": "0c:8d:db:25:e0:7b",
-      "description": "lsys-nyc-iot-2016",
-      "mdnsName": "lsys-nyc-iot-2016",
-      "dhcpHostname": "lsys-nyc-iot-2016",
-      "user": null,
-      "ip": "10.12.8.8",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 933250,
-        "recv": 742500
-      }
-    },
-    {
-      "id": "22eeb3c70549",
-      "mac": "0c:8d:db:80:03:32",
-      "description": "lsys-nyc-iot-2175",
-      "mdnsName": "lsys-nyc-iot-2175",
-      "dhcpHostname": "lsys-nyc-iot-2175",
-      "user": null,
-      "ip": "10.12.8.32",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 67650,
-        "recv": 1007500
       }
     }
   ],
@@ -17204,40 +15045,6 @@
       }
     },
     {
-      "id": "237013b09dc6",
-      "mac": "02:00:00:05:bd:c0",
-      "description": "lsys-nyc-iot-2068",
-      "mdnsName": "lsys-nyc-iot-2068",
-      "dhcpHostname": "lsys-nyc-iot-2068",
-      "user": null,
-      "ip": "10.12.8.15",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 2019500,
-        "recv": 5704300
-      }
-    },
-    {
-      "id": "0427e57eef8c",
-      "mac": "0c:8d:db:46:0d:0b",
-      "description": "lsys-nyc-iot-2123",
-      "mdnsName": "lsys-nyc-iot-2123",
-      "dhcpHostname": "lsys-nyc-iot-2123",
-      "user": null,
-      "ip": "10.12.8.24",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 3066200,
-        "recv": 741400
-      }
-    },
-    {
       "id": "0ce1a2c0d4f5",
       "mac": "10:c5:95:56:19:6a",
       "description": "lsys-nyc-lap-0845",
@@ -17424,23 +15231,6 @@
       "usage": {
         "sent": 1908300,
         "recv": 630000
-      }
-    },
-    {
-      "id": "7eac5e04073c",
-      "mac": "02:00:00:b9:14:65",
-      "description": "lsys-nyc-iot-2204",
-      "mdnsName": "lsys-nyc-iot-2204",
-      "dhcpHostname": "lsys-nyc-iot-2204",
-      "user": null,
-      "ip": "10.12.8.36",
-      "vlan": "8",
-      "namedVlan": "IoT",
-      "switchport": null,
-      "adaptivePolicyGroup": null,
-      "usage": {
-        "sent": 92600,
-        "recv": 2263100
       }
     },
     {
