@@ -13,7 +13,7 @@ and manages two classes of assets:
 - **Clients** — endpoints (laptops, mobiles, printers, IoT) connected through
   Meraki-managed networks
 
-This mock serves **1,177 assets** across 3 Luminary Systems sites (San Francisco, New York,
+This mock serves **1,047 assets** across 3 Luminary Systems sites (San Francisco, New York,
 London) drawn from the Luminary Systems UAI Demo Dataset v7.
 
 ## API surface
@@ -50,7 +50,7 @@ curl -H "X-Cisco-Meraki-API-Key: mock_meraki_key_luminary" \
 
 ## Data
 
-**1,177 total assets** — 1,022 clients + 155 network devices — across 3 Meraki-managed
+**1,047 total assets** — 892 clients + 155 network devices — across 3 Meraki-managed
 sites (SFO / NYC / LON only; AMS / SGP / BLR are Mist sites in this dataset).
 
 ### Fleet breakdown
@@ -61,21 +61,20 @@ sites (SFO / NYC / LON only; AMS / SGP / BLR are Mist sites in this dataset).
 | macOS laptops | wireless client | 212 |
 | iOS mobile | wireless client | 148 |
 | Android mobile | wireless client | 126 |
-| IoT / cameras | wireless client | 130 |
 | Access Points (Cisco Meraki MR57) | network device | 96 |
 | Switches (Cisco Meraki MS225-48) | network device | 53 |
 | Printers | wired client | 25 |
 | Linux workstations | wired client | 23 |
 | Routers (Cisco MX450 appliance) | network device | 6 |
-| **Total** | | **1,177** |
+| **Total** | | **1,047** |
 
 ### Site breakdown
 
 | Site | Clients | Devices | Total |
 |------|---------|---------|-------|
-| San Francisco (SFO) | 524 | 80 | 604 |
-| New York (NYC) | 232 | 39 | 271 |
-| London (LON) | 266 | 36 | 302 |
+| San Francisco (SFO) | 453 | 80 | 533 |
+| New York (NYC) | 200 | 39 | 239 |
+| London (LON) | 239 | 36 | 275 |
 
 ### Key IDs
 
