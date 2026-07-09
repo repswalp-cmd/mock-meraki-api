@@ -155,7 +155,7 @@ CLIENT_CFG = {
     "iot":          {"os": "Linux",           "manufacturer": "Hikvision","deviceTypePrediction": "IP camera",  "ssid": "IoT",       "vlan": 8,  "namedVlan": "IoT",        "recentDeviceConnection": "Wireless", "switchport": None},
     "linux_ws":     {"os": "Linux",           "manufacturer": "Dell",    "deviceTypePrediction": "Computer",    "ssid": None,        "vlan": 1,  "namedVlan": "Corporate",  "recentDeviceConnection": "Wired",    "switchport": "1"},
     "printer":      {"os": None,              "manufacturer": "HP",      "deviceTypePrediction": "Printer",     "ssid": None,        "vlan": 5,  "namedVlan": "Printers",   "recentDeviceConnection": "Wired",    "switchport": "1"},
-    "clinic":       {"os": None,              "manufacturer": "Philips", "deviceTypePrediction": "Medical",     "ssid": None,        "vlan": 9,  "namedVlan": "Clinic",     "recentDeviceConnection": "Wired",    "switchport": "1"},
+    # clinic excluded — seen_by=ordr only; removing from Meraki prevents UAI IP-subnet correlation
 }
 
 # VLAN definitions per site (third octet = vlan segment)
@@ -165,7 +165,7 @@ VLAN_DEFS = [
     {"id": 5,  "segment": 5,  "name": "Printers",    "desc": "Office printers and MFPs"},
     {"id": 6,  "segment": 6,  "name": "Access Points","desc": "Wireless APs — management VLAN"},
     {"id": 8,  "segment": 8,  "name": "IoT",         "desc": "IoT and surveillance cameras"},
-    {"id": 9,  "segment": 9,  "name": "Clinic",      "desc": "Clinical and medical devices"},
+    # VLAN 9 (Clinic) excluded — Ordr owns clinic subnet; presence here causes UAI to add Meraki as provider
     {"id": 99, "segment": 0,  "name": "Management",  "desc": "Infrastructure management"},
 ]
 

@@ -146,35 +146,6 @@
       "mask": 24
     },
     {
-      "id": "9",
-      "interfaceId": "ac210e2c58249",
-      "networkId": "N_322920021",
-      "name": "Clinic",
-      "applianceIp": "10.13.9.1",
-      "subnet": "10.13.9.0/24",
-      "fixedIpAssignments": {},
-      "reservedIpRanges": [],
-      "dnsNameservers": "upstream_dns",
-      "dhcpHandling": "Run a DHCP server",
-      "dhcpLeaseTime": "1 day",
-      "dhcpBootOptionsEnabled": false,
-      "dhcpOptions": [],
-      "vpnNatSubnet": "10.13.9.0/24",
-      "mandatoryDhcp": {
-        "enabled": false
-      },
-      "ipv6": {
-        "enabled": false
-      },
-      "dhcpBootFilename": null,
-      "dhcpBootNextServer": null,
-      "dhcpRelayServerIps": [],
-      "groupPolicyId": null,
-      "templateVlanType": "same",
-      "cidr": "10.13.9.0/24",
-      "mask": 24
-    },
-    {
       "id": "99",
       "interfaceId": "e5deea3ee1d62",
       "networkId": "N_322920021",
@@ -351,35 +322,6 @@
       "mask": 24
     },
     {
-      "id": "9",
-      "interfaceId": "36d35d5800a1e",
-      "networkId": "N_695691719",
-      "name": "Clinic",
-      "applianceIp": "10.11.9.1",
-      "subnet": "10.11.9.0/24",
-      "fixedIpAssignments": {},
-      "reservedIpRanges": [],
-      "dnsNameservers": "upstream_dns",
-      "dhcpHandling": "Run a DHCP server",
-      "dhcpLeaseTime": "1 day",
-      "dhcpBootOptionsEnabled": false,
-      "dhcpOptions": [],
-      "vpnNatSubnet": "10.11.9.0/24",
-      "mandatoryDhcp": {
-        "enabled": false
-      },
-      "ipv6": {
-        "enabled": false
-      },
-      "dhcpBootFilename": null,
-      "dhcpBootNextServer": null,
-      "dhcpRelayServerIps": [],
-      "groupPolicyId": null,
-      "templateVlanType": "same",
-      "cidr": "10.11.9.0/24",
-      "mask": 24
-    },
-    {
       "id": "99",
       "interfaceId": "173dc1b7616f1",
       "networkId": "N_695691719",
@@ -553,35 +495,6 @@
       "groupPolicyId": null,
       "templateVlanType": "same",
       "cidr": "10.12.8.0/24",
-      "mask": 24
-    },
-    {
-      "id": "9",
-      "interfaceId": "cdd2b16d36175",
-      "networkId": "N_123827610",
-      "name": "Clinic",
-      "applianceIp": "10.12.9.1",
-      "subnet": "10.12.9.0/24",
-      "fixedIpAssignments": {},
-      "reservedIpRanges": [],
-      "dnsNameservers": "upstream_dns",
-      "dhcpHandling": "Run a DHCP server",
-      "dhcpLeaseTime": "1 day",
-      "dhcpBootOptionsEnabled": false,
-      "dhcpOptions": [],
-      "vpnNatSubnet": "10.12.9.0/24",
-      "mandatoryDhcp": {
-        "enabled": false
-      },
-      "ipv6": {
-        "enabled": false
-      },
-      "dhcpBootFilename": null,
-      "dhcpBootNextServer": null,
-      "dhcpRelayServerIps": [],
-      "groupPolicyId": null,
-      "templateVlanType": "same",
-      "cidr": "10.12.9.0/24",
       "mask": 24
     },
     {
