@@ -80,6 +80,18 @@ def make_iso(offset_secs: int) -> str:
 # ---------------------------------------------------------------------------
 ORG_ID = make_org_id("org:luminary-systems-meraki")
 
+SITE_REGION = {
+    "San Francisco": "Americas",
+    "New York":      "Americas",
+    "London":        "EMEA",
+}
+
+SITE_REGION = {
+    "San Francisco": "Americas",
+    "New York":      "Americas",
+    "London":        "EMEA",
+}
+
 SITES = {
     "San Francisco": {
         "code":        "sfo",
@@ -233,7 +245,7 @@ for loc, rows in rows_by_site.items():
         "id":            net_id,
         "organizationId": ORG_ID,
         "name":          cfg["display_name"],
-        "address":       loc,          # plain city name — UAI reads this for device/client location
+        "address":       SITE_REGION[loc],  # UAI reads address for Region; location comes from lat/lng geocoding
         "lat":           cfg["lat"],
         "lng":           cfg["lng"],
         "productTypes":  ["appliance", "switch", "wireless"],
