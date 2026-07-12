@@ -434,8 +434,8 @@ for loc, rows in rows_by_site.items():
             "recentDeviceName":      dev_name,
             "recentDeviceMac":       dev_mac,
             "recentDeviceConnection":ccfg["recentDeviceConnection"],
-            "lat":                   cfg["lat"] if not is_wired else None,
-            "lng":                   cfg["lng"] if not is_wired else None,
+            "lat":                   cfg["lat"],
+            "lng":                   cfg["lng"],
             "notes":                 loc,  # city name — explicit location for UAI
             "groupPolicy8021x":      None,
             "adaptivePolicyGroup":   None,
