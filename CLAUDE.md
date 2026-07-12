@@ -99,12 +99,15 @@ ECR repo: `mock-meraki-api` (account `905418046272`, region `us-east-1`).
 App Runner service ARN: `arn:aws:apprunner:us-east-1:905418046272:service/mock-meraki-api/1dbf5b2a738044ca9b5f403254674b0a`
 Live endpoint: `https://4ndm7ee4pz.us-east-1.awsapprunner.com`
 
-Deploy via docker build + push. App Runner runs in **permissive auth mode** — no
-`MERAKI_API_KEY` env var is set, so any non-empty key is accepted. In UAI, enter any
-placeholder key (e.g. `mock_meraki_key`) as the API key.
+Deploy via docker build + push. App Runner has `MERAKI_API_KEY` pinned so the CSP
+Mock Deployer can fetch a non-empty credential for autowiring:
 
 ```bash
 docker build --no-cache --platform linux/amd64 -t mock-meraki-build .
 docker tag mock-meraki-build 905418046272.dkr.ecr.us-east-1.amazonaws.com/mock-meraki-api:latest
 docker push 905418046272.dkr.ecr.us-east-1.amazonaws.com/mock-meraki-api:latest
 ```
+
+**Pinned API key:** `e07e2d23969da5609fea910283bbf254a121b94d`
+Set in both the App Runner env and the CSP credential via autowire. If you change it,
+delete the old `CiscoMeraki_API_Creds` in CSP before re-running autowire.

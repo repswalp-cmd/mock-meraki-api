@@ -6,7 +6,7 @@
     "publicIp": "203.31.126.204",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:17.052375Z",
+    "lastReportedAt": "2026-07-12T12:41:39.052375Z",
     "lanIp": "10.13.6.2",
     "gateway": "10.13.6.1",
     "ipType": "static",
@@ -15,6 +15,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -28,7 +29,7 @@
     "publicIp": "203.95.140.188",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:35:59.048312Z",
+    "lastReportedAt": "2026-07-12T12:43:21.048312Z",
     "lanIp": "10.13.6.3",
     "gateway": "10.13.6.1",
     "ipType": "static",
@@ -37,6 +38,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -50,7 +52,7 @@
     "publicIp": "203.209.218.67",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:38:17.017335Z",
+    "lastReportedAt": "2026-07-12T12:45:39.017335Z",
     "lanIp": "10.13.6.4",
     "gateway": "10.13.6.1",
     "ipType": "static",
@@ -59,6 +61,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -72,7 +75,7 @@
     "publicIp": "203.24.179.200",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:38:16.051213Z",
+    "lastReportedAt": "2026-07-12T12:45:38.051213Z",
     "lanIp": "10.13.6.5",
     "gateway": "10.13.6.1",
     "ipType": "static",
@@ -81,6 +84,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -94,7 +98,7 @@
     "publicIp": "203.56.41.135",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:02.034697Z",
+    "lastReportedAt": "2026-07-12T12:41:24.034697Z",
     "lanIp": "10.13.6.6",
     "gateway": "10.13.6.1",
     "ipType": "static",
@@ -103,6 +107,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -116,7 +121,7 @@
     "publicIp": "203.26.121.84",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:35:42.021648Z",
+    "lastReportedAt": "2026-07-12T12:43:04.021648Z",
     "lanIp": "10.13.6.7",
     "gateway": "10.13.6.1",
     "ipType": "static",
@@ -125,6 +130,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -138,7 +144,7 @@
     "publicIp": "203.64.156.189",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:37:59.048523Z",
+    "lastReportedAt": "2026-07-12T12:45:21.048523Z",
     "lanIp": "10.13.6.8",
     "gateway": "10.13.6.1",
     "ipType": "static",
@@ -147,6 +153,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -160,7 +167,7 @@
     "publicIp": "203.171.48.99",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:38:15.025358Z",
+    "lastReportedAt": "2026-07-12T12:45:37.025358Z",
     "lanIp": "10.13.6.9",
     "gateway": "10.13.6.1",
     "ipType": "static",
@@ -169,6 +176,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -182,7 +190,7 @@
     "publicIp": "203.183.54.106",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:36:57.027391Z",
+    "lastReportedAt": "2026-07-12T12:44:19.027391Z",
     "lanIp": "10.13.6.10",
     "gateway": "10.13.6.1",
     "ipType": "static",
@@ -191,6 +199,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -204,7 +213,7 @@
     "publicIp": "203.33.252.225",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:38:39.057662Z",
+    "lastReportedAt": "2026-07-12T12:46:01.057662Z",
     "lanIp": "10.13.6.11",
     "gateway": "10.13.6.1",
     "ipType": "static",
@@ -213,6 +222,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -226,7 +236,7 @@
     "publicIp": "203.156.250.209",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:33:53.053519Z",
+    "lastReportedAt": "2026-07-12T12:41:15.053519Z",
     "lanIp": "10.13.6.12",
     "gateway": "10.13.6.1",
     "ipType": "static",
@@ -235,6 +245,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -248,7 +259,7 @@
     "publicIp": "203.140.192.187",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:38:07.048081Z",
+    "lastReportedAt": "2026-07-12T12:45:29.048081Z",
     "lanIp": "10.13.6.13",
     "gateway": "10.13.6.1",
     "ipType": "static",
@@ -257,6 +268,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -270,7 +282,7 @@
     "publicIp": "203.216.32.7",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:36:31.001954Z",
+    "lastReportedAt": "2026-07-12T12:43:53.001954Z",
     "lanIp": "10.13.6.14",
     "gateway": "10.13.6.1",
     "ipType": "static",
@@ -279,6 +291,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -292,7 +305,7 @@
     "publicIp": "203.136.222.193",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:41.049538Z",
+    "lastReportedAt": "2026-07-12T12:42:03.049538Z",
     "lanIp": "10.13.6.15",
     "gateway": "10.13.6.1",
     "ipType": "static",
@@ -301,6 +314,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -314,7 +328,7 @@
     "publicIp": "203.55.190.70",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:35:49.018077Z",
+    "lastReportedAt": "2026-07-12T12:43:11.018077Z",
     "lanIp": "10.13.6.16",
     "gateway": "10.13.6.1",
     "ipType": "static",
@@ -323,6 +337,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -336,7 +351,7 @@
     "publicIp": "203.17.32.46",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:35:35.011950Z",
+    "lastReportedAt": "2026-07-12T12:42:57.011950Z",
     "lanIp": "10.13.6.17",
     "gateway": "10.13.6.1",
     "ipType": "static",
@@ -345,6 +360,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -358,7 +374,7 @@
     "publicIp": "203.215.55.172",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:35:24.044040Z",
+    "lastReportedAt": "2026-07-12T12:42:46.044040Z",
     "lanIp": "10.13.6.18",
     "gateway": "10.13.6.1",
     "ipType": "static",
@@ -367,6 +383,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -380,7 +397,7 @@
     "publicIp": "203.89.128.231",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:36:47.059384Z",
+    "lastReportedAt": "2026-07-12T12:44:09.059384Z",
     "lanIp": "10.13.6.19",
     "gateway": "10.13.6.1",
     "ipType": "static",
@@ -389,6 +406,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -402,7 +420,7 @@
     "publicIp": "203.246.180.254",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:36:03.065191Z",
+    "lastReportedAt": "2026-07-12T12:43:25.065191Z",
     "lanIp": "10.13.6.20",
     "gateway": "10.13.6.1",
     "ipType": "static",
@@ -411,6 +429,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -424,7 +443,7 @@
     "publicIp": "203.208.59.245",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:35:12.062894Z",
+    "lastReportedAt": "2026-07-12T12:42:34.062894Z",
     "lanIp": "10.13.6.21",
     "gateway": "10.13.6.1",
     "ipType": "static",
@@ -433,6 +452,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -446,7 +466,7 @@
     "publicIp": "203.251.17.146",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:37:26.037465Z",
+    "lastReportedAt": "2026-07-12T12:44:48.037465Z",
     "lanIp": "10.13.6.22",
     "gateway": "10.13.6.1",
     "ipType": "static",
@@ -455,6 +475,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -468,7 +489,7 @@
     "publicIp": "203.167.148.234",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:38:39.060140Z",
+    "lastReportedAt": "2026-07-12T12:46:01.060140Z",
     "lanIp": "10.13.6.23",
     "gateway": "10.13.6.1",
     "ipType": "static",
@@ -477,6 +498,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -490,7 +512,7 @@
     "publicIp": "203.254.199.150",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:36:36.038568Z",
+    "lastReportedAt": "2026-07-12T12:43:58.038568Z",
     "lanIp": "10.13.6.24",
     "gateway": "10.13.6.1",
     "ipType": "static",
@@ -499,6 +521,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -512,7 +535,7 @@
     "publicIp": "203.147.139.15",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:08.004067Z",
+    "lastReportedAt": "2026-07-12T12:41:30.004067Z",
     "lanIp": "10.13.6.25",
     "gateway": "10.13.6.1",
     "ipType": "static",
@@ -521,6 +544,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -534,7 +558,7 @@
     "publicIp": "203.237.172.172",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:35.044112Z",
+    "lastReportedAt": "2026-07-12T12:41:57.044112Z",
     "lanIp": "10.13.6.26",
     "gateway": "10.13.6.1",
     "ipType": "static",
@@ -543,6 +567,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -556,7 +581,7 @@
     "publicIp": "203.52.204.186",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:38:23.047794Z",
+    "lastReportedAt": "2026-07-12T12:45:45.047794Z",
     "lanIp": "10.13.0.2",
     "gateway": "10.13.0.1",
     "ipType": "static",
@@ -565,6 +590,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -578,7 +604,7 @@
     "publicIp": "203.224.161.13",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:35:14.003511Z",
+    "lastReportedAt": "2026-07-12T12:42:36.003511Z",
     "lanIp": "10.13.0.3",
     "gateway": "10.13.0.1",
     "ipType": "static",
@@ -587,6 +613,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -600,7 +627,7 @@
     "publicIp": "203.177.230.126",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:37.032396Z",
+    "lastReportedAt": "2026-07-12T12:41:59.032396Z",
     "lanIp": "10.13.0.4",
     "gateway": "10.13.0.1",
     "ipType": "static",
@@ -609,6 +636,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -622,7 +650,7 @@
     "publicIp": "203.20.83.163",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:36:56.041923Z",
+    "lastReportedAt": "2026-07-12T12:44:18.041923Z",
     "lanIp": "10.13.0.5",
     "gateway": "10.13.0.1",
     "ipType": "static",
@@ -631,6 +659,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -644,7 +673,7 @@
     "publicIp": "203.85.88.140",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:31.035896Z",
+    "lastReportedAt": "2026-07-12T12:41:53.035896Z",
     "lanIp": "10.13.0.6",
     "gateway": "10.13.0.1",
     "ipType": "static",
@@ -653,6 +682,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -666,7 +696,7 @@
     "publicIp": "203.55.176.215",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:36:03.055061Z",
+    "lastReportedAt": "2026-07-12T12:43:25.055061Z",
     "lanIp": "10.13.0.7",
     "gateway": "10.13.0.1",
     "ipType": "static",
@@ -675,6 +705,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -688,7 +719,7 @@
     "publicIp": "203.9.21.214",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:54.054986Z",
+    "lastReportedAt": "2026-07-12T12:42:16.054986Z",
     "lanIp": "10.13.0.8",
     "gateway": "10.13.0.1",
     "ipType": "static",
@@ -697,6 +728,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -710,7 +742,7 @@
     "publicIp": "203.74.125.65",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:35:50.016757Z",
+    "lastReportedAt": "2026-07-12T12:43:12.016757Z",
     "lanIp": "10.13.0.9",
     "gateway": "10.13.0.1",
     "ipType": "static",
@@ -719,6 +751,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -732,7 +765,7 @@
     "publicIp": "203.146.229.184",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:36:54.047326Z",
+    "lastReportedAt": "2026-07-12T12:44:16.047326Z",
     "lanIp": "10.13.0.10",
     "gateway": "10.13.0.1",
     "ipType": "static",
@@ -741,6 +774,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -754,7 +788,7 @@
     "publicIp": "203.189.154.75",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:41.019254Z",
+    "lastReportedAt": "2026-07-12T12:42:03.019254Z",
     "lanIp": "10.13.0.11",
     "gateway": "10.13.0.1",
     "ipType": "static",
@@ -763,6 +797,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -776,7 +811,7 @@
     "publicIp": "203.74.242.53",
     "networkId": "N_322920021",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:33:53.013808Z",
+    "lastReportedAt": "2026-07-12T12:41:15.013808Z",
     "lanIp": "10.13.0.12",
     "gateway": "10.13.0.1",
     "ipType": "static",
@@ -785,6 +820,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "components": {
@@ -798,7 +834,7 @@
     "publicIp": "203.213.227.152",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:36:04.039120Z",
+    "lastReportedAt": "2026-07-12T12:43:26.039120Z",
     "lanIp": "10.11.6.2",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -807,6 +843,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -820,7 +857,7 @@
     "publicIp": "203.244.222.104",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:33:53.026816Z",
+    "lastReportedAt": "2026-07-12T12:41:15.026816Z",
     "lanIp": "10.11.6.3",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -829,6 +866,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -842,7 +880,7 @@
     "publicIp": "203.83.91.149",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:38:00.038354Z",
+    "lastReportedAt": "2026-07-12T12:45:22.038354Z",
     "lanIp": "10.11.6.4",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -851,6 +889,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -864,7 +903,7 @@
     "publicIp": "203.91.162.216",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:37:41.055458Z",
+    "lastReportedAt": "2026-07-12T12:45:03.055458Z",
     "lanIp": "10.11.6.5",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -873,6 +912,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -886,7 +926,7 @@
     "publicIp": "203.115.121.155",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:35:58.039875Z",
+    "lastReportedAt": "2026-07-12T12:43:20.039875Z",
     "lanIp": "10.11.6.6",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -895,6 +935,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -908,7 +949,7 @@
     "publicIp": "203.126.90.191",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:33.049061Z",
+    "lastReportedAt": "2026-07-12T12:41:55.049061Z",
     "lanIp": "10.11.6.7",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -917,6 +958,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -930,7 +972,7 @@
     "publicIp": "203.149.93.124",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:36:22.031797Z",
+    "lastReportedAt": "2026-07-12T12:43:44.031797Z",
     "lanIp": "10.11.6.8",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -939,6 +981,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -952,7 +995,7 @@
     "publicIp": "203.238.85.13",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:36:46.003493Z",
+    "lastReportedAt": "2026-07-12T12:44:08.003493Z",
     "lanIp": "10.11.6.9",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -961,6 +1004,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -974,7 +1018,7 @@
     "publicIp": "203.218.196.67",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:35:15.017355Z",
+    "lastReportedAt": "2026-07-12T12:42:37.017355Z",
     "lanIp": "10.11.6.10",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -983,6 +1027,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -996,7 +1041,7 @@
     "publicIp": "203.8.51.147",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:33:40.037836Z",
+    "lastReportedAt": "2026-07-12T12:41:02.037836Z",
     "lanIp": "10.11.6.11",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1005,6 +1050,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1018,7 +1064,7 @@
     "publicIp": "203.70.36.77",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:23.019939Z",
+    "lastReportedAt": "2026-07-12T12:41:45.019939Z",
     "lanIp": "10.11.6.12",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1027,6 +1073,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1040,7 +1087,7 @@
     "publicIp": "203.105.65.109",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:34.028099Z",
+    "lastReportedAt": "2026-07-12T12:41:56.028099Z",
     "lanIp": "10.11.6.13",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1049,6 +1096,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1062,7 +1110,7 @@
     "publicIp": "203.196.30.199",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:36:53.051019Z",
+    "lastReportedAt": "2026-07-12T12:44:15.051019Z",
     "lanIp": "10.11.6.14",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1071,6 +1119,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1084,7 +1133,7 @@
     "publicIp": "203.199.17.45",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:18.011651Z",
+    "lastReportedAt": "2026-07-12T12:41:40.011651Z",
     "lanIp": "10.11.6.15",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1093,6 +1142,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1106,7 +1156,7 @@
     "publicIp": "203.107.207.166",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:33:40.042638Z",
+    "lastReportedAt": "2026-07-12T12:41:02.042638Z",
     "lanIp": "10.11.6.16",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1115,6 +1165,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1128,7 +1179,7 @@
     "publicIp": "203.182.234.214",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:38:13.054864Z",
+    "lastReportedAt": "2026-07-12T12:45:35.054864Z",
     "lanIp": "10.11.6.17",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1137,6 +1188,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1150,7 +1202,7 @@
     "publicIp": "203.177.100.227",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:36:47.058197Z",
+    "lastReportedAt": "2026-07-12T12:44:09.058197Z",
     "lanIp": "10.11.6.18",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1159,6 +1211,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1172,7 +1225,7 @@
     "publicIp": "203.96.138.54",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:36:45.013901Z",
+    "lastReportedAt": "2026-07-12T12:44:07.013901Z",
     "lanIp": "10.11.6.19",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1181,6 +1234,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1194,7 +1248,7 @@
     "publicIp": "203.190.201.136",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:38.034957Z",
+    "lastReportedAt": "2026-07-12T12:42:00.034957Z",
     "lanIp": "10.11.6.20",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1203,6 +1257,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1216,7 +1271,7 @@
     "publicIp": "203.117.151.162",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:36:56.041516Z",
+    "lastReportedAt": "2026-07-12T12:44:18.041516Z",
     "lanIp": "10.11.6.21",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1225,6 +1280,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1238,7 +1294,7 @@
     "publicIp": "203.184.135.38",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:36:20.009752Z",
+    "lastReportedAt": "2026-07-12T12:43:42.009752Z",
     "lanIp": "10.11.6.22",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1247,6 +1303,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1260,7 +1317,7 @@
     "publicIp": "203.75.141.80",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:36:18.020554Z",
+    "lastReportedAt": "2026-07-12T12:43:40.020554Z",
     "lanIp": "10.11.6.23",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1269,6 +1326,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1282,7 +1340,7 @@
     "publicIp": "203.156.139.85",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:35:44.021901Z",
+    "lastReportedAt": "2026-07-12T12:43:06.021901Z",
     "lanIp": "10.11.6.24",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1291,6 +1349,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1304,7 +1363,7 @@
     "publicIp": "203.100.148.233",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:31.059901Z",
+    "lastReportedAt": "2026-07-12T12:41:53.059901Z",
     "lanIp": "10.11.6.25",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1313,6 +1372,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1326,7 +1386,7 @@
     "publicIp": "203.237.53.63",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:36:34.016170Z",
+    "lastReportedAt": "2026-07-12T12:43:56.016170Z",
     "lanIp": "10.11.6.26",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1335,6 +1395,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1348,7 +1409,7 @@
     "publicIp": "203.173.118.148",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:38:33.038142Z",
+    "lastReportedAt": "2026-07-12T12:45:55.038142Z",
     "lanIp": "10.11.6.27",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1357,6 +1418,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1370,7 +1432,7 @@
     "publicIp": "203.12.204.64",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:03.016558Z",
+    "lastReportedAt": "2026-07-12T12:41:25.016558Z",
     "lanIp": "10.11.6.28",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1379,6 +1441,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1392,7 +1455,7 @@
     "publicIp": "203.163.189.181",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:35:02.046388Z",
+    "lastReportedAt": "2026-07-12T12:42:24.046388Z",
     "lanIp": "10.11.6.29",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1401,6 +1464,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1414,7 +1478,7 @@
     "publicIp": "203.55.73.119",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:37:46.030654Z",
+    "lastReportedAt": "2026-07-12T12:45:08.030654Z",
     "lanIp": "10.11.6.30",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1423,6 +1487,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1436,7 +1501,7 @@
     "publicIp": "203.115.94.202",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:36:25.051930Z",
+    "lastReportedAt": "2026-07-12T12:43:47.051930Z",
     "lanIp": "10.11.6.31",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1445,6 +1510,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1458,7 +1524,7 @@
     "publicIp": "203.152.73.28",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:33:54.007355Z",
+    "lastReportedAt": "2026-07-12T12:41:16.007355Z",
     "lanIp": "10.11.6.32",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1467,6 +1533,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1480,7 +1547,7 @@
     "publicIp": "203.18.95.110",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:35:16.028219Z",
+    "lastReportedAt": "2026-07-12T12:42:38.028219Z",
     "lanIp": "10.11.6.33",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1489,6 +1556,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1502,7 +1570,7 @@
     "publicIp": "203.6.2.4",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:38:01.001235Z",
+    "lastReportedAt": "2026-07-12T12:45:23.001235Z",
     "lanIp": "10.11.6.34",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1511,6 +1579,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1524,7 +1593,7 @@
     "publicIp": "203.74.141.28",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:35:34.007253Z",
+    "lastReportedAt": "2026-07-12T12:42:56.007253Z",
     "lanIp": "10.11.6.35",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1533,6 +1602,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1546,7 +1616,7 @@
     "publicIp": "203.177.191.108",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:35:16.027851Z",
+    "lastReportedAt": "2026-07-12T12:42:38.027851Z",
     "lanIp": "10.11.6.36",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1555,6 +1625,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1568,7 +1639,7 @@
     "publicIp": "203.214.23.54",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:35:12.014037Z",
+    "lastReportedAt": "2026-07-12T12:42:34.014037Z",
     "lanIp": "10.11.6.37",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1577,6 +1648,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1590,7 +1662,7 @@
     "publicIp": "203.189.109.121",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:35:26.031003Z",
+    "lastReportedAt": "2026-07-12T12:42:48.031003Z",
     "lanIp": "10.11.6.38",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1599,6 +1671,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1612,7 +1685,7 @@
     "publicIp": "203.224.18.87",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:37:37.022289Z",
+    "lastReportedAt": "2026-07-12T12:44:59.022289Z",
     "lanIp": "10.11.6.39",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1621,6 +1694,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1634,7 +1708,7 @@
     "publicIp": "203.239.66.131",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:37:49.033593Z",
+    "lastReportedAt": "2026-07-12T12:45:11.033593Z",
     "lanIp": "10.11.6.40",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1643,6 +1717,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1656,7 +1731,7 @@
     "publicIp": "203.222.16.202",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:36:11.051943Z",
+    "lastReportedAt": "2026-07-12T12:43:33.051943Z",
     "lanIp": "10.11.6.41",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1665,6 +1740,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1678,7 +1754,7 @@
     "publicIp": "203.88.225.76",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:26.019660Z",
+    "lastReportedAt": "2026-07-12T12:41:48.019660Z",
     "lanIp": "10.11.6.42",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1687,6 +1763,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1700,7 +1777,7 @@
     "publicIp": "203.240.163.122",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:36:56.031253Z",
+    "lastReportedAt": "2026-07-12T12:44:18.031253Z",
     "lanIp": "10.11.6.43",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1709,6 +1786,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1722,7 +1800,7 @@
     "publicIp": "203.64.91.246",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:04.063104Z",
+    "lastReportedAt": "2026-07-12T12:41:26.063104Z",
     "lanIp": "10.11.6.44",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1731,6 +1809,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1744,7 +1823,7 @@
     "publicIp": "203.227.27.124",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:40.031952Z",
+    "lastReportedAt": "2026-07-12T12:42:02.031952Z",
     "lanIp": "10.11.6.45",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1753,6 +1832,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1766,7 +1846,7 @@
     "publicIp": "203.0.116.224",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:36:43.057452Z",
+    "lastReportedAt": "2026-07-12T12:44:05.057452Z",
     "lanIp": "10.11.6.46",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1775,6 +1855,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1788,7 +1869,7 @@
     "publicIp": "203.130.19.74",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:33:40.019053Z",
+    "lastReportedAt": "2026-07-12T12:41:02.019053Z",
     "lanIp": "10.11.6.47",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1797,6 +1878,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1810,7 +1892,7 @@
     "publicIp": "203.196.182.183",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:21.046973Z",
+    "lastReportedAt": "2026-07-12T12:41:43.046973Z",
     "lanIp": "10.11.6.48",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1819,6 +1901,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1832,7 +1915,7 @@
     "publicIp": "203.74.179.204",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:56.052436Z",
+    "lastReportedAt": "2026-07-12T12:42:18.052436Z",
     "lanIp": "10.11.6.49",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1841,6 +1924,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1854,7 +1938,7 @@
     "publicIp": "203.222.70.55",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:35:17.014233Z",
+    "lastReportedAt": "2026-07-12T12:42:39.014233Z",
     "lanIp": "10.11.6.50",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1863,6 +1947,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1876,7 +1961,7 @@
     "publicIp": "203.131.74.230",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:38:29.058893Z",
+    "lastReportedAt": "2026-07-12T12:45:51.058893Z",
     "lanIp": "10.11.6.51",
     "gateway": "10.11.6.1",
     "ipType": "static",
@@ -1885,6 +1970,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1898,7 +1984,7 @@
     "publicIp": "203.31.133.75",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:10.019432Z",
+    "lastReportedAt": "2026-07-12T12:41:32.019432Z",
     "lanIp": "10.11.0.2",
     "gateway": "10.11.0.1",
     "ipType": "static",
@@ -1907,6 +1993,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1920,7 +2007,7 @@
     "publicIp": "203.203.149.194",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:35:02.049906Z",
+    "lastReportedAt": "2026-07-12T12:42:24.049906Z",
     "lanIp": "10.11.0.3",
     "gateway": "10.11.0.1",
     "ipType": "static",
@@ -1929,6 +2016,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1942,7 +2030,7 @@
     "publicIp": "203.169.106.195",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:35:49.050101Z",
+    "lastReportedAt": "2026-07-12T12:43:11.050101Z",
     "lanIp": "10.11.0.4",
     "gateway": "10.11.0.1",
     "ipType": "static",
@@ -1951,6 +2039,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1964,7 +2053,7 @@
     "publicIp": "203.79.35.102",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:36:00.026147Z",
+    "lastReportedAt": "2026-07-12T12:43:22.026147Z",
     "lanIp": "10.11.0.5",
     "gateway": "10.11.0.1",
     "ipType": "static",
@@ -1973,6 +2062,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -1986,7 +2076,7 @@
     "publicIp": "203.83.80.43",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:38:11.011108Z",
+    "lastReportedAt": "2026-07-12T12:45:33.011108Z",
     "lanIp": "10.11.0.6",
     "gateway": "10.11.0.1",
     "ipType": "static",
@@ -1995,6 +2085,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -2008,7 +2099,7 @@
     "publicIp": "203.223.172.252",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:19.064638Z",
+    "lastReportedAt": "2026-07-12T12:41:41.064638Z",
     "lanIp": "10.11.0.7",
     "gateway": "10.11.0.1",
     "ipType": "static",
@@ -2017,6 +2108,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -2030,7 +2122,7 @@
     "publicIp": "203.26.101.45",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:36:02.011533Z",
+    "lastReportedAt": "2026-07-12T12:43:24.011533Z",
     "lanIp": "10.11.0.8",
     "gateway": "10.11.0.1",
     "ipType": "static",
@@ -2039,6 +2131,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -2052,7 +2145,7 @@
     "publicIp": "203.50.14.183",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:35:05.046922Z",
+    "lastReportedAt": "2026-07-12T12:42:27.046922Z",
     "lanIp": "10.11.0.9",
     "gateway": "10.11.0.1",
     "ipType": "static",
@@ -2061,6 +2154,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -2074,7 +2168,7 @@
     "publicIp": "203.249.141.250",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:33:54.064049Z",
+    "lastReportedAt": "2026-07-12T12:41:16.064049Z",
     "lanIp": "10.11.0.10",
     "gateway": "10.11.0.1",
     "ipType": "static",
@@ -2083,6 +2177,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -2096,7 +2191,7 @@
     "publicIp": "203.182.4.162",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:37:03.041580Z",
+    "lastReportedAt": "2026-07-12T12:44:25.041580Z",
     "lanIp": "10.11.0.11",
     "gateway": "10.11.0.1",
     "ipType": "static",
@@ -2105,6 +2200,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -2118,7 +2214,7 @@
     "publicIp": "203.204.182.226",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:35:13.058098Z",
+    "lastReportedAt": "2026-07-12T12:42:35.058098Z",
     "lanIp": "10.11.0.12",
     "gateway": "10.11.0.1",
     "ipType": "static",
@@ -2127,6 +2223,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -2140,7 +2237,7 @@
     "publicIp": "203.123.161.158",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:36:10.040702Z",
+    "lastReportedAt": "2026-07-12T12:43:32.040702Z",
     "lanIp": "10.11.0.13",
     "gateway": "10.11.0.1",
     "ipType": "static",
@@ -2149,6 +2246,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -2162,7 +2260,7 @@
     "publicIp": "203.219.23.234",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:33:52.060075Z",
+    "lastReportedAt": "2026-07-12T12:41:14.060075Z",
     "lanIp": "10.11.0.14",
     "gateway": "10.11.0.1",
     "ipType": "static",
@@ -2171,6 +2269,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -2184,7 +2283,7 @@
     "publicIp": "203.147.168.201",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:38:39.051677Z",
+    "lastReportedAt": "2026-07-12T12:46:01.051677Z",
     "lanIp": "10.11.0.15",
     "gateway": "10.11.0.1",
     "ipType": "static",
@@ -2193,6 +2292,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -2206,7 +2306,7 @@
     "publicIp": "203.30.139.217",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:38:20.055652Z",
+    "lastReportedAt": "2026-07-12T12:45:42.055652Z",
     "lanIp": "10.11.0.16",
     "gateway": "10.11.0.1",
     "ipType": "static",
@@ -2215,6 +2315,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -2228,7 +2329,7 @@
     "publicIp": "203.236.18.22",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:36:25.005725Z",
+    "lastReportedAt": "2026-07-12T12:43:47.005725Z",
     "lanIp": "10.11.0.17",
     "gateway": "10.11.0.1",
     "ipType": "static",
@@ -2237,6 +2338,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -2250,7 +2352,7 @@
     "publicIp": "203.97.248.51",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:35:39.013190Z",
+    "lastReportedAt": "2026-07-12T12:43:01.013190Z",
     "lanIp": "10.11.0.18",
     "gateway": "10.11.0.1",
     "ipType": "static",
@@ -2259,6 +2361,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -2272,7 +2375,7 @@
     "publicIp": "203.229.228.129",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:37:47.033199Z",
+    "lastReportedAt": "2026-07-12T12:45:09.033199Z",
     "lanIp": "10.11.0.19",
     "gateway": "10.11.0.1",
     "ipType": "static",
@@ -2281,6 +2384,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -2294,7 +2398,7 @@
     "publicIp": "203.86.123.46",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:40.012031Z",
+    "lastReportedAt": "2026-07-12T12:42:02.012031Z",
     "lanIp": "10.11.0.20",
     "gateway": "10.11.0.1",
     "ipType": "static",
@@ -2303,6 +2407,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -2316,7 +2421,7 @@
     "publicIp": "203.233.24.202",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:07.051943Z",
+    "lastReportedAt": "2026-07-12T12:41:29.051943Z",
     "lanIp": "10.11.0.21",
     "gateway": "10.11.0.1",
     "ipType": "static",
@@ -2325,6 +2430,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -2338,7 +2444,7 @@
     "publicIp": "203.174.101.106",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:34.027235Z",
+    "lastReportedAt": "2026-07-12T12:41:56.027235Z",
     "lanIp": "10.11.0.22",
     "gateway": "10.11.0.1",
     "ipType": "static",
@@ -2347,6 +2453,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -2360,7 +2467,7 @@
     "publicIp": "203.34.66.224",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:37:29.057385Z",
+    "lastReportedAt": "2026-07-12T12:44:51.057385Z",
     "lanIp": "10.11.0.23",
     "gateway": "10.11.0.1",
     "ipType": "static",
@@ -2369,6 +2476,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -2382,7 +2490,7 @@
     "publicIp": "203.193.138.119",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:37:53.030612Z",
+    "lastReportedAt": "2026-07-12T12:45:15.030612Z",
     "lanIp": "10.11.0.24",
     "gateway": "10.11.0.1",
     "ipType": "static",
@@ -2391,6 +2499,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -2404,7 +2513,7 @@
     "publicIp": "203.25.60.107",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:35:59.027443Z",
+    "lastReportedAt": "2026-07-12T12:43:21.027443Z",
     "lanIp": "10.11.0.25",
     "gateway": "10.11.0.1",
     "ipType": "static",
@@ -2413,6 +2522,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -2426,7 +2536,7 @@
     "publicIp": "203.10.153.78",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:38:26.019993Z",
+    "lastReportedAt": "2026-07-12T12:45:48.019993Z",
     "lanIp": "10.11.0.26",
     "gateway": "10.11.0.1",
     "ipType": "static",
@@ -2435,6 +2545,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -2448,7 +2559,7 @@
     "publicIp": "203.34.153.146",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:36:02.037626Z",
+    "lastReportedAt": "2026-07-12T12:43:24.037626Z",
     "lanIp": "10.11.0.27",
     "gateway": "10.11.0.1",
     "ipType": "static",
@@ -2457,6 +2568,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -2470,7 +2582,7 @@
     "publicIp": "203.183.145.193",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:24.029073Z",
+    "lastReportedAt": "2026-07-12T12:41:46.029073Z",
     "lanIp": "10.11.0.28",
     "gateway": "10.11.0.1",
     "ipType": "static",
@@ -2479,6 +2591,7 @@
     "productType": "appliance",
     "model": "MX450",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -2492,7 +2605,7 @@
     "publicIp": "203.126.152.61",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:33:52.022410Z",
+    "lastReportedAt": "2026-07-12T12:41:14.022410Z",
     "lanIp": "10.11.0.29",
     "gateway": "10.11.0.1",
     "ipType": "static",
@@ -2501,6 +2614,7 @@
     "productType": "appliance",
     "model": "MX450",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -2514,7 +2628,7 @@
     "publicIp": "203.141.182.235",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:38:08.035702Z",
+    "lastReportedAt": "2026-07-12T12:45:30.035702Z",
     "lanIp": "10.11.0.30",
     "gateway": "10.11.0.1",
     "ipType": "static",
@@ -2523,6 +2637,7 @@
     "productType": "appliance",
     "model": "MX450",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -2536,7 +2651,7 @@
     "publicIp": "203.239.4.172",
     "networkId": "N_695691719",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:49.008419Z",
+    "lastReportedAt": "2026-07-12T12:42:11.008419Z",
     "lanIp": "10.11.0.31",
     "gateway": "10.11.0.1",
     "ipType": "static",
@@ -2545,6 +2660,7 @@
     "productType": "appliance",
     "model": "MX450",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "components": {
@@ -2558,7 +2674,7 @@
     "publicIp": "203.116.148.16",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:36:15.004220Z",
+    "lastReportedAt": "2026-07-12T12:43:37.004220Z",
     "lanIp": "10.12.6.2",
     "gateway": "10.12.6.1",
     "ipType": "static",
@@ -2567,6 +2683,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -2580,7 +2697,7 @@
     "publicIp": "203.151.170.41",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:36:33.010589Z",
+    "lastReportedAt": "2026-07-12T12:43:55.010589Z",
     "lanIp": "10.12.6.3",
     "gateway": "10.12.6.1",
     "ipType": "static",
@@ -2589,6 +2706,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -2602,7 +2720,7 @@
     "publicIp": "203.171.173.89",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:36:10.022994Z",
+    "lastReportedAt": "2026-07-12T12:43:32.022994Z",
     "lanIp": "10.12.6.4",
     "gateway": "10.12.6.1",
     "ipType": "static",
@@ -2611,6 +2729,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -2624,7 +2743,7 @@
     "publicIp": "203.182.177.65",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:10.016750Z",
+    "lastReportedAt": "2026-07-12T12:41:32.016750Z",
     "lanIp": "10.12.6.5",
     "gateway": "10.12.6.1",
     "ipType": "static",
@@ -2633,6 +2752,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -2646,7 +2766,7 @@
     "publicIp": "203.196.228.139",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:38:35.035728Z",
+    "lastReportedAt": "2026-07-12T12:45:57.035728Z",
     "lanIp": "10.12.6.6",
     "gateway": "10.12.6.1",
     "ipType": "static",
@@ -2655,6 +2775,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -2668,7 +2789,7 @@
     "publicIp": "203.96.131.149",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:36:52.038189Z",
+    "lastReportedAt": "2026-07-12T12:44:14.038189Z",
     "lanIp": "10.12.6.7",
     "gateway": "10.12.6.1",
     "ipType": "static",
@@ -2677,6 +2798,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -2690,7 +2812,7 @@
     "publicIp": "203.221.110.71",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:33:53.018364Z",
+    "lastReportedAt": "2026-07-12T12:41:15.018364Z",
     "lanIp": "10.12.6.8",
     "gateway": "10.12.6.1",
     "ipType": "static",
@@ -2699,6 +2821,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -2712,7 +2835,7 @@
     "publicIp": "203.71.82.55",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:21.014311Z",
+    "lastReportedAt": "2026-07-12T12:41:43.014311Z",
     "lanIp": "10.12.6.9",
     "gateway": "10.12.6.1",
     "ipType": "static",
@@ -2721,6 +2844,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -2734,7 +2858,7 @@
     "publicIp": "203.162.6.241",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:37:21.061788Z",
+    "lastReportedAt": "2026-07-12T12:44:43.061788Z",
     "lanIp": "10.12.6.10",
     "gateway": "10.12.6.1",
     "ipType": "static",
@@ -2743,6 +2867,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -2756,7 +2881,7 @@
     "publicIp": "203.186.17.190",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:46.048661Z",
+    "lastReportedAt": "2026-07-12T12:42:08.048661Z",
     "lanIp": "10.12.6.11",
     "gateway": "10.12.6.1",
     "ipType": "static",
@@ -2765,6 +2890,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -2778,7 +2904,7 @@
     "publicIp": "203.25.146.187",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:33.047986Z",
+    "lastReportedAt": "2026-07-12T12:41:55.047986Z",
     "lanIp": "10.12.6.12",
     "gateway": "10.12.6.1",
     "ipType": "static",
@@ -2787,6 +2913,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -2800,7 +2927,7 @@
     "publicIp": "203.120.177.5",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:33:42.001433Z",
+    "lastReportedAt": "2026-07-12T12:41:04.001433Z",
     "lanIp": "10.12.6.13",
     "gateway": "10.12.6.1",
     "ipType": "static",
@@ -2809,6 +2936,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -2822,7 +2950,7 @@
     "publicIp": "203.56.59.131",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:33:44.033687Z",
+    "lastReportedAt": "2026-07-12T12:41:06.033687Z",
     "lanIp": "10.12.6.14",
     "gateway": "10.12.6.1",
     "ipType": "static",
@@ -2831,6 +2959,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -2844,7 +2973,7 @@
     "publicIp": "203.62.79.192",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:37:48.049187Z",
+    "lastReportedAt": "2026-07-12T12:45:10.049187Z",
     "lanIp": "10.12.6.15",
     "gateway": "10.12.6.1",
     "ipType": "static",
@@ -2853,6 +2982,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -2866,7 +2996,7 @@
     "publicIp": "203.223.159.175",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:32.044925Z",
+    "lastReportedAt": "2026-07-12T12:41:54.044925Z",
     "lanIp": "10.12.6.16",
     "gateway": "10.12.6.1",
     "ipType": "static",
@@ -2875,6 +3005,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -2888,7 +3019,7 @@
     "publicIp": "203.103.39.122",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:38:32.031363Z",
+    "lastReportedAt": "2026-07-12T12:45:54.031363Z",
     "lanIp": "10.12.6.17",
     "gateway": "10.12.6.1",
     "ipType": "static",
@@ -2897,6 +3028,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -2910,7 +3042,7 @@
     "publicIp": "203.192.93.169",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:37:54.043297Z",
+    "lastReportedAt": "2026-07-12T12:45:16.043297Z",
     "lanIp": "10.12.6.18",
     "gateway": "10.12.6.1",
     "ipType": "static",
@@ -2919,6 +3051,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -2932,7 +3065,7 @@
     "publicIp": "203.140.66.211",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:35:13.054028Z",
+    "lastReportedAt": "2026-07-12T12:42:35.054028Z",
     "lanIp": "10.12.6.19",
     "gateway": "10.12.6.1",
     "ipType": "static",
@@ -2941,6 +3074,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -2954,7 +3088,7 @@
     "publicIp": "203.111.46.160",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:17.041087Z",
+    "lastReportedAt": "2026-07-12T12:41:39.041087Z",
     "lanIp": "10.12.6.20",
     "gateway": "10.12.6.1",
     "ipType": "static",
@@ -2963,6 +3097,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -2976,7 +3111,7 @@
     "publicIp": "203.249.92.151",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:43.038756Z",
+    "lastReportedAt": "2026-07-12T12:42:05.038756Z",
     "lanIp": "10.12.6.21",
     "gateway": "10.12.6.1",
     "ipType": "static",
@@ -2985,6 +3120,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -2998,7 +3134,7 @@
     "publicIp": "203.85.111.82",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:08.021058Z",
+    "lastReportedAt": "2026-07-12T12:41:30.021058Z",
     "lanIp": "10.12.6.22",
     "gateway": "10.12.6.1",
     "ipType": "static",
@@ -3007,6 +3143,7 @@
     "productType": "wireless",
     "model": "MR57",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -3020,7 +3157,7 @@
     "publicIp": "203.50.111.172",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:38:28.044198Z",
+    "lastReportedAt": "2026-07-12T12:45:50.044198Z",
     "lanIp": "10.12.0.2",
     "gateway": "10.12.0.1",
     "ipType": "static",
@@ -3029,6 +3166,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -3042,7 +3180,7 @@
     "publicIp": "203.7.35.149",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:38:12.038244Z",
+    "lastReportedAt": "2026-07-12T12:45:34.038244Z",
     "lanIp": "10.12.0.3",
     "gateway": "10.12.0.1",
     "ipType": "static",
@@ -3051,6 +3189,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -3064,7 +3203,7 @@
     "publicIp": "203.102.14.91",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:38:13.023314Z",
+    "lastReportedAt": "2026-07-12T12:45:35.023314Z",
     "lanIp": "10.12.0.4",
     "gateway": "10.12.0.1",
     "ipType": "static",
@@ -3073,6 +3212,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -3086,7 +3226,7 @@
     "publicIp": "203.234.43.74",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:32.019183Z",
+    "lastReportedAt": "2026-07-12T12:41:54.019183Z",
     "lanIp": "10.12.0.5",
     "gateway": "10.12.0.1",
     "ipType": "static",
@@ -3095,6 +3235,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -3108,7 +3249,7 @@
     "publicIp": "203.122.21.135",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:37:46.034771Z",
+    "lastReportedAt": "2026-07-12T12:45:08.034771Z",
     "lanIp": "10.12.0.6",
     "gateway": "10.12.0.1",
     "ipType": "static",
@@ -3117,6 +3258,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -3130,7 +3272,7 @@
     "publicIp": "203.146.171.191",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:37:52.048960Z",
+    "lastReportedAt": "2026-07-12T12:45:14.048960Z",
     "lanIp": "10.12.0.7",
     "gateway": "10.12.0.1",
     "ipType": "static",
@@ -3139,6 +3281,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -3152,7 +3295,7 @@
     "publicIp": "203.136.198.193",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:35:05.049522Z",
+    "lastReportedAt": "2026-07-12T12:42:27.049522Z",
     "lanIp": "10.12.0.8",
     "gateway": "10.12.0.1",
     "ipType": "static",
@@ -3161,6 +3304,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -3174,7 +3318,7 @@
     "publicIp": "203.128.117.183",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:35:34.046911Z",
+    "lastReportedAt": "2026-07-12T12:42:56.046911Z",
     "lanIp": "10.12.0.9",
     "gateway": "10.12.0.1",
     "ipType": "static",
@@ -3183,6 +3327,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -3196,7 +3341,7 @@
     "publicIp": "203.170.21.251",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:37:58.064484Z",
+    "lastReportedAt": "2026-07-12T12:45:20.064484Z",
     "lanIp": "10.12.0.10",
     "gateway": "10.12.0.1",
     "ipType": "static",
@@ -3205,6 +3350,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -3218,7 +3364,7 @@
     "publicIp": "203.164.154.206",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:36:21.052983Z",
+    "lastReportedAt": "2026-07-12T12:43:43.052983Z",
     "lanIp": "10.12.0.11",
     "gateway": "10.12.0.1",
     "ipType": "static",
@@ -3227,6 +3373,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -3240,7 +3387,7 @@
     "publicIp": "203.20.38.217",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:37:41.055686Z",
+    "lastReportedAt": "2026-07-12T12:45:03.055686Z",
     "lanIp": "10.12.0.12",
     "gateway": "10.12.0.1",
     "ipType": "static",
@@ -3249,6 +3396,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -3262,7 +3410,7 @@
     "publicIp": "203.219.183.205",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:36:12.052510Z",
+    "lastReportedAt": "2026-07-12T12:43:34.052510Z",
     "lanIp": "10.12.0.13",
     "gateway": "10.12.0.1",
     "ipType": "static",
@@ -3271,6 +3419,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -3284,7 +3433,7 @@
     "publicIp": "203.18.61.177",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:35:50.045516Z",
+    "lastReportedAt": "2026-07-12T12:43:12.045516Z",
     "lanIp": "10.12.0.14",
     "gateway": "10.12.0.1",
     "ipType": "static",
@@ -3293,6 +3442,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -3306,7 +3456,7 @@
     "publicIp": "203.38.55.189",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:35:36.048553Z",
+    "lastReportedAt": "2026-07-12T12:42:58.048553Z",
     "lanIp": "10.12.0.15",
     "gateway": "10.12.0.1",
     "ipType": "static",
@@ -3315,6 +3465,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -3328,7 +3479,7 @@
     "publicIp": "203.208.136.28",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:33:55.007270Z",
+    "lastReportedAt": "2026-07-12T12:41:17.007270Z",
     "lanIp": "10.12.0.16",
     "gateway": "10.12.0.1",
     "ipType": "static",
@@ -3337,6 +3488,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -3350,7 +3502,7 @@
     "publicIp": "203.253.195.223",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:35:56.057228Z",
+    "lastReportedAt": "2026-07-12T12:43:18.057228Z",
     "lanIp": "10.12.0.17",
     "gateway": "10.12.0.1",
     "ipType": "static",
@@ -3359,6 +3511,7 @@
     "productType": "switch",
     "model": "MS225-48",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -3372,7 +3525,7 @@
     "publicIp": "203.13.185.26",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:34:04.059108Z",
+    "lastReportedAt": "2026-07-12T12:41:26.059108Z",
     "lanIp": "10.12.0.18",
     "gateway": "10.12.0.1",
     "ipType": "static",
@@ -3381,6 +3534,7 @@
     "productType": "appliance",
     "model": "MX450",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {
@@ -3394,7 +3548,7 @@
     "publicIp": "203.18.216.160",
     "networkId": "N_123827610",
     "status": "online",
-    "lastReportedAt": "2026-07-09T08:37:07.023049Z",
+    "lastReportedAt": "2026-07-12T12:44:29.023049Z",
     "lanIp": "10.12.0.19",
     "gateway": "10.12.0.1",
     "ipType": "static",
@@ -3403,6 +3557,7 @@
     "productType": "appliance",
     "model": "MX450",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "components": {

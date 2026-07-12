@@ -10,14 +10,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.13.6.2",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-C5CC-2402/manage",
-    "configurationUpdatedAt": "2026-07-08T18:34:43Z",
+    "configurationUpdatedAt": "2026-07-11T22:42:05Z",
     "details": [
       {
         "name": "Running software version",
@@ -36,14 +37,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.13.6.3",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-0D84-85CA/manage",
-    "configurationUpdatedAt": "2026-07-09T07:40:59Z",
+    "configurationUpdatedAt": "2026-07-12T11:48:21Z",
     "details": [
       {
         "name": "Running software version",
@@ -62,14 +64,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.13.6.4",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2KD-B3E5-46E3/manage",
-    "configurationUpdatedAt": "2026-07-08T19:51:06Z",
+    "configurationUpdatedAt": "2026-07-11T23:58:28Z",
     "details": [
       {
         "name": "Running software version",
@@ -88,14 +91,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.13.6.5",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-6205-8BF6/manage",
-    "configurationUpdatedAt": "2026-07-09T01:40:26Z",
+    "configurationUpdatedAt": "2026-07-12T05:47:48Z",
     "details": [
       {
         "name": "Running software version",
@@ -114,14 +118,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.13.6.6",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2KD-EC57-833F/manage",
-    "configurationUpdatedAt": "2026-07-08T15:50:16Z",
+    "configurationUpdatedAt": "2026-07-11T19:57:38Z",
     "details": [
       {
         "name": "Running software version",
@@ -140,14 +145,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.13.6.7",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-3423-1217/manage",
-    "configurationUpdatedAt": "2026-07-09T04:56:12Z",
+    "configurationUpdatedAt": "2026-07-12T09:03:34Z",
     "details": [
       {
         "name": "Running software version",
@@ -166,14 +172,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.13.6.8",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-8C1A-1F87/manage",
-    "configurationUpdatedAt": "2026-07-08T22:40:53Z",
+    "configurationUpdatedAt": "2026-07-12T02:48:15Z",
     "details": [
       {
         "name": "Running software version",
@@ -192,14 +199,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.13.6.9",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-5705-BF91/manage",
-    "configurationUpdatedAt": "2026-07-09T02:27:22Z",
+    "configurationUpdatedAt": "2026-07-12T06:34:44Z",
     "details": [
       {
         "name": "Running software version",
@@ -218,14 +226,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.13.6.10",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2KD-05CA-6F2E/manage",
-    "configurationUpdatedAt": "2026-07-09T08:13:57Z",
+    "configurationUpdatedAt": "2026-07-12T12:21:19Z",
     "details": [
       {
         "name": "Running software version",
@@ -244,14 +253,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.13.6.11",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2KD-D976-09C2/manage",
-    "configurationUpdatedAt": "2026-07-08T17:10:49Z",
+    "configurationUpdatedAt": "2026-07-11T21:18:11Z",
     "details": [
       {
         "name": "Running software version",
@@ -270,14 +280,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.13.6.12",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-3AE6-D965/manage",
-    "configurationUpdatedAt": "2026-07-09T04:27:21Z",
+    "configurationUpdatedAt": "2026-07-12T08:34:43Z",
     "details": [
       {
         "name": "Running software version",
@@ -296,14 +307,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.13.6.13",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2KD-F173-5A72/manage",
-    "configurationUpdatedAt": "2026-07-08T15:28:28Z",
+    "configurationUpdatedAt": "2026-07-11T19:35:50Z",
     "details": [
       {
         "name": "Running software version",
@@ -322,14 +334,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.13.6.14",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2KD-66C1-5B94/manage",
-    "configurationUpdatedAt": "2026-07-09T01:20:14Z",
+    "configurationUpdatedAt": "2026-07-12T05:27:36Z",
     "details": [
       {
         "name": "Running software version",
@@ -348,14 +361,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.13.6.15",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-E88A-7784/manage",
-    "configurationUpdatedAt": "2026-07-08T16:06:29Z",
+    "configurationUpdatedAt": "2026-07-11T20:13:51Z",
     "details": [
       {
         "name": "Running software version",
@@ -374,14 +388,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.13.6.16",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-F6EC-C438/manage",
-    "configurationUpdatedAt": "2026-07-08T15:05:07Z",
+    "configurationUpdatedAt": "2026-07-11T19:12:29Z",
     "details": [
       {
         "name": "Running software version",
@@ -400,14 +415,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.13.6.17",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-A562-4F1A/manage",
-    "configurationUpdatedAt": "2026-07-08T20:53:01Z",
+    "configurationUpdatedAt": "2026-07-12T01:00:23Z",
     "details": [
       {
         "name": "Running software version",
@@ -426,14 +442,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.13.6.18",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-8133-073C/manage",
-    "configurationUpdatedAt": "2026-07-08T23:27:24Z",
+    "configurationUpdatedAt": "2026-07-12T03:34:46Z",
     "details": [
       {
         "name": "Running software version",
@@ -452,14 +469,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.13.6.19",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2KD-CC36-7E3A/manage",
-    "configurationUpdatedAt": "2026-07-08T18:07:21Z",
+    "configurationUpdatedAt": "2026-07-11T22:14:43Z",
     "details": [
       {
         "name": "Running software version",
@@ -478,14 +496,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.13.6.20",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-D8BC-DE19/manage",
-    "configurationUpdatedAt": "2026-07-08T17:13:55Z",
+    "configurationUpdatedAt": "2026-07-11T21:21:17Z",
     "details": [
       {
         "name": "Running software version",
@@ -504,14 +523,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.13.6.21",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2KD-D78D-6022/manage",
-    "configurationUpdatedAt": "2026-07-08T17:18:58Z",
+    "configurationUpdatedAt": "2026-07-11T21:26:20Z",
     "details": [
       {
         "name": "Running software version",
@@ -530,14 +550,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.13.6.22",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2KD-7EBA-CC83/manage",
-    "configurationUpdatedAt": "2026-07-08T23:37:57Z",
+    "configurationUpdatedAt": "2026-07-12T03:45:19Z",
     "details": [
       {
         "name": "Running software version",
@@ -556,14 +577,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.13.6.23",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-C046-7A48/manage",
-    "configurationUpdatedAt": "2026-07-08T18:58:17Z",
+    "configurationUpdatedAt": "2026-07-11T23:05:39Z",
     "details": [
       {
         "name": "Running software version",
@@ -582,14 +604,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.13.6.24",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2KD-DD25-07FC/manage",
-    "configurationUpdatedAt": "2026-07-08T16:55:06Z",
+    "configurationUpdatedAt": "2026-07-11T21:02:28Z",
     "details": [
       {
         "name": "Running software version",
@@ -608,14 +631,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.13.6.25",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-6457-661F/manage",
-    "configurationUpdatedAt": "2026-07-09T01:30:32Z",
+    "configurationUpdatedAt": "2026-07-12T05:37:54Z",
     "details": [
       {
         "name": "Running software version",
@@ -634,14 +658,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.13.6.26",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2KD-B6BF-292C/manage",
-    "configurationUpdatedAt": "2026-07-08T19:38:56Z",
+    "configurationUpdatedAt": "2026-07-11T23:46:18Z",
     "details": [
       {
         "name": "Running software version",
@@ -660,14 +685,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.13.0.2",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2QN-41FB-C6D4/manage",
-    "configurationUpdatedAt": "2026-07-09T03:57:08Z",
+    "configurationUpdatedAt": "2026-07-12T08:04:30Z",
     "details": [
       {
         "name": "Running software version",
@@ -686,14 +712,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.13.0.3",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2QN-6E53-07A9/manage",
-    "configurationUpdatedAt": "2026-07-09T00:47:56Z",
+    "configurationUpdatedAt": "2026-07-12T04:55:18Z",
     "details": [
       {
         "name": "Running software version",
@@ -712,14 +739,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.13.0.4",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2QN-CFEE-9242/manage",
-    "configurationUpdatedAt": "2026-07-08T17:51:29Z",
+    "configurationUpdatedAt": "2026-07-11T21:58:51Z",
     "details": [
       {
         "name": "Running software version",
@@ -738,14 +766,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.13.0.5",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2QN-9AEA-116D/manage",
-    "configurationUpdatedAt": "2026-07-08T21:37:41Z",
+    "configurationUpdatedAt": "2026-07-12T01:45:03Z",
     "details": [
       {
         "name": "Running software version",
@@ -764,14 +793,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.13.0.6",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2QN-77BB-A15A/manage",
-    "configurationUpdatedAt": "2026-07-09T00:07:48Z",
+    "configurationUpdatedAt": "2026-07-12T04:15:10Z",
     "details": [
       {
         "name": "Running software version",
@@ -790,14 +820,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.13.0.7",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2QN-75FF-8086/manage",
-    "configurationUpdatedAt": "2026-07-09T00:15:12Z",
+    "configurationUpdatedAt": "2026-07-12T04:22:34Z",
     "details": [
       {
         "name": "Running software version",
@@ -816,14 +847,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.13.0.8",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2QN-B2B2-32FF/manage",
-    "configurationUpdatedAt": "2026-07-08T19:56:13Z",
+    "configurationUpdatedAt": "2026-07-12T00:03:35Z",
     "details": [
       {
         "name": "Running software version",
@@ -842,14 +874,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.13.0.9",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2QN-64DE-7814/manage",
-    "configurationUpdatedAt": "2026-07-09T01:28:17Z",
+    "configurationUpdatedAt": "2026-07-12T05:35:39Z",
     "details": [
       {
         "name": "Running software version",
@@ -868,14 +901,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.13.0.10",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2QN-899C-B9C8/manage",
-    "configurationUpdatedAt": "2026-07-08T22:51:31Z",
+    "configurationUpdatedAt": "2026-07-12T02:58:53Z",
     "details": [
       {
         "name": "Running software version",
@@ -894,14 +928,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.13.0.11",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2QN-A277-BF2B/manage",
-    "configurationUpdatedAt": "2026-07-08T21:05:28Z",
+    "configurationUpdatedAt": "2026-07-12T01:12:50Z",
     "details": [
       {
         "name": "Running software version",
@@ -920,14 +955,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.13.0.12",
     "tags": [
+      "EMEA",
       "lon"
     ],
     "lat": 51.5074,
     "lng": -0.1278,
-    "address": "",
+    "address": "1 canada square, london, england",
     "notes": "Branch-London, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2QN-E5D5-3EE6/manage",
-    "configurationUpdatedAt": "2026-07-08T16:18:02Z",
+    "configurationUpdatedAt": "2026-07-11T20:25:24Z",
     "details": [
       {
         "name": "Running software version",
@@ -946,14 +982,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.2",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-EEFC-4A50/manage",
-    "configurationUpdatedAt": "2026-07-08T15:38:59Z",
+    "configurationUpdatedAt": "2026-07-11T19:46:21Z",
     "details": [
       {
         "name": "Running software version",
@@ -972,14 +1009,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.3",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-63B1-BA3B/manage",
-    "configurationUpdatedAt": "2026-07-09T01:33:18Z",
+    "configurationUpdatedAt": "2026-07-12T05:40:40Z",
     "details": [
       {
         "name": "Running software version",
@@ -998,14 +1036,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.4",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-39C6-CA35/manage",
-    "configurationUpdatedAt": "2026-07-09T04:32:09Z",
+    "configurationUpdatedAt": "2026-07-12T08:39:31Z",
     "details": [
       {
         "name": "Running software version",
@@ -1024,14 +1063,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.5",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2KD-089B-CDBC/manage",
-    "configurationUpdatedAt": "2026-07-09T08:01:56Z",
+    "configurationUpdatedAt": "2026-07-12T12:09:18Z",
     "details": [
       {
         "name": "Running software version",
@@ -1050,14 +1090,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.6",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2KD-EE54-8D9D/manage",
-    "configurationUpdatedAt": "2026-07-08T15:41:47Z",
+    "configurationUpdatedAt": "2026-07-11T19:49:09Z",
     "details": [
       {
         "name": "Running software version",
@@ -1076,14 +1117,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.7",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-2F3C-6BE3/manage",
-    "configurationUpdatedAt": "2026-07-09T05:17:07Z",
+    "configurationUpdatedAt": "2026-07-12T09:24:29Z",
     "details": [
       {
         "name": "Running software version",
@@ -1102,14 +1144,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.8",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2KD-735D-4572/manage",
-    "configurationUpdatedAt": "2026-07-09T00:26:26Z",
+    "configurationUpdatedAt": "2026-07-12T04:33:48Z",
     "details": [
       {
         "name": "Running software version",
@@ -1128,14 +1171,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.9",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-7916-A3A0/manage",
-    "configurationUpdatedAt": "2026-07-09T00:02:01Z",
+    "configurationUpdatedAt": "2026-07-12T04:09:23Z",
     "details": [
       {
         "name": "Running software version",
@@ -1154,14 +1198,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.10",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-2A49-BB56/manage",
-    "configurationUpdatedAt": "2026-07-09T05:38:14Z",
+    "configurationUpdatedAt": "2026-07-12T09:45:36Z",
     "details": [
       {
         "name": "Running software version",
@@ -1180,14 +1225,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.11",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-1C02-26CE/manage",
-    "configurationUpdatedAt": "2026-07-09T06:39:09Z",
+    "configurationUpdatedAt": "2026-07-12T10:46:31Z",
     "details": [
       {
         "name": "Running software version",
@@ -1206,14 +1252,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.12",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2KD-CAA1-7F92/manage",
-    "configurationUpdatedAt": "2026-07-08T18:14:06Z",
+    "configurationUpdatedAt": "2026-07-11T22:21:28Z",
     "details": [
       {
         "name": "Running software version",
@@ -1232,14 +1279,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.13",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-1645-E988/manage",
-    "configurationUpdatedAt": "2026-07-09T07:03:38Z",
+    "configurationUpdatedAt": "2026-07-12T11:11:00Z",
     "details": [
       {
         "name": "Running software version",
@@ -1258,14 +1306,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.14",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-173F-B08F/manage",
-    "configurationUpdatedAt": "2026-07-09T06:59:28Z",
+    "configurationUpdatedAt": "2026-07-12T11:06:50Z",
     "details": [
       {
         "name": "Running software version",
@@ -1284,14 +1333,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.15",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-BE56-EDF8/manage",
-    "configurationUpdatedAt": "2026-07-08T19:06:33Z",
+    "configurationUpdatedAt": "2026-07-11T23:13:55Z",
     "details": [
       {
         "name": "Running software version",
@@ -1310,14 +1360,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.16",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-11A1-36C4/manage",
-    "configurationUpdatedAt": "2026-07-09T07:23:26Z",
+    "configurationUpdatedAt": "2026-07-12T11:30:48Z",
     "details": [
       {
         "name": "Running software version",
@@ -1336,14 +1387,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.17",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-B171-851E/manage",
-    "configurationUpdatedAt": "2026-07-08T20:01:34Z",
+    "configurationUpdatedAt": "2026-07-12T00:08:56Z",
     "details": [
       {
         "name": "Running software version",
@@ -1362,14 +1414,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.18",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2KD-767B-C47E/manage",
-    "configurationUpdatedAt": "2026-07-09T00:13:08Z",
+    "configurationUpdatedAt": "2026-07-12T04:20:30Z",
     "details": [
       {
         "name": "Running software version",
@@ -1388,14 +1441,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.19",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-AB8A-8DB0/manage",
-    "configurationUpdatedAt": "2026-07-08T20:26:45Z",
+    "configurationUpdatedAt": "2026-07-12T00:34:07Z",
     "details": [
       {
         "name": "Running software version",
@@ -1414,14 +1468,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.20",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-9843-A2B5/manage",
-    "configurationUpdatedAt": "2026-07-08T21:49:00Z",
+    "configurationUpdatedAt": "2026-07-12T01:56:22Z",
     "details": [
       {
         "name": "Running software version",
@@ -1440,14 +1495,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.21",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-63FB-04FD/manage",
-    "configurationUpdatedAt": "2026-07-09T01:32:04Z",
+    "configurationUpdatedAt": "2026-07-12T05:39:26Z",
     "details": [
       {
         "name": "Running software version",
@@ -1466,14 +1522,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.22",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2KD-4BC9-A936/manage",
-    "configurationUpdatedAt": "2026-07-09T03:15:18Z",
+    "configurationUpdatedAt": "2026-07-12T07:22:40Z",
     "details": [
       {
         "name": "Running software version",
@@ -1492,14 +1549,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.23",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-8409-CB23/manage",
-    "configurationUpdatedAt": "2026-07-08T23:15:18Z",
+    "configurationUpdatedAt": "2026-07-12T03:22:40Z",
     "details": [
       {
         "name": "Running software version",
@@ -1518,14 +1576,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.24",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2KD-BC7E-50ED/manage",
-    "configurationUpdatedAt": "2026-07-08T19:14:25Z",
+    "configurationUpdatedAt": "2026-07-11T23:21:47Z",
     "details": [
       {
         "name": "Running software version",
@@ -1544,14 +1603,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.25",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-8693-8742/manage",
-    "configurationUpdatedAt": "2026-07-08T23:04:28Z",
+    "configurationUpdatedAt": "2026-07-12T03:11:50Z",
     "details": [
       {
         "name": "Running software version",
@@ -1570,14 +1630,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.26",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-EB3E-D557/manage",
-    "configurationUpdatedAt": "2026-07-08T15:54:57Z",
+    "configurationUpdatedAt": "2026-07-11T20:02:19Z",
     "details": [
       {
         "name": "Running software version",
@@ -1596,14 +1657,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.27",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2KD-FDF1-F2C9/manage",
-    "configurationUpdatedAt": "2026-07-08T14:35:10Z",
+    "configurationUpdatedAt": "2026-07-11T18:42:32Z",
     "details": [
       {
         "name": "Running software version",
@@ -1622,14 +1684,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.28",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-FFE2-BE87/manage",
-    "configurationUpdatedAt": "2026-07-08T14:26:53Z",
+    "configurationUpdatedAt": "2026-07-11T18:34:15Z",
     "details": [
       {
         "name": "Running software version",
@@ -1648,14 +1711,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.29",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-E4B3-83F1/manage",
-    "configurationUpdatedAt": "2026-07-08T16:22:52Z",
+    "configurationUpdatedAt": "2026-07-11T20:30:14Z",
     "details": [
       {
         "name": "Running software version",
@@ -1674,14 +1738,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.30",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-06F8-DE54/manage",
-    "configurationUpdatedAt": "2026-07-09T08:08:55Z",
+    "configurationUpdatedAt": "2026-07-12T12:16:17Z",
     "details": [
       {
         "name": "Running software version",
@@ -1700,14 +1765,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.31",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-E736-9C3A/manage",
-    "configurationUpdatedAt": "2026-07-08T16:12:09Z",
+    "configurationUpdatedAt": "2026-07-11T20:19:31Z",
     "details": [
       {
         "name": "Running software version",
@@ -1726,14 +1792,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.32",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2KD-513A-FCA6/manage",
-    "configurationUpdatedAt": "2026-07-09T02:52:05Z",
+    "configurationUpdatedAt": "2026-07-12T06:59:27Z",
     "details": [
       {
         "name": "Running software version",
@@ -1752,14 +1819,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.33",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-AC59-8BF8/manage",
-    "configurationUpdatedAt": "2026-07-08T20:23:18Z",
+    "configurationUpdatedAt": "2026-07-12T00:30:40Z",
     "details": [
       {
         "name": "Running software version",
@@ -1778,14 +1846,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.34",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-6553-8AB9/manage",
-    "configurationUpdatedAt": "2026-07-09T01:26:20Z",
+    "configurationUpdatedAt": "2026-07-12T05:33:42Z",
     "details": [
       {
         "name": "Running software version",
@@ -1804,14 +1873,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.35",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2KD-9737-0C7D/manage",
-    "configurationUpdatedAt": "2026-07-08T21:53:28Z",
+    "configurationUpdatedAt": "2026-07-12T02:00:50Z",
     "details": [
       {
         "name": "Running software version",
@@ -1830,14 +1900,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.36",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2KD-B6A4-D0FB/manage",
-    "configurationUpdatedAt": "2026-07-08T19:39:23Z",
+    "configurationUpdatedAt": "2026-07-11T23:46:45Z",
     "details": [
       {
         "name": "Running software version",
@@ -1856,14 +1927,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.37",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-D833-F15A/manage",
-    "configurationUpdatedAt": "2026-07-08T17:16:12Z",
+    "configurationUpdatedAt": "2026-07-11T21:23:34Z",
     "details": [
       {
         "name": "Running software version",
@@ -1882,14 +1954,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.38",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-D1F9-1D35/manage",
-    "configurationUpdatedAt": "2026-07-08T17:42:46Z",
+    "configurationUpdatedAt": "2026-07-11T21:50:08Z",
     "details": [
       {
         "name": "Running software version",
@@ -1908,14 +1981,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.39",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-EE68-D424/manage",
-    "configurationUpdatedAt": "2026-07-08T15:41:27Z",
+    "configurationUpdatedAt": "2026-07-11T19:48:49Z",
     "details": [
       {
         "name": "Running software version",
@@ -1934,14 +2008,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.40",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-3BA4-0F24/manage",
-    "configurationUpdatedAt": "2026-07-09T04:24:11Z",
+    "configurationUpdatedAt": "2026-07-12T08:31:33Z",
     "details": [
       {
         "name": "Running software version",
@@ -1960,14 +2035,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.41",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-2DCB-3B10/manage",
-    "configurationUpdatedAt": "2026-07-09T05:23:16Z",
+    "configurationUpdatedAt": "2026-07-12T09:30:38Z",
     "details": [
       {
         "name": "Running software version",
@@ -1986,14 +2062,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.42",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2KD-A218-E779/manage",
-    "configurationUpdatedAt": "2026-07-08T21:07:03Z",
+    "configurationUpdatedAt": "2026-07-12T01:14:25Z",
     "details": [
       {
         "name": "Running software version",
@@ -2012,14 +2089,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.43",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-AC0F-1133/manage",
-    "configurationUpdatedAt": "2026-07-08T20:24:32Z",
+    "configurationUpdatedAt": "2026-07-12T00:31:54Z",
     "details": [
       {
         "name": "Running software version",
@@ -2038,14 +2116,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.44",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-8673-9D41/manage",
-    "configurationUpdatedAt": "2026-07-08T23:05:00Z",
+    "configurationUpdatedAt": "2026-07-12T03:12:22Z",
     "details": [
       {
         "name": "Running software version",
@@ -2064,14 +2143,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.45",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2KD-52B5-E692/manage",
-    "configurationUpdatedAt": "2026-07-09T02:45:46Z",
+    "configurationUpdatedAt": "2026-07-12T06:53:08Z",
     "details": [
       {
         "name": "Running software version",
@@ -2090,14 +2170,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.46",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-64B6-20B5/manage",
-    "configurationUpdatedAt": "2026-07-09T01:28:57Z",
+    "configurationUpdatedAt": "2026-07-12T05:36:19Z",
     "details": [
       {
         "name": "Running software version",
@@ -2116,14 +2197,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.47",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-0838-3532/manage",
-    "configurationUpdatedAt": "2026-07-09T08:03:35Z",
+    "configurationUpdatedAt": "2026-07-12T12:10:57Z",
     "details": [
       {
         "name": "Running software version",
@@ -2142,14 +2224,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.48",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-D0AE-4481/manage",
-    "configurationUpdatedAt": "2026-07-08T17:48:17Z",
+    "configurationUpdatedAt": "2026-07-11T21:55:39Z",
     "details": [
       {
         "name": "Running software version",
@@ -2168,14 +2251,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.49",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2KD-4CFD-F3F1/manage",
-    "configurationUpdatedAt": "2026-07-09T03:10:10Z",
+    "configurationUpdatedAt": "2026-07-12T07:17:32Z",
     "details": [
       {
         "name": "Running software version",
@@ -2194,14 +2278,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.50",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-B009-0B79/manage",
-    "configurationUpdatedAt": "2026-07-08T20:07:34Z",
+    "configurationUpdatedAt": "2026-07-12T00:14:56Z",
     "details": [
       {
         "name": "Running software version",
@@ -2220,14 +2305,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.11.6.51",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-E2DD-8F18/manage",
-    "configurationUpdatedAt": "2026-07-08T16:30:42Z",
+    "configurationUpdatedAt": "2026-07-11T20:38:04Z",
     "details": [
       {
         "name": "Running software version",
@@ -2246,14 +2332,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.11.0.2",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2QN-D2A7-9005/manage",
-    "configurationUpdatedAt": "2026-07-08T17:39:52Z",
+    "configurationUpdatedAt": "2026-07-11T21:47:14Z",
     "details": [
       {
         "name": "Running software version",
@@ -2272,14 +2359,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.11.0.3",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2QN-530F-9E58/manage",
-    "configurationUpdatedAt": "2026-07-09T02:44:16Z",
+    "configurationUpdatedAt": "2026-07-12T06:51:38Z",
     "details": [
       {
         "name": "Running software version",
@@ -2298,14 +2386,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.11.0.4",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2QN-E1B7-C496/manage",
-    "configurationUpdatedAt": "2026-07-08T16:35:36Z",
+    "configurationUpdatedAt": "2026-07-11T20:42:58Z",
     "details": [
       {
         "name": "Running software version",
@@ -2324,14 +2413,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.11.0.5",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2QN-14AF-9855/manage",
-    "configurationUpdatedAt": "2026-07-09T07:10:24Z",
+    "configurationUpdatedAt": "2026-07-12T11:17:46Z",
     "details": [
       {
         "name": "Running software version",
@@ -2350,14 +2440,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.11.0.6",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2QN-9966-D99F/manage",
-    "configurationUpdatedAt": "2026-07-08T21:44:09Z",
+    "configurationUpdatedAt": "2026-07-12T01:51:31Z",
     "details": [
       {
         "name": "Running software version",
@@ -2376,14 +2467,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.11.0.7",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2QN-E81E-12A2/manage",
-    "configurationUpdatedAt": "2026-07-08T16:08:17Z",
+    "configurationUpdatedAt": "2026-07-11T20:15:39Z",
     "details": [
       {
         "name": "Running software version",
@@ -2402,14 +2494,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.11.0.8",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2QN-9179-4758/manage",
-    "configurationUpdatedAt": "2026-07-08T22:17:58Z",
+    "configurationUpdatedAt": "2026-07-12T02:25:20Z",
     "details": [
       {
         "name": "Running software version",
@@ -2428,14 +2521,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.11.0.9",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2QN-F647-85B2/manage",
-    "configurationUpdatedAt": "2026-07-08T15:07:52Z",
+    "configurationUpdatedAt": "2026-07-11T19:15:14Z",
     "details": [
       {
         "name": "Running software version",
@@ -2454,14 +2548,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.11.0.10",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2QN-DE3E-E8EF/manage",
-    "configurationUpdatedAt": "2026-07-08T16:50:25Z",
+    "configurationUpdatedAt": "2026-07-11T20:57:47Z",
     "details": [
       {
         "name": "Running software version",
@@ -2480,14 +2575,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.11.0.11",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2QN-8D55-A0EA/manage",
-    "configurationUpdatedAt": "2026-07-08T22:35:38Z",
+    "configurationUpdatedAt": "2026-07-12T02:43:00Z",
     "details": [
       {
         "name": "Running software version",
@@ -2506,14 +2602,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.11.0.12",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2QN-2C43-77DE/manage",
-    "configurationUpdatedAt": "2026-07-09T05:29:48Z",
+    "configurationUpdatedAt": "2026-07-12T09:37:10Z",
     "details": [
       {
         "name": "Running software version",
@@ -2532,14 +2629,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.11.0.13",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2QN-25F1-8121/manage",
-    "configurationUpdatedAt": "2026-07-09T05:56:46Z",
+    "configurationUpdatedAt": "2026-07-12T10:04:08Z",
     "details": [
       {
         "name": "Running software version",
@@ -2558,14 +2656,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.11.0.14",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2QN-8D7B-91F1/manage",
-    "configurationUpdatedAt": "2026-07-08T22:35:00Z",
+    "configurationUpdatedAt": "2026-07-12T02:42:22Z",
     "details": [
       {
         "name": "Running software version",
@@ -2584,14 +2683,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.11.0.15",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2QN-E738-3C07/manage",
-    "configurationUpdatedAt": "2026-07-08T16:12:07Z",
+    "configurationUpdatedAt": "2026-07-11T20:19:29Z",
     "details": [
       {
         "name": "Running software version",
@@ -2610,14 +2710,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.11.0.16",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2QN-4AD1-4865/manage",
-    "configurationUpdatedAt": "2026-07-09T03:19:26Z",
+    "configurationUpdatedAt": "2026-07-12T07:26:48Z",
     "details": [
       {
         "name": "Running software version",
@@ -2636,14 +2737,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.11.0.17",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2QN-01B3-0F44/manage",
-    "configurationUpdatedAt": "2026-07-09T08:31:24Z",
+    "configurationUpdatedAt": "2026-07-12T12:38:46Z",
     "details": [
       {
         "name": "Running software version",
@@ -2662,14 +2764,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.11.0.18",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2QN-1811-B75E/manage",
-    "configurationUpdatedAt": "2026-07-09T06:55:58Z",
+    "configurationUpdatedAt": "2026-07-12T11:03:20Z",
     "details": [
       {
         "name": "Running software version",
@@ -2688,14 +2791,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.11.0.19",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2QN-2503-AEF1/manage",
-    "configurationUpdatedAt": "2026-07-09T06:00:44Z",
+    "configurationUpdatedAt": "2026-07-12T10:08:06Z",
     "details": [
       {
         "name": "Running software version",
@@ -2714,14 +2818,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.11.0.20",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2QN-6958-2552/manage",
-    "configurationUpdatedAt": "2026-07-09T01:09:11Z",
+    "configurationUpdatedAt": "2026-07-12T05:16:33Z",
     "details": [
       {
         "name": "Running software version",
@@ -2740,14 +2845,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.11.0.21",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2QN-C98B-73DD/manage",
-    "configurationUpdatedAt": "2026-07-08T18:18:44Z",
+    "configurationUpdatedAt": "2026-07-11T22:26:06Z",
     "details": [
       {
         "name": "Running software version",
@@ -2766,14 +2872,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.11.0.22",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2QN-0DD6-2B63/manage",
-    "configurationUpdatedAt": "2026-07-09T07:39:37Z",
+    "configurationUpdatedAt": "2026-07-12T11:46:59Z",
     "details": [
       {
         "name": "Running software version",
@@ -2792,14 +2899,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.11.0.23",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2QN-00B1-7241/manage",
-    "configurationUpdatedAt": "2026-07-09T08:35:42Z",
+    "configurationUpdatedAt": "2026-07-12T12:43:04Z",
     "details": [
       {
         "name": "Running software version",
@@ -2818,14 +2926,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.11.0.24",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2QN-1A07-003C/manage",
-    "configurationUpdatedAt": "2026-07-09T06:47:36Z",
+    "configurationUpdatedAt": "2026-07-12T10:54:58Z",
     "details": [
       {
         "name": "Running software version",
@@ -2844,14 +2953,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.11.0.25",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2QN-453D-411B/manage",
-    "configurationUpdatedAt": "2026-07-09T03:43:14Z",
+    "configurationUpdatedAt": "2026-07-12T07:50:36Z",
     "details": [
       {
         "name": "Running software version",
@@ -2870,14 +2980,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.11.0.26",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2QN-B69D-9068/manage",
-    "configurationUpdatedAt": "2026-07-08T19:39:30Z",
+    "configurationUpdatedAt": "2026-07-11T23:46:52Z",
     "details": [
       {
         "name": "Running software version",
@@ -2896,14 +3007,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.11.0.27",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2QN-49E8-FDCC/manage",
-    "configurationUpdatedAt": "2026-07-09T03:23:19Z",
+    "configurationUpdatedAt": "2026-07-12T07:30:41Z",
     "details": [
       {
         "name": "Running software version",
@@ -2922,14 +3034,15 @@
     "firmware": "wired-18-211",
     "lanIp": "10.11.0.28",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2QN-B791-C155/manage",
-    "configurationUpdatedAt": "2026-07-08T19:35:26Z",
+    "configurationUpdatedAt": "2026-07-11T23:42:48Z",
     "details": [
       {
         "name": "Running software version",
@@ -2949,14 +3062,15 @@
     "firmware": "wired-18-211",
     "lanIp": "10.11.0.29",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2QN-7E98-3D14/manage",
-    "configurationUpdatedAt": "2026-07-08T23:38:31Z",
+    "configurationUpdatedAt": "2026-07-12T03:45:53Z",
     "details": [
       {
         "name": "Running software version",
@@ -2976,14 +3090,15 @@
     "firmware": "wired-18-211",
     "lanIp": "10.11.0.30",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2QN-8DB6-EBBE/manage",
-    "configurationUpdatedAt": "2026-07-08T22:34:01Z",
+    "configurationUpdatedAt": "2026-07-12T02:41:23Z",
     "details": [
       {
         "name": "Running software version",
@@ -3003,14 +3118,15 @@
     "firmware": "wired-18-211",
     "lanIp": "10.11.0.31",
     "tags": [
+      "Americas",
       "sfo"
     ],
     "lat": 37.7749,
     "lng": -122.4194,
-    "address": "",
+    "address": "525 market street, san francisco, california",
     "notes": "San Francisco HQ, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2QN-EF04-AC22/manage",
-    "configurationUpdatedAt": "2026-07-08T15:38:51Z",
+    "configurationUpdatedAt": "2026-07-11T19:46:13Z",
     "details": [
       {
         "name": "Running software version",
@@ -3030,14 +3146,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.12.6.2",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-CC9B-08F0/manage",
-    "configurationUpdatedAt": "2026-07-08T18:05:40Z",
+    "configurationUpdatedAt": "2026-07-11T22:13:02Z",
     "details": [
       {
         "name": "Running software version",
@@ -3056,14 +3173,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.12.6.3",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2KD-72B3-3D45/manage",
-    "configurationUpdatedAt": "2026-07-09T00:29:16Z",
+    "configurationUpdatedAt": "2026-07-12T04:36:38Z",
     "details": [
       {
         "name": "Running software version",
@@ -3082,14 +3200,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.12.6.4",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2KD-CB79-BBAA/manage",
-    "configurationUpdatedAt": "2026-07-08T18:10:30Z",
+    "configurationUpdatedAt": "2026-07-11T22:17:52Z",
     "details": [
       {
         "name": "Running software version",
@@ -3108,14 +3227,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.12.6.5",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-CF55-6A50/manage",
-    "configurationUpdatedAt": "2026-07-08T17:54:02Z",
+    "configurationUpdatedAt": "2026-07-11T22:01:24Z",
     "details": [
       {
         "name": "Running software version",
@@ -3134,14 +3254,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.12.6.6",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-2573-26B7/manage",
-    "configurationUpdatedAt": "2026-07-09T05:58:52Z",
+    "configurationUpdatedAt": "2026-07-12T10:06:14Z",
     "details": [
       {
         "name": "Running software version",
@@ -3160,14 +3281,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.12.6.7",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2KD-8F7E-B0C3/manage",
-    "configurationUpdatedAt": "2026-07-08T22:26:25Z",
+    "configurationUpdatedAt": "2026-07-12T02:33:47Z",
     "details": [
       {
         "name": "Running software version",
@@ -3186,14 +3308,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.12.6.8",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-6597-A7A9/manage",
-    "configurationUpdatedAt": "2026-07-09T01:25:12Z",
+    "configurationUpdatedAt": "2026-07-12T05:32:34Z",
     "details": [
       {
         "name": "Running software version",
@@ -3212,14 +3335,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.12.6.9",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2KD-CA4D-CB5A/manage",
-    "configurationUpdatedAt": "2026-07-08T18:15:30Z",
+    "configurationUpdatedAt": "2026-07-11T22:22:52Z",
     "details": [
       {
         "name": "Running software version",
@@ -3238,14 +3362,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.12.6.10",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2KD-31EB-E909/manage",
-    "configurationUpdatedAt": "2026-07-09T05:05:40Z",
+    "configurationUpdatedAt": "2026-07-12T09:13:02Z",
     "details": [
       {
         "name": "Running software version",
@@ -3264,14 +3389,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.12.6.11",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-5015-A1A9/manage",
-    "configurationUpdatedAt": "2026-07-09T02:56:58Z",
+    "configurationUpdatedAt": "2026-07-12T07:04:20Z",
     "details": [
       {
         "name": "Running software version",
@@ -3290,14 +3416,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.12.6.12",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-F149-36BC/manage",
-    "configurationUpdatedAt": "2026-07-08T15:29:10Z",
+    "configurationUpdatedAt": "2026-07-11T19:36:32Z",
     "details": [
       {
         "name": "Running software version",
@@ -3316,14 +3443,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.12.6.13",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-289A-8F82/manage",
-    "configurationUpdatedAt": "2026-07-09T05:45:25Z",
+    "configurationUpdatedAt": "2026-07-12T09:52:47Z",
     "details": [
       {
         "name": "Running software version",
@@ -3342,14 +3470,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.12.6.14",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-B849-B4D1/manage",
-    "configurationUpdatedAt": "2026-07-08T19:32:22Z",
+    "configurationUpdatedAt": "2026-07-11T23:39:44Z",
     "details": [
       {
         "name": "Running software version",
@@ -3368,14 +3497,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.12.6.15",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-FBBC-EC1A/manage",
-    "configurationUpdatedAt": "2026-07-08T14:44:35Z",
+    "configurationUpdatedAt": "2026-07-11T18:51:57Z",
     "details": [
       {
         "name": "Running software version",
@@ -3394,14 +3524,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.12.6.16",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2KD-923B-B637/manage",
-    "configurationUpdatedAt": "2026-07-08T22:14:44Z",
+    "configurationUpdatedAt": "2026-07-12T02:22:06Z",
     "details": [
       {
         "name": "Running software version",
@@ -3420,14 +3551,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.12.6.17",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2KD-4549-BAB1/manage",
-    "configurationUpdatedAt": "2026-07-09T03:43:02Z",
+    "configurationUpdatedAt": "2026-07-12T07:50:24Z",
     "details": [
       {
         "name": "Running software version",
@@ -3446,14 +3578,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.12.6.18",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2KD-F36F-8A1B/manage",
-    "configurationUpdatedAt": "2026-07-08T15:20:00Z",
+    "configurationUpdatedAt": "2026-07-11T19:27:22Z",
     "details": [
       {
         "name": "Running software version",
@@ -3472,14 +3605,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.12.6.19",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2KD-85C2-760A/manage",
-    "configurationUpdatedAt": "2026-07-08T23:07:57Z",
+    "configurationUpdatedAt": "2026-07-12T03:15:19Z",
     "details": [
       {
         "name": "Running software version",
@@ -3498,14 +3632,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.12.6.20",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2KD-DEE0-2412/manage",
-    "configurationUpdatedAt": "2026-07-08T16:47:43Z",
+    "configurationUpdatedAt": "2026-07-11T20:55:05Z",
     "details": [
       {
         "name": "Running software version",
@@ -3524,14 +3659,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.12.6.21",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2KD-1A17-6802/manage",
-    "configurationUpdatedAt": "2026-07-09T06:47:20Z",
+    "configurationUpdatedAt": "2026-07-12T10:54:42Z",
     "details": [
       {
         "name": "Running software version",
@@ -3550,14 +3686,15 @@
     "firmware": "wireless-29-6",
     "lanIp": "10.12.6.22",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2KD-1B4B-59E0/manage",
-    "configurationUpdatedAt": "2026-07-09T06:42:12Z",
+    "configurationUpdatedAt": "2026-07-12T10:49:34Z",
     "details": [
       {
         "name": "Running software version",
@@ -3576,14 +3713,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.12.0.2",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2QN-8827-5B07/manage",
-    "configurationUpdatedAt": "2026-07-08T22:57:44Z",
+    "configurationUpdatedAt": "2026-07-12T03:05:06Z",
     "details": [
       {
         "name": "Running software version",
@@ -3602,14 +3740,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.12.0.3",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2QN-745E-4C88/manage",
-    "configurationUpdatedAt": "2026-07-09T00:22:09Z",
+    "configurationUpdatedAt": "2026-07-12T04:29:31Z",
     "details": [
       {
         "name": "Running software version",
@@ -3628,14 +3767,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.12.0.4",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2QN-98C2-AB94/manage",
-    "configurationUpdatedAt": "2026-07-08T21:46:53Z",
+    "configurationUpdatedAt": "2026-07-12T01:54:15Z",
     "details": [
       {
         "name": "Running software version",
@@ -3654,14 +3794,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.12.0.5",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2QN-71E6-81D0/manage",
-    "configurationUpdatedAt": "2026-07-09T00:32:41Z",
+    "configurationUpdatedAt": "2026-07-12T04:40:03Z",
     "details": [
       {
         "name": "Running software version",
@@ -3680,14 +3821,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.12.0.6",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2QN-C32D-1997/manage",
-    "configurationUpdatedAt": "2026-07-08T18:45:54Z",
+    "configurationUpdatedAt": "2026-07-11T22:53:16Z",
     "details": [
       {
         "name": "Running software version",
@@ -3706,14 +3848,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.12.0.7",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2QN-4A97-BDBE/manage",
-    "configurationUpdatedAt": "2026-07-09T03:20:24Z",
+    "configurationUpdatedAt": "2026-07-12T07:27:46Z",
     "details": [
       {
         "name": "Running software version",
@@ -3732,14 +3875,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.12.0.8",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 3",
     "url": "https://mock.meraki.com/devices/Q2QN-7D53-4138/manage",
-    "configurationUpdatedAt": "2026-07-08T23:43:56Z",
+    "configurationUpdatedAt": "2026-07-12T03:51:18Z",
     "details": [
       {
         "name": "Running software version",
@@ -3758,14 +3902,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.12.0.9",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2QN-2527-0CA9/manage",
-    "configurationUpdatedAt": "2026-07-09T06:00:08Z",
+    "configurationUpdatedAt": "2026-07-12T10:07:30Z",
     "details": [
       {
         "name": "Running software version",
@@ -3784,14 +3929,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.12.0.10",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2QN-9827-D3F3/manage",
-    "configurationUpdatedAt": "2026-07-08T21:49:28Z",
+    "configurationUpdatedAt": "2026-07-12T01:56:50Z",
     "details": [
       {
         "name": "Running software version",
@@ -3810,14 +3956,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.12.0.11",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2QN-DB5E-714A/manage",
-    "configurationUpdatedAt": "2026-07-08T17:02:41Z",
+    "configurationUpdatedAt": "2026-07-11T21:10:03Z",
     "details": [
       {
         "name": "Running software version",
@@ -3836,14 +3983,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.12.0.12",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2QN-7C44-2F48/manage",
-    "configurationUpdatedAt": "2026-07-08T23:48:27Z",
+    "configurationUpdatedAt": "2026-07-12T03:55:49Z",
     "details": [
       {
         "name": "Running software version",
@@ -3862,14 +4010,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.12.0.13",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2QN-BDB1-5C52/manage",
-    "configurationUpdatedAt": "2026-07-08T19:09:18Z",
+    "configurationUpdatedAt": "2026-07-11T23:16:40Z",
     "details": [
       {
         "name": "Running software version",
@@ -3888,14 +4037,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.12.0.14",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 2",
     "url": "https://mock.meraki.com/devices/Q2QN-9FD8-AE73/manage",
-    "configurationUpdatedAt": "2026-07-08T21:16:39Z",
+    "configurationUpdatedAt": "2026-07-12T01:24:01Z",
     "details": [
       {
         "name": "Running software version",
@@ -3914,14 +4064,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.12.0.15",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2QN-D786-6BE2/manage",
-    "configurationUpdatedAt": "2026-07-08T17:19:05Z",
+    "configurationUpdatedAt": "2026-07-11T21:26:27Z",
     "details": [
       {
         "name": "Running software version",
@@ -3940,14 +4091,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.12.0.16",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 4",
     "url": "https://mock.meraki.com/devices/Q2QN-622C-55A8/manage",
-    "configurationUpdatedAt": "2026-07-09T01:39:47Z",
+    "configurationUpdatedAt": "2026-07-12T05:47:09Z",
     "details": [
       {
         "name": "Running software version",
@@ -3966,14 +4118,15 @@
     "firmware": "switch-15-21",
     "lanIp": "10.12.0.17",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 5",
     "url": "https://mock.meraki.com/devices/Q2QN-3E82-DF96/manage",
-    "configurationUpdatedAt": "2026-07-09T04:11:57Z",
+    "configurationUpdatedAt": "2026-07-12T08:19:19Z",
     "details": [
       {
         "name": "Running software version",
@@ -3992,14 +4145,15 @@
     "firmware": "wired-18-211",
     "lanIp": "10.12.0.18",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2QN-0DB9-1A85/manage",
-    "configurationUpdatedAt": "2026-07-09T07:40:06Z",
+    "configurationUpdatedAt": "2026-07-12T11:47:28Z",
     "details": [
       {
         "name": "Running software version",
@@ -4019,14 +4173,15 @@
     "firmware": "wired-18-211",
     "lanIp": "10.12.0.19",
     "tags": [
+      "Americas",
       "nyc"
     ],
     "lat": 40.7128,
     "lng": -74.006,
-    "address": "",
+    "address": "200 park avenue, new york, new york",
     "notes": "Branch-NYC, Floor 1",
     "url": "https://mock.meraki.com/devices/Q2QN-12D8-A001/manage",
-    "configurationUpdatedAt": "2026-07-09T07:18:15Z",
+    "configurationUpdatedAt": "2026-07-12T11:25:37Z",
     "details": [
       {
         "name": "Running software version",
