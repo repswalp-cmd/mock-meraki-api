@@ -134,3 +134,7 @@ App Runner picks up the new image automatically (`AutoDeploymentsEnabled=True`).
 ## Contact
 
 Built for Infoblox Universal Asset Insights Simulator. Contact: TME Team or Rajkumar Repswal for any questions.
+
+---
+
+*Mock API for testing purposes. Not affiliated with or endorsed by Cisco Systems or Infoblox.*
